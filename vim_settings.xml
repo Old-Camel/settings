@@ -80,7 +80,12 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/META-INF/app.properties" timestamp="1547687322696">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/TestTypeServiceImpl.java" timestamp="1548839297302" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/TestTypeServiceImpl.java" timestamp="1548841769554">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="49" column="52" />
+      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/config/ApiConfig.java" timestamp="1540436938216">
         <mark key="[" line="44" column="14" />
       </file>
@@ -254,10 +259,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SaInvalidSessionStrategy.java" timestamp="1548669192048">
         <mark key="[" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/TestType.java" timestamp="1548839136814">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/TestType.java" timestamp="1548841224335">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="220" />
+        <mark key="." line="43" column="220" />
+        <mark key="^" line="43" column="220" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/GL.java" timestamp="1540524341102">
         <mark key="[" line="13" column="17" />
@@ -271,6 +277,7 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/test/java/Tes.java" timestamp="1548144466470">
         <mark key="[" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1548841212595" />
       <file name="$USER_HOME$/data/code/PitcherCloud/auth-center/src/main/resources/bootstrap.yml" timestamp="1540822120291">
         <mark key="[" line="41" column="49" />
       </file>
@@ -648,6 +655,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/KubernetesClientConfig.java" timestamp="1547004493239">
         <mark key="[" line="27" column="6" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseMenu.java" timestamp="1548841149892" />
       <file name="$USER_HOME$/webapps/plugins-resource/resource-web/src/main/webapp/resources/js/course/CourseFormPanel.js" timestamp="1534930527121">
         <mark key="[" line="92" column="36" />
       </file>
@@ -783,11 +791,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SaUser.java" timestamp="1548815096839">
         <mark key="[" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SchoolRepository.java" timestamp="1548839316657">
-        <mark key="[" line="17" column="57" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="66" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SchoolRepository.java" timestamp="1548841662522">
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/BeanUtils.java" timestamp="1548644214587">
         <mark key="[" line="18" column="24" />
@@ -921,7 +929,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>TestType</text>
+        <text>schools1</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -931,14 +939,15 @@
   return http(Path.vlib + '/video/queryListForPage',{method:'POST'});
 }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">SW50ZWdlcgo=</text>
+      <register name="1" type="4">
+        <text>)
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW50ZWdlcgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -947,19 +956,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsZS5pc0VtcHR5KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -970,7 +979,7 @@
       <last-offset />
       <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1023,6 +1032,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
