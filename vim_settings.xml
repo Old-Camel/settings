@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/impl/CourseFileServiceImpl.java" timestamp="1541147459933">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1548221800662">
+      <file name="/a.dummy" timestamp="1548757899744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/CourseFile.java" timestamp="1541138016906">
@@ -36,7 +36,7 @@
         <mark key="^" line="267" column="27" />
         <mark key="." line="313" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Question.java" timestamp="1548724999212">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Question.java" timestamp="1548757818344">
         <mark key="[" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/static/test.html" timestamp="1547028148630">
@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/dao/BaseScheduleMapper.java" timestamp="1540894358651">
         <mark key="[" line="31" column="67" />
       </file>
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/config/ResourceServerConfig.java" timestamp="1548756747488" />
       <file name="$USER_HOME$/data/code/testitem/src/main/java/com/yunzainfo/testitem/module/user/service/impl/CourseTestServiceImpl.java" timestamp="1541484108225">
         <mark key="[" line="16" column="3" />
       </file>
@@ -63,8 +64,10 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/ThirdPartyAuthRepository.java" timestamp="1546934975332">
         <mark key="[" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/User.java" timestamp="1548730219995">
-        <mark key="[" line="20" column="3" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/User.java" timestamp="1548757895536">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-api/src/main/java/com/yunzainfo/pitcher/plugin/resourcec/dao/MajorTeacherMapper.java" timestamp="1540885942214">
         <mark key="[" line="58" column="35" />
@@ -98,8 +101,8 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/CourseFileService.java" timestamp="1541138191821">
         <mark key="[" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1548666224900">
-        <mark key="[" line="31" column="14" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1548757221719">
+        <mark key="[" line="32" column="44" />
         <mark key="]" line="31" column="14" />
         <mark key="." line="31" column="14" />
       </file>
@@ -230,6 +233,12 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/AuthServerApplication.java" timestamp="1548753440938">
         <mark key="[" line="37" column="5" />
       </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SchoolServiceImpl.java" timestamp="1548756572710">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/config/application-dev.properties" timestamp="1548229421677">
         <mark key="[" line="24" column="33" />
       </file>
@@ -296,8 +305,8 @@
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/pojo/Search.java" timestamp="1545992035590">
         <mark key="[" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SecurityServerConfig.java" timestamp="1548723263968">
-        <mark key="[" line="69" column="51" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SecurityServerConfig.java" timestamp="1548756755741">
+        <mark key="[" line="68" column="36" />
         <mark key="]" line="64" column="42" />
         <mark key="." line="64" column="42" />
         <mark key="^" line="64" column="98" />
@@ -409,8 +418,11 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/CurrentDateUtil.java" timestamp="1545803756452">
         <mark key="[" line="27" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1548725037818">
+      <file name="/fragment.java" timestamp="1548756992214">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
+        <mark key="[" line="44" column="94" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/StompRabbitMqConfig.java" timestamp="1548749447114">
         <mark key="[" line="37" column="32" />
@@ -454,6 +466,7 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/myResource/MyResourceFormPanel.js" timestamp="1541141337696">
         <mark key="[" line="285" column="92" />
       </file>
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/pom.xml" timestamp="1548756323952" />
       <file name="$USER_HOME$/data/code/testitem/src/main/resources/spring/mybatis-ti.xml" timestamp="1541485930495">
         <mark key="[" line="2" column="15" />
       </file>
@@ -478,11 +491,15 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/BaseSchedule.java" timestamp="1540180263482">
         <mark key="[" line="66" column="37" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseAuth.java" timestamp="1548757745353" />
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-api/src/main/java/com/yunzainfo/pitcher/plugin/resourcec/pojo/TeachMaterialExample.java" timestamp="1540542796326">
         <mark key="[" line="0" column="59" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/FileTypeChangeUtil.java" timestamp="1545805407841">
         <mark key="[" line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/pom.xml" timestamp="1548756332570">
+        <mark key="[" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/util/ZipUtil.java" timestamp="1548124389739">
         <mark key="[" line="55" column="55" />
@@ -565,8 +582,8 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
         <mark key="[" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548749768034">
-        <mark key="[" line="32" column="22" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548757808427">
+        <mark key="[" line="19" column="6" />
         <mark key="]" line="32" column="22" />
         <mark key="." line="32" column="22" />
       </file>
@@ -665,7 +682,7 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/AttendanceStatisticsMapper.xml" timestamp="1540872730982">
         <mark key="[" line="102" column="63" />
       </file>
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentController.java" timestamp="1548397677402">
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentController.java" timestamp="1548756399788">
         <mark key="[" line="86" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/server/pom.xml" timestamp="1547539237932">
@@ -698,11 +715,10 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/util/IPUtils.java" timestamp="1548723621498">
         <mark key="[" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SchoolController.java" timestamp="1548754792052">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SchoolController.java" timestamp="1548756346884">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/LoginController.java" timestamp="1546996576669">
         <mark key="[" line="30" column="47" />
@@ -912,7 +928,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>MyUser</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -923,34 +939,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi55So5oi355qE55So5oi35ZCNOiB7fSIsIHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAidXNlciIpZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEuZG9tYWluLlNwZWNpZmljYXRpb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEuZG9tYWluLlNwZWNpZmljYXRpb25zOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgVXNlciB1c2VyID0gbmV3IFNlY3VyaXR5VXNlcih1c2VyRW50aXR5LmdldFVzZXJuYW1lKCksdXNlckVudGl0eS5nZXRQYXNzd29yZCgpLAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEuZG9tYWluLlNwZWNpZmljYXRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlsIHoo4XnlKjmiLfkv6Hmga/vvIzlubbov5Tlm57jgILlj4LmlbDliIbliKvmmK/vvJrnlKjmiLflkI3vvIzlr4bnoIHvvIznlKjmiLfmnYPpmZAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5lcShhZ2UhPW51bGwsImFnZSIsYWdlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOagueaNrueUqOaIt+WQje+8jOafpeaJvuWIsOWvueW6lOeahOWvhuegge+8jOS4juadg+mZkAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGFnZT1wYWdlUGFyYW0uZ2V0SW50ZWdlcigiYWdlIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnNldEF0dHJpYnV0ZSgidGVzdCIsIjEyMyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gaWQuc3BsaXQoIiwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmdldEF0dHJpYnV0ZSgidGVzdCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
