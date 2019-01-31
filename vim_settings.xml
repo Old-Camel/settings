@@ -261,7 +261,11 @@
       <file name="$USER_HOME$/data/code/plugins-portal/portal-web/src/main/java/com/yunzainfo/pitcher/privilege/web/controller/DFSController.java" timestamp="1534936408316">
         <mark key="[" line="125" column="81" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SignInfo.java" timestamp="1548908880282" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SignInfo.java" timestamp="1548916651415">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/resources/config.properties" timestamp="1540892078987">
         <mark key="[" line="0" column="32" />
       </file>
@@ -286,6 +290,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/OasmUser.java" timestamp="1545803410667">
         <mark key="[" line="22" column="10" />
       </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SignInfoServiceImpl.java" timestamp="1548914000203" />
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/BaseTeachclassMapper.xml" timestamp="1540434284136">
         <mark key="[" line="240" column="0" />
       </file>
@@ -297,6 +302,11 @@
       </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/service/CategoryService.java" timestamp="1547084963667">
         <mark key="[" line="16" column="68" />
+      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SignInfoRepository.java" timestamp="1548913913395">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/CourseTraining.jsp" timestamp="1540604033907">
         <mark key="[" line="8" column="21" />
@@ -378,10 +388,15 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" timestamp="1545789069413">
         <mark key="[" line="50" column="73" />
       </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SignInfoController.java" timestamp="1548917250343">
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/CurrentDateUtil.java" timestamp="1545803756452">
         <mark key="[" line="27" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1548898658760">
+      <file name="/fragment.java" timestamp="1548914007524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
@@ -536,7 +551,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/ThirdPartyAuthService.java" timestamp="1546935113369">
         <mark key="[" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/test/java/sa/M.java" timestamp="1548906534851">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/test/java/sa/M.java" timestamp="1548914179900">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
         <mark key="^" line="30" column="4" />
@@ -554,10 +569,15 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/websocket/WebSocket.java" timestamp="1547025654604">
         <mark key="[" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SignInfoService.java" timestamp="1548913949867">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
         <mark key="[" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548905402757">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548912853388">
         <mark key="[" line="36" column="12" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
@@ -861,7 +881,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>school</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -870,39 +890,38 @@
         <text encoding="base64">Ly/kuJPkuJrku6PnoIEKLy/kuJPkuJrlkI3np7AK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">Ly/kuZ/lj6/ku6Xkvb/nlKhNdWx0aXBhcnRGaWxlLOS9v+eUqCBGaWxlVXRpbC5pbXBvcnRFeGNlbChNdWx0aXBhcnRGaWxlIGZpbGUsIEludGVnZXIgdGl0bGVSb3dzLCBJbnRlZ2VyIGhlYWRlclJvd3MsIENsYXNzPFQ+IHBvam9DbGFzcynlr7zlhaUKICAgICAgICAgICAgICAgIC8qaWYocmVzdWx0LmdldEVycm9yTGlzdCgpLnNpemUoKSE9MCl7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgRXhjZWxVdGlsLmV4cG9ydEV4Y2VsKHJlc3VsdC5nZXRFcnJvckxpc3QoKSwi5pWZ5a6k5a+85YWl5aSx6LSl5L+h5oGvIiwi5pWZ5a6k5L+h5oGvIixDbGFzc3Jvb20uY2xhc3MsIuaVmeWupOWvvOWFpeWksei0peS/oeaBry54bHMiLCIvb3B0L3BjbG91ZC90bXAvIik7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Ki8=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8v5q+V5Lia5Lit5a2m5Luj56CBCiAgICBARXhjZWwobmFtZSA9ICLmr5XkuJrkuK3lrabku6PnoIEiKQogICAgcHJpdmF0ZSBTdHJpbmcgYnl6eGRtOw==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">TGlzdDxTY2hvb2w+IGZpbmRTY2hvb2xzQnlOYW1lSXNJbihTdHJpbmdbXSBuYW1lcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QFF1ZXJ5KHZhbHVlID0gInNlbGVjdCBuYW1lLGRpc3BsYXlfaW5kZXgsY29kZSBmcm9tIHNjaG9vbCAgb3JkZXIgYnkgPzEiLG5hdGl2ZVF1ZXJ5ID0gdHJ1ZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">TGlzdDxPYmplY3RbXT4gZmluZFNjaG9vbChTdHJpbmcgb3JkZXIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UmVwb3NpdG9yeQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>public static void main(String[] args) {
         BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
         String encode = encoder.encode(&quot;123456&quot;);
         System.out.println(encode);
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIHpmPTA7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly/kuJPkuJrlkI3np7AK</text>
-      </register>
-      <register name="4" type="4">
-        <text>)
-        }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">SW50ZWdlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Ly/kuJPkuJrlkI3np7AK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
