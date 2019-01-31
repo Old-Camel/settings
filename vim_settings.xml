@@ -293,9 +293,7 @@
       <file name="$USER_HOME$/data/code/plugins-portal/portal-web/src/main/java/com/yunzainfo/pitcher/privilege/web/controller/DFSController.java" timestamp="1534936408316">
         <mark key="[" line="125" column="81" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SignInfo.java" timestamp="1548898817596">
-        <mark key="[" line="17" column="12" />
-      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SignInfo.java" timestamp="1548903010386" />
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/resources/config.properties" timestamp="1540892078987">
         <mark key="[" line="0" column="32" />
       </file>
@@ -567,8 +565,8 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/HomeworkStuController.java" timestamp="1541043396277">
         <mark key="[" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Score.java" timestamp="1548898867601">
-        <mark key="[" line="29" column="0" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Score.java" timestamp="1548903536294">
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/server/client/src/main/resources/application.properties" timestamp="1548151189012">
         <mark key="[" line="7" column="21" />
@@ -600,7 +598,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
         <mark key="[" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548898640083">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1548902976234">
         <mark key="[" line="36" column="12" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
@@ -935,46 +933,44 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>schools1</text>
+        <text>private Double k;</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
-      <register name="0" type="4">
-        <text>export async function fetchVideo() {
-  return http(Path.vlib + '/video/queryListForPage',{method:'POST'});
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly/kuJPkuJrku6PnoIEKLy/kuJPkuJrlkI3np7AK</text>
       </register>
-      <register name="1" type="4">
-        <text>)
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIHpmPTA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW50ZWdlcgo=</text>
+        <text encoding="base64">Ly/kuJPkuJrlkI3np7AK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>)
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW50ZWdlcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
