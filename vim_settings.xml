@@ -150,11 +150,10 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/PageUtil.java" timestamp="1548227383504">
         <mark key="[" line="46" column="77" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/ScoreServiceImpl.java" timestamp="1548990535117">
-        <mark key="[" line="82" column="57" />
-        <mark key="]" line="82" column="57" />
-        <mark key="." line="82" column="57" />
-        <mark key="^" line="79" column="31" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/ScoreServiceImpl.java" timestamp="1548993148128">
+        <mark key="[" line="117" column="28" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/TestTypeController.java" timestamp="1548839679116">
         <mark key="[" line="69" column="23" />
@@ -415,11 +414,11 @@
         <mark key="[" line="188" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/MqTest.java" timestamp="1548906126913" />
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/ScoreRepository.java" timestamp="1548991782751">
-        <mark key="[" line="23" column="165" />
-        <mark key="]" line="23" column="165" />
-        <mark key="." line="23" column="165" />
-        <mark key="^" line="22" column="191" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/ScoreRepository.java" timestamp="1548992609008">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="21" column="191" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/AbstractSessionStrategy.java" timestamp="1548669040338">
         <mark key="[" line="26" column="38" />
@@ -458,10 +457,10 @@
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1548990364883">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="67" column="48" />
-        <mark key="." line="67" column="48" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1548992693367">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/HomeworkTeaService.java" timestamp="1541043781687">
         <mark key="[" line="26" column="9" />
@@ -511,10 +510,10 @@
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/config/ResourceServerConfig.java" timestamp="1547083452843">
         <mark key="[" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/ScoreService.java" timestamp="1548989508917">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/ScoreService.java" timestamp="1548992397903">
+        <mark key="[" line="19" column="89" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/myResource/MyResourceFormPanel.js" timestamp="1541141337696">
         <mark key="[" line="285" column="92" />
@@ -990,7 +989,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>queryListForPage</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -999,21 +998,33 @@
         <text encoding="base64">Ly/kuJPkuJrku6PnoIEKLy/kuJPkuJrlkI3np7AK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxTY2hvb2w+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U2Nob29sPigpLmNvbnZlcnQocGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwogICAgICAgICAgICBzYi5hcHBlbmQoInNjLiIrc29ydC5nZXRWYWx1ZSgpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICB0ZW1wPXRlbXAucmVwbGFjZUFsbCgiXFwrIiwiK3NjLiIpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">UGFnZWFibGUgcGFnZWFibGUgPSBQYWdlVXRpbC5idWlsZEZvckpwYSgicHhjaiIsImRlc2MiLCAyMCk7CiAgICAgICAgSlNPTk9iamVjdCBwYWdlUGFyYW0gPSBQYWdlVXRpbC5nZXRQYXJhbXMoKS5vckVsc2UobmV3IEpTT05PYmplY3QoKSk7CiAgICAgICAgU3RyaW5nIHNjaG9vbElkID0gcGFnZVBhcmFtLmdldFN0cmluZygic2Nob29sSWQiKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVJZCA9IHBhZ2VQYXJhbS5nZXRTdHJpbmcoInRlc3RUeXBlSWQiKTsKICAgICAgICBQYWdlPFNjb3JlPiBwYWdlID0gc2VydmljZS5nZXRTY29yZXMoc2Nob29sSWQsdGVzdFR5cGVJZCxwYWdlYWJsZSk7CiAgICAgICAgUGFnZUluZm88U2NvcmU+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U2NvcmU+KCkuY29udmVydChwYWdlKTs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxTY2hvb2w+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U2Nob29sPigpLmNvbnZlcnQocGFnZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlBhZ2VhYmxlOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxTY29yZT4gZ2V0U2NvcmVzKFN0cmluZyBzY2hvb2xJZCwgU3RyaW5nIHRlc3RUeXBlSWQsIEludGVnZXIgcGFnZVNpemUsIEludGVnZXIgb2Zmc2V0KSB7CiAgICAgICAgU3RyaW5nIHNvcnRzID0gZ2V0U29ydHMoc2Nob29sSWQsIHRlc3RUeXBlSWQpOwogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TGlzdDxTY29yZT4gZ2V0U2NvcmVzKFN0cmluZyBzY2hvb2xJZCxTdHJpbmcgdGVzdFR5cGVJZCxJbnRlZ2VyIHBhZ2VTaXplLEludGVnZXIgb2Zmc2V0KTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>/* private UUID id = UUID.randomUUID();
     //考生号
     @Column(name=&quot;ksh&quot;,unique = true)
@@ -1034,18 +1045,6 @@
     private Double j;
     @Transient
     private Long pxcj;*/</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">TGlzdDxTb3J0SXRlbT4gc29ydHMgPSBzb3J0SXRlbVJlcG9zaXRvcnkuZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChzY2hvb2xJZCwgdGVzdFR5cGVJZCk7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzYj1uZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIGZvciAoU29ydEl0ZW0gc29ydCA6IHNvcnRzKSB7CiAgICAgICAgICAgIHNiLmFwcGVuZChzb3J0LmdldFZhbHVlKCkpOwogICAgICAgICAgICBpZigoc29ydHMuaW5kZXhPZihzb3J0KSE9c29ydHMuc2l6ZSgpLTEpKXsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiLCIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIFN0cmluZyBzID0gc2IudG9TdHJpbmcoKTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IEBHZXRNYXBwaW5nKCIvZXhjZWwiKQogICAgcHVibGljIHZvaWQgZ2V0RXhjZWwoSHR0cFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSkgewogICAgICAgIExpc3Q8U29ydEl0ZW0+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBFeGNlbFV0aWwuZXhwb3J0RXhjZWwobGlzdCwgbnVsbCwgIumZouagoeS/oeaBryIsIFNvcnRJdGVtLmNsYXNzLCAi6Zmi5qCh5a+85YWl5qih54mILnhscyIsIHJlc3BvbnNlKTsKICAgIH0KICAgIEBQb3N0TWFwcGluZygiL2V4Y2VsIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGluc2V0QnlFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSBmaWxlLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIExpc3Q8U29ydEl0ZW0+IGxpc3QgPSBFeGNlbFV0aWwuaW1wb3J0RXhjZWwoZmlsZSwgMCwgMSwgU29ydEl0ZW0uY2xhc3MpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMTEyMzE0MzUxMik7CiAgICAgICAgICAgIHNlcnZpY2Uuc2F2ZUFsbChsaXN0KTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5a+85YWl5oiQ5YqfIik7CiAgICAgICAgICAgIC8v5Lmf5Y+v5Lul5L2/55SoTXVsdGlwYXJ0RmlsZSzkvb/nlKggRmlsZVV0aWwuaW1wb3J0RXhjZWwoTXVsdGlwYXJ0RmlsZSBmaWxlLCBJbnRlZ2VyIHRpdGxlUm93cywgSW50ZWdlciBoZWFkZXJSb3dzLCBDbGFzczxUPiBwb2pvQ2xhc3Mp5a+85YWlCiAgICAgICAgICAgICAgICAvKmlmKHJlc3VsdC5nZXRFcnJvckxpc3QoKS5zaXplKCkhPTApewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEV4Y2VsVXRpbC5leHBvcnRFeGNlbChyZXN1bHQuZ2V0RXJyb3JMaXN0KCksIuaVmeWupOWvvOWFpeWksei0peS/oeaBryIsIuaVmeWupOS/oeaBryIsQ2xhc3Nyb29tLmNsYXNzLCLmlZnlrqTlr7zlhaXlpLHotKXkv6Hmga8ueGxzIiwiL29wdC9wY2xvdWQvdG1wLyIpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSovCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuWvvOWFpeWksei0pSIpOwogICAgICAgIH0KCiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PFNvcnRJdGVtPiBmaW5kU29ydEl0ZW1zQnlTY2hvb2xJZEVxdWFsc0FuZFRlc3RUeXBlSWRFcXVhbHMoU3RyaW5nIHNvcnRJdGVtSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgcmV0dXJuIHJlcG9zaXRvcnkuZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChzb3J0SXRlbUlkLHRlc3RUeXBlSWQpOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q291cnNlPiBmaW5kQ291cnNlc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzKFN0cmluZyBzY2hvb2xJZCwgU3RyaW5nIHRlc3RUeXBlSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
