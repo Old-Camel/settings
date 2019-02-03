@@ -1016,7 +1016,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBjIA==</text>
+        <text encoding="base64">IFN0cmluZyBzID0gYmVhbk1hcC5nZXQoa2V5KS50b1N0cmluZygpOw==</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -1025,38 +1025,40 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAvL0xpc3Q8T2JqZWN0W10+IHNjb3JlcyA9IHJlcG9zaXRvcnkuZ2V0U2NvcmVzKHNvcnRzLCBzY2hvb2xDb2RlLCB0ZXN0VHlwZUNvZGUsIHBhZ2VTaXplLCBvZmZzZXQpOwogICAgICAgLy9CaWdJbnRlZ2VyIGk9KEJpZ0ludGVnZXIpIHNjb3Jlcy5nZXQoMClbMTNdOwogICAgICAgLy8gaW50IGkxID0gaS5iaXRDb3VudCgpOw==</text>
+        <text>if(s.endsWith(&quot;.0&quot;)){
+                    s = s.substring(0, s.indexOf(&quot;.0&quot;));
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8U2NvcmU+IGdldFNjb3JlcyhTdHJpbmcgc2Nob29sSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgU3RyaW5nIHNvcnRzID0gZ2V0U29ydHMoc2Nob29sSWQsIHRlc3RUeXBlSWQpOwogICAgICAgIFNjaG9vbCBzY2hvb2wgPSBzY2hvb2xSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzY2hvb2xJZCkpLm9yRWxzZVRocm93KCgpLT5uZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyh0ZXN0VHlwZUlkKSkub3JFbHNlVGhyb3coKCktPm5ldyBSdW50aW1lRXhjZXB0aW9uKCLogIPor5XnsbvliKvlj4LmlbDplJnor68iKSk7CiAgICAgICAgU3RyaW5nIHNjaG9vbENvZGU9c2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlPXRlc3RUeXBlLmdldENvZGUoKTsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+        <text encoding="base64">ICAvL0xpc3Q8T2JqZWN0W10+IHNjb3JlcyA9IHJlcG9zaXRvcnkuZ2V0U2NvcmVzKHNvcnRzLCBzY2hvb2xDb2RlLCB0ZXN0VHlwZUNvZGUsIHBhZ2VTaXplLCBvZmZzZXQpOwogICAgICAgLy9CaWdJbnRlZ2VyIGk9KEJpZ0ludGVnZXIpIHNjb3Jlcy5nZXQoMClbMTNdOwogICAgICAgLy8gaW50IGkxID0gaS5iaXRDb3VudCgpOw==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8U2NvcmU+IGdldFNjb3JlcyhTdHJpbmcgc2Nob29sSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgU3RyaW5nIHNvcnRzID0gZ2V0U29ydHMoc2Nob29sSWQsIHRlc3RUeXBlSWQpOwogICAgICAgIFNjaG9vbCBzY2hvb2wgPSBzY2hvb2xSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzY2hvb2xJZCkpLm9yRWxzZVRocm93KCgpLT5uZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyh0ZXN0VHlwZUlkKSkub3JFbHNlVGhyb3coKCktPm5ldyBSdW50aW1lRXhjZXB0aW9uKCLogIPor5XnsbvliKvlj4LmlbDplJnor68iKSk7CiAgICAgICAgU3RyaW5nIHNjaG9vbENvZGU9c2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlPXRlc3RUeXBlLmdldENvZGUoKTsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobmFtZSkpewogICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kTmFtZUxpa2UoIiUiK25hbWUrIiUiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZihhZ2UhPW51bGwpewogICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kQWdlRXF1YWxUbyhhZ2UpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudE1iRXhhbXBsZS5Dcml0ZXJpYSBjcml0ZXJpYSA9IGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudE1iRXhhbXBsZSBleGFtcGxlID0gbmV3IFN0dWRlbnRNYkV4YW1wbGUoKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>---------------------
         作者：佬油条
         来源：CSDN
         原文：https://blog.csdn.net/wangzhi291/article/details/80103013
         版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PCEtLSAgcHJpdmF0ZSBVVUlEIGlkID0gVVVJRC5yYW5kb21VVUlEKCk7CiAgICAvL+iAg+eUn+WPtwogICAgQENvbHVtbihuYW1lPSJrc2giLHVuaXF1ZSA9IHRydWUpCiAgICBwcml2YXRlIFN0cmluZyBrc2g7CiAgICAvL+Wnk+WQjQogICAgcHJpdmF0ZSBTdHJpbmcgeG07CiAgICAvL+aAu+WIhgogICAgcHJpdmF0ZSBEb3VibGUgemY7CiAgICBwcml2YXRlIERvdWJsZSBhOwogICAgcHJpdmF0ZSBEb3VibGUgYjsKICAgIHByaXZhdGUgRG91YmxlIGM7CiAgICBwcml2YXRlIERvdWJsZSBkOwogICAgcHJpdmF0ZSBEb3VibGUgZTsKICAgIHByaXZhdGUgRG91YmxlIGY7CiAgICBwcml2YXRlIERvdWJsZSBnOwogICAgcHJpdmF0ZSBEb3VibGUgaDsKICAgIHByaXZhdGUgRG91YmxlIGk7CiAgICBwcml2YXRlIERvdWJsZSBqOwogICAgQFRyYW5zaWVudAogICAgcHJpdmF0ZSBJbnRlZ2VyIHB4Y2o7LS0+</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+CiAgICA8cmVzdWx0IGNvbHVtbj0iYSIgamRiY1R5cGU9IkRFQ0lNQUwiIHByb3BlcnR5PSJhIiAvPgogICAgPHJlc3VsdCBjb2x1bW49Ik5BTUUiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0ibmFtZSIgLz4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJ4bSIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJ4bSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
