@@ -549,8 +549,10 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/FileTypeChangeUtil.java" timestamp="1545805407841">
         <mark key="[" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/pom.xml" timestamp="1548906012137">
-        <mark key="[" line="58" column="35" />
+      <file name="$USER_HOME$/data/code/separateadmissions/pom.xml" timestamp="1549170105443">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Course.java" timestamp="1548986120527">
         <mark key="[" line="27" column="22" />
@@ -999,54 +1001,35 @@
       <register name="0" type="2">
         <text encoding="base64">Ly/kuJPkuJrku6PnoIEKLy/kuJPkuJrlkI3np7AK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77yaeV9xY19sb29rdXAKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lfcWNfbG9va3VwL2FydGljbGUvZGV0YWlscy84MDE3ODU0NQogICAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwogICAgICAgICAgICBzYi5hcHBlbmQoInNjLiIrc29ydC5nZXRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgdGVtcD0gInNjLiIrc29ydC5nZXRWYWx1ZSgpOwogICAgICAgICAgICBzYi5hcHBlbmQoInNjLiIrc29ydC5nZXRWYWx1ZSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICB0ZW1wPXRlbXAucmVwbGFjZUFsbCgiXFwrIiwiK3NjLiIpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">UGFnZWFibGUgcGFnZWFibGUgPSBQYWdlVXRpbC5idWlsZEZvckpwYSgicHhjaiIsImRlc2MiLCAyMCk7CiAgICAgICAgSlNPTk9iamVjdCBwYWdlUGFyYW0gPSBQYWdlVXRpbC5nZXRQYXJhbXMoKS5vckVsc2UobmV3IEpTT05PYmplY3QoKSk7CiAgICAgICAgU3RyaW5nIHNjaG9vbElkID0gcGFnZVBhcmFtLmdldFN0cmluZygic2Nob29sSWQiKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVJZCA9IHBhZ2VQYXJhbS5nZXRTdHJpbmcoInRlc3RUeXBlSWQiKTsKICAgICAgICBQYWdlPFNjb3JlPiBwYWdlID0gc2VydmljZS5nZXRTY29yZXMoc2Nob29sSWQsdGVzdFR5cGVJZCxwYWdlYWJsZSk7CiAgICAgICAgUGFnZUluZm88U2NvcmU+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U2NvcmU+KCkuY29udmVydChwYWdlKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxTY2hvb2w+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U2Nob29sPigpLmNvbnZlcnQocGFnZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlBhZ2VhYmxlOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxTY29yZT4gZ2V0U2NvcmVzKFN0cmluZyBzY2hvb2xJZCwgU3RyaW5nIHRlc3RUeXBlSWQsIEludGVnZXIgcGFnZVNpemUsIEludGVnZXIgb2Zmc2V0KSB7CiAgICAgICAgU3RyaW5nIHNvcnRzID0gZ2V0U29ydHMoc2Nob29sSWQsIHRlc3RUeXBlSWQpOwogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">TGlzdDxTY29yZT4gZ2V0U2NvcmVzKFN0cmluZyBzY2hvb2xJZCxTdHJpbmcgdGVzdFR5cGVJZCxJbnRlZ2VyIHBhZ2VTaXplLEludGVnZXIgb2Zmc2V0KTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>/* private UUID id = UUID.randomUUID();
-    //考生号
-    @Column(name=&quot;ksh&quot;,unique = true)
-    private String ksh;
-    //姓名
-    private String xm;
-    //总分
-    private Double zf;
-    private Double a;
-    private Double b;
-    private Double c;
-    private Double d;
-    private Double e;
-    private Double f;
-    private Double g;
-    private Double h;
-    private Double i;
-    private Double j;
-    @Transient
-    private Long pxcj;*/</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
