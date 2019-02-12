@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/impl/CourseFileServiceImpl.java" timestamp="1541147459933">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1548987255415">
+      <file name="/a.dummy" timestamp="1549952572392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/CourseFile.java" timestamp="1541138016906">
@@ -227,6 +227,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/YunzaiPageConfiguration.java" timestamp="1548724753160">
         <mark key="[" line="17" column="95" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/StompRabbitMqClient.java" timestamp="1549952583977" />
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/config/FileServerConfig.java" timestamp="1548221809592">
         <mark key="[" line="16" column="31" />
       </file>
@@ -433,8 +434,10 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
         <mark key="[" line="44" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/StompRabbitMqConfig.java" timestamp="1549952360221">
-        <mark key="[" line="29" column="10" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/StompRabbitMqConfig.java" timestamp="1549952557586">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1549932885784">
         <mark key="[" line="45" column="25" />
@@ -634,7 +637,7 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/application-local.yml" timestamp="1549952442758">
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/application-local.yml" timestamp="1549952474229">
         <mark key="[" line="67" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/ReviewStatistics.java" timestamp="1540978504655">
@@ -797,6 +800,9 @@
         <mark key="[" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/web/FileAppController.java" timestamp="1549932562818" />
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1549952640630">
+        <mark key="[" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SchoolRepository.java" timestamp="1548906526594">
         <mark key="[" line="22" column="6" />
         <mark key="]" line="22" column="6" />
@@ -943,37 +949,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZT0ic3RvbXAuaXAiKQo=</text>
+      <register name="1" type="4">
+        <text>@Component
+@ConditionalOnProperty(name=&quot;rabbit.stomp.login&quot;)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb21wb25lbnRkCg==</text>
+        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZT0ic3RvbXAuaXAiKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBDb21wb25lbnRkCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgTGlzdDxDb2x1bW4+IGZpbmRTb3J0SXRlbXNCeVNjaG9vbElkRXF1YWxzQW5kVGVzdFR5cGVJZEVxdWFsc09yZGVyQnlEaXNwbGF5SW5kZXgoU3RyaW5nIHNjaG9vbElkLCBTdHJpbmcgdGVzdFR5cGVJZCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PENvbHVtbj4gZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChTdHJpbmcgc2Nob29sSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgTGlzdDxTb3J0SXRlbT4gZGF0YSA9IHJlcG9zaXRvcnkuZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChzY2hvb2xJZCwgdGVzdFR5cGVJZCk7CiAgICAgICAgQXJyYXlMaXN0PENvbHVtbj4gY29sdW1ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwpjb2x1bW5zLmFkZChuZXcgQ29sdW1uKCLogIPnlJ/lj7ciLCJrc2giKSk7CmNvbHVtbnMuYWRkKG5ldyBDb2x1bW4oIuWnk+WQjSIsInhtIikpOwpjb2x1bW5zLmFkZChuZXcgQ29sdW1uKCLmgLvliIYiLCJ6ZiIpKTsKICAgICAgICBmb3IgKFNvcnRJdGVtIHNvcnRJdGVtIDogZGF0YSkgewoKICAgICAgICAgICAgY29sdW1ucy5hZGQobmV3IENvbHVtbihzbykpCgogICAgICAgIH0KCgoKCgoKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if(s.endsWith(&quot;.0&quot;)){
                     s = s.substring(0, s.indexOf(&quot;.0&quot;));
                 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvL0xpc3Q8T2JqZWN0W10+IHNjb3JlcyA9IHJlcG9zaXRvcnkuZ2V0U2NvcmVzKHNvcnRzLCBzY2hvb2xDb2RlLCB0ZXN0VHlwZUNvZGUsIHBhZ2VTaXplLCBvZmZzZXQpOwogICAgICAgLy9CaWdJbnRlZ2VyIGk9KEJpZ0ludGVnZXIpIHNjb3Jlcy5nZXQoMClbMTNdOwogICAgICAgLy8gaW50IGkxID0gaS5iaXRDb3VudCgpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8U2NvcmU+IGdldFNjb3JlcyhTdHJpbmcgc2Nob29sSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgU3RyaW5nIHNvcnRzID0gZ2V0U29ydHMoc2Nob29sSWQsIHRlc3RUeXBlSWQpOwogICAgICAgIFNjaG9vbCBzY2hvb2wgPSBzY2hvb2xSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzY2hvb2xJZCkpLm9yRWxzZVRocm93KCgpLT5uZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyh0ZXN0VHlwZUlkKSkub3JFbHNlVGhyb3coKCktPm5ldyBSdW50aW1lRXhjZXB0aW9uKCLogIPor5XnsbvliKvlj4LmlbDplJnor68iKSk7CiAgICAgICAgU3RyaW5nIHNjaG9vbENvZGU9c2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlPXRlc3RUeXBlLmdldENvZGUoKTsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobmFtZSkpewogICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kTmFtZUxpa2UoIiUiK25hbWUrIiUiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZihhZ2UhPW51bGwpewogICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kQWdlRXF1YWxUbyhhZ2UpOwogICAgICAgICAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudE1iRXhhbXBsZS5Dcml0ZXJpYSBjcml0ZXJpYSA9IGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
