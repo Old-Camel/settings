@@ -166,10 +166,10 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/pojo/SecurityUser.java" timestamp="1548749852336">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550109121486">
-        <mark key="[" line="72" column="11" />
-        <mark key="]" line="72" column="11" />
-        <mark key="." line="72" column="11" />
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550110103811">
+        <mark key="[" line="101" column="53" />
+        <mark key="]" line="101" column="53" />
+        <mark key="." line="101" column="53" />
         <mark key="^" line="104" column="71" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseTeachclassController.java" timestamp="1540434474921">
@@ -372,6 +372,9 @@
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/teachmaterial/TeachMaterialGridPanel.js" timestamp="1540603752876">
         <mark key="[" line="188" column="32" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/pojo/ReName.java" timestamp="1550110032401">
+        <mark key="[" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/AbstractSessionStrategy.java" timestamp="1549940996003">
         <mark key="[" line="26" column="38" />
@@ -869,7 +872,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>nfo</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
