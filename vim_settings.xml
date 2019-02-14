@@ -168,11 +168,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/pojo/SecurityUser.java" timestamp="1548749852336">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550128066747">
-        <mark key="[" line="120" column="46" />
-        <mark key="]" line="120" column="46" />
-        <mark key="." line="120" column="46" />
-        <mark key="^" line="104" column="71" />
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550131290722">
+        <mark key="[" line="100" column="2" />
+        <mark key="]" line="100" column="2" />
+        <mark key="." line="100" column="2" />
+        <mark key="^" line="105" column="71" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseTeachclassController.java" timestamp="1540434474921">
         <mark key="[" line="203" column="8" />
@@ -370,7 +370,7 @@
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/service/impl/AppServiceImpl.java" timestamp="1546485413594">
         <mark key="[" line="69" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550115316196">
+      <file name="/Dummy.txt" timestamp="1550131312218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/PitcherCloud/gateway-zuul/src/main/resources/application.yml" timestamp="1541382928597">
@@ -472,11 +472,11 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/application-local.properties" timestamp="1547601529861">
         <mark key="[" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/web/FileController.java" timestamp="1550128041467">
-        <mark key="[" line="140" column="12" />
-        <mark key="]" line="140" column="12" />
-        <mark key="." line="140" column="12" />
-        <mark key="^" line="131" column="33" />
+      <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/web/FileController.java" timestamp="1550130007947">
+        <mark key="[" line="145" column="13" />
+        <mark key="]" line="145" column="13" />
+        <mark key="." line="145" column="13" />
+        <mark key="^" line="137" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/BaseSchedule.java" timestamp="1540180263482">
         <mark key="[" line="66" column="37" />
@@ -903,36 +903,40 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Cjw+IDIwMTktMDItMTRUMDE1ODE1LjQwMS5qc29uCjw+IDIwMTktMDItMTRUMDE1NzQzLjQwMS5qc29u</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIGEgPSIxMjMudHh0IjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5zdWJzdHJpbmcoYS5pbmRleE9mKCIuIiktMSkpOwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobmFtZSkpewogICAgICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lU3ViU3RyID0gbmFtZS5zdWJzdHJpbmcobmFtZS5pbmRleE9mKCIuIikpOwogICAgICAgICAgICAgICAgU3RyaW5nIHJlYWxOYW1lU3ViU3RyID0gcmVhbEZpbGVOYW1lLnN1YnN0cmluZyhuYW1lLmluZGV4T2YoIi4iKSk7CiAgICAgICAgICAgICAgICBpZighbmFtZVN1YlN0ci5lcXVhbHMocmVhbEZpbGVOYW1lKSl7CiAgICAgICAgICAgICAgICAgICAgWXVuemFpUmV0dXJuRW50aXR5IGJ1aWxkID0gWXVuemFpUmV0dXJuRW50aXR5LmJ1aWxkZXIoKS5tZXNzYWdlKCLmlofku7blkI3np7DkuI3mraPnoa4iKS5kYXRhKG5hbWUpLmJ1aWxkKCk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKDUwMCk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0Q29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVVRGOF9WQUxVRSk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkud3JpdGUobWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhidWlsZCkpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJlYWxGaWxlTmFtZT1uYW1lOwogICAgICAgICAgICB9</text>
+        <text>else{
+                throw new NoSuchFileException(id, &quot;文件未找到&quot;);
+            }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsoaWQpKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+        <text>else{
+                throw new NoSuchFileException(id, &quot;文件未找到&quot;);
+            }</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IEZpbGVJbmZvIGJ1aWxkID0gRmlsZUluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuaWQoZmlsZXNJbmZvLmdldE9iamVjdElkKCkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5jaHVua1NpemUoZmlsZXNJbmZvLmdldENodW5rU2l6ZSgpKQogICAgICAgICAgICAgICAgLmZpbGVuYW1lKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpKQogICAgICAgICAgICAgICAgLmxlbmd0aChmaWxlc0luZm8uZ2V0TGVuZ3RoKCkpCiAgICAgICAgICAgICAgICAubWQ1KGZpbGVzSW5mby5nZXRNRDUoKSkKICAgICAgICAgICAgICAgIC50eXBlKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpLnN1YnN0cmluZyhmaWxlc0luZm8uZ2V0RmlsZW5hbWUoKS5sYXN0SW5kZXhPZigiLiIpICsgMSwgZmlsZXNJbmZvLmdldEZpbGVuYW1lKCkubGVuZ3RoKCkpKQogICAgICAgICAgICAgICAgLnVwbG9hZERhdGUoZmlsZXNJbmZvLmdldFVwbG9hZERhdGUoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOw==</text>
+        <text encoding="base64">Cjw+IDIwMTktMDItMTRUMDE1ODE1LjQwMS5qc29uCjw+IDIwMTktMDItMTRUMDE1NzQzLjQwMS5qc29u</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobmFtZSkpewogICAgICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lU3ViU3RyID0gbmFtZS5zdWJzdHJpbmcobmFtZS5pbmRleE9mKCIuIikpOwogICAgICAgICAgICAgICAgU3RyaW5nIHJlYWxOYW1lU3ViU3RyID0gcmVhbEZpbGVOYW1lLnN1YnN0cmluZyhuYW1lLmluZGV4T2YoIi4iKSk7CiAgICAgICAgICAgICAgICBpZighbmFtZVN1YlN0ci5lcXVhbHMocmVhbEZpbGVOYW1lKSl7CiAgICAgICAgICAgICAgICAgICAgWXVuemFpUmV0dXJuRW50aXR5IGJ1aWxkID0gWXVuemFpUmV0dXJuRW50aXR5LmJ1aWxkZXIoKS5tZXNzYWdlKCLmlofku7blkI3np7DkuI3mraPnoa4iKS5kYXRhKG5hbWUpLmJ1aWxkKCk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKDUwMCk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uuc2V0Q29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVVRGOF9WQUxVRSk7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkud3JpdGUobWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhidWlsZCkpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJlYWxGaWxlTmFtZT1uYW1lOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsoaWQpKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IEZpbGVJbmZvIGJ1aWxkID0gRmlsZUluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuaWQoZmlsZXNJbmZvLmdldE9iamVjdElkKCkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5jaHVua1NpemUoZmlsZXNJbmZvLmdldENodW5rU2l6ZSgpKQogICAgICAgICAgICAgICAgLmZpbGVuYW1lKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpKQogICAgICAgICAgICAgICAgLmxlbmd0aChmaWxlc0luZm8uZ2V0TGVuZ3RoKCkpCiAgICAgICAgICAgICAgICAubWQ1KGZpbGVzSW5mby5nZXRNRDUoKSkKICAgICAgICAgICAgICAgIC50eXBlKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpLnN1YnN0cmluZyhmaWxlc0luZm8uZ2V0RmlsZW5hbWUoKS5sYXN0SW5kZXhPZigiLiIpICsgMSwgZmlsZXNJbmZvLmdldEZpbGVuYW1lKCkubGVuZ3RoKCkpKQogICAgICAgICAgICAgICAgLnVwbG9hZERhdGUoZmlsZXNJbmZvLmdldFVwbG9hZERhdGUoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOw==</text>
+      </register>
+      <register name="8" type="4">
         <text>GridFSFile filesInfo = null;
         try {</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>@Component
 @ConditionalOnProperty(name=&quot;rabbit.stomp.login&quot;)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZT0ic3RvbXAuaXAiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb21wb25lbnRkCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgTGlzdDxDb2x1bW4+IGZpbmRTb3J0SXRlbXNCeVNjaG9vbElkRXF1YWxzQW5kVGVzdFR5cGVJZEVxdWFsc09yZGVyQnlEaXNwbGF5SW5kZXgoU3RyaW5nIHNjaG9vbElkLCBTdHJpbmcgdGVzdFR5cGVJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
