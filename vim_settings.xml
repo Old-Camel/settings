@@ -175,10 +175,10 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/pojo/SecurityUser.java" timestamp="1548749852336">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550056581134">
-        <mark key="[" line="202" column="48" />
-        <mark key="]" line="104" column="71" />
-        <mark key="." line="104" column="71" />
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550106111590">
+        <mark key="[" line="215" column="42" />
+        <mark key="]" line="215" column="42" />
+        <mark key="." line="215" column="42" />
         <mark key="^" line="104" column="71" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseTeachclassController.java" timestamp="1540434474921">
@@ -891,7 +891,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -900,38 +900,38 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEZpbGVJbmZvIGJ1aWxkID0gRmlsZUluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuaWQoZmlsZXNJbmZvLmdldE9iamVjdElkKCkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5jaHVua1NpemUoZmlsZXNJbmZvLmdldENodW5rU2l6ZSgpKQogICAgICAgICAgICAgICAgLmZpbGVuYW1lKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpKQogICAgICAgICAgICAgICAgLmxlbmd0aChmaWxlc0luZm8uZ2V0TGVuZ3RoKCkpCiAgICAgICAgICAgICAgICAubWQ1KGZpbGVzSW5mby5nZXRNRDUoKSkKICAgICAgICAgICAgICAgIC50eXBlKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpLnN1YnN0cmluZyhmaWxlc0luZm8uZ2V0RmlsZW5hbWUoKS5sYXN0SW5kZXhPZigiLiIpICsgMSwgZmlsZXNJbmZvLmdldEZpbGVuYW1lKCkubGVuZ3RoKCkpKQogICAgICAgICAgICAgICAgLnVwbG9hZERhdGUoZmlsZXNJbmZvLmdldFVwbG9hZERhdGUoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOw==</text>
+        <text encoding="base64">IGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsoaWQpKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IEZpbGVJbmZvIGJ1aWxkID0gRmlsZUluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuaWQoZmlsZXNJbmZvLmdldE9iamVjdElkKCkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5jaHVua1NpemUoZmlsZXNJbmZvLmdldENodW5rU2l6ZSgpKQogICAgICAgICAgICAgICAgLmZpbGVuYW1lKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpKQogICAgICAgICAgICAgICAgLmxlbmd0aChmaWxlc0luZm8uZ2V0TGVuZ3RoKCkpCiAgICAgICAgICAgICAgICAubWQ1KGZpbGVzSW5mby5nZXRNRDUoKSkKICAgICAgICAgICAgICAgIC50eXBlKGZpbGVzSW5mby5nZXRGaWxlbmFtZSgpLnN1YnN0cmluZyhmaWxlc0luZm8uZ2V0RmlsZW5hbWUoKS5sYXN0SW5kZXhPZigiLiIpICsgMSwgZmlsZXNJbmZvLmdldEZpbGVuYW1lKCkubGVuZ3RoKCkpKQogICAgICAgICAgICAgICAgLnVwbG9hZERhdGUoZmlsZXNJbmZvLmdldFVwbG9hZERhdGUoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOw==</text>
+      </register>
+      <register name="3" type="4">
         <text>GridFSFile filesInfo = null;
         try {</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>@Component
 @ConditionalOnProperty(name=&quot;rabbit.stomp.login&quot;)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkobmFtZT0ic3RvbXAuaXAiKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBDb21wb25lbnRkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgTGlzdDxDb2x1bW4+IGZpbmRTb3J0SXRlbXNCeVNjaG9vbElkRXF1YWxzQW5kVGVzdFR5cGVJZEVxdWFsc09yZGVyQnlEaXNwbGF5SW5kZXgoU3RyaW5nIHNjaG9vbElkLCBTdHJpbmcgdGVzdFR5cGVJZCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PENvbHVtbj4gZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChTdHJpbmcgc2Nob29sSWQsIFN0cmluZyB0ZXN0VHlwZUlkKSB7CiAgICAgICAgTGlzdDxTb3J0SXRlbT4gZGF0YSA9IHJlcG9zaXRvcnkuZmluZFNvcnRJdGVtc0J5U2Nob29sSWRFcXVhbHNBbmRUZXN0VHlwZUlkRXF1YWxzT3JkZXJCeURpc3BsYXlJbmRleChzY2hvb2xJZCwgdGVzdFR5cGVJZCk7CiAgICAgICAgQXJyYXlMaXN0PENvbHVtbj4gY29sdW1ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwpjb2x1bW5zLmFkZChuZXcgQ29sdW1uKCLogIPnlJ/lj7ciLCJrc2giKSk7CmNvbHVtbnMuYWRkKG5ldyBDb2x1bW4oIuWnk+WQjSIsInhtIikpOwpjb2x1bW5zLmFkZChuZXcgQ29sdW1uKCLmgLvliIYiLCJ6ZiIpKTsKICAgICAgICBmb3IgKFNvcnRJdGVtIHNvcnRJdGVtIDogZGF0YSkgewoKICAgICAgICAgICAgY29sdW1ucy5hZGQobmV3IENvbHVtbihzbykpCgogICAgICAgIH0KCgoKCgoKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if(s.endsWith(&quot;.0&quot;)){
                     s = s.substring(0, s.indexOf(&quot;.0&quot;));
                 }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvL0xpc3Q8T2JqZWN0W10+IHNjb3JlcyA9IHJlcG9zaXRvcnkuZ2V0U2NvcmVzKHNvcnRzLCBzY2hvb2xDb2RlLCB0ZXN0VHlwZUNvZGUsIHBhZ2VTaXplLCBvZmZzZXQpOwogICAgICAgLy9CaWdJbnRlZ2VyIGk9KEJpZ0ludGVnZXIpIHNjb3Jlcy5nZXQoMClbMTNdOwogICAgICAgLy8gaW50IGkxID0gaS5iaXRDb3VudCgpOw==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
