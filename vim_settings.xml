@@ -791,11 +791,11 @@
       <file name="$USER_HOME$/data/code/react-auth/src/e2e/login.e2e.js" timestamp="1546428510703">
         <mark key="[" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550200898561">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="46" column="38" />
-        <mark key="." line="46" column="38" />
-        <mark key="^" line="46" column="38" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550202866701">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="48" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/SystemLog.java" timestamp="1545809846784">
         <mark key="[" line="33" column="25" />
@@ -958,7 +958,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>getDatas</text>
+        <text>根据名称空间获取pods</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
