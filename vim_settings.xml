@@ -597,12 +597,6 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
         <mark key="[" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1550479281455">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
-      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseScheduleController.java" timestamp="1540979772116">
         <mark key="[" line="91" column="33" />
       </file>
@@ -742,17 +736,14 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/weixin/connect/WeixinConnectionFactory.java" timestamp="1545789903969">
         <mark key="[" line="53" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1548211891465">
+      <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1550560221125">
         <mark key="[" line="87" column="16" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/majorteacher/AddTeacherFormWin.js" timestamp="1540887852774">
         <mark key="[" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/grpc/FileServiceServer.java" timestamp="1550557277424">
-        <mark key="[" line="198" column="23" />
-        <mark key="]" line="202" column="70" />
-        <mark key="^" line="202" column="70" />
-        <mark key="." line="202" column="70" />
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/grpc/FileServiceServer.java" timestamp="1550561005114">
+        <mark key="^" line="205" column="70" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/swagger-bootstrap-ui/pom.xml" timestamp="1550141388866">
         <mark key="[" line="7" column="18" />
@@ -937,41 +928,44 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IFJlTmFtZVJlc3BvbnNlIHJlTmFtZVJlc3BvbnNlID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1Yih0aGlzLmF1dGhzZXJ2ZXJDaGFubmVsKS5yZU5hbWUoRGF0YS5uZXdCdWlsZGVyKCkuc2V0SWQoIjVjNjM3MTY0ODY1ZjM0NDExNzc1MmJkMiIpLnNldFJlTmFtZSgi5rWL6K+V5L+u5pS5LmRvYyIpLmJ1aWxkKCkpOwogICAgICAgIFRva2VuIHRva2VuID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1YihhdXRoc2VydmVyQ2hhbm5lbCkKICAgICAgICAgICAgICAgIC5nZXRUb2tlbihGaWxlSWRzLm5ld0J1aWxkZXIoKS4KICAgICAgICAgICAgICAgICAgICAgICAgc2V0SWQoIjVjNjM4MzUxODY1ZjM0NDM3ODMyMzk2NSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZWNvbmRzKDIwMDApCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgbXNnID0gcmVOYW1lUmVzcG9uc2UuZ2V0TXNnKCk7CiAgICAgICAgYm9vbGVhbiBzdGF0dXMgPSByZU5hbWVSZXNwb25zZS5nZXRTdGF0dXMoKTsKICAgICAgICBTdHJpbmcgdG9rZW4xID0gdG9rZW4uZ2V0VG9rZW4oKTsKCiAgICAgICAgU3RyaW5nIGE9bXNnK3N0YXR1cyt0b2tlbjE7</text>
+        <text>if (finalFileOutputStream != null) {
+                IOUtils.closeQuietly(finalFileOutputStream);
+            }
+            if (inputStream != null) {
+                IOUtils.closeQuietly(inputStream);
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIC8qIENvbGxlY3Rpb25zLnNvcnQobGlzdCx7KGEsYiktPnsgaWYoYS5nZXREaXNwbGF5SW5kZXgoKT5iLmdldERpc3BsYXlJbmRleCgpKXsKICAgICAgICAgICAgSW50ZWdlciBhaW5kZXggPSBhLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBJbnRlZ2VyIGJpbmRleCA9IGIuZ2V0RGlzcGxheUluZGV4KCk7CiAgICAgICAgICAgIGlmKGFpbmRleD5iaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICAgIH1lbHNlIGlmKGFpbmRleDxiaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9CiAgICAgICAgfX19CiAgICAgICAgKTsqLw==</text>
+        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkVycm9yKFN0YXR1cy5JTlRFUk5BTC53aXRoQ2F1c2UoZSkud2l0aERlc2NyaXB0aW9uKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">eyhhLGIpLT57IGlmKGEuZ2V0RGlzcGxheUluZGV4KCk+Yi5nZXREaXNwbGF5SW5kZXgoKSl7CiAgICAgICAgICAgIEludGVnZXIgYWluZGV4ID0gYS5nZXREaXNwbGF5SW5kZXgoKTsKICAgICAgICAgICAgSW50ZWdlciBiaW5kZXggPSBiLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBpZihhaW5kZXg+YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICB9ZWxzZSBpZihhaW5kZXg8YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgIH19fQ==</text>
+        <text encoding="base64">IFJlTmFtZVJlc3BvbnNlIHJlTmFtZVJlc3BvbnNlID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1Yih0aGlzLmF1dGhzZXJ2ZXJDaGFubmVsKS5yZU5hbWUoRGF0YS5uZXdCdWlsZGVyKCkuc2V0SWQoIjVjNjM3MTY0ODY1ZjM0NDExNzc1MmJkMiIpLnNldFJlTmFtZSgi5rWL6K+V5L+u5pS5LmRvYyIpLmJ1aWxkKCkpOwogICAgICAgIFRva2VuIHRva2VuID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1YihhdXRoc2VydmVyQ2hhbm5lbCkKICAgICAgICAgICAgICAgIC5nZXRUb2tlbihGaWxlSWRzLm5ld0J1aWxkZXIoKS4KICAgICAgICAgICAgICAgICAgICAgICAgc2V0SWQoIjVjNjM4MzUxODY1ZjM0NDM3ODMyMzk2NSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZWNvbmRzKDIwMDApCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgbXNnID0gcmVOYW1lUmVzcG9uc2UuZ2V0TXNnKCk7CiAgICAgICAgYm9vbGVhbiBzdGF0dXMgPSByZU5hbWVSZXNwb25zZS5nZXRTdGF0dXMoKTsKICAgICAgICBTdHJpbmcgdG9rZW4xID0gdG9rZW4uZ2V0VG9rZW4oKTsKCiAgICAgICAgU3RyaW5nIGE9bXNnK3N0YXR1cyt0b2tlbjE7</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgIC8qIENvbGxlY3Rpb25zLnNvcnQobGlzdCx7KGEsYiktPnsgaWYoYS5nZXREaXNwbGF5SW5kZXgoKT5iLmdldERpc3BsYXlJbmRleCgpKXsKICAgICAgICAgICAgSW50ZWdlciBhaW5kZXggPSBhLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBJbnRlZ2VyIGJpbmRleCA9IGIuZ2V0RGlzcGxheUluZGV4KCk7CiAgICAgICAgICAgIGlmKGFpbmRleD5iaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICAgIH1lbHNlIGlmKGFpbmRleDxiaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9CiAgICAgICAgfX19CiAgICAgICAgKTsqLw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">eyhhLGIpLT57IGlmKGEuZ2V0RGlzcGxheUluZGV4KCk+Yi5nZXREaXNwbGF5SW5kZXgoKSl7CiAgICAgICAgICAgIEludGVnZXIgYWluZGV4ID0gYS5nZXREaXNwbGF5SW5kZXgoKTsKICAgICAgICAgICAgSW50ZWdlciBiaW5kZXggPSBiLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBpZihhaW5kZXg+YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICB9ZWxzZSBpZihhaW5kZXg8YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgIH19fQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>@Override
     public int compareTo(Object o) {
         return 0;
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>main::IO()
 main=print &quot;asdfa&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>main:: IO()
 main= print &quot;dasf&quot;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNhbGxiYWNrPSgpPT57CiAgICAKICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8vIGlmKHRoaXMuc3RhdGUuY2xpZW50KXsKICAgIC8vICAgY2xpZW50LmNsb3NlKCk7CiAgICAvLyB9</text>
-      </register>
       <register name="9" type="4">
-        <text>{
-        namespace: 'cloud'
-      }</text>
+        <text encoding="base64">IGNhbGxiYWNrPSgpPT57CiAgICAKICB9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
