@@ -287,6 +287,7 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/test/java/Tes.java" timestamp="1548144466470">
         <mark key="[" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/HwTest.java" timestamp="1550646687547" />
       <file name="$USER_HOME$/data/code/PitcherCloud/auth-center/src/main/resources/bootstrap.yml" timestamp="1540822120291">
         <mark key="[" line="41" column="49" />
       </file>
@@ -315,6 +316,12 @@
       <file name="$USER_HOME$/data/code/grpc-api/pom.xml" timestamp="1547605052761">
         <mark key="[" line="43" column="64" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/test/java/PromeqlTest.java" timestamp="1550647795963">
+        <mark key="'" line="82" column="46" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+      </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/pojo/Search.java" timestamp="1545992035590">
         <mark key="[" line="14" column="21" />
       </file>
@@ -336,7 +343,7 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/CourseTraining.jsp" timestamp="1540604033907">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/PrometheusController.java" timestamp="1550645956116">
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/PrometheusController.java" timestamp="1550646536321">
         <mark key="[" line="20" column="34" />
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="34" />
@@ -410,6 +417,9 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/pojo/ReName.java" timestamp="1550110452235">
         <mark key="[" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/ApiConfig.java" timestamp="1550648242580">
+        <mark key="[" line="69" column="62" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/AbstractSessionStrategy.java" timestamp="1549940996003">
         <mark key="[" line="26" column="38" />
       </file>
@@ -430,7 +440,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/CurrentDateUtil.java" timestamp="1545803756452">
         <mark key="[" line="27" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1550563667859">
+      <file name="/fragment.java" timestamp="1550646310628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
@@ -821,7 +831,7 @@
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1550033938136">
         <mark key="[" line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/BeanUtils.java" timestamp="1548644214587">
+      <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/BeanUtils.java" timestamp="1550646260927">
         <mark key="[" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/BaseTeachclassService.java" timestamp="1540434380152">
@@ -838,7 +848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="16" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="390" column="32" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="1142" column="41" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="397" column="9" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
@@ -938,6 +947,7 @@
       <jump line="71" column="8" filename="$USER_HOME$/data/code/react-auth/src/pages/Base/Client.js" />
       <jump line="329" column="16" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" />
       <jump line="76" column="21" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" />
+      <jump line="68" column="46" filename="$USER_HOME$/data/code/sailor/src/test/java/PromeqlTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -953,7 +963,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>prometheus.istio-system:9090</text>
+        <text>OnlineClassRoomApplication</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
