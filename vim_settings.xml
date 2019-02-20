@@ -316,11 +316,11 @@
       <file name="$USER_HOME$/data/code/grpc-api/pom.xml" timestamp="1547605052761">
         <mark key="[" line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/test/java/PromeqlTest.java" timestamp="1550647795963">
-        <mark key="'" line="82" column="46" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
+      <file name="$USER_HOME$/data/code/sailor/src/test/java/PromeqlTest.java" timestamp="1550650776568">
+        <mark key="'" line="88" column="46" />
+        <mark key="[" line="85" column="7" />
+        <mark key="]" line="85" column="7" />
+        <mark key="." line="85" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/pojo/Search.java" timestamp="1545992035590">
         <mark key="[" line="14" column="21" />
@@ -343,10 +343,10 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/CourseTraining.jsp" timestamp="1540604033907">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/PrometheusController.java" timestamp="1550646536321">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/PrometheusController.java" timestamp="1550650861539">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/t" timestamp="1540451020749">
         <mark key="[" line="0" column="0" />
@@ -796,7 +796,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/e2e/login.e2e.js" timestamp="1546428510703">
         <mark key="[" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550645765196">
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550650846741">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="35" column="27" />
         <mark key="." line="35" column="27" />
@@ -963,7 +963,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>OnlineClassRoomApplication</text>
+        <text>1550646801</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -972,21 +972,24 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>public static void main(String[] args) {
-        String bcabc = removeDuplicateLetters(&quot;cbacdcbc&quot;);
-        System.out.println(bcabc);
-    }</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgbmV3IFUoIiIpCiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICA8SW5wdXQKICAgICAgICAgICAgICByZWY9e2VsZSA9PiAodGhpcy5zZWFyY2hJbnB1dCA9IGVsZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuafpeivouWQjeensCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZWN0ZWRLZXlzWzBdfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFNlbGVjdGVkS2V5cyhlLnRhcmdldC52YWx1ZSA/IFtlLnRhcmdldC52YWx1ZV0gOiBbXSl9CiAgICAgICAgICAgICAgb25QcmVzc0VudGVyPXt0aGlzLmhhbmRsZVBvZE5hbWVTZWFyY2goc2VsZWN0ZWRLZXlzLCBjb25maXJtLCBjbGVhckZpbHRlcnMpfQogICAgICAgICAgICAvPg==</text>
+        <text>public static void main(String[] args) {
+        String bcabc = removeDuplicateLetters(&quot;cbacdcbc&quot;);
+        System.out.println(bcabc);
+    }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PElucHV0CiAgICAgICAgICAgICAgcmVmPXtlbGUgPT4gKHRoaXMuc2VhcmNoSW5wdXQgPSBlbGUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLmn6Xor6LlkI3np7AiCiAgICAgICAgICAgICAgdmFsdWU9e3NlbGVjdGVkS2V5c1swXX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXRTZWxlY3RlZEtleXMoZS50YXJnZXQudmFsdWUgPyBbZS50YXJnZXQudmFsdWVdIDogW10pfQogICAgICAgICAgICAgIG9uUHJlc3NFbnRlcj17dGhpcy5oYW5kbGVQb2ROYW1lU2VhcmNoKHNlbGVjdGVkS2V5cywgY29uZmlybSwgY2xlYXJGaWx0ZXJzKX0KICAgICAgICAgICAgLz4=</text>
+        <text encoding="base64">ICA8SW5wdXQKICAgICAgICAgICAgICByZWY9e2VsZSA9PiAodGhpcy5zZWFyY2hJbnB1dCA9IGVsZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuafpeivouWQjeensCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZWN0ZWRLZXlzWzBdfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFNlbGVjdGVkS2V5cyhlLnRhcmdldC52YWx1ZSA/IFtlLnRhcmdldC52YWx1ZV0gOiBbXSl9CiAgICAgICAgICAgICAgb25QcmVzc0VudGVyPXt0aGlzLmhhbmRsZVBvZE5hbWVTZWFyY2goc2VsZWN0ZWRLZXlzLCBjb25maXJtLCBjbGVhckZpbHRlcnMpfQogICAgICAgICAgICAvPg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PElucHV0CiAgICAgICAgICAgICAgcmVmPXtlbGUgPT4gKHRoaXMuc2VhcmNoSW5wdXQgPSBlbGUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLmn6Xor6LlkI3np7AiCiAgICAgICAgICAgICAgdmFsdWU9e3NlbGVjdGVkS2V5c1swXX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXRTZWxlY3RlZEtleXMoZS50YXJnZXQudmFsdWUgPyBbZS50YXJnZXQudmFsdWVdIDogW10pfQogICAgICAgICAgICAgIG9uUHJlc3NFbnRlcj17dGhpcy5oYW5kbGVQb2ROYW1lU2VhcmNoKHNlbGVjdGVkS2V5cywgY29uZmlybSwgY2xlYXJGaWx0ZXJzKX0KICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (finalFileOutputStream != null) {
                 IOUtils.closeQuietly(finalFileOutputStream);
             }
@@ -994,23 +997,17 @@
                 IOUtils.closeQuietly(inputStream);
             }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkVycm9yKFN0YXR1cy5JTlRFUk5BTC53aXRoQ2F1c2UoZSkud2l0aERlc2NyaXB0aW9uKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IFJlTmFtZVJlc3BvbnNlIHJlTmFtZVJlc3BvbnNlID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1Yih0aGlzLmF1dGhzZXJ2ZXJDaGFubmVsKS5yZU5hbWUoRGF0YS5uZXdCdWlsZGVyKCkuc2V0SWQoIjVjNjM3MTY0ODY1ZjM0NDExNzc1MmJkMiIpLnNldFJlTmFtZSgi5rWL6K+V5L+u5pS5LmRvYyIpLmJ1aWxkKCkpOwogICAgICAgIFRva2VuIHRva2VuID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1YihhdXRoc2VydmVyQ2hhbm5lbCkKICAgICAgICAgICAgICAgIC5nZXRUb2tlbihGaWxlSWRzLm5ld0J1aWxkZXIoKS4KICAgICAgICAgICAgICAgICAgICAgICAgc2V0SWQoIjVjNjM4MzUxODY1ZjM0NDM3ODMyMzk2NSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZWNvbmRzKDIwMDApCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgbXNnID0gcmVOYW1lUmVzcG9uc2UuZ2V0TXNnKCk7CiAgICAgICAgYm9vbGVhbiBzdGF0dXMgPSByZU5hbWVSZXNwb25zZS5nZXRTdGF0dXMoKTsKICAgICAgICBTdHJpbmcgdG9rZW4xID0gdG9rZW4uZ2V0VG9rZW4oKTsKCiAgICAgICAgU3RyaW5nIGE9bXNnK3N0YXR1cyt0b2tlbjE7</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgIC8qIENvbGxlY3Rpb25zLnNvcnQobGlzdCx7KGEsYiktPnsgaWYoYS5nZXREaXNwbGF5SW5kZXgoKT5iLmdldERpc3BsYXlJbmRleCgpKXsKICAgICAgICAgICAgSW50ZWdlciBhaW5kZXggPSBhLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBJbnRlZ2VyIGJpbmRleCA9IGIuZ2V0RGlzcGxheUluZGV4KCk7CiAgICAgICAgICAgIGlmKGFpbmRleD5iaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICAgIH1lbHNlIGlmKGFpbmRleDxiaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9CiAgICAgICAgfX19CiAgICAgICAgKTsqLw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eyhhLGIpLT57IGlmKGEuZ2V0RGlzcGxheUluZGV4KCk+Yi5nZXREaXNwbGF5SW5kZXgoKSl7CiAgICAgICAgICAgIEludGVnZXIgYWluZGV4ID0gYS5nZXREaXNwbGF5SW5kZXgoKTsKICAgICAgICAgICAgSW50ZWdlciBiaW5kZXggPSBiLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBpZihhaW5kZXg+YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICB9ZWxzZSBpZihhaW5kZXg8YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgIH19fQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>@Override
-    public int compareTo(Object o) {
-        return 0;
-    }</text>
+        <text encoding="base64">eyhhLGIpLT57IGlmKGEuZ2V0RGlzcGxheUluZGV4KCk+Yi5nZXREaXNwbGF5SW5kZXgoKSl7CiAgICAgICAgICAgIEludGVnZXIgYWluZGV4ID0gYS5nZXREaXNwbGF5SW5kZXgoKTsKICAgICAgICAgICAgSW50ZWdlciBiaW5kZXggPSBiLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBpZihhaW5kZXg+YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICB9ZWxzZSBpZihhaW5kZXg8YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgIH19fQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
