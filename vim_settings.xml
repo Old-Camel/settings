@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/pojo/FileDownLoad.java" timestamp="1550127431400">
         <mark key="[" line="14" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1550197761058">
+      <file name="/a.dummy" timestamp="1550646077597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/CourseFile.java" timestamp="1541138016906">
@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/User.java" timestamp="1548235835477">
         <mark key="[" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/server/client/src/test/java/com/yunzainfo/gprc/client/ClientApplicationTests.java" timestamp="1550547686194">
+      <file name="$USER_HOME$/data/code/server/client/src/test/java/com/yunzainfo/gprc/client/ClientApplicationTests.java" timestamp="1550646044430">
         <mark key="[" line="332" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/rmq/src/main/java/com/yunzainfo/cloud/rmq/run/SysConFig.java" timestamp="1549952261937">
@@ -182,12 +182,6 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Video/Me.less" timestamp="1545958636580">
         <mark key="[" line="106" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1550196795158">
-        <mark key="[" line="100" column="2" />
-        <mark key="]" line="100" column="2" />
-        <mark key="." line="100" column="2" />
-        <mark key="^" line="105" column="71" />
-      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseTeachclassController.java" timestamp="1540434474921">
         <mark key="[" line="203" column="8" />
       </file>
@@ -223,12 +217,6 @@
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/entity/App.java" timestamp="1547084401293">
         <mark key="[" line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/grpc/VideoGrpcServer.java" timestamp="1550198298148">
-        <mark key="[" line="33" column="83" />
-        <mark key="]" line="33" column="83" />
-        <mark key="^" line="22" column="79" />
-        <mark key="." line="33" column="83" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1547518515428">
         <mark key="[" line="66" column="35" />
@@ -347,6 +335,11 @@
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/CourseTraining.jsp" timestamp="1540604033907">
         <mark key="[" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/PrometheusController.java" timestamp="1550645956116">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/test/java/com/yunzai/test/t" timestamp="1540451020749">
         <mark key="[" line="0" column="0" />
@@ -472,12 +465,6 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/AllowedMethodConfig.java" timestamp="1548753088323">
         <mark key="[" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/service/impl/AliyunFileServiceImpl.java" timestamp="1550128508826">
-        <mark key="[" line="126" column="11" />
-        <mark key="]" line="126" column="11" />
-        <mark key="^" line="123" column="0" />
-        <mark key="." line="126" column="11" />
-      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/client.js" timestamp="1546943619992">
         <mark key="[" line="17" column="6" />
       </file>
@@ -515,12 +502,6 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/application-local.properties" timestamp="1547601529861">
         <mark key="[" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/web/FileController.java" timestamp="1550198087034">
-        <mark key="[" line="145" column="13" />
-        <mark key="]" line="145" column="13" />
-        <mark key="." line="145" column="13" />
-        <mark key="^" line="137" column="9" />
-      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/BaseSchedule.java" timestamp="1540180263482">
         <mark key="[" line="66" column="37" />
       </file>
@@ -556,6 +537,9 @@
       </file>
       <file name="$USER_HOME$/data/code/video-library/istio/istio-gateway.yaml" timestamp="1546496806022">
         <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/prometheus/builder/Utils.java" timestamp="1550645397310">
+        <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/courceTrain/CourseTrainingWindow.js" timestamp="1540602249898">
         <mark key="[" line="4" column="17" />
@@ -629,14 +613,14 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
         <mark key="[" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1550479281455">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseScheduleController.java" timestamp="1540979772116">
         <mark key="[" line="91" column="33" />
-      </file>
-      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/file/FileService.proto" timestamp="1550196313945">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="24" column="8" />
-        <mark key="." line="24" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/service/impl/BaseTeachclassServiceImpl.java" timestamp="1540434422168">
         <mark key="[" line="152" column="5" />
@@ -662,6 +646,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/test/java/Test.java" timestamp="1546942859858">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/prometheus/builder/QueryBuilder.java" timestamp="1550645733349" />
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/HomeworkTeaMapper.xml" timestamp="1541044199446">
         <mark key="[" line="92" column="32" />
       </file>
@@ -704,13 +689,9 @@
       <file name="$USER_HOME$/data/code/PitcherCloud/gateway-zuul/pom.xml" timestamp="1541381822719">
         <mark key="[" line="83" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1550631403263">
-        <mark key="^" line="268" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/AttendanceStatisticsMapper.xml" timestamp="1540872730982">
         <mark key="[" line="102" column="63" />
       </file>
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentController.java" timestamp="1550563732727" />
       <file name="$USER_HOME$/data/code/server/pom.xml" timestamp="1547539237932">
         <mark key="[" line="21" column="18" />
       </file>
@@ -787,9 +768,6 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/majorteacher/AddTeacherFormWin.js" timestamp="1540887852774">
         <mark key="[" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/grpc/FileServiceServer.java" timestamp="1550561005114">
-        <mark key="^" line="205" column="70" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud/swagger-bootstrap-ui/pom.xml" timestamp="1550141388866">
         <mark key="[" line="7" column="18" />
       </file>
@@ -808,7 +786,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/e2e/login.e2e.js" timestamp="1546428510703">
         <mark key="[" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550628731381">
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/KubernetesController.java" timestamp="1550645765196">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="35" column="27" />
         <mark key="." line="35" column="27" />
@@ -834,6 +812,11 @@
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SaUser.java" timestamp="1548815096839">
         <mark key="[" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor/src/test/java/Test.java" timestamp="1550646066378">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1550033938136">
         <mark key="[" line="53" column="33" />
@@ -970,7 +953,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>prometheus.istio-system:9090</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -979,15 +962,21 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICA8SW5wdXQKICAgICAgICAgICAgICByZWY9e2VsZSA9PiAodGhpcy5zZWFyY2hJbnB1dCA9IGVsZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuafpeivouWQjeensCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZWN0ZWRLZXlzWzBdfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFNlbGVjdGVkS2V5cyhlLnRhcmdldC52YWx1ZSA/IFtlLnRhcmdldC52YWx1ZV0gOiBbXSl9CiAgICAgICAgICAgICAgb25QcmVzc0VudGVyPXt0aGlzLmhhbmRsZVBvZE5hbWVTZWFyY2goc2VsZWN0ZWRLZXlzLCBjb25maXJtLCBjbGVhckZpbHRlcnMpfQogICAgICAgICAgICAvPg==</text>
+        <text>public static void main(String[] args) {
+        String bcabc = removeDuplicateLetters(&quot;cbacdcbc&quot;);
+        System.out.println(bcabc);
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PElucHV0CiAgICAgICAgICAgICAgcmVmPXtlbGUgPT4gKHRoaXMuc2VhcmNoSW5wdXQgPSBlbGUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLmn6Xor6LlkI3np7AiCiAgICAgICAgICAgICAgdmFsdWU9e3NlbGVjdGVkS2V5c1swXX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXRTZWxlY3RlZEtleXMoZS50YXJnZXQudmFsdWUgPyBbZS50YXJnZXQudmFsdWVdIDogW10pfQogICAgICAgICAgICAgIG9uUHJlc3NFbnRlcj17dGhpcy5oYW5kbGVQb2ROYW1lU2VhcmNoKHNlbGVjdGVkS2V5cywgY29uZmlybSwgY2xlYXJGaWx0ZXJzKX0KICAgICAgICAgICAgLz4=</text>
+        <text encoding="base64">ICA8SW5wdXQKICAgICAgICAgICAgICByZWY9e2VsZSA9PiAodGhpcy5zZWFyY2hJbnB1dCA9IGVsZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuafpeivouWQjeensCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZWN0ZWRLZXlzWzBdfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFNlbGVjdGVkS2V5cyhlLnRhcmdldC52YWx1ZSA/IFtlLnRhcmdldC52YWx1ZV0gOiBbXSl9CiAgICAgICAgICAgICAgb25QcmVzc0VudGVyPXt0aGlzLmhhbmRsZVBvZE5hbWVTZWFyY2goc2VsZWN0ZWRLZXlzLCBjb25maXJtLCBjbGVhckZpbHRlcnMpfQogICAgICAgICAgICAvPg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">PElucHV0CiAgICAgICAgICAgICAgcmVmPXtlbGUgPT4gKHRoaXMuc2VhcmNoSW5wdXQgPSBlbGUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLmn6Xor6LlkI3np7AiCiAgICAgICAgICAgICAgdmFsdWU9e3NlbGVjdGVkS2V5c1swXX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXRTZWxlY3RlZEtleXMoZS50YXJnZXQudmFsdWUgPyBbZS50YXJnZXQudmFsdWVdIDogW10pfQogICAgICAgICAgICAgIG9uUHJlc3NFbnRlcj17dGhpcy5oYW5kbGVQb2ROYW1lU2VhcmNoKHNlbGVjdGVkS2V5cywgY29uZmlybSwgY2xlYXJGaWx0ZXJzKX0KICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="4" type="4">
         <text>if (finalFileOutputStream != null) {
                 IOUtils.closeQuietly(finalFileOutputStream);
             }
@@ -995,27 +984,23 @@
                 IOUtils.closeQuietly(inputStream);
             }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkVycm9yKFN0YXR1cy5JTlRFUk5BTC53aXRoQ2F1c2UoZSkud2l0aERlc2NyaXB0aW9uKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IFJlTmFtZVJlc3BvbnNlIHJlTmFtZVJlc3BvbnNlID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1Yih0aGlzLmF1dGhzZXJ2ZXJDaGFubmVsKS5yZU5hbWUoRGF0YS5uZXdCdWlsZGVyKCkuc2V0SWQoIjVjNjM3MTY0ODY1ZjM0NDExNzc1MmJkMiIpLnNldFJlTmFtZSgi5rWL6K+V5L+u5pS5LmRvYyIpLmJ1aWxkKCkpOwogICAgICAgIFRva2VuIHRva2VuID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1YihhdXRoc2VydmVyQ2hhbm5lbCkKICAgICAgICAgICAgICAgIC5nZXRUb2tlbihGaWxlSWRzLm5ld0J1aWxkZXIoKS4KICAgICAgICAgICAgICAgICAgICAgICAgc2V0SWQoIjVjNjM4MzUxODY1ZjM0NDM3ODMyMzk2NSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZWNvbmRzKDIwMDApCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgbXNnID0gcmVOYW1lUmVzcG9uc2UuZ2V0TXNnKCk7CiAgICAgICAgYm9vbGVhbiBzdGF0dXMgPSByZU5hbWVSZXNwb25zZS5nZXRTdGF0dXMoKTsKICAgICAgICBTdHJpbmcgdG9rZW4xID0gdG9rZW4uZ2V0VG9rZW4oKTsKCiAgICAgICAgU3RyaW5nIGE9bXNnK3N0YXR1cyt0b2tlbjE7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgIC8qIENvbGxlY3Rpb25zLnNvcnQobGlzdCx7KGEsYiktPnsgaWYoYS5nZXREaXNwbGF5SW5kZXgoKT5iLmdldERpc3BsYXlJbmRleCgpKXsKICAgICAgICAgICAgSW50ZWdlciBhaW5kZXggPSBhLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBJbnRlZ2VyIGJpbmRleCA9IGIuZ2V0RGlzcGxheUluZGV4KCk7CiAgICAgICAgICAgIGlmKGFpbmRleD5iaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICAgIH1lbHNlIGlmKGFpbmRleDxiaW5kZXgpewogICAgICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9CiAgICAgICAgfX19CiAgICAgICAgKTsqLw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">eyhhLGIpLT57IGlmKGEuZ2V0RGlzcGxheUluZGV4KCk+Yi5nZXREaXNwbGF5SW5kZXgoKSl7CiAgICAgICAgICAgIEludGVnZXIgYWluZGV4ID0gYS5nZXREaXNwbGF5SW5kZXgoKTsKICAgICAgICAgICAgSW50ZWdlciBiaW5kZXggPSBiLmdldERpc3BsYXlJbmRleCgpOwogICAgICAgICAgICBpZihhaW5kZXg+YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICB9ZWxzZSBpZihhaW5kZXg8YmluZGV4KXsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQogICAgICAgIH19fQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@Override
     public int compareTo(Object o) {
         return 0;
     }</text>
-      </register>
-      <register name="9" type="4">
-        <text>main::IO()
-main=print &quot;asdfa&quot;</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
