@@ -765,10 +765,11 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/majorteacher/AddTeacherFormWin.js" timestamp="1540887852774">
         <mark key="[" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550713289455">
-        <mark key="[" line="38" column="622" />
-        <mark key="]" line="38" column="622" />
-        <mark key="." line="38" column="622" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550715297882">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/swagger-bootstrap-ui/pom.xml" timestamp="1550141388866">
         <mark key="[" line="7" column="18" />
@@ -958,7 +959,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>{&quot;status&quot;:&quot;success&quot;,&quot;data&quot;:{&quot;resultType&quot;:&quot;matrix&quot;,&quot;result&quot;:[{&quot;metric&quot;:{},&quot;values&quot;:[[1550711249,&quot;1&quot;],[1550711259,&quot;1&quot;],[1550711269,&quot;1&quot;],[1550711279,&quot;1&quot;],[1550711289,&quot;1&quot;],[1550711299,&quot;1&quot;],[1550711309,&quot;1&quot;],[1550711319,&quot;1&quot;],[1550711329,&quot;1&quot;],[1550711339,&quot;1&quot;],[1550711349,&quot;1&quot;],[1550711359,&quot;1&quot;],[1550711369,&quot;1&quot;],[1550711379,&quot;1&quot;],[1550711389,&quot;1&quot;],[1550711399,&quot;1&quot;],[1550711409,&quot;1&quot;],[1550711419,&quot;1&quot;],[1550711429,&quot;1&quot;],[1550711439,&quot;1&quot;],[1550711449,&quot;1&quot;],[1550711459,&quot;1&quot;],[1550711469,&quot;1&quot;],[1550711479,&quot;1&quot;],[1550711489,&quot;1&quot;],[1550711499,&quot;1&quot;],[1550711509,&quot;1&quot;],[1550711519,&quot;1&quot;],[1550711529,&quot;1&quot;],[1550711539,&quot;1&quot;],[1550711549,&quot;1&quot;]]}]}};</text>
+        <text>&quot;status&quot;:&quot;success&quot;,&quot;data&quot;:{&quot;resultType&quot;:&quot;matrix&quot;,&quot;result&quot;:[{&quot;metric&quot;:{},&quot;values&quot;:[[1550711249,&quot;1&quot;],[1550711259,&quot;1&quot;],[1550711269,&quot;1&quot;],[1550711279,&quot;1&quot;],[1550711289,&quot;1&quot;],[1550711299,&quot;1&quot;],[1550711309,&quot;1&quot;],[1550711319,&quot;1&quot;],[1550711329,&quot;1&quot;],[1550711339,&quot;1&quot;],[1550711349,&quot;1&quot;],[1550711359,&quot;1&quot;],[1550711369,&quot;1&quot;],[1550711379,&quot;1&quot;],[1550711389,&quot;1&quot;],[1550711399,&quot;1&quot;],[1550711409,&quot;1&quot;],[1550711419,&quot;1&quot;],[1550711429,&quot;1&quot;],[1550711439,&quot;1&quot;],[1550711449,&quot;1&quot;],[1550711459,&quot;1&quot;],[1550711469,&quot;1&quot;],[1550711479,&quot;1&quot;],[1550711489,&quot;1&quot;],[1550711499,&quot;1&quot;],[1550711509,&quot;1&quot;],[1550711519,&quot;1&quot;],[1550711529,&quot;1&quot;],[1550711539,&quot;1&quot;],[1550711549,&quot;1&quot;]]}]}</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -967,30 +968,33 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgY29uc3QgdG9wQ29sUmVzcG9uc2l2ZVByb3BzMSA9IHsKICAgICAgeHM6IDI0LAogICAgICBzbTogMTIsCiAgICAgIG1kOiAxMiwKICAgICAgbGc6IDEyLAogICAgICB4bDogNiwKICAgICAgc3R5bGU6IHsgbWFyZ2luQm90dG9tOiAyNCxtYXJnaW5Ub3A6MjQgfSwKICAgIH07</text>
+        <text encoding="base64">IHsvKjxkaXYgY2xhc3NOYW1lPSdjb2wtcGFuZWwtdGl0bGUnPiovfQogICAgICAgICAgICAgIHsvKjxUb29sdGlwIHRpdGxlPXtUKCdhcHAuY29tbW9uLmdsb2JhbFN1Y2NSYXRlJyl9IHN0eWxlPXt7IGZsb2F0OiAncmlnaHQnLCBtYXJnaW5Ub3A6IDUgfX0+PGkgY2xhc3NOYW1lPSdoaS1pY29uIGljb24taW5mby1jaXJjbGUtbycgLz48L1Rvb2x0aXA+Ki99CiAgICAgICAgICAgICAgey8qe1QoJ2FwcC5jb21tb24uZ2xvYmFsU3VjY1JhdGUnKX0qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj59IGZvb3Rlcj0nJz4qL30=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgY29uc3QgdG9wQ29sUmVzcG9uc2l2ZVByb3BzMSA9IHsKICAgICAgeHM6IDI0LAogICAgICBzbTogMTIsCiAgICAgIG1kOiAxMiwKICAgICAgbGc6IDEyLAogICAgICB4bDogNiwKICAgICAgc3R5bGU6IHsgbWFyZ2luQm90dG9tOiAyNCxtYXJnaW5Ub3A6MjQgfSwKICAgIH07</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Y2xhc3MgQW5hbHlzaXMgZXh0ZW5kcyBDb21wb25lbnQgewogIGNvbnN0cnVjdG9yKHByb3BzKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgbmV3IFUoIiIpCiAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>public static void main(String[] args) {
         String bcabc = removeDuplicateLetters(&quot;cbacdcbc&quot;);
         System.out.println(bcabc);
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8SW5wdXQKICAgICAgICAgICAgICByZWY9e2VsZSA9PiAodGhpcy5zZWFyY2hJbnB1dCA9IGVsZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuafpeivouWQjeensCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZWN0ZWRLZXlzWzBdfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFNlbGVjdGVkS2V5cyhlLnRhcmdldC52YWx1ZSA/IFtlLnRhcmdldC52YWx1ZV0gOiBbXSl9CiAgICAgICAgICAgICAgb25QcmVzc0VudGVyPXt0aGlzLmhhbmRsZVBvZE5hbWVTZWFyY2goc2VsZWN0ZWRLZXlzLCBjb25maXJtLCBjbGVhckZpbHRlcnMpfQogICAgICAgICAgICAvPg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PElucHV0CiAgICAgICAgICAgICAgcmVmPXtlbGUgPT4gKHRoaXMuc2VhcmNoSW5wdXQgPSBlbGUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLmn6Xor6LlkI3np7AiCiAgICAgICAgICAgICAgdmFsdWU9e3NlbGVjdGVkS2V5c1swXX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXRTZWxlY3RlZEtleXMoZS50YXJnZXQudmFsdWUgPyBbZS50YXJnZXQudmFsdWVdIDogW10pfQogICAgICAgICAgICAgIG9uUHJlc3NFbnRlcj17dGhpcy5oYW5kbGVQb2ROYW1lU2VhcmNoKHNlbGVjdGVkS2V5cywgY29uZmlybSwgY2xlYXJGaWx0ZXJzKX0KICAgICAgICAgICAgLz4=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (finalFileOutputStream != null) {
                 IOUtils.closeQuietly(finalFileOutputStream);
             }
@@ -998,11 +1002,8 @@
                 IOUtils.closeQuietly(inputStream);
             }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkVycm9yKFN0YXR1cy5JTlRFUk5BTC53aXRoQ2F1c2UoZSkud2l0aERlc2NyaXB0aW9uKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IFJlTmFtZVJlc3BvbnNlIHJlTmFtZVJlc3BvbnNlID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1Yih0aGlzLmF1dGhzZXJ2ZXJDaGFubmVsKS5yZU5hbWUoRGF0YS5uZXdCdWlsZGVyKCkuc2V0SWQoIjVjNjM3MTY0ODY1ZjM0NDExNzc1MmJkMiIpLnNldFJlTmFtZSgi5rWL6K+V5L+u5pS5LmRvYyIpLmJ1aWxkKCkpOwogICAgICAgIFRva2VuIHRva2VuID0gRmlsZVNlcnZpY2VHcnBjLm5ld0Jsb2NraW5nU3R1YihhdXRoc2VydmVyQ2hhbm5lbCkKICAgICAgICAgICAgICAgIC5nZXRUb2tlbihGaWxlSWRzLm5ld0J1aWxkZXIoKS4KICAgICAgICAgICAgICAgICAgICAgICAgc2V0SWQoIjVjNjM4MzUxODY1ZjM0NDM3ODMyMzk2NSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZWNvbmRzKDIwMDApCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgbXNnID0gcmVOYW1lUmVzcG9uc2UuZ2V0TXNnKCk7CiAgICAgICAgYm9vbGVhbiBzdGF0dXMgPSByZU5hbWVSZXNwb25zZS5nZXRTdGF0dXMoKTsKICAgICAgICBTdHJpbmcgdG9rZW4xID0gdG9rZW4uZ2V0VG9rZW4oKTsKCiAgICAgICAgU3RyaW5nIGE9bXNnK3N0YXR1cyt0b2tlbjE7</text>
+        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkVycm9yKFN0YXR1cy5JTlRFUk5BTC53aXRoQ2F1c2UoZSkud2l0aERlc2NyaXB0aW9uKCLkuIrkvKDmlofku7ZncnBjLOacjeWKoeerr+W8guW4uCIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
