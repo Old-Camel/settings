@@ -765,10 +765,10 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/majorteacher/AddTeacherFormWin.js" timestamp="1540887852774">
         <mark key="[" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550711790243">
-        <mark key="[" line="109" column="14" />
-        <mark key="]" line="109" column="14" />
-        <mark key="." line="109" column="14" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550713289455">
+        <mark key="[" line="38" column="622" />
+        <mark key="]" line="38" column="622" />
+        <mark key="." line="38" column="622" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/swagger-bootstrap-ui/pom.xml" timestamp="1550141388866">
         <mark key="[" line="7" column="18" />
@@ -958,7 +958,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.serviceStatus.globalSuccessRateData</text>
+        <text>{&quot;status&quot;:&quot;success&quot;,&quot;data&quot;:{&quot;resultType&quot;:&quot;matrix&quot;,&quot;result&quot;:[{&quot;metric&quot;:{},&quot;values&quot;:[[1550711249,&quot;1&quot;],[1550711259,&quot;1&quot;],[1550711269,&quot;1&quot;],[1550711279,&quot;1&quot;],[1550711289,&quot;1&quot;],[1550711299,&quot;1&quot;],[1550711309,&quot;1&quot;],[1550711319,&quot;1&quot;],[1550711329,&quot;1&quot;],[1550711339,&quot;1&quot;],[1550711349,&quot;1&quot;],[1550711359,&quot;1&quot;],[1550711369,&quot;1&quot;],[1550711379,&quot;1&quot;],[1550711389,&quot;1&quot;],[1550711399,&quot;1&quot;],[1550711409,&quot;1&quot;],[1550711419,&quot;1&quot;],[1550711429,&quot;1&quot;],[1550711439,&quot;1&quot;],[1550711449,&quot;1&quot;],[1550711459,&quot;1&quot;],[1550711469,&quot;1&quot;],[1550711479,&quot;1&quot;],[1550711489,&quot;1&quot;],[1550711499,&quot;1&quot;],[1550711509,&quot;1&quot;],[1550711519,&quot;1&quot;],[1550711529,&quot;1&quot;],[1550711539,&quot;1&quot;],[1550711549,&quot;1&quot;]]}]}};</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
