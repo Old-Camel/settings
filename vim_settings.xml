@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/data/code/testitem/src/main/java/com/yunzainfo/testitem/module/user/service/impl/UserServiceImpl.java" timestamp="1541484148325">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/resources/bootstrap.properties" timestamp="1550655095713">
+      <file name="$USER_HOME$/data/code/sailor/src/main/resources/bootstrap.properties" timestamp="1550716177823">
         <mark key="[" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/CourseController.java" timestamp="1549933250223">
@@ -502,7 +502,7 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/coursetraining/CourseTrainingWindow.js" timestamp="1540613450497">
         <mark key="[" line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/resources/application-local.properties" timestamp="1547601529861">
+      <file name="$USER_HOME$/data/code/sailor/src/main/resources/application-local.properties" timestamp="1550716189319">
         <mark key="[" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/BaseSchedule.java" timestamp="1540180263482">
@@ -765,11 +765,12 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/majorteacher/AddTeacherFormWin.js" timestamp="1540887852774">
         <mark key="[" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550715297882">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1550718103387">
+        <mark key="'" line="237" column="14" />
+        <mark key="[" line="307" column="13" />
+        <mark key="]" line="246" column="30" />
+        <mark key="." line="246" column="30" />
+        <mark key="^" line="246" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/swagger-bootstrap-ui/pom.xml" timestamp="1550141388866">
         <mark key="[" line="7" column="18" />
@@ -844,8 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="32" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
-      <jump line="1142" column="41" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="397" column="9" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="1058" column="12" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="386" column="20" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
@@ -944,6 +943,8 @@
       <jump line="329" column="16" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" />
       <jump line="76" column="21" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" />
       <jump line="68" column="46" filename="$USER_HOME$/data/code/sailor/src/test/java/PromeqlTest.java" />
+      <jump line="222" column="15" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
+      <jump line="235" column="14" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -959,7 +960,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;status&quot;:&quot;success&quot;,&quot;data&quot;:{&quot;resultType&quot;:&quot;matrix&quot;,&quot;result&quot;:[{&quot;metric&quot;:{},&quot;values&quot;:[[1550711249,&quot;1&quot;],[1550711259,&quot;1&quot;],[1550711269,&quot;1&quot;],[1550711279,&quot;1&quot;],[1550711289,&quot;1&quot;],[1550711299,&quot;1&quot;],[1550711309,&quot;1&quot;],[1550711319,&quot;1&quot;],[1550711329,&quot;1&quot;],[1550711339,&quot;1&quot;],[1550711349,&quot;1&quot;],[1550711359,&quot;1&quot;],[1550711369,&quot;1&quot;],[1550711379,&quot;1&quot;],[1550711389,&quot;1&quot;],[1550711399,&quot;1&quot;],[1550711409,&quot;1&quot;],[1550711419,&quot;1&quot;],[1550711429,&quot;1&quot;],[1550711439,&quot;1&quot;],[1550711449,&quot;1&quot;],[1550711459,&quot;1&quot;],[1550711469,&quot;1&quot;],[1550711479,&quot;1&quot;],[1550711489,&quot;1&quot;],[1550711499,&quot;1&quot;],[1550711509,&quot;1&quot;],[1550711519,&quot;1&quot;],[1550711529,&quot;1&quot;],[1550711539,&quot;1&quot;],[1550711549,&quot;1&quot;]]}]}</text>
+        <text encoding="base64">IHRoaXMucHJvcHMuc2VydmljZVN0YXR1cy5maXh4c0J5U2VydmljZURhdGE=</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
