@@ -648,10 +648,11 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/HomeworkTea.java" timestamp="1541042792271">
         <mark key="[" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1550820895019">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1550822156950">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="46" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/ThirdPartyAuth.java" timestamp="1546935257236">
         <mark key="[" line="32" column="65" />
@@ -930,7 +931,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>sortItem</text>
+        <text>oneSI.getDisplayIndex()</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
