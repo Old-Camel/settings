@@ -112,11 +112,11 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/entity/FileCategory.java" timestamp="1547084759765">
         <mark key="[" line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1550807004791">
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1550807655478">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-api/src/main/java/com/yunzainfo/pitcher/plugin/resourcec/service/MajorTeacherService.java" timestamp="1540885802595">
         <mark key="[" line="77" column="49" />
@@ -646,7 +646,7 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/SailorControllerAspect.java" timestamp="1547101111764">
         <mark key="[" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/KubernetesClientConfig.java" timestamp="1550807021112">
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/KubernetesClientConfig.java" timestamp="1550807639908">
         <mark key="[" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resource-web/src/main/webapp/resources/js/course/CourseFormPanel.js" timestamp="1534930527121">
@@ -917,7 +917,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGs=</text>
+        <text>http://222.30.194.225:8080&quot;</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
