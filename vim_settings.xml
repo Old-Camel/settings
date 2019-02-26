@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.less" timestamp="1547459888526">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551151632126">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551173199027">
         <mark key="[" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/TeacherSignStatistical.java" timestamp="1540192724415">
@@ -387,11 +387,14 @@
         <mark key="[" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.less" timestamp="1551151650732" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551172150409">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="313" column="19" />
-        <mark key="^" line="313" column="19" />
-        <mark key="." line="313" column="19" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551173605147">
+        <mark key="q" line="768" column="63" />
+        <mark key="a" line="264" column="14" />
+        <mark key="'" line="768" column="10" />
+        <mark key="[" line="97" column="3" />
+        <mark key="]" line="97" column="3" />
+        <mark key="^" line="59" column="2" />
+        <mark key="." line="97" column="3" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/subject.jsp" timestamp="1540571894975">
         <mark key="[" line="16" column="25" />
@@ -542,6 +545,7 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/myResource/MyResourceFormPanel.js" timestamp="1541141337696">
         <mark key="[" line="285" column="92" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1551172280795" />
       <file name="$USER_HOME$/data/code/testitem/src/main/resources/spring/mybatis-ti.xml" timestamp="1541485930495">
         <mark key="[" line="2" column="15" />
       </file>
@@ -911,7 +915,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SaUser.java" timestamp="1548815096839">
         <mark key="[" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/rolegroup.js" timestamp="1551170444087">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/rolegroup.js" timestamp="1551172398328">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
@@ -940,10 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1058" column="12" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
-      <jump line="386" column="20" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
-      <jump line="195" column="55" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
-      <jump line="238" column="15" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="279" column="44" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="595" column="11" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="157" column="24" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/menu.js" />
@@ -1040,6 +1040,10 @@
       <jump line="222" column="15" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
       <jump line="235" column="14" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
       <jump line="50" column="38" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
+      <jump line="326" column="15" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
+      <jump line="332" column="2" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
+      <jump line="318" column="22" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
+      <jump line="822" column="10" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1055,7 +1059,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>roleValue</text>
+        <text>rolegroup</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -1064,56 +1068,34 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KHJvb3QsIHF1ZXJ5LCBjYikgLT4gewogICAgICAgICAgICBMaXN0PFByZWRpY2F0ZT4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8UHJlZGljYXRlPigpOwogICAgICAgICAgICBsaXN0LmFkZChjYi5lcXVhbChyb290LmdldCgic3RhdHVzIiksIDEpKTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90Qmxhbmsocm9sZU5hbWUpKSB7CiAgICAgICAgICAgICAgICBQYXRoPFN0cmluZz4gcm9sZU4gPSByb290LmdldCgicm9sZU5hbWUiKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNiLmxpa2Uocm9sZU4sICIlIiArIHJvbGVOYW1lICsgIiUiKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90Qmxhbmsocm9sZVZhbHVlKSkgewogICAgICAgICAgICAgICAgUGF0aDxTdHJpbmc+IHJvbGVWID0gcm9vdC5nZXQoInJvbGVWYWx1ZSIpOwogICAgICAgICAgICAgICAgbGlzdC5hZGQoY2IubGlrZShyb2xlViwgIiUiICsgcm9sZVZhbHVlICsgIiUiKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgUHJlZGljYXRlW10gcHJlcyA9IG5ldyBQcmVkaWNhdGVbbGlzdC5zaXplKCldOwogICAgICAgICAgICByZXR1cm4gY2IuYW5kKGxpc3QudG9BcnJheShwcmVzKSk7CiAgICAgICAgfSw=</text>
+        <text encoding="base64">IGNvbnN0IHJvbGVJZHMgPSAoKSA9PiB7CiAgICAgIGxldCByb2xlaWRzID0gW107CiAgICAgIGlmIChyZWNvcmQpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBQYWdlPFJvbGVHcm91cD4gcGFnZSA9IHNlcnZpY2UucXVlcnlMaXN0Rm9yUGFnZSgocm9vdCwgcXVlcnksIGNiKSAtPiB7CiAgICAgICAgICAgIExpc3Q8UHJlZGljYXRlPiBsaXN0ID0gbmV3IEFycmF5TGlzdDxQcmVkaWNhdGU+KCk7CiAgICAgICAgICAgIGxpc3QuYWRkKGNiLmVxdWFsKHJvb3QuZ2V0KCJzdGF0dXMiKSwgMSkpOwogICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhyb2xlTmFtZSkpIHsKICAgICAgICAgICAgICAgIFBhdGg8U3RyaW5nPiByb2xlTiA9IHJvb3QuZ2V0KCJyb2xlTmFtZSIpOwogICAgICAgICAgICAgICAgbGlzdC5hZGQoY2IubGlrZShyb2xlTiwgIiUiICsgcm9sZU5hbWUgKyAiJSIpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhyb2xlVmFsdWUpKSB7CiAgICAgICAgICAgICAgICBQYXRoPFN0cmluZz4gcm9sZVYgPSByb290LmdldCgicm9sZVZhbHVlIik7CiAgICAgICAgICAgICAgICBsaXN0LmFkZChjYi5saWtlKHJvbGVWLCAiJSIgKyByb2xlVmFsdWUgKyAiJSIpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBQcmVkaWNhdGVbXSBwcmVzID0gbmV3IFByZWRpY2F0ZVtsaXN0LnNpemUoKV07CiAgICAgICAgICAgIHJldHVybiBjYi5hbmQobGlzdC50b0FycmF5KHByZXMpKTsKICAgICAgICB9LCBwYWdlYWJsZSk7</text>
+        <text encoding="base64">ICBjb25zdCByb2xlSWRzID0gKCkgPT4gewogICAgICBsZXQgcm9sZWlkcyA9IFtdOwogICAgICBpZiAocmVjb3JkJiYhdGhpcy5zdGF0ZS5jaGFuZ2UpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5p+l6K+i5omA5pyJ6KeS6Imy57uEIiwgbm90ZXMgPSAi5p+l6K+i5omA5pyJ6KeS6Imy57uEIikKICAgIEBHZXRNYXBwaW5nKHZhbHVlID0gIi9hbGwiKQogICAgcHVibGljICBSZXNwb25zZUVudGl0eTw/PiBmaW5kQWxsUm9sZXMoKSB7CiAgICAgICAgU3BlY2lmaWNhdGlvbjxSb2xlR3JvdXA+IHNwZWMgPSBTcGVjaWZpY2F0aW9ucy48Um9sZUdyb3VwPmFuZCgpLmVxKCJzdGF0dXMiLCAxKS5idWlsZCgpOwogICAgICAgIExpc3Q8Um9sZUdyb3VwPiBsaXN0ID0gc2VydmljZS5maW5kQWxsUm9sZXNCeVBhZ2Uoc3BlYyk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCLmiYDmnInop5LoibLnu4QiLGxpc3QpOwogICAgfQ==</text>
+        <text encoding="base64">ICAgY29uc3QgcmVzZXRGb3JtID0gKCkgPT4gewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBjaGFuZ2U6ZmFsc2UsCiAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdLAogICAgICB9KTsKICAgICAgZm9ybS5yZXNldEZpZWxkcygpOwogICAgfTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IAogICAgcmVzZXRTZWFyY2hSb2xlcyhzdGF0ZSl7CiAgICAgIHJldHVybnsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzZWFyY2hSb2xlczpbXQogICAgICB9OwogICAgfSw=</text>
+        <text encoding="base64">Y29uc3Qgb2tIYW5kbGUgPSAoKSA9PiB7CiAgICAgIGZvcm0udmFsaWRhdGVGaWVsZHMoKGVyciwgZmllbGRzVmFsdWUpID0+IHsKICAgICAgICBpZiAoZXJyKSByZXR1cm47CiAgICAgICAgbGV0IHN0YXR1cyA9IGZpZWxkc1ZhbHVlLnN0YXR1cyA/IDEgOiAwOwogICAgICAgIGxldCB2YWx1ZXM7CiAgICAgICAgaWYgKCF0aGlzLnN0YXRlLnRhYkNoYW5nZSAmJiByZWNvcmQpIHsKICAgICAgICAgIHZhbHVlcyA9IHsKICAgICAgICAgICAgLi4uZmllbGRzVmFsdWUsCiAgICAgICAgICAgIHN0YXR1czogc3RhdHVzLAogICAgICAgICAgfTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdmFsdWVzID0gewogICAgICAgICAgICAuLi5maWVsZHNWYWx1ZSwKICAgICAgICAgICAgc3RhdHVzOiBzdGF0dXMsCiAgICAgICAgICAgIHJvbGVzOiBzZWxlY3RlZFJvd3MsCiAgICAgICAgICB9OwogICAgICAgIH0KICAgICAgICByZWNvcmQgPT0gbnVsbAogICAgICAgICAgPyBoYW5kbGVPay5hZGQodmFsdWVzLCByZXNldEZvcm0pCiAgICAgICAgICA6IGhhbmRsZU9rLmVkaXQoey4uLnJlY29yZCwgLi4udmFsdWVzfSwgcmVzZXRGb3JtKTsKICAgICAgfSk7CiAgICB9Ow==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgc2F2ZVNlYXJjaFJvbGVzKHN0YXRlLCB7IHBheWxvYWQgfSkgewogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHNlYXJjaFJvbGVzOiBwYXlsb2FkLmRhdGEsCiAgICAgIH07CiAgICB9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gcmVjb3JkID8gcmVjb3JkLnVzZXJJZCA6IG51bGw7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>*searchRoles({payload,callback},{call,put }){
-      const response=yield call(searchRoles,payload);
-      yield put({
-        type: 'saveSearchUser',
-        payload: {
-          data: response.data,
-        },
-      });
-    },</text>
+        <text encoding="base64">IGZvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3VzZXJJZCcsIHsKICAgICAgaW5pdGlhbFZhbHVlOiBpZCwKICAgIH0pOwogICAgZm9ybS5nZXRGaWVsZERlY29yYXRvcigncGFzc3dvcmQnLCB7CiAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkID8gcmVjb3JkLnBhc3N3b3JkIDogJycsCiAgICB9KTs=</text>
       </register>
       <register name="7" type="4">
-        <text>export async function fetchRoleAuth(param) {
-  return http(Path.auth + '/rolegroup/' + param + '/ids');
-}
-export async function setMenuAndAuth(params) {
-  let form = new FormData();
-  form.set('roleId', params.roleId);
-  form.set('menuIds', params.menuIds);
-  return http(Path.auth + '/rolegroup/menuAndAuth', {
-    method: 'POST',
-    body: form,
-  });
-}</text>
+        <text encoding="base64">ICBjb25zdCBwYXlsb2FkID0gey4uLnBhZ2VJbml0LCBwYWdlUGFyYW06IHZhbHVlc307CiAgICAgIC8vIGRpc3BhdGNoKHsKICAgICAgLy8gICB0eXBlOiAndXNlci9mZXRjaCcsCiAgICAgIC8vICAgcGF5bG9hZDogcGF5bG9hZCwKICAgICAgLy8gfSk7</text>
       </register>
       <register name="8" type="4">
-        <text>//给角色添加用户的时候的搜索接口
-export async function searchRoles(param) {
-  return http(Path.auth + '/baseUser/search?param=' + param);
-}</text>
+        <text encoding="base64">ICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdkZXB0L2ZldGNoRGVwdFRyZWUnLAogICAgICBwYXlsb2FkOiBbXSwKICAgIH0pOw==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICpzZXRBdXRoKHsgcGF5bG9hZCwgY2FsbGJhY2sgfSwgeyBjYWxsIH0pIHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSB5aWVsZCBjYWxsKHNldE1lbnVBbmRBdXRoLCBwYXlsb2FkKTsKICAgICAgY2FsbGJhY2soKTsKICAgICAgc3VjY2VzcyhyZXNwb25zZSwgbnVsbCk7CiAgICB9LA==</text>
+        <text encoding="base64">ICAvKiAgbGV0IHt1c2VyQ2xlYXJGaWx0ZXJzLGRlcHRDbGVhckZpbHRlcnN9PXRoaXMuc3RhdGU7CiAgICBpZih1c2VyQ2xlYXJGaWx0ZXJzKXVzZXJDbGVhckZpbHRlcnMoKTsKICAgIGlmKGRlcHRDbGVhckZpbHRlcnMpZGVwdENsZWFyRmlsdGVycygpOwogICAgaWYodXNlckNsZWFyRmlsdGVycyl1c2VyQ2xlYXJGaWx0ZXJzKCk7CiAgICBpZihkZXB0Q2xlYXJGaWx0ZXJzKWRlcHRDbGVhckZpbHRlcnMoKTsqLw==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
