@@ -710,7 +710,11 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/bootstrap.properties" timestamp="1550563448006">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1551175974358" />
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1551176038059">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/SiderMenu/index.less" timestamp="1550829345422">
         <mark key="[" line="30" column="13" />
       </file>
@@ -1064,34 +1068,34 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJhIiBqZGJjVHlwZT0iREVDSU1BTCIgcHJvcGVydHk9ImEiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNvbnN0IHJvbGVJZHMgPSAoKSA9PiB7CiAgICAgIGxldCByb2xlaWRzID0gW107CiAgICAgIGlmIChyZWNvcmQpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
+        <text encoding="base64">ICBsb2dvdXQ6YGh0dHA6Ly8yMjIuMzAuMTkyLjE4Mjo4MDkwL2FwcC9sb2dvdXQ/Y2FsbGJhY2s9JHtlbmNvZGVVUkkod2luZG93LmxvY2F0aW9uLmhyZWYpfWAsCiAgLy8gIGxvZ2luOiAnaHR0cDovL2xvY2FsaG9zdDo4MDgxL2FwcHMvY2xvdWQtYXV0aC8jL2xvZ2luP3JlZGlyZWN0PScrd2luZG93LmxvY2F0aW9uLmhyZWYKICBjYXM6ICdodHRwOi8vMjIyLjMwLjE5Mi4xODI6ODA5MCcs</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBjb25zdCByb2xlSWRzID0gKCkgPT4gewogICAgICBsZXQgcm9sZWlkcyA9IFtdOwogICAgICBpZiAocmVjb3JkJiYhdGhpcy5zdGF0ZS5jaGFuZ2UpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
+        <text encoding="base64">IGNvbnN0IHJvbGVJZHMgPSAoKSA9PiB7CiAgICAgIGxldCByb2xlaWRzID0gW107CiAgICAgIGlmIChyZWNvcmQpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgY29uc3QgcmVzZXRGb3JtID0gKCkgPT4gewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBjaGFuZ2U6ZmFsc2UsCiAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdLAogICAgICB9KTsKICAgICAgZm9ybS5yZXNldEZpZWxkcygpOwogICAgfTs=</text>
+        <text encoding="base64">ICBjb25zdCByb2xlSWRzID0gKCkgPT4gewogICAgICBsZXQgcm9sZWlkcyA9IFtdOwogICAgICBpZiAocmVjb3JkJiYhdGhpcy5zdGF0ZS5jaGFuZ2UpIHsKICAgICAgICByb2xlaWRzID0gcmVjb3JkLnJvbGVzLmZpbHRlcihpdGVtPT5pdGVtLnN0YXR1cz09MSkubWFwKGl0ZW0gPT4gaXRlbS5pZCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcm9sZWlkcyA9IHNlbGVjdGVkUm93S2V5czsKICAgICAgfQogICAgICByZXR1cm4gcm9sZWlkczsKICAgIH07</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgY29uc3QgcmVzZXRGb3JtID0gKCkgPT4gewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBjaGFuZ2U6ZmFsc2UsCiAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgICBzZWxlY3RlZFJvd0tleXM6IFtdLAogICAgICB9KTsKICAgICAgZm9ybS5yZXNldEZpZWxkcygpOwogICAgfTs=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Y29uc3Qgb2tIYW5kbGUgPSAoKSA9PiB7CiAgICAgIGZvcm0udmFsaWRhdGVGaWVsZHMoKGVyciwgZmllbGRzVmFsdWUpID0+IHsKICAgICAgICBpZiAoZXJyKSByZXR1cm47CiAgICAgICAgbGV0IHN0YXR1cyA9IGZpZWxkc1ZhbHVlLnN0YXR1cyA/IDEgOiAwOwogICAgICAgIGxldCB2YWx1ZXM7CiAgICAgICAgaWYgKCF0aGlzLnN0YXRlLnRhYkNoYW5nZSAmJiByZWNvcmQpIHsKICAgICAgICAgIHZhbHVlcyA9IHsKICAgICAgICAgICAgLi4uZmllbGRzVmFsdWUsCiAgICAgICAgICAgIHN0YXR1czogc3RhdHVzLAogICAgICAgICAgfTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgdmFsdWVzID0gewogICAgICAgICAgICAuLi5maWVsZHNWYWx1ZSwKICAgICAgICAgICAgc3RhdHVzOiBzdGF0dXMsCiAgICAgICAgICAgIHJvbGVzOiBzZWxlY3RlZFJvd3MsCiAgICAgICAgICB9OwogICAgICAgIH0KICAgICAgICByZWNvcmQgPT0gbnVsbAogICAgICAgICAgPyBoYW5kbGVPay5hZGQodmFsdWVzLCByZXNldEZvcm0pCiAgICAgICAgICA6IGhhbmRsZU9rLmVkaXQoey4uLnJlY29yZCwgLi4udmFsdWVzfSwgcmVzZXRGb3JtKTsKICAgICAgfSk7CiAgICB9Ow==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGlkID0gcmVjb3JkID8gcmVjb3JkLnVzZXJJZCA6IG51bGw7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGZvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3VzZXJJZCcsIHsKICAgICAgaW5pdGlhbFZhbHVlOiBpZCwKICAgIH0pOwogICAgZm9ybS5nZXRGaWVsZERlY29yYXRvcigncGFzc3dvcmQnLCB7CiAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkID8gcmVjb3JkLnBhc3N3b3JkIDogJycsCiAgICB9KTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBjb25zdCBwYXlsb2FkID0gey4uLnBhZ2VJbml0LCBwYWdlUGFyYW06IHZhbHVlc307CiAgICAgIC8vIGRpc3BhdGNoKHsKICAgICAgLy8gICB0eXBlOiAndXNlci9mZXRjaCcsCiAgICAgIC8vICAgcGF5bG9hZDogcGF5bG9hZCwKICAgICAgLy8gfSk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdkZXB0L2ZldGNoRGVwdFRyZWUnLAogICAgICBwYXlsb2FkOiBbXSwKICAgIH0pOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAvKiAgbGV0IHt1c2VyQ2xlYXJGaWx0ZXJzLGRlcHRDbGVhckZpbHRlcnN9PXRoaXMuc3RhdGU7CiAgICBpZih1c2VyQ2xlYXJGaWx0ZXJzKXVzZXJDbGVhckZpbHRlcnMoKTsKICAgIGlmKGRlcHRDbGVhckZpbHRlcnMpZGVwdENsZWFyRmlsdGVycygpOwogICAgaWYodXNlckNsZWFyRmlsdGVycyl1c2VyQ2xlYXJGaWx0ZXJzKCk7CiAgICBpZihkZXB0Q2xlYXJGaWx0ZXJzKWRlcHRDbGVhckZpbHRlcnMoKTsqLw==</text>
+        <text encoding="base64">ICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdkZXB0L2ZldGNoRGVwdFRyZWUnLAogICAgICBwYXlsb2FkOiBbXSwKICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
