@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/data/code/sailor/config/application-dev.properties" timestamp="1550805630081">
         <mark key="[" line="37" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1550824857780" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1551235675940" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/User.java" timestamp="1548235835477">
         <mark key="[" line="21" column="1" />
       </file>
@@ -272,7 +272,7 @@
         <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/AuthServerApplication.java" timestamp="1550558360086">
-        <mark key="[" line="36" column="5" />
+        <mark key="[" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SchoolServiceImpl.java" timestamp="1550822677013">
         <mark key="[" line="70" column="8" />
@@ -478,10 +478,10 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/META-INF/app.properties" timestamp="1550806434889">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/RoleGroupController.java" timestamp="1551234921727">
-        <mark key="[" line="91" column="40" />
-        <mark key="]" line="91" column="40" />
-        <mark key="." line="91" column="40" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/RoleGroupController.java" timestamp="1551236084494">
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="16" />
+        <mark key="." line="101" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1551160939782">
         <mark key="[" line="0" column="0" />
@@ -778,10 +778,10 @@
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleGroupServiceImpl.java" timestamp="1551170823243">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleGroupServiceImpl.java" timestamp="1551236031788">
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="18" />
+        <mark key="." line="64" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/AttendanceStatisticsMapper.xml" timestamp="1540872730982">
         <mark key="[" line="102" column="63" />
@@ -831,9 +831,6 @@
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/util/IPUtils.java" timestamp="1549170402558">
         <mark key="[" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/RoleUserDept.java" timestamp="1551150180234">
-        <mark key="[" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/docker.js" timestamp="1550730588661">
         <mark key="[" line="14" column="0" />
@@ -900,8 +897,10 @@
       <file name="$USER_HOME$/data/code/notice/notice-web/src/main/java/com/yunzainfo/cloud/notice/config/ResourceServerConfig.java" timestamp="1547630585680">
         <mark key="[" line="40" column="88" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/RoleGroupService.java" timestamp="1551170795082">
-        <mark key="[" line="14" column="66" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/RoleGroupService.java" timestamp="1551235180865">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1551151569485">
         <mark key="[" line="20" column="20" />
@@ -1059,7 +1058,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>oneRole.getRoleName()+&quot;-用户列表&quot;,baseUsers)</text>
+        <text>addRole</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
