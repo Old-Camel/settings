@@ -387,14 +387,14 @@
         <mark key="[" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.less" timestamp="1551151650732" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551256301369">
-        <mark key="q" line="805" column="63" />
-        <mark key="a" line="285" column="14" />
-        <mark key="'" line="805" column="10" />
-        <mark key="[" line="527" column="21" />
-        <mark key="]" line="527" column="21" />
-        <mark key="^" line="579" column="18" />
-        <mark key="." line="527" column="21" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551260690771">
+        <mark key="q" line="826" column="63" />
+        <mark key="a" line="290" column="14" />
+        <mark key="'" line="826" column="10" />
+        <mark key="[" line="75" column="11" />
+        <mark key="]" line="821" column="32" />
+        <mark key="^" line="821" column="32" />
+        <mark key="." line="821" column="32" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/subject.jsp" timestamp="1540571894975">
         <mark key="[" line="16" column="25" />
@@ -1059,7 +1059,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.selectedRows[0],</text>
+        <text>roles,</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
