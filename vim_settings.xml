@@ -387,14 +387,14 @@
         <mark key="[" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.less" timestamp="1551151650732" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551248376879">
-        <mark key="q" line="804" column="63" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551256301369">
+        <mark key="q" line="805" column="63" />
         <mark key="a" line="285" column="14" />
-        <mark key="'" line="804" column="10" />
-        <mark key="[" line="522" column="8" />
-        <mark key="]" line="522" column="8" />
-        <mark key="^" line="578" column="18" />
-        <mark key="." line="522" column="8" />
+        <mark key="'" line="805" column="10" />
+        <mark key="[" line="527" column="21" />
+        <mark key="]" line="527" column="21" />
+        <mark key="^" line="579" column="18" />
+        <mark key="." line="527" column="21" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/subject.jsp" timestamp="1540571894975">
         <mark key="[" line="16" column="25" />
@@ -915,11 +915,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SaUser.java" timestamp="1548815096839">
         <mark key="[" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/rolegroup.js" timestamp="1551237077318">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/rolegroup.js" timestamp="1551256319116">
         <mark key="[" line="64" column="41" />
-        <mark key="]" line="64" column="41" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="90" column="4" />
+        <mark key="]" line="72" column="41" />
+        <mark key="." line="72" column="41" />
+        <mark key="^" line="72" column="41" />
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1550033938136">
         <mark key="[" line="53" column="33" />
@@ -1059,7 +1059,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>roles</text>
+        <text>this.state.selectedRows[0],</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
