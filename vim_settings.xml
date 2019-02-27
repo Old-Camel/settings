@@ -387,14 +387,14 @@
         <mark key="[" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.less" timestamp="1551151650732" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551230477975">
-        <mark key="q" line="767" column="63" />
-        <mark key="a" line="263" column="14" />
-        <mark key="'" line="767" column="10" />
-        <mark key="[" line="705" column="79" />
-        <mark key="]" line="97" column="3" />
-        <mark key="^" line="59" column="2" />
-        <mark key="." line="97" column="3" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" timestamp="1551234440989">
+        <mark key="q" line="769" column="63" />
+        <mark key="a" line="265" column="14" />
+        <mark key="'" line="769" column="10" />
+        <mark key="[" line="707" column="79" />
+        <mark key="]" line="95" column="3" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="95" column="3" />
       </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/views/subject.jsp" timestamp="1540571894975">
         <mark key="[" line="16" column="25" />
@@ -478,10 +478,10 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/META-INF/app.properties" timestamp="1550806434889">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/RoleGroupController.java" timestamp="1551171391436">
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/RoleGroupController.java" timestamp="1551234921727">
+        <mark key="[" line="91" column="40" />
+        <mark key="]" line="91" column="40" />
+        <mark key="." line="91" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1551160939782">
         <mark key="[" line="0" column="0" />
@@ -545,7 +545,7 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-web/src/main/webapp/resources/js/myResource/MyResourceFormPanel.js" timestamp="1541141337696">
         <mark key="[" line="285" column="92" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1551172280795" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1551233352605" />
       <file name="$USER_HOME$/data/code/testitem/src/main/resources/spring/mybatis-ti.xml" timestamp="1541485930495">
         <mark key="[" line="2" column="15" />
       </file>
@@ -1059,7 +1059,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>rolegroup</text>
+        <text>oneRole.getRoleName()+&quot;-用户列表&quot;,baseUsers)</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
