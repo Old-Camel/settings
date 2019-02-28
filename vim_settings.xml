@@ -273,7 +273,11 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1547518515428">
         <mark key="[" line="66" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" timestamp="1551344058124" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" timestamp="1551345672571">
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
+      </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/service/AppService.java" timestamp="1547084948137">
         <mark key="[" line="10" column="15" />
       </file>
@@ -1093,7 +1097,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.udpate ? this.state.checkedKeys : deptKeys</text>
+        <text>departMentRepository</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -1102,36 +1106,34 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">b25zdCBva0hhbmRsZSA9ICgpID0+IHsKICAgICAgaGFuZGxlTW9kYWxWaXNpYmxlKCk7CiAgICB9Ow==</text>
+        <text encoding="base64">IExpc3Q8Um9sZVVzZXJEZXB0PiB0ZW1wID0gcmVzcG9zaXRvcnkuZmluZEFsbEJ5VXNlcklkRXF1YWxzQW5kUm9sZUlkRXF1YWxzKHVzZXJJZCwgZGVwdElkKTsKICAgICAgICAgICAgICAgICAgICB0ZW1wLmdldCgwKS4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">b25zdCBva0hhbmRsZSA9ICgpID0+IHsKICAgICAgaGFuZGxlTW9kYWxWaXNpYmxlKCk7CiAgICB9Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSlkZAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfSlkZAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">U3IK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBSb2xlR3JvdXAgZmluZE9uZVJvbGVCeUNvZGUoU3RyaW5nIGNvZGUpOwogICB2b2lkIGFkZFJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOwogICB2b2lkIGRlbGV0ZVJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBvbkV4cGFuZCA9IChleHBhbmRlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkV4cGFuZCcsIGV4cGFuZGVkS2V5cyk7CiAgICAvLyBpZiBub3Qgc2V0IGF1dG9FeHBhbmRQYXJlbnQgdG8gZmFsc2UsIGlmIGNoaWxkcmVuIGV4cGFuZGVkLCBwYXJlbnQgY2FuIG5vdCBjb2xsYXBzZS4KICAgIC8vIG9yLCB5b3UgY2FuIHJlbW92ZSBhbGwgZXhwYW5kZWQgY2hpbGRyZW4ga2V5cy4KICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBleHBhbmRlZEtleXMsCiAgICAvLyAgIGF1dG9FeHBhbmRQYXJlbnQ6IGZhbHNlLAogICAgLy8gfSk7CiAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBvblNlbGVjdCA9IChzZWxlY3RlZEtleXMsIGluZm8pID0+IHsKICAgIGNvbnNvbGUubG9nKCdvblNlbGVjdCcsIGluZm8pOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHNlbGVjdGVkS2V5cyB9KTsKICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGlmIChpdGVtLmNoaWxkcmVuKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtpdGVtLnRpdGxlfSBrZXk9e2l0ZW0ua2V5fSBkYXRhUmVmPXtpdGVtfT4KICAgICAgICAgIHtyZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0K</text>
-      </register>
       <register name="9" type="4">
-        <text>state={
-   
- }</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtLmNoaWxkcmVuKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtpdGVtLnRpdGxlfSBrZXk9e2l0ZW0ua2V5fSBkYXRhUmVmPXtpdGVtfT4KICAgICAgICAgIHtyZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>582</text>
