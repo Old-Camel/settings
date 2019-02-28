@@ -38,7 +38,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/User.java" timestamp="1548235835477">
         <mark key="[" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/role.js" timestamp="1551333620401">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/role.js" timestamp="1551336789851">
         <mark key="[" line="66" column="1" />
         <mark key="]" line="66" column="25" />
         <mark key="^" line="66" column="25" />
@@ -115,13 +115,13 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.less" timestamp="1547459888526">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551335154202">
-        <mark key="a" line="576" column="1" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551338288820">
+        <mark key="a" line="577" column="1" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="584" column="64" />
-        <mark key="]" line="584" column="59" />
-        <mark key="." line="584" column="59" />
-        <mark key="^" line="584" column="59" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="868" column="49" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/TeacherSignStatistical.java" timestamp="1540192724415">
         <mark key="[" line="13" column="27" />
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/entity/FileCategory.java" timestamp="1547084759765">
         <mark key="[" line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/role.js" timestamp="1551335068480">
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/role.js" timestamp="1551336373217">
         <mark key="[" line="93" column="54" />
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
@@ -808,11 +808,11 @@
         <mark key="]" line="64" column="18" />
         <mark key="." line="64" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseRoleController.java" timestamp="1551333146296">
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseRoleController.java" timestamp="1551336552148">
         <mark key="[" line="232" column="83" />
-        <mark key="]" line="233" column="47" />
-        <mark key="." line="233" column="47" />
-        <mark key="^" line="233" column="47" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="229" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/AttendanceStatisticsMapper.xml" timestamp="1540872730982">
         <mark key="[" line="102" column="63" />
@@ -1091,7 +1091,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text>disableCheckbox</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -1132,7 +1132,7 @@
  }</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>582</text>
       </register>
     </registers>
     <search>
@@ -1157,6 +1157,7 @@
         <entry>54</entry>
         <entry>74</entry>
         <entry>action Find</entry>
+        <entry>582</entry>
       </history-cmd>
       <history-expr />
       <history-input />
