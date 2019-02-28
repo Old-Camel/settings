@@ -38,6 +38,12 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/User.java" timestamp="1548235835477">
         <mark key="[" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/models/role.js" timestamp="1551333620401">
+        <mark key="[" line="66" column="1" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+      </file>
       <file name="$USER_HOME$/data/code/server/client/src/test/java/com/yunzainfo/gprc/client/ClientApplicationTests.java" timestamp="1550646044430">
         <mark key="[" line="332" column="21" />
       </file>
@@ -109,13 +115,13 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.less" timestamp="1547459888526">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551332100657">
-        <mark key="a" line="828" column="16" />
-        <mark key="'" line="61" column="9" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551335154202">
+        <mark key="a" line="576" column="1" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="584" column="64" />
+        <mark key="]" line="584" column="59" />
+        <mark key="." line="584" column="59" />
+        <mark key="^" line="584" column="59" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/TeacherSignStatistical.java" timestamp="1540192724415">
         <mark key="[" line="13" column="27" />
@@ -126,10 +132,11 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/entity/FileCategory.java" timestamp="1547084759765">
         <mark key="[" line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/role.js" timestamp="1551333337902">
-        <mark key="[" line="80" column="39" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="39" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/role.js" timestamp="1551335068480">
+        <mark key="[" line="93" column="54" />
+        <mark key="]" line="82" column="34" />
+        <mark key="." line="82" column="34" />
+        <mark key="^" line="82" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1550807655478">
         <mark key="[" line="26" column="32" />
@@ -969,12 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/UserPage/Userpage.js" />
-      <jump line="298" column="1" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
-      <jump line="79" column="19" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
-      <jump line="82" column="12" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
-      <jump line="267" column="10" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
-      <jump line="74" column="5" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/dept.js" />
       <jump line="31" column="3" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/dept.js" />
       <jump line="64" column="5" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/dept.js" />
       <jump line="144" column="15" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
@@ -1061,7 +1062,6 @@
       <jump line="318" column="22" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
       <jump line="822" column="10" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/RoleGroup.js" />
       <jump line="774" column="27" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
-      <jump line="24" column="14" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="775" column="0" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="525" column="20" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="25" column="51" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
@@ -1069,6 +1069,13 @@
       <jump line="30" column="9" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="28" column="56" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" />
       <jump line="13" column="0" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" />
+      <jump line="269" column="1" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="575" column="29" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="214" column="26" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="35" column="29" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1084,45 +1091,45 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>fetch</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="4">
-        <text>modalVisible</text>
+        <text>deptKeys</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">U3IK</text>
+      <register name="1" type="4">
+        <text encoding="base64">b25zdCBva0hhbmRsZSA9ICgpID0+IHsKICAgICAgaGFuZGxlTW9kYWxWaXNpYmxlKCk7CiAgICB9Ow==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBSb2xlR3JvdXAgZmluZE9uZVJvbGVCeUNvZGUoU3RyaW5nIGNvZGUpOwogICB2b2lkIGFkZFJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOwogICB2b2lkIGRlbGV0ZVJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBvbkV4cGFuZCA9IChleHBhbmRlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkV4cGFuZCcsIGV4cGFuZGVkS2V5cyk7CiAgICAvLyBpZiBub3Qgc2V0IGF1dG9FeHBhbmRQYXJlbnQgdG8gZmFsc2UsIGlmIGNoaWxkcmVuIGV4cGFuZGVkLCBwYXJlbnQgY2FuIG5vdCBjb2xsYXBzZS4KICAgIC8vIG9yLCB5b3UgY2FuIHJlbW92ZSBhbGwgZXhwYW5kZWQgY2hpbGRyZW4ga2V5cy4KICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBleHBhbmRlZEtleXMsCiAgICAvLyAgIGF1dG9FeHBhbmRQYXJlbnQ6IGZhbHNlLAogICAgLy8gfSk7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSlkZAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBvblNlbGVjdCA9IChzZWxlY3RlZEtleXMsIGluZm8pID0+IHsKICAgIGNvbnNvbGUubG9nKCdvblNlbGVjdCcsIGluZm8pOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHNlbGVjdGVkS2V5cyB9KTsKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">U3IK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGlmIChpdGVtLmNoaWxkcmVuKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtpdGVtLnRpdGxlfSBrZXk9e2l0ZW0ua2V5fSBkYXRhUmVmPXtpdGVtfT4KICAgICAgICAgIHtyZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0K</text>
+        <text encoding="base64">ICBSb2xlR3JvdXAgZmluZE9uZVJvbGVCeUNvZGUoU3RyaW5nIGNvZGUpOwogICB2b2lkIGFkZFJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOwogICB2b2lkIGRlbGV0ZVJvbGUoU3RyaW5nIHJvbGVJZCwgU3RyaW5nIGdyb3VwSWQpOw==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBvbkV4cGFuZCA9IChleHBhbmRlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkV4cGFuZCcsIGV4cGFuZGVkS2V5cyk7CiAgICAvLyBpZiBub3Qgc2V0IGF1dG9FeHBhbmRQYXJlbnQgdG8gZmFsc2UsIGlmIGNoaWxkcmVuIGV4cGFuZGVkLCBwYXJlbnQgY2FuIG5vdCBjb2xsYXBzZS4KICAgIC8vIG9yLCB5b3UgY2FuIHJlbW92ZSBhbGwgZXhwYW5kZWQgY2hpbGRyZW4ga2V5cy4KICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICBleHBhbmRlZEtleXMsCiAgICAvLyAgIGF1dG9FeHBhbmRQYXJlbnQ6IGZhbHNlLAogICAgLy8gfSk7CiAgfQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBvblNlbGVjdCA9IChzZWxlY3RlZEtleXMsIGluZm8pID0+IHsKICAgIGNvbnNvbGUubG9nKCdvblNlbGVjdCcsIGluZm8pOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHNlbGVjdGVkS2V5cyB9KTsKICB9</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGlmIChpdGVtLmNoaWxkcmVuKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPFRyZWVOb2RlIHRpdGxlPXtpdGVtLnRpdGxlfSBrZXk9e2l0ZW0ua2V5fSBkYXRhUmVmPXtpdGVtfT4KICAgICAgICAgIHtyZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0K</text>
+      </register>
+      <register name="9" type="4">
         <text>state={
    
  }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNvbnN0IHRyZWVEYXRhID0gW3sKICAgIHRpdGxlOiAnMC0wJywKICAgIGtleTogJzAtMCcsCiAgICBjaGlsZHJlbjogW3sKICAgICAgdGl0bGU6ICcwLTAtMCcsCiAgICAgIGtleTogJzAtMC0wJywKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7IHRpdGxlOiAnMC0wLTAtMCcsIGtleTogJzAtMC0wLTAnIH0sCiAgICAgICAgeyB0aXRsZTogJzAtMC0wLTEnLCBrZXk6ICcwLTAtMC0xJyB9LAogICAgICAgIHsgdGl0bGU6ICcwLTAtMC0yJywga2V5OiAnMC0wLTAtMicgfSwKICAgICAgXSwKICAgIH0sIHsKICAgICAgdGl0bGU6ICcwLTAtMScsCiAgICAgIGtleTogJzAtMC0xJywKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7IHRpdGxlOiAnMC0wLTEtMCcsIGtleTogJzAtMC0xLTAnIH0sCiAgICAgICAgeyB0aXRsZTogJzAtMC0xLTEnLCBrZXk6ICcwLTAtMS0xJyB9LAogICAgICAgIHsgdGl0bGU6ICcwLTAtMS0yJywga2V5OiAnMC0wLTEtMicgfSwKICAgICAgXSwKICAgIH0sIHsKICAgICAgdGl0bGU6ICcwLTAtMicsCiAgICAgIGtleTogJzAtMC0yJywKICAgIH1dLAogIH0sIHsKICAgIHRpdGxlOiAnMC0xJywKICAgIGtleTogJzAtMScsCiAgICBjaGlsZHJlbjogWwogICAgICB7IHRpdGxlOiAnMC0xLTAtMCcsIGtleTogJzAtMS0wLTAnIH0sCiAgICAgIHsgdGl0bGU6ICcwLTEtMC0xJywga2V5OiAnMC0xLTAtMScgfSwKICAgICAgeyB0aXRsZTogJzAtMS0wLTInLCBrZXk6ICcwLTEtMC0yJyB9LAogICAgXSwKICB9LCB7CiAgICB0aXRsZTogJzAtMicsCiAgICBrZXk6ICcwLTInLAogIH1dOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IG9uRXhwYW5kID0gKGV4cGFuZGVkS2V5cykgPT4gewogICAgY29uc29sZS5sb2coJ29uRXhwYW5kJywgZXhwYW5kZWRLZXlzKTsKICAgIC8vIGlmIG5vdCBzZXQgYXV0b0V4cGFuZFBhcmVudCB0byBmYWxzZSwgaWYgY2hpbGRyZW4gZXhwYW5kZWQsIHBhcmVudCBjYW4gbm90IGNvbGxhcHNlLgogICAgLy8gb3IsIHlvdSBjYW4gcmVtb3ZlIGFsbCBleHBhbmRlZCBjaGlsZHJlbiBrZXlzLgogICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgIGV4cGFuZGVkS2V5cywKICAgIC8vICAgYXV0b0V4cGFuZFBhcmVudDogZmFsc2UsCiAgICAvLyB9KTsKICB9CgogIG9uQ2hlY2sgPSAoY2hlY2tlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkNoZWNrJywgY2hlY2tlZEtleXMpOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IGNoZWNrZWRLZXlzIH0pOwogIH0KCiAgb25TZWxlY3QgPSAoc2VsZWN0ZWRLZXlzLCBpbmZvKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25TZWxlY3QnLCBpbmZvKTsKICAgIC8vIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RlZEtleXMgfSk7CiAgfQoKICByZW5kZXJUcmVlTm9kZXMgPSBkYXRhID0+IGRhdGEubWFwKChpdGVtKSA9PiB7CiAgICBpZiAoaXRlbS5jaGlsZHJlbikgewogICAgICByZXR1cm4gKAogICAgICAgIDxUcmVlTm9kZSB0aXRsZT17aXRlbS50aXRsZX0ga2V5PXtpdGVtLmtleX0gZGF0YVJlZj17aXRlbX0+CiAgICAgICAgICB7dGhpcy5yZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0KICAgIHJldHVybiA8VHJlZU5vZGUgey4uLml0ZW19IC8+OwogIH0pCiAgb25FeHBhbmQgPSAoZXhwYW5kZWRLZXlzKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25FeHBhbmQnLCBleHBhbmRlZEtleXMpOwogICAgLy8gaWYgbm90IHNldCBhdXRvRXhwYW5kUGFyZW50IHRvIGZhbHNlLCBpZiBjaGlsZHJlbiBleHBhbmRlZCwgcGFyZW50IGNhbiBub3QgY29sbGFwc2UuCiAgICAvLyBvciwgeW91IGNhbiByZW1vdmUgYWxsIGV4cGFuZGVkIGNoaWxkcmVuIGtleXMuCiAgICAvKnRoaXMuc2V0U3RhdGUoewogICAgICBleHBhbmRlZEtleXMsCiAgICAgIGF1dG9FeHBhbmRQYXJlbnQ6IGZhbHNlLAogICAgfSk7Ki8KICB9CgogIG9uQ2hlY2sgPSAoY2hlY2tlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkNoZWNrJywgY2hlY2tlZEtleXMpOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IGNoZWNrZWRLZXlzIH0pOwogIH0KCiAgb25TZWxlY3QgPSAoc2VsZWN0ZWRLZXlzLCBpbmZvKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25TZWxlY3QnLCBpbmZvKTsKICAgIC8vIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RlZEtleXMgfSk7CiAgfQoKICByZW5kZXJUcmVlTm9kZXMgPSBkYXRhID0+IGRhdGEubWFwKChpdGVtKSA9PiB7CiAgICBpZiAoaXRlbS5jaGlsZHJlbikgewogICAgICByZXR1cm4gKAogICAgICAgIDxUcmVlTm9kZSB0aXRsZT17aXRlbS50aXRsZX0ga2V5PXtpdGVtLmtleX0gZGF0YVJlZj17aXRlbX0+CiAgICAgICAgICB7dGhpcy5yZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0KICAgIHJldHVybiA8VHJlZU5vZGUgey4uLml0ZW19IC8+OwogIH0p</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -1145,7 +1152,10 @@
         <entry>marks</entry>
         <entry>action SearchEverywhere</entry>
         <entry>w</entry>
+        <entry>600</entry>
         <entry>wq</entry>
+        <entry>54</entry>
+        <entry>74</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
@@ -1190,6 +1200,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
