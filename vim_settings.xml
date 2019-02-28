@@ -109,13 +109,13 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.less" timestamp="1547459888526">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551323694222">
-        <mark key="a" line="887" column="16" />
-        <mark key="'" line="132" column="9" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="153" column="1" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551324736412">
+        <mark key="a" line="858" column="16" />
+        <mark key="'" line="103" column="9" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="90" column="1" />
+        <mark key="^" line="90" column="1" />
+        <mark key="." line="90" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/TeacherSignStatistical.java" timestamp="1540192724415">
         <mark key="[" line="13" column="27" />
@@ -1076,8 +1076,8 @@
       <register name="0" type="4">
         <text>modalVisible</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG9uRXhwYW5kID0gKGV4cGFuZGVkS2V5cykgPT4gewogICAgY29uc29sZS5sb2coJ29uRXhwYW5kJywgZXhwYW5kZWRLZXlzKTsKICAgIC8vIGlmIG5vdCBzZXQgYXV0b0V4cGFuZFBhcmVudCB0byBmYWxzZSwgaWYgY2hpbGRyZW4gZXhwYW5kZWQsIHBhcmVudCBjYW4gbm90IGNvbGxhcHNlLgogICAgLy8gb3IsIHlvdSBjYW4gcmVtb3ZlIGFsbCBleHBhbmRlZCBjaGlsZHJlbiBrZXlzLgogICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgIGV4cGFuZGVkS2V5cywKICAgIC8vICAgYXV0b0V4cGFuZFBhcmVudDogZmFsc2UsCiAgICAvLyB9KTsKICB9CgogIG9uQ2hlY2sgPSAoY2hlY2tlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkNoZWNrJywgY2hlY2tlZEtleXMpOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IGNoZWNrZWRLZXlzIH0pOwogIH0KCiAgb25TZWxlY3QgPSAoc2VsZWN0ZWRLZXlzLCBpbmZvKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25TZWxlY3QnLCBpbmZvKTsKICAgIC8vIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RlZEtleXMgfSk7CiAgfQoKICByZW5kZXJUcmVlTm9kZXMgPSBkYXRhID0+IGRhdGEubWFwKChpdGVtKSA9PiB7CiAgICBpZiAoaXRlbS5jaGlsZHJlbikgewogICAgICByZXR1cm4gKAogICAgICAgIDxUcmVlTm9kZSB0aXRsZT17aXRlbS50aXRsZX0ga2V5PXtpdGVtLmtleX0gZGF0YVJlZj17aXRlbX0+CiAgICAgICAgICB7dGhpcy5yZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0KICAgIHJldHVybiA8VHJlZU5vZGUgey4uLml0ZW19IC8+OwogIH0pCiAgb25FeHBhbmQgPSAoZXhwYW5kZWRLZXlzKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25FeHBhbmQnLCBleHBhbmRlZEtleXMpOwogICAgLy8gaWYgbm90IHNldCBhdXRvRXhwYW5kUGFyZW50IHRvIGZhbHNlLCBpZiBjaGlsZHJlbiBleHBhbmRlZCwgcGFyZW50IGNhbiBub3QgY29sbGFwc2UuCiAgICAvLyBvciwgeW91IGNhbiByZW1vdmUgYWxsIGV4cGFuZGVkIGNoaWxkcmVuIGtleXMuCiAgICAvKnRoaXMuc2V0U3RhdGUoewogICAgICBleHBhbmRlZEtleXMsCiAgICAgIGF1dG9FeHBhbmRQYXJlbnQ6IGZhbHNlLAogICAgfSk7Ki8KICB9CgogIG9uQ2hlY2sgPSAoY2hlY2tlZEtleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvbkNoZWNrJywgY2hlY2tlZEtleXMpOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7IGNoZWNrZWRLZXlzIH0pOwogIH0KCiAgb25TZWxlY3QgPSAoc2VsZWN0ZWRLZXlzLCBpbmZvKSA9PiB7CiAgICBjb25zb2xlLmxvZygnb25TZWxlY3QnLCBpbmZvKTsKICAgIC8vIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RlZEtleXMgfSk7CiAgfQoKICByZW5kZXJUcmVlTm9kZXMgPSBkYXRhID0+IGRhdGEubWFwKChpdGVtKSA9PiB7CiAgICBpZiAoaXRlbS5jaGlsZHJlbikgewogICAgICByZXR1cm4gKAogICAgICAgIDxUcmVlTm9kZSB0aXRsZT17aXRlbS50aXRsZX0ga2V5PXtpdGVtLmtleX0gZGF0YVJlZj17aXRlbX0+CiAgICAgICAgICB7dGhpcy5yZW5kZXJUcmVlTm9kZXMoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgPC9UcmVlTm9kZT4KICAgICAgKTsKICAgIH0KICAgIHJldHVybiA8VHJlZU5vZGUgey4uLml0ZW19IC8+OwogIH0p</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1086,25 +1086,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIGZvcm0udmFsaWRhdGVGaWVsZHMoKGVyciwgZmllbGRzVmFsdWUpID0+IHsKICAgIC8vICAgaWYgKGVycikgcmV0dXJuOwogICAgLy8gICBmb3JtLnJlc2V0RmllbGRzKCk7CiAgICAvLyAgIGhhbmRsZUFkZChmaWVsZHNWYWx1ZSk7CiAgICAvLyB9KTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHB1YmxpYyB2b2lkIHNldFRoaXNEZXBhcnRtZW50KGJvb2xlYW4gdGhpc0RlcGFydG1lbnQpIHsKICAgICAgICAKICAgICAgICB0aGlzLnRoaXNEZXBhcnRtZW50ID0gdGhpc0RlcGFydG1lbnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T25seU9uZShib29sZWFuIG9ubHlPbmUpIHsKICAgICAgICB0aGlzLm9ubHlPbmUgPSBvbmx5T25lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE9ubHlEZXB0T25lKGJvb2xlYW4gb25seURlcHRPbmUpIHsKICAgICAgICB0aGlzLm9ubHlEZXB0T25lID0gb25seURlcHRPbmU7CiAgICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aGFuZGxlRGVsUm9sZXMgPSAoKSA9PiB7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3JvbGVncm91cC9kZWxSb2xlVXNlcnMnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgZ3JvdXBJZDogdGhpcy5zdGF0ZS5zZWxlY3RlZFJvd3NbMF0uaWQsCiAgICAgICAgcm9sZUlkczogdGhpcy5zdGF0ZS5yb2xlc0tleSwKICAgICAgfSwKICAgICAgY2FsbGJhY2s6IHRoaXMucmVTZWFyY2hSb2xlVXNlcnMsCiAgICB9KQogIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBoYW5kbGVEZWxSb2xlcyA9ICgpID0+IHsKICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goewogICAgICB0eXBlOiAncm9sZWdyb3VwL2RlbFJvbGVVc2VycycsCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICByb2xlSWQ6IHRoaXMuc3RhdGUuc2VsZWN0ZWRSb3dzWzBdLmlkLAogICAgICAgIHVzZXJJZHM6IHRoaXMuc3RhdGUudXNlcnNLZXksCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiB0aGlzLnJlU2VhcmNoUm9sZVVzZXJzLAogICAgfSkKICB9</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZWRpdCIKICAgICAgICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlVXNlclNlYXJjaFZpc2libGUodHJ1ZSl9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICDmt7vliqDnlKjmiLcKICAgICAgICAgICAgICAgICAgPC9CdXR0b24+fQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVjb3JkKTsKICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZCk7CiAgICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWRSb3dzKTsK</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBsb2dvdXQ6YGh0dHA6Ly8yMjIuMzAuMTkyLjE4Mjo4MDkwL2FwcC9sb2dvdXQ/Y2FsbGJhY2s9JHtlbmNvZGVVUkkod2luZG93LmxvY2F0aW9uLmhyZWYpfWAsCiAgLy8gIGxvZ2luOiAnaHR0cDovL2xvY2FsaG9zdDo4MDgxL2FwcHMvY2xvdWQtYXV0aC8jL2xvZ2luP3JlZGlyZWN0PScrd2luZG93LmxvY2F0aW9uLmhyZWYKICBjYXM6ICdodHRwOi8vMjIyLjMwLjE5Mi4xODI6ODA5MCcs</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVjb3JkKTsKICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZCk7CiAgICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWRSb3dzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
