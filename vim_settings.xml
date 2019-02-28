@@ -109,8 +109,10 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.less" timestamp="1547459888526">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551265402788">
-        <mark key="[" line="60" column="20" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1551317865716">
+        <mark key="[" line="720" column="38" />
+        <mark key="]" line="720" column="38" />
+        <mark key="." line="720" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/TeacherSignStatistical.java" timestamp="1540192724415">
         <mark key="[" line="13" column="27" />
@@ -1059,7 +1061,7 @@
         <text>accessKeySecret</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
