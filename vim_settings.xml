@@ -273,7 +273,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1547518515428">
         <mark key="[" line="66" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" timestamp="1551403073415">
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" timestamp="1551406170216">
         <mark key="[" line="86" column="95" />
         <mark key="]" line="86" column="95" />
         <mark key="." line="86" column="95" />
@@ -489,10 +489,10 @@
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-api/src/main/java/com/yunzainfo/pitcher/plugin/resourcec/entity/TeachMaterial.java" timestamp="1540565800856">
         <mark key="[" line="46" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" timestamp="1551404873278">
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="43" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" timestamp="1551406752014">
+        <mark key="[" line="253" column="45" />
+        <mark key="]" line="253" column="45" />
+        <mark key="." line="253" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/CurrentDateUtil.java" timestamp="1545803756452">
         <mark key="[" line="27" column="43" />
@@ -1106,7 +1106,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;若要设置为仅允许一个人，请先删除角色下的多余人员&quot;)</text>
+        <text>deptId</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
