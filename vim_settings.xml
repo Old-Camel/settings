@@ -237,12 +237,6 @@
       <file name="$USER_HOME$/data/code/timetable-ga/src/com/zoy/Timetable.java" timestamp="1551749348915">
         <mark key="[" line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Menu.js" timestamp="1551936751634">
-        <mark key="[" line="589" column="36" />
-        <mark key="]" line="629" column="29" />
-        <mark key="." line="629" column="29" />
-        <mark key="^" line="629" column="29" />
-      </file>
       <file name="$USER_HOME$/data/code/rmq/src/main/java/com/yunzainfo/cloud/rmq/run/ttt.java" timestamp="1549951286505">
         <mark key="[" line="79" column="0" />
       </file>
@@ -491,7 +485,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
         <mark key="[" line="44" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552024635120" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552026077126">
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1551318940995">
         <mark key="[" line="0" column="0" />
       </file>
@@ -616,6 +614,9 @@
       <file name="$USER_HOME$/data/code/307/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/config/StudentControllerAdvice.java" timestamp="1551943386547" />
       <file name="$USER_HOME$/data/code/newdemo/jpa/config/application-dev.properties" timestamp="1548406536830">
         <mark key="[" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1552025144369">
+        <mark key="[" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1551772631350">
         <mark key="[" line="58" column="23" />
@@ -761,10 +762,10 @@
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-api/src/main/java/com/yunzainfo/oa/onlineclassroom/entity/HomeworkTea.java" timestamp="1541042792271">
         <mark key="[" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1552007588322">
-        <mark key="[" line="50" column="104" />
-        <mark key="]" line="50" column="104" />
-        <mark key="." line="50" column="104" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1552025256146">
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="60" column="23" />
+        <mark key="." line="60" column="23" />
         <mark key="^" line="50" column="115" />
       </file>
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/GatewayApplication.java" timestamp="1551409031591">
@@ -853,7 +854,7 @@
       <file name="$USER_HOME$/data/code/rmq/src/main/java/com/yunzainfo/cloud/rmq/Sender.java" timestamp="1548312700855">
         <mark key="[" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SortItemRepository.java" timestamp="1551952573587">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/SortItemRepository.java" timestamp="1552025209182">
         <mark key="[" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/me.js" timestamp="1546501927955">
@@ -1095,7 +1096,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>sortItemsBySchoolIdEqualsAndTestTypeIdEqualsOrderByDisplayIndex</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
