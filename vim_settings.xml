@@ -483,11 +483,8 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/Swagger2.java" timestamp="1548757038100">
         <mark key="[" line="44" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552011837223">
-        <mark key="[" line="215" column="53" />
-        <mark key="]" line="214" column="53" />
-        <mark key="." line="214" column="53" />
-        <mark key="^" line="214" column="53" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552012546596">
+        <mark key="[" line="225" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1551318940995">
         <mark key="[" line="0" column="0" />
@@ -1095,20 +1092,26 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgU2Nob29sIHNjaG9vbCA9IHNjaG9vbFJlcG9zaXRvcnkuZmluZEJ5SWQoVVVJRC5mcm9tU3RyaW5nKHNvcnRJdGVtLmdldFNjaG9vbElkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzb3J0SXRlbS5nZXRUZXN0VHlwZUlkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi6ICD6K+V57G75Yir5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFN0cmluZyBzY2hvb2xDb2RlID0gc2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlID0gdGVzdFR5cGUuZ2V0Q29kZSgpOw==</text>
+        <text>//
+            //if((a+b+c+d+e+f+h+i+j)==zf){
+            //
+            //}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgU2Nob29sIHNjaG9vbCA9IHNjaG9vbFJlcG9zaXRvcnkuZmluZEJ5SWQoVVVJRC5mcm9tU3RyaW5nKHNvcnRJdGVtLmdldFNjaG9vbElkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzb3J0SXRlbS5nZXRUZXN0VHlwZUlkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi6ICD6K+V57G75Yir5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFN0cmluZyBzY2hvb2xDb2RlID0gc2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlID0gdGVzdFR5cGUuZ2V0Q29kZSgpOw==</text>
+      </register>
+      <register name="3" type="4">
         <text>spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=false
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle10gDialect</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnNwcmluZy5kYXRhc291cmNlLnVybD1qZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1pbmZvCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPTExMTExMQpzcHJpbmcuZGF0YXNvdXJjZS5kcml2ZXItY2xhc3MtbmFtZT1vcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKc3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmNvbm5lY3Rpb24tdGltZW91dD02MDAwMApzcHJpbmcuZGF0YXNvdXJjZS5oaWthcmkubWF4aW11bS1wb29sLXNpemU9NQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.github.pagehelper.PageInfo;
@@ -1119,26 +1122,17 @@ import com.yunzainfo.cloud.auth.security.YzUser;
 import com.yunzainfo.cloud.common.entity.core.BaseUser;
 import com.yunzainfo.cloud.student.entity.Student;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ0ZXN0IiwiMTIzIik7CiAgICAgICAgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoInRlc3QiKTsKICAgICAgICBQYWdlYWJsZSBwYWdlYWJsZSA9IFBhZ2VVdGlsLmJ1aWxkRm9ySnBhKDIwKTsKICAgICAgICBKU09OT2JqZWN0IHBhZ2VQYXJhbSA9IFBhZ2VVdGlsLmdldFBhcmFtcygpLm9yRWxzZShuZXcgSlNPTk9iamVjdCgpKTsKICAgICAgICBTdHJpbmcgbmFtZT1wYWdlUGFyYW0uZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgSW50ZWdlciBhZ2U9cGFnZVBhcmFtLmdldEludGVnZXIoImFnZSIpOwoKICAgICAgICBTcGVjaWZpY2F0aW9uPFN0dWRlbnQ+IHNwZWMgPSBTcGVjaWZpY2F0aW9ucy48U3R1ZGVudD5hbmQoKQogICAgICAgICAgICAgICAgLmxpa2UoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhuYW1lKSwibmFtZSIsIiUiK25hbWUrIiUiKQogICAgICAgICAgICAgICAgLmVxKGFnZSE9bnVsbCwiYWdlIixhZ2UpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBQYWdlPFN0dWRlbnQ+IHBhZ2UgPSBzZXJ2aWNlLnF1ZXJ5TGlzdEZvclBhZ2Uoc3BlYywgcGFnZWFibGUpOwogICAgICAgIFBhZ2VJbmZvPFN0dWRlbnQ+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U3R1ZGVudD4oKS5jb252ZXJ0KHBhZ2UpOwogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhjb252ZXJ0KTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg5a2m55SfIikKICAgIC8vQFByZUF1dGhvcml6ZSgiaGFzQXV0aG9yaXR5KCdTVFVETkVUX0FERCcpIikKICAgIEBQb3N0TWFwcGluZwogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gaW5zZXJ0KEBSZXF1ZXN0Qm9keSBTdHVkZW50IFN0dWRlbnQpIHsKICAgICAgICBzZXJ2aWNlLmluc2VydChTdHVkZW50KTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLmt7vliqDmiJDlip8iKTsKICAgIH0KICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS55a2m55SfIikKICAgIC8vQFByZUF1dGhvcml6ZSgiaGFzQXV0aG9yaXR5KCdTVFVETkVUX1VQREFURScpIikKICAgIEBQdXRNYXBwaW5nCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiB1cGRhdGUoQFJlcXVlc3RCb2R5IFN0dWRlbnQgU3R1ZGVudCkgewogICAgICAgIHNlcnZpY2UudXBkYXRlKFN0dWRlbnQpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuS/ruaUueaIkOWKnyIpOwogICAgfQogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLliKDpmaTlrabnlJ8iKQogICAgLy9AUHJlQXV0aG9yaXplKCJoYXNBdXRob3JpdHkoJ1NUVURORVRfREVMRVRFJykiKQogICAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJpZCIsIHZhbHVlID0gIueUqOaIt2lkIiwgcmVxdWlyZWQgPSB0cnVlLCBwYXJhbVR5cGUgPSAicGF0aCIsIGRhdGFUeXBlID0gIlN0cmluZyIpLAogICAgfSkKICAgIEBEZWxldGVNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBkZWxldGUoQFBhdGhWYXJpYWJsZSBTdHJpbmcgaWQpIHsKICAgICAgICBzZXJ2aWNlLmRlbGV0ZShpZCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5Yig6Zmk5oiQ5YqfIik7CgogICAgfQogICAgQEF1dG93aXJlZAogICAgQmFzZVVzZXJDbGllbnQgY2xpZW50OwogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLmtYvor5XosIPnlKjlhbbku5bmnI3liqHojrflj5bnlKjmiLfkv6Hmga8iKQogICAgQEdldE1hcHBpbmcoIi91c2VyIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGdldFVzZXIoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBhZG1pbiA9IGNsaWVudC5xdWVyeVVzZXJCeVVzZXJDb2RlKCIxMDAxNDMiKTsKICAgICAgICAgICAgWXVuemFpUmV0dXJuRW50aXR5IGJvZHkgPSBhZG1pbi5nZXRCb2R5KCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTsKICAgICAgICAgICAgaWYgKGJvZHkuZ2V0RGF0YSgpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEJhc2VVc2VyIHVzZXIgPSBKU09OLnBhcnNlT2JqZWN0KEpTT04udG9KU09OKGJvZHkuZ2V0RGF0YSgpKS50b1N0cmluZygpLCBCYXNlVXNlci5jbGFzcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLnlKjmiLfkv6Hmga8iLCB1c2VyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQoZmFsc2UsICLosIPnlKjlpLHotKUiKTsKICAgICAgICAgICAgfQogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKGZhbHNlLCAi6LCD55So5aSx6LSlIik7CgogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CnJpYmJvbjoKICBSZWFkVGltZW91dDogMTAwMDAKICBDb25uZWN0VGltZW91dDogMTAwMDA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgogICAgdXNlcm5hbWU6IGluZm8KICAgIHBhc3N3b3JkOiAxMTExMTEKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKICAgIGhpa2FyaToKICAgICAgY29ubmVjdGlvbi10aW1lb3V0OiA2MDAwMAogICAgICBtYXhpbXVtLXBvb2wtc2l6ZTogNQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>jpa:
-      hibernate:
-        ddl-auto: update
-      show-sql: false
-      properties:
-        hibernate:
-          dialect: org.hibernate.dialect.Oracle10gDialect</text>
+        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgogICAgdXNlcm5hbWU6IGluZm8KICAgIHBhc3N3b3JkOiAxMTExMTEKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKICAgIGhpa2FyaToKICAgICAgY29ubmVjdGlvbi10aW1lb3V0OiA2MDAwMAogICAgICBtYXhpbXVtLXBvb2wtc2l6ZTogNQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
