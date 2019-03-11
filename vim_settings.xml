@@ -147,6 +147,9 @@
       <file name="$USER_HOME$/go/src/github.com/snowdrop/istio-java-api/Makefile" timestamp="1552294951015">
         <mark key="[" line="44" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552304826440">
+        <mark key="[" line="32" column="60" />
+      </file>
       <file name="$USER_HOME$/webapps/plugins-resource/resourcec-api/src/main/java/com/yunzainfo/pitcher/plugin/resourcec/service/MajorTeacherService.java" timestamp="1540885802595">
         <mark key="[" line="77" column="49" />
       </file>
@@ -367,6 +370,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/Auth.java" timestamp="1546078553357">
         <mark key="[" line="16" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/fabric8/kubernetes-client/4.1.1/kubernetes-client-4.1.1.jar!/io/fabric8/kubernetes/client/AutoAdaptableKubernetesClient.class" timestamp="1552304765311" />
       <file name="$USER_HOME$/webapps/plugins-resource/resource-web/src/main/webapp/resources/js/myResource/ResourceReadWindow.js" timestamp="1534924970905">
         <mark key="[" line="37" column="49" />
       </file>
@@ -782,11 +786,7 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/SailorControllerAspect.java" timestamp="1547101111764">
         <mark key="[" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/kubernetes/ApiService.java" timestamp="1552288807998">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="89" />
-        <mark key="." line="33" column="65" />
-      </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/kubernetes/ApiService.java" timestamp="1552304833818" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/KubernetesClientConfig.java" timestamp="1550807639908">
         <mark key="[" line="24" column="42" />
       </file>
@@ -1096,7 +1096,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>hadoopConfig</text>
+        <text>kubernete</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
