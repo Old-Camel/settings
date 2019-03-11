@@ -53,6 +53,11 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/Dockerfile" timestamp="1552266099786">
         <mark key="[" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/PageHandlerInterceptor.java" timestamp="1552302049280">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="85" column="2" />
+        <mark key="." line="85" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/rmq/src/main/java/com/yunzainfo/cloud/rmq/run/SysConFig.java" timestamp="1551059627078">
         <mark key="[" line="16" column="3" />
       </file>
@@ -213,9 +218,6 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/ScoreServiceImpl.java" timestamp="1552028710340">
         <mark key="[" line="106" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/BuildAuthUtil.java" timestamp="1552297750266">
-        <mark key="[" line="93" column="41" />
-      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SortItemController.java" timestamp="1552007674686">
         <mark key="[" line="59" column="7" />
       </file>
@@ -295,7 +297,7 @@
         <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/AuthServerApplication.java" timestamp="1550558360086">
-        <mark key="[" line="37" column="5" />
+        <mark key="[" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/config/application-dev.properties" timestamp="1550559339492">
         <mark key="[" line="24" column="33" />
@@ -717,7 +719,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SignInfoService.java" timestamp="1551921842654">
         <mark key="[" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1545786041133">
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1552302903786">
         <mark key="[" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/java/com/yunzainfo/oa/onlineclassroom/web/BaseScheduleController.java" timestamp="1540979772116">
@@ -801,7 +803,7 @@
         <mark key="[" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/pom.xml" timestamp="1550555836815">
-        <mark key="[" line="215" column="21" />
+        <mark key="[" line="279" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/plugins-pushserver/src/main/java/com/yunzainfo/pitcher/pushserver/PushClient.java" timestamp="1548316371642">
         <mark key="[" line="22" column="114" />
@@ -825,7 +827,7 @@
         <mark key="[" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1550024715047">
-        <mark key="[" line="49" column="9" />
+        <mark key="[" line="51" column="9" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1551407650753">
         <mark key="[" line="0" column="0" />
@@ -889,9 +891,6 @@
       </file>
       <file name="$USER_HOME$/data/code/online-classroom/pom.xml" timestamp="1548658805052">
         <mark key="[" line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1552299159362">
-        <mark key="[" line="112" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/entity/App.java" timestamp="1547084482302">
         <mark key="[" line="17" column="12" />
@@ -1106,32 +1105,35 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYgKGF1dGhlbnRpY2F0aW9uICE9IG51bGwgJiYgIShhdXRoZW50aWNhdGlvbiBpbnN0YW5jZW9mIEFub255bW91c0F1dGhlbnRpY2F0aW9uVG9rZW4pKSB7CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IGF1dGhlbnRpY2F0aW9uLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgaWYoYnVmZmVyPT1udWxsKXsKICAgICAgICAgICAgYnVmZmVyPW5ldyBCeXRlW107CiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgICAgICAgICBpZih0ZW1wLmNvbnRhaW5zKCIrIikpew==</text>
+        <text encoding="base64">aWYgKGF1dGhlbnRpY2F0aW9uICE9IG51bGwgJiYgIShhdXRoZW50aWNhdGlvbiBpbnN0YW5jZW9mIEFub255bW91c0F1dGhlbnRpY2F0aW9uVG9rZW4pKSB7CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IGF1dGhlbnRpY2F0aW9uLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgICAgICAgICBpZih0ZW1wLmNvbnRhaW5zKCIrIikpew==</text>
+      </register>
+      <register name="4" type="4">
         <text>//
             //if((a+b+c+d+e+f+h+i+j)==zf){
             //
             //}</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgU2Nob29sIHNjaG9vbCA9IHNjaG9vbFJlcG9zaXRvcnkuZmluZEJ5SWQoVVVJRC5mcm9tU3RyaW5nKHNvcnRJdGVtLmdldFNjaG9vbElkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzb3J0SXRlbS5nZXRUZXN0VHlwZUlkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi6ICD6K+V57G75Yir5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFN0cmluZyBzY2hvb2xDb2RlID0gc2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlID0gdGVzdFR5cGUuZ2V0Q29kZSgpOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=false
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle10gDialect</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CnNwcmluZy5kYXRhc291cmNlLnVybD1qZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1pbmZvCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPTExMTExMQpzcHJpbmcuZGF0YXNvdXJjZS5kcml2ZXItY2xhc3MtbmFtZT1vcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKc3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmNvbm5lY3Rpb24tdGltZW91dD02MDAwMApzcHJpbmcuZGF0YXNvdXJjZS5oaWthcmkubWF4aW11bS1wb29sLXNpemU9NQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.github.pagehelper.PageInfo;
@@ -1142,11 +1144,8 @@ import com.yunzainfo.cloud.auth.security.YzUser;
 import com.yunzainfo.cloud.common.entity.core.BaseUser;
 import com.yunzainfo.cloud.student.entity.Student;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ0ZXN0IiwiMTIzIik7CiAgICAgICAgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoInRlc3QiKTsKICAgICAgICBQYWdlYWJsZSBwYWdlYWJsZSA9IFBhZ2VVdGlsLmJ1aWxkRm9ySnBhKDIwKTsKICAgICAgICBKU09OT2JqZWN0IHBhZ2VQYXJhbSA9IFBhZ2VVdGlsLmdldFBhcmFtcygpLm9yRWxzZShuZXcgSlNPTk9iamVjdCgpKTsKICAgICAgICBTdHJpbmcgbmFtZT1wYWdlUGFyYW0uZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgSW50ZWdlciBhZ2U9cGFnZVBhcmFtLmdldEludGVnZXIoImFnZSIpOwoKICAgICAgICBTcGVjaWZpY2F0aW9uPFN0dWRlbnQ+IHNwZWMgPSBTcGVjaWZpY2F0aW9ucy48U3R1ZGVudD5hbmQoKQogICAgICAgICAgICAgICAgLmxpa2UoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhuYW1lKSwibmFtZSIsIiUiK25hbWUrIiUiKQogICAgICAgICAgICAgICAgLmVxKGFnZSE9bnVsbCwiYWdlIixhZ2UpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBQYWdlPFN0dWRlbnQ+IHBhZ2UgPSBzZXJ2aWNlLnF1ZXJ5TGlzdEZvclBhZ2Uoc3BlYywgcGFnZWFibGUpOwogICAgICAgIFBhZ2VJbmZvPFN0dWRlbnQ+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U3R1ZGVudD4oKS5jb252ZXJ0KHBhZ2UpOwogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhjb252ZXJ0KTs=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg5a2m55SfIikKICAgIC8vQFByZUF1dGhvcml6ZSgiaGFzQXV0aG9yaXR5KCdTVFVETkVUX0FERCcpIikKICAgIEBQb3N0TWFwcGluZwogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gaW5zZXJ0KEBSZXF1ZXN0Qm9keSBTdHVkZW50IFN0dWRlbnQpIHsKICAgICAgICBzZXJ2aWNlLmluc2VydChTdHVkZW50KTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLmt7vliqDmiJDlip8iKTsKICAgIH0KICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS55a2m55SfIikKICAgIC8vQFByZUF1dGhvcml6ZSgiaGFzQXV0aG9yaXR5KCdTVFVETkVUX1VQREFURScpIikKICAgIEBQdXRNYXBwaW5nCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiB1cGRhdGUoQFJlcXVlc3RCb2R5IFN0dWRlbnQgU3R1ZGVudCkgewogICAgICAgIHNlcnZpY2UudXBkYXRlKFN0dWRlbnQpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuS/ruaUueaIkOWKnyIpOwogICAgfQogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLliKDpmaTlrabnlJ8iKQogICAgLy9AUHJlQXV0aG9yaXplKCJoYXNBdXRob3JpdHkoJ1NUVURORVRfREVMRVRFJykiKQogICAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJpZCIsIHZhbHVlID0gIueUqOaIt2lkIiwgcmVxdWlyZWQgPSB0cnVlLCBwYXJhbVR5cGUgPSAicGF0aCIsIGRhdGFUeXBlID0gIlN0cmluZyIpLAogICAgfSkKICAgIEBEZWxldGVNYXBwaW5nKCIve2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBkZWxldGUoQFBhdGhWYXJpYWJsZSBTdHJpbmcgaWQpIHsKICAgICAgICBzZXJ2aWNlLmRlbGV0ZShpZCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5Yig6Zmk5oiQ5YqfIik7CgogICAgfQogICAgQEF1dG93aXJlZAogICAgQmFzZVVzZXJDbGllbnQgY2xpZW50OwogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLmtYvor5XosIPnlKjlhbbku5bmnI3liqHojrflj5bnlKjmiLfkv6Hmga8iKQogICAgQEdldE1hcHBpbmcoIi91c2VyIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGdldFVzZXIoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBhZG1pbiA9IGNsaWVudC5xdWVyeVVzZXJCeVVzZXJDb2RlKCIxMDAxNDMiKTsKICAgICAgICAgICAgWXVuemFpUmV0dXJuRW50aXR5IGJvZHkgPSBhZG1pbi5nZXRCb2R5KCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTsKICAgICAgICAgICAgaWYgKGJvZHkuZ2V0RGF0YSgpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEJhc2VVc2VyIHVzZXIgPSBKU09OLnBhcnNlT2JqZWN0KEpTT04udG9KU09OKGJvZHkuZ2V0RGF0YSgpKS50b1N0cmluZygpLCBCYXNlVXNlci5jbGFzcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLnlKjmiLfkv6Hmga8iLCB1c2VyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQoZmFsc2UsICLosIPnlKjlpLHotKUiKTsKICAgICAgICAgICAgfQogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKGZhbHNlLCAi6LCD55So5aSx6LSlIik7CgogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ0ZXN0IiwiMTIzIik7CiAgICAgICAgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoInRlc3QiKTsKICAgICAgICBQYWdlYWJsZSBwYWdlYWJsZSA9IFBhZ2VVdGlsLmJ1aWxkRm9ySnBhKDIwKTsKICAgICAgICBKU09OT2JqZWN0IHBhZ2VQYXJhbSA9IFBhZ2VVdGlsLmdldFBhcmFtcygpLm9yRWxzZShuZXcgSlNPTk9iamVjdCgpKTsKICAgICAgICBTdHJpbmcgbmFtZT1wYWdlUGFyYW0uZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgSW50ZWdlciBhZ2U9cGFnZVBhcmFtLmdldEludGVnZXIoImFnZSIpOwoKICAgICAgICBTcGVjaWZpY2F0aW9uPFN0dWRlbnQ+IHNwZWMgPSBTcGVjaWZpY2F0aW9ucy48U3R1ZGVudD5hbmQoKQogICAgICAgICAgICAgICAgLmxpa2UoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhuYW1lKSwibmFtZSIsIiUiK25hbWUrIiUiKQogICAgICAgICAgICAgICAgLmVxKGFnZSE9bnVsbCwiYWdlIixhZ2UpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBQYWdlPFN0dWRlbnQ+IHBhZ2UgPSBzZXJ2aWNlLnF1ZXJ5TGlzdEZvclBhZ2Uoc3BlYywgcGFnZWFibGUpOwogICAgICAgIFBhZ2VJbmZvPFN0dWRlbnQ+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U3R1ZGVudD4oKS5jb252ZXJ0KHBhZ2UpOwogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhjb252ZXJ0KTs=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
