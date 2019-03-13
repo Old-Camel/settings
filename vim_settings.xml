@@ -232,6 +232,9 @@
       <file name="$USER_HOME$/data/code/web/src/main/resources/static/index.html" timestamp="1540378620811">
         <mark key="[" line="0" column="269" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1552449660855">
+        <mark key="[" line="96" column="19" />
+      </file>
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/repository/SubjectRepository.java" timestamp="1551768004277">
         <mark key="[" line="15" column="62" />
       </file>
@@ -249,6 +252,12 @@
         <mark key="]" line="63" column="13" />
         <mark key="^" line="63" column="13" />
         <mark key="." line="63" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/config/config.js" timestamp="1552449995769">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="47" column="1" />
+        <mark key="." line="47" column="1" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/rmq/src/main/java/com/yunzainfo/cloud/rmq/run/ttt.java" timestamp="1549951286505">
         <mark key="[" line="79" column="0" />
@@ -330,6 +339,9 @@
       </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/test/java/Tes.java" timestamp="1548144466470">
         <mark key="[" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/PitcherCloud/auth-center/src/main/resources/bootstrap.yml" timestamp="1540822120291">
         <mark key="[" line="41" column="49" />
@@ -1126,7 +1138,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>selectedRowKeys</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -1135,47 +1147,52 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgaWYoYnVmZmVyPT1udWxsKXsKICAgICAgICAgICAgYnVmZmVyPW5ldyBCeXRlW107CiAgICAgICAgfQ==</text>
+        <text encoding="base64">IGxvY2FsZTogewogICAgZW5hYmxlOiB0cnVlLCAvLyBkZWZhdWx0IGZhbHNlCiAgICBkZWZhdWx0OiAnemgtQ04nLCAvLyBkZWZhdWx0IHpoLUNOCiAgICBiYXNlTmF2aWdhdG9yOiB0cnVlLCAvLyBkZWZhdWx0IHRydWUsIHdoZW4gaXQgaXMgdHJ1ZSwgd2lsbCB1c2UgYG5hdmlnYXRvci5sYW5ndWFnZWAgb3ZlcndyaXRlIGRlZmF1bHQKICAgIGFudGQ6IHRydWUsIC8vIHVzZSBhbnRkLCBkZWZhdWx0IGlzIHRydWUKICB9LA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGF1dGhlbnRpY2F0aW9uICE9IG51bGwgJiYgIShhdXRoZW50aWNhdGlvbiBpbnN0YW5jZW9mIEFub255bW91c0F1dGhlbnRpY2F0aW9uVG9rZW4pKSB7CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IGF1dGhlbnRpY2F0aW9uLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIH0=</text>
+        <text>[
+    'umi-plugin-dva',
+    'umi-plugin-locale',
+    // TODO 决定是否使用约定路由，如果使用配置路由那么 umi-plugin-routes 可以去掉了
+    // [
+    //   'umi-plugin-routes',
+    //   {
+    //     exclude: [/\.test\.js/],
+    //     update(routes) {
+    //       return [...pageRoutes, ...routes];
+    //     },
+    //   },
+    // ],
+  ],</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgICAgICAgICBpZih0ZW1wLmNvbnRhaW5zKCIrIikpew==</text>
+        <text encoding="base64">ICAgICAgaWYoYnVmZmVyPT1udWxsKXsKICAgICAgICAgICAgYnVmZmVyPW5ldyBCeXRlW107CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">aWYgKGF1dGhlbnRpY2F0aW9uICE9IG51bGwgJiYgIShhdXRoZW50aWNhdGlvbiBpbnN0YW5jZW9mIEFub255bW91c0F1dGhlbnRpY2F0aW9uVG9rZW4pKSB7CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IGF1dGhlbnRpY2F0aW9uLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgICAgICAgICBpZih0ZW1wLmNvbnRhaW5zKCIrIikpew==</text>
+      </register>
+      <register name="6" type="4">
         <text>//
             //if((a+b+c+d+e+f+h+i+j)==zf){
             //
             //}</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgU2Nob29sIHNjaG9vbCA9IHNjaG9vbFJlcG9zaXRvcnkuZmluZEJ5SWQoVVVJRC5mcm9tU3RyaW5nKHNvcnRJdGVtLmdldFNjaG9vbElkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi5a2m5qCh5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFRlc3RUeXBlIHRlc3RUeXBlID0gdGVzdFR5cGVSZXBvc2l0b3J5LmZpbmRCeUlkKFVVSUQuZnJvbVN0cmluZyhzb3J0SXRlbS5nZXRUZXN0VHlwZUlkKCkpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigi6ICD6K+V57G75Yir5Y+C5pWw6ZSZ6K+vIikpOwogICAgICAgIFN0cmluZyBzY2hvb2xDb2RlID0gc2Nob29sLmdldENvZGUoKTsKICAgICAgICBTdHJpbmcgdGVzdFR5cGVDb2RlID0gdGVzdFR5cGUuZ2V0Q29kZSgpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=false
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle10gDialect</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnNwcmluZy5kYXRhc291cmNlLnVybD1qZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1pbmZvCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPTExMTExMQpzcHJpbmcuZGF0YXNvdXJjZS5kcml2ZXItY2xhc3MtbmFtZT1vcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKc3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmNvbm5lY3Rpb24tdGltZW91dD02MDAwMApzcHJpbmcuZGF0YXNvdXJjZS5oaWthcmkubWF4aW11bS1wb29sLXNpemU9NQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text>import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
-import com.github.pagehelper.PageInfo;
-import com.github.wenhao.jpa.Specifications;
-import com.yunzainfo.cloud.api.BaseUserClient;
-import com.yunzainfo.cloud.auth.security.SecurityUtils;
-import com.yunzainfo.cloud.auth.security.YzUser;
-import com.yunzainfo.cloud.common.entity.core.BaseUser;
-import com.yunzainfo.cloud.student.entity.Student;</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ0ZXN0IiwiMTIzIik7CiAgICAgICAgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoInRlc3QiKTsKICAgICAgICBQYWdlYWJsZSBwYWdlYWJsZSA9IFBhZ2VVdGlsLmJ1aWxkRm9ySnBhKDIwKTsKICAgICAgICBKU09OT2JqZWN0IHBhZ2VQYXJhbSA9IFBhZ2VVdGlsLmdldFBhcmFtcygpLm9yRWxzZShuZXcgSlNPTk9iamVjdCgpKTsKICAgICAgICBTdHJpbmcgbmFtZT1wYWdlUGFyYW0uZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgSW50ZWdlciBhZ2U9cGFnZVBhcmFtLmdldEludGVnZXIoImFnZSIpOwoKICAgICAgICBTcGVjaWZpY2F0aW9uPFN0dWRlbnQ+IHNwZWMgPSBTcGVjaWZpY2F0aW9ucy48U3R1ZGVudD5hbmQoKQogICAgICAgICAgICAgICAgLmxpa2UoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhuYW1lKSwibmFtZSIsIiUiK25hbWUrIiUiKQogICAgICAgICAgICAgICAgLmVxKGFnZSE9bnVsbCwiYWdlIixhZ2UpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBQYWdlPFN0dWRlbnQ+IHBhZ2UgPSBzZXJ2aWNlLnF1ZXJ5TGlzdEZvclBhZ2Uoc3BlYywgcGFnZWFibGUpOwogICAgICAgIFBhZ2VJbmZvPFN0dWRlbnQ+IGNvbnZlcnQgPSBuZXcgUGFnZVV0aWw8U3R1ZGVudD4oKS5jb252ZXJ0KHBhZ2UpOwogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhjb252ZXJ0KTs=</text>
+        <text encoding="base64">CnNwcmluZy5kYXRhc291cmNlLnVybD1qZGJjOm9yYWNsZTp0aGluOkAxOTIuMTY4LjEwMi4xMzk6MTUyMTpQT1JUQUxEQgpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1pbmZvCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPTExMTExMQpzcHJpbmcuZGF0YXNvdXJjZS5kcml2ZXItY2xhc3MtbmFtZT1vcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIKc3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmNvbm5lY3Rpb24tdGltZW91dD02MDAwMApzcHJpbmcuZGF0YXNvdXJjZS5oaWthcmkubWF4aW11bS1wb29sLXNpemU9NQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
