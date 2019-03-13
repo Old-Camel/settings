@@ -237,9 +237,6 @@
       <file name="$USER_HOME$/data/code/web/src/main/resources/static/index.html" timestamp="1540378620811">
         <mark key="[" line="0" column="269" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1550802066976">
-        <mark key="[" line="48" column="32" />
-      </file>
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/repository/SubjectRepository.java" timestamp="1551768004277">
         <mark key="[" line="15" column="62" />
       </file>
@@ -450,7 +447,7 @@
       <file name="$USER_HOME$/go/src/github.com/snowdrop/istio-java-api/istio-model/src/test/java/me/snowdrop/istio/mixer/adapter/prometheus/PrometheusTest.java" timestamp="1552299992774">
         <mark key="[" line="54" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552439203145">
+      <file name="/Dummy.txt" timestamp="1552443393787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
@@ -837,6 +834,11 @@
       <file name="$USER_HOME$/data/code/PitcherCloud/gateway-zuul/pom.xml" timestamp="1541381822719">
         <mark key="[" line="83" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1552443672814">
+        <mark key="[" line="315" column="18" />
+        <mark key="]" line="315" column="18" />
+        <mark key="." line="315" column="18" />
+      </file>
       <file name="$USER_HOME$/data/code/online-classroom/online-classroom-core/src/main/resources/mapper/AttendanceStatisticsMapper.xml" timestamp="1540872730982">
         <mark key="[" line="102" column="63" />
       </file>
@@ -1131,7 +1133,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>BaseRole</text>
+        <text>selectedRowKeys</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
