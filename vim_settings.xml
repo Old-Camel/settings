@@ -85,6 +85,11 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/AuthDrawer.less" timestamp="1552458943881">
         <mark key="[" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/Dockerfileb" timestamp="1552535387899">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552526207795">
         <mark key="[" line="7" column="36" />
       </file>
@@ -222,51 +227,35 @@
       <register name="0" type="4">
         <text>deptKeys</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHt0aXRsZX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgKiBmZXRjaEN1cnJlbnRNZW51KHsgXywgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQsIHNlbGVjdCB9KSB7CiAgICAgIC8qIGNvbnN0IHJvdXRlckNvbmZpZyA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5tZW51LnJvdXRlckNvbmZpZyk7CiAgICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwocXVlcnlDdXJyZW50TWVudSk7CiAgICAgICBjb25zdCBjdXJyZW50TWVudSA9IGdldE1lbnVEYXRhKHJlc3BvbnNlKTsKICAgICAgIGNvbnN0IGZsYXRNZW51RGF0YSA9IGdldEZsYXRNZW51RGF0YShjdXJyZW50TWVudSk7CiAgICAgICBjb25zdCByb3V0ZXJEYXRhID0gZ2V0Um91dGVyRGF0YShyb3V0ZXJDb25maWcsIGZsYXRNZW51RGF0YSk7CiAgICAgICB5aWVsZCBwdXQoewogICAgICAgICB0eXBlOiAnc2F2ZUN1cnJlbnRNZW51QW5kRGF0YScsCiAgICAgICAgIGN1cnJlbnRNZW51OiBjdXJyZW50TWVudSwKICAgICAgICAgcm91dGVyRGF0YTogcm91dGVyRGF0YSwKICAgICAgIH0pOyovCiAgICB9LA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20iLCItRHVzZXIudGltZXpvbmU9R01UKzA4IiwiLWphciIsIi9hcHAuamFyIiwiLS1zcHJpbmcucHJvZmlsZXMuYWN0aXZlPWRldiIsIj5hcHAubG9nIl0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICBTb3J0SXRlbSBzdGFydCA9IGRhdGEuZ2V0KGluZGV4KTsKICAgICAgICAgICAgICAgIFNvcnRJdGVtIGVuZCA9IGRhdGEuZ2V0KGluZGV4ICsgZmxhZyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Double a=(double)3;
-        Double b=(double)3;
-
-        System.out.println(a.doubleValue()==b.doubleValue());</text>
+      <register name="4" type="2">
+        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGxvY2FsZTogewogICAgZW5hYmxlOiB0cnVlLCAvLyBkZWZhdWx0IGZhbHNlCiAgICBkZWZhdWx0OiAnemgtQ04nLCAvLyBkZWZhdWx0IHpoLUNOCiAgICBiYXNlTmF2aWdhdG9yOiB0cnVlLCAvLyBkZWZhdWx0IHRydWUsIHdoZW4gaXQgaXMgdHJ1ZSwgd2lsbCB1c2UgYG5hdmlnYXRvci5sYW5ndWFnZWAgb3ZlcndyaXRlIGRlZmF1bHQKICAgIGFudGQ6IHRydWUsIC8vIHVzZSBhbnRkLCBkZWZhdWx0IGlzIHRydWUKICB9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-    'umi-plugin-dva',
-    'umi-plugin-locale',
-    // TODO 决定是否使用约定路由，如果使用配置路由那么 umi-plugin-routes 可以去掉了
-    // [
-    //   'umi-plugin-routes',
-    //   {
-    //     exclude: [/\.test\.js/],
-    //     update(routes) {
-    //       return [...pageRoutes, ...routes];
-    //     },
-    //   },
-    // ],
-  ],</text>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgaWYoYnVmZmVyPT1udWxsKXsKICAgICAgICAgICAgYnVmZmVyPW5ldyBCeXRlW107CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvZGF0YQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKGF1dGhlbnRpY2F0aW9uICE9IG51bGwgJiYgIShhdXRoZW50aWNhdGlvbiBpbnN0YW5jZW9mIEFub255bW91c0F1dGhlbnRpY2F0aW9uVG9rZW4pKSB7CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBHcmFudGVkQXV0aG9yaXR5PiBhdXRob3JpdGllcyA9IGF1dGhlbnRpY2F0aW9uLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHt0aXRsZX0=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgICAgICAgICBpZih0ZW1wLmNvbnRhaW5zKCIrIikpew==</text>
+        <text encoding="base64">ICAgKiBmZXRjaEN1cnJlbnRNZW51KHsgXywgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQsIHNlbGVjdCB9KSB7CiAgICAgIC8qIGNvbnN0IHJvdXRlckNvbmZpZyA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5tZW51LnJvdXRlckNvbmZpZyk7CiAgICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwocXVlcnlDdXJyZW50TWVudSk7CiAgICAgICBjb25zdCBjdXJyZW50TWVudSA9IGdldE1lbnVEYXRhKHJlc3BvbnNlKTsKICAgICAgIGNvbnN0IGZsYXRNZW51RGF0YSA9IGdldEZsYXRNZW51RGF0YShjdXJyZW50TWVudSk7CiAgICAgICBjb25zdCByb3V0ZXJEYXRhID0gZ2V0Um91dGVyRGF0YShyb3V0ZXJDb25maWcsIGZsYXRNZW51RGF0YSk7CiAgICAgICB5aWVsZCBwdXQoewogICAgICAgICB0eXBlOiAnc2F2ZUN1cnJlbnRNZW51QW5kRGF0YScsCiAgICAgICAgIGN1cnJlbnRNZW51OiBjdXJyZW50TWVudSwKICAgICAgICAgcm91dGVyRGF0YTogcm91dGVyRGF0YSwKICAgICAgIH0pOyovCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
