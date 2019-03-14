@@ -22,6 +22,11 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/router.config.js" timestamp="1552471988064">
         <mark key="[" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/ServiceMenu/index.less" timestamp="1552548707981">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
       </file>
@@ -61,8 +66,8 @@
         <mark key="[" line="95" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/LoadingPage.js" timestamp="1552528943904" />
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552530276194">
-        <mark key="[" line="99" column="1" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552548578568">
+        <mark key="[" line="101" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
@@ -82,7 +87,7 @@
         <mark key="[" line="85" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.js" timestamp="1552529043984" />
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552533671748">
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552548612517">
         <mark key="[" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/UserLayout.js" timestamp="1552525596400">
@@ -229,7 +234,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>Copyright</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
