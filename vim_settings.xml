@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1552529800866" />
+      <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
+        <mark key="[" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/user.js" timestamp="1552530403091">
         <mark key="[" line="64" column="23" />
         <mark key="]" line="64" column="23" />
@@ -70,6 +73,11 @@
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/PageHeader/index.js" timestamp="1552473907610">
         <mark key="[" line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor/cas/istio-svc-dpt.yaml" timestamp="1552542165773">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/login.js" timestamp="1552462931055">
         <mark key="[" line="85" column="6" />
@@ -227,35 +235,55 @@
       <register name="0" type="4">
         <text>deptKeys</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBtb3VudFBhdGg6IC9sb2dzCiAgICAgIHZvbHVtZXM6CiAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgZW1wdHlEaXI6IHt9CiAgICAgIC0gbmFtZTogc2FpbG9yLWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogc2FpbG9yLWZpbGViZWF0LWNvbmZpZwogICAgICAgICBpdGVtczoKICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgIHBhdGg6IGZpbGViZWF0LnltbA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20iLCItRHVzZXIudGltZXpvbmU9R01UKzA4IiwiLWphciIsIi9hcHAuamFyIiwiLS1zcHJpbmcucHJvZmlsZXMuYWN0aXZlPWRldiIsIj5hcHAubG9nIl0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC0gaW1hZ2U6IGRvY2tlci5lbGFzdGljLmNvL2JlYXRzL2ZpbGViZWF0OjYuNS4xCiAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICBhcmdzOiBbCiAgICAgICAgICAgICAgICAgICItYyIsICIvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy9maWxlYmVhdC55bWwiLAogICAgICAgICAgICAgICAgICAiLWUiLAogICAgICAgICAgICAgICAgXQogICAgICAgIGVudjoKICAgICAgICAtIG5hbWU6IFBPRF9JUAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgLSBuYW1lOiBwb2RfbmFtZQogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubmFtZQogICAgICAgIHZvbHVtZU1vdW50czoKICAgICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgIC0gbmFtZTogc2FpbG9yLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgbW91bnRQYXRoOiAvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy8=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
+      <register name="3" type="4">
+        <text>apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sailor-filebeat-config
+  namespace: cloud
+  labels:
+    k8s-app: filebeat
+data:
+  filebeat.yml: |
+    filebeat.prospectors:
+    - type: log
+      paths:
+        - /logs/*/*
+      tail_files: true
+      fields:
+        pod_name: '${pod_name}'
+        POD_IP: '${POD_IP}'
+    output.elasticsearch:
+      hosts: [&quot;http://elasticsearch.logging:9200&quot;]
+    index: &quot;vlib-%{+yyyy.MM.dd}&quot;
+---</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20iLCItRHVzZXIudGltZXpvbmU9R01UKzA4IiwiLWphciIsIi9hcHAuamFyIiwiLS1zcHJpbmcucHJvZmlsZXMuYWN0aXZlPWRldiIsIj5hcHAubG9nIl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvZGF0YQo=</text>
+        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHt0aXRsZX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgKiBmZXRjaEN1cnJlbnRNZW51KHsgXywgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQsIHNlbGVjdCB9KSB7CiAgICAgIC8qIGNvbnN0IHJvdXRlckNvbmZpZyA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5tZW51LnJvdXRlckNvbmZpZyk7CiAgICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwocXVlcnlDdXJyZW50TWVudSk7CiAgICAgICBjb25zdCBjdXJyZW50TWVudSA9IGdldE1lbnVEYXRhKHJlc3BvbnNlKTsKICAgICAgIGNvbnN0IGZsYXRNZW51RGF0YSA9IGdldEZsYXRNZW51RGF0YShjdXJyZW50TWVudSk7CiAgICAgICBjb25zdCByb3V0ZXJEYXRhID0gZ2V0Um91dGVyRGF0YShyb3V0ZXJDb25maWcsIGZsYXRNZW51RGF0YSk7CiAgICAgICB5aWVsZCBwdXQoewogICAgICAgICB0eXBlOiAnc2F2ZUN1cnJlbnRNZW51QW5kRGF0YScsCiAgICAgICAgIGN1cnJlbnRNZW51OiBjdXJyZW50TWVudSwKICAgICAgICAgcm91dGVyRGF0YTogcm91dGVyRGF0YSwKICAgICAgIH0pOyovCiAgICB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
