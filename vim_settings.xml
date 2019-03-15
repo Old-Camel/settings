@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/UserListService.java" timestamp="1552614710615">
+        <mark key="[" line="43" column="37" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/user.js" timestamp="1552530403091">
         <mark key="[" line="64" column="23" />
         <mark key="]" line="64" column="23" />
@@ -14,7 +17,6 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/defaultSettings.js" timestamp="1552550914004">
         <mark key="[" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseMenu.java" timestamp="1552550690182" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/Footer.js" timestamp="1552525616712">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="10" />
@@ -34,7 +36,9 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/LoadingPage.js" timestamp="1552470605852">
         <mark key="[" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/global.js" timestamp="1552530422581" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1552613989179">
+        <mark key="[" line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/salary/salary-api/src/main/java/com/yunzainfo/pitcher/plugin/salary/entity/SalaryField.java" timestamp="1552550667149">
         <mark key="[" line="2" column="24" />
       </file>
@@ -47,7 +51,6 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/AspectUtil.java" timestamp="1552438781017">
         <mark key="[" line="144" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/index.less" timestamp="1552529333589" />
       <file name="$USER_HOME$/data/code/sailor/Dockerfile" timestamp="1552439056145">
         <mark key="[" line="5" column="17" />
       </file>
@@ -65,23 +68,24 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/TopNavHeader/index.less" timestamp="1552527426552">
         <mark key="[" line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/IconFont/index.js" timestamp="1552525406742" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/menu_old.js" timestamp="1552472353565">
         <mark key="[" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/LoadingPage.js" timestamp="1552528943904" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552548578568">
         <mark key="[" line="101" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/grpc/FileServiceServer.java" timestamp="1552614701673" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Base/Client.js" timestamp="1552461332003">
         <mark key="[" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/PageHeader/index.js" timestamp="1552473907610">
         <mark key="[" line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/security/YunzaiUserDetailsServiceImpl.java" timestamp="1552613548339" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1552614335614" />
       <file name="$USER_HOME$/data/code/sailor/cas/istio-svc-dpt.yaml" timestamp="1552542165773">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="21" column="7" />
@@ -90,14 +94,12 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/login.js" timestamp="1552462931055">
         <mark key="[" line="85" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/Header.js" timestamp="1552529043984" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552548612517">
         <mark key="[" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/UserLayout.js" timestamp="1552525596400">
         <mark key="[" line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/index.js" timestamp="1552529233496" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/AuthDrawer.less" timestamp="1552458943881">
         <mark key="[" line="1" column="15" />
       </file>
@@ -106,10 +108,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552550718429">
+      <file name="/Dummy.txt" timestamp="1552615439166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/integration/VerificationCodeIntegrationAuthenticator.java" timestamp="1552557450273" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552526207795">
         <mark key="[" line="7" column="36" />
       </file>
@@ -125,7 +126,6 @@
       <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1552457415841">
         <mark key="[" line="92" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/integration/AbstractPreparableIntegrationAuthenticator.java" timestamp="1552556832091" />
     </filemarks>
     <jumps>
       <jump line="254" column="10" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
@@ -310,7 +310,7 @@ data:
       <last-offset />
       <last-pattern>render</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
