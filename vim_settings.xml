@@ -5,10 +5,8 @@
     <filemarks>
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1552641969612">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/BasicLayout.js" timestamp="1552638187367" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/layouts/BasicLayout.js" timestamp="1552666673247" />
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
       </file>
@@ -44,18 +42,22 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/User/Login.js" timestamp="1552618760786">
         <mark key="[" line="83" column="40" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552644164011">
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552666718750">
         <mark key="[" line="8" column="60" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/locales/zh-CN/pwa.js" timestamp="1552647542805" />
       <file name="$USER_HOME$/data/code/salary/salary-api/src/main/java/com/yunzainfo/pitcher/plugin/salary/entity/SalaryField.java" timestamp="1552550667149">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/components/SiderMenu/index.js" timestamp="1552666423033" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/manifest.json" timestamp="1552648197432">
         <mark key="[" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/utils.js" timestamp="1552470666005">
-        <mark key="[" line="219" column="0" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/utils.js" timestamp="1552667405617">
+        <mark key="[" line="360" column="2" />
+        <mark key="]" line="360" column="2" />
+        <mark key="^" line="347" column="15" />
+        <mark key="." line="360" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseMenuController.java" timestamp="1552663330827">
         <mark key="[" line="56" column="55" />
@@ -76,7 +78,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/SiderMenu/BaseMenu.js" timestamp="1552475093934">
         <mark key="[" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1552638152714" />
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1552666309972" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/Header.js" timestamp="1552629857886">
         <mark key="[" line="154" column="30" />
       </file>
@@ -93,7 +95,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/menu_old.js" timestamp="1552472353565">
         <mark key="[" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552631379446">
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552664308294">
         <mark key="[" line="124" column="37" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/config.js" timestamp="1552653910736">
@@ -120,14 +122,16 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/AuthDrawer.less" timestamp="1552458943881">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1552663076818">
-        <mark key="[" line="147" column="35" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1552664750047">
+        <mark key="[" line="163" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-pro.yml" timestamp="1552641421342" />
-      <file name="/Dummy.txt" timestamp="1552663387551">
+      <file name="/Dummy.txt" timestamp="1552664765309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552652961494" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552666630987">
+        <mark key="[" line="138" column="22" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/global.js" timestamp="1552529086206">
         <mark key="[" line="7" column="16" />
       </file>
@@ -145,11 +149,16 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SortItemController.java" timestamp="1552466090722">
         <mark key="[" line="94" column="57" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/Menu.js" timestamp="1552663590368">
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/Menu.js" timestamp="1552665183007">
         <mark key="[" line="654" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1552457415841">
         <mark key="[" line="92" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/menu.js" timestamp="1552665941491">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/docker/nginx.conf" timestamp="1552644521296" />
     </filemarks>
@@ -269,7 +278,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGxpbmsgcmVsPSJpY29uIiBocmVmPSIvYXV0aC9mYXZpY29uLnBuZyIgdHlwZT0iaW1hZ2UveC1pY29uIiAvPg==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -278,34 +287,40 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IC8qZmV0Y2goJy9hcGkvYXV0aF9yb3V0ZXMnKQogICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAudGhlbigKICAgICAgcmV0ID0+IHsKICAgICAgICBhdXRoUm91dGVzID0gcmV0OwogICAgICAgIG9sZFJlbmRlcigpOwogICAgICB9LAogICAgICAoKSA9PiB7CiAgICAgICAgb2xkUmVuZGVyKCk7CiAgICAgIH0KICAgICk7Ki8=</text>
+        <text>// if(path.startWith(&quot;/auth&quot;)){
+  //   if(path==&quot;/auth&quot;||path==&quot;/auth/&quot;){
+  //     return children;
+  //   }else{
+  //     path=path.replace(&quot;/auth&quot;,&quot;&quot;);
+  //   }
+  // }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QVJHIEpBUl9GSUxFCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC8qZmV0Y2goJy9hcGkvYXV0aF9yb3V0ZXMnKQogICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAudGhlbigKICAgICAgcmV0ID0+IHsKICAgICAgICBhdXRoUm91dGVzID0gcmV0OwogICAgICAgIG9sZFJlbmRlcigpOwogICAgICB9LAogICAgICAoKSA9PiB7CiAgICAgICAgb2xkUmVuZGVyKCk7CiAgICAgIH0KICAgICk7Ki8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
+        <text encoding="base64">QVJHIEpBUl9GSUxFCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
+        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
+        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">UlVOIG1rZGlyIC9vcHQvZGF0YQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IGZ1d3VTdHlsZSA9IHt0aGVtZSA9PT0gJ2xpZ2h0JyA/ICcnIDogc3R5bGVzLmxpZ2h0X2NvbG9yCiAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBsZXQgc3R5bGU7CiAgaWYoKQ==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZ1d3VTdHlsZSA9IHt0aGVtZSA9PT0gJ2xpZ2h0JyA/ICcnIDogc3R5bGVzLmxpZ2h0X2NvbG9yCiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
