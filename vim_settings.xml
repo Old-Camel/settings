@@ -23,17 +23,20 @@
         <mark key="]" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/defaultSettings.js" timestamp="1552550914004">
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/defaultSettings.js" timestamp="1552652884686">
         <mark key="[" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/services/system/user.js" timestamp="1552621371058">
         <mark key="[" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/data/code/web/src/main/resources/auth/index.html" timestamp="1552652030429">
+        <mark key="[" line="0" column="364" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/router.config.js" timestamp="1552471988064">
         <mark key="[" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Path.js" timestamp="1552642728428">
-        <mark key="[" line="11" column="34" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Path.js" timestamp="1552653928754">
+        <mark key="[" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
@@ -93,8 +96,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552631379446">
         <mark key="[" line="124" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/config.js" timestamp="1552647874906">
-        <mark key="[" line="117" column="16" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/config.js" timestamp="1552653910736">
         <mark key="]" line="34" column="13" />
         <mark key="^" line="34" column="13" />
         <mark key="." line="34" column="13" />
@@ -102,7 +104,7 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552650596641" />
+      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552653365070" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Base/Client.js" timestamp="1552461332003">
         <mark key="[" line="19" column="32" />
       </file>
@@ -122,14 +124,17 @@
       <file name="/Dummy.txt" timestamp="1552643240832">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552652961494" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/global.js" timestamp="1552529086206">
         <mark key="[" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/salary/salary-api/src/main/java/com/yunzainfo/pitcher/plugin/salary/entity/SalaryList.java" timestamp="1552550697438">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/document.ejs" timestamp="1552621815535">
-        <mark key="[" line="9" column="25" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/document.ejs" timestamp="1552652074372">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-dev.yml" timestamp="1552641393899">
         <mark key="[" line="1" column="20" />
@@ -258,7 +263,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJpY29uIiBocmVmPSIvYXV0aC9mYXZpY29uLnBuZyIgdHlwZT0iaW1hZ2UveC1pY29uIiAvPg==</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
