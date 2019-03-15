@@ -99,8 +99,10 @@
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552648329261">
-        <mark key="[" line="28" column="54" />
+      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552649939621">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Base/Client.js" timestamp="1552461332003">
         <mark key="[" line="19" column="32" />
@@ -257,7 +259,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>className</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
