@@ -30,8 +30,10 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/router.config.js" timestamp="1552471988064">
         <mark key="[" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Path.js" timestamp="1552698428424">
-        <mark key="[" line="2" column="30" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Path.js" timestamp="1552700138701">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
@@ -95,26 +97,21 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/menu_old.js" timestamp="1552472353565">
         <mark key="[" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552664308294">
-        <mark key="[" line="124" column="37" />
-      </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/config.js" timestamp="1552653910736">
-        <mark key="]" line="34" column="13" />
-        <mark key="^" line="34" column="13" />
-        <mark key="." line="34" column="13" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552699237327">
+        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552653365070" />
+      <file name="$USER_HOME$/data/code/web/src/main/java/com/yunzainfo/Application.java" timestamp="1552700380001" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Base/Client.js" timestamp="1552461332003">
         <mark key="[" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/PageHeader/index.js" timestamp="1552473907610">
         <mark key="[" line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552628509717">
-        <mark key="[" line="44" column="15" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552699249001">
+        <mark key="[" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/UserLayout.js" timestamp="1552618720993">
         <mark key="[" line="68" column="73" />
@@ -125,6 +122,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1552664750047">
         <mark key="[" line="163" column="28" />
       </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/RightContent.js" timestamp="1552699732251" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-pro.yml" timestamp="1552641421342" />
       <file name="/Dummy.txt" timestamp="1552664765309">
         <mark key="[" line="0" column="0" />
@@ -278,7 +276,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>9000</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -287,6 +285,16 @@
         <text>deptKeys</text>
       </register>
       <register name="1" type="4">
+        <text>//  auth: 'http://222.30.194.224:7000',
+  //  auth: 'http://222.30.194.220:8080/auth',
+  //  auth: 'http://localhost:3000/auth',
+  //  auth: 'http://localhost:3000',
+  // login: `https://192.168.102.175:8443/cas/login?service=${encodeURI(window.location.href)}`,</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>// if(path.startWith(&quot;/auth&quot;)){
   //   if(path==&quot;/auth&quot;||path==&quot;/auth/&quot;){
   //     return children;
@@ -295,32 +303,26 @@
   //   }
   // }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IC8qZmV0Y2goJy9hcGkvYXV0aF9yb3V0ZXMnKQogICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAudGhlbigKICAgICAgcmV0ID0+IHsKICAgICAgICBhdXRoUm91dGVzID0gcmV0OwogICAgICAgIG9sZFJlbmRlcigpOwogICAgICB9LAogICAgICAoKSA9PiB7CiAgICAgICAgb2xkUmVuZGVyKCk7CiAgICAgIH0KICAgICk7Ki8=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">QVJHIEpBUl9GSUxFCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L3NldHRpbmdzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">UlVOIG1rZGlyIC9vcHQvc2V0dGluZ3MK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UlVOIGNobW9kIDc3NyAvb3B0L2RhdGEK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">UlVOIG1rZGlyIC9vcHQvZGF0YQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IGZ1d3VTdHlsZSA9IHt0aGVtZSA9PT0gJ2xpZ2h0JyA/ICcnIDogc3R5bGVzLmxpZ2h0X2NvbG9yCiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
