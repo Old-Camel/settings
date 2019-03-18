@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/data/code/web/src/main/resources/auth/index.html" timestamp="1552652030429">
         <mark key="[" line="0" column="364" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1552895620671">
+        <mark key="[" line="111" column="6" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/config/router.config.js" timestamp="1552471988064">
         <mark key="[" line="20" column="39" />
       </file>
@@ -40,16 +43,19 @@
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1552878401072">
-        <mark key="[" line="7" column="31" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1552894305193">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1552894271386" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Forms/models/form.js" timestamp="1552876891429" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/LogoutSuccessHandler.java" timestamp="1552889332207" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552666718750">
         <mark key="[" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1552893818946">
-        <mark key="[" line="1018" column="33" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1552894648066">
+        <mark key="[" line="1021" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/exception/CheckErrorException.java" timestamp="1552881247279" />
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/config/router.config.js" timestamp="1552703052473">
@@ -117,9 +123,6 @@
         <mark key="^" line="167" column="13" />
         <mark key="." line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/components/TopNavHeader/index.js" timestamp="1552876507939">
-        <mark key="[" line="64" column="49" />
-      </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1552445503719">
         <mark key="[" line="32" column="60" />
       </file>
@@ -131,6 +134,9 @@
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/PageHeader/index.js" timestamp="1552473907610">
         <mark key="[" line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/RightContent.js" timestamp="1552895864525">
+        <mark key="[" line="173" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552699249001">
         <mark key="[" line="42" column="25" />
@@ -147,8 +153,13 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1552889001725">
         <mark key="[" line="160" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552891408781">
+      <file name="/Dummy.txt" timestamp="1552895090786">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.js" timestamp="1552876917325">
+        <mark key="[" line="89" column="107" />
+        <mark key="]" line="89" column="107" />
+        <mark key="." line="89" column="107" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552666630987">
         <mark key="[" line="138" column="22" />
@@ -166,8 +177,8 @@
         <mark key="[" line="94" column="57" />
       </file>
       <file name="$USER_HOME$/data/code/plugins-portal/portal-impl/src/main/java/com/yunzainfo/pitcher/privilege/service/impl/BaseUsersServiceImpl.java" timestamp="1552893632154" />
-      <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1552893089935">
-        <mark key="[" line="18" column="20" />
+      <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1552895950885">
+        <mark key="[" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/layouts/UserLayout.js" timestamp="1552702939725">
         <mark key="[" line="68" column="49" />
@@ -307,7 +318,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>updatePassword</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -316,37 +327,39 @@
         <text encoding="base64">ICAgICAgICByZXZva2VUb2tlbihyZXF1ZXN0LHJlc3BvbnNlKTsK</text>
       </register>
       <register name="1" type="4">
+        <text>{
+      ...param,
+    },</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>else {
             response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
 
         }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CmV4cG9ydCBk</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
