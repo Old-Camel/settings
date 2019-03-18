@@ -9,12 +9,7 @@
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1552888671726">
-        <mark key="[" line="95" column="45" />
-        <mark key="]" line="95" column="44" />
-        <mark key="." line="95" column="44" />
-        <mark key="^" line="95" column="44" />
-      </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1552889548369" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Readme.md" timestamp="1552643122322">
         <mark key="[" line="0" column="1" />
       </file>
@@ -54,6 +49,7 @@
         <mark key="[" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Forms/models/form.js" timestamp="1552876891429" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/LogoutSuccessHandler.java" timestamp="1552889332207" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552666718750">
         <mark key="[" line="8" column="60" />
       </file>
@@ -159,7 +155,10 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/AuthDrawer.less" timestamp="1552458943881">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552880856869">
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1552889001725">
+        <mark key="[" line="160" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552889559332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.js" timestamp="1552876917325">
@@ -321,11 +320,14 @@
       <register name="/" type="4">
         <text>render</text>
       </register>
-      <register name="0" type="4">
-        <text>重新设置用户密码</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXZva2VUb2tlbihyZXF1ZXN0LHJlc3BvbnNlKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else {
+            response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -334,25 +336,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CmV4cG9ydCBk</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjI0OjcwMDAnLAogIC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjIwOjgwODAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogIC8vIGxvZ2luOiBgaHR0cHM6Ly8xOTIuMTY4LjEwMi4xNzU6ODQ0My9jYXMvbG9naW4/c2VydmljZT0ke2VuY29kZVVSSSh3aW5kb3cubG9jYXRpb24uaHJlZil9YCw=</text>
+        <text encoding="base64">CmV4cG9ydCBk</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
