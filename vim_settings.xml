@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1552881059569">
+        <mark key="[" line="88" column="31" />
+        <mark key="]" line="88" column="31" />
+        <mark key="." line="88" column="31" />
+      </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Readme.md" timestamp="1552643122322">
         <mark key="[" line="0" column="1" />
       </file>
@@ -47,6 +52,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1552875584395">
         <mark key="[" line="792" column="22" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/exception/CheckErrorException.java" timestamp="1552881247279" />
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/config/router.config.js" timestamp="1552703052473">
         <mark key="[" line="57" column="39" />
       </file>
@@ -71,6 +77,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/service-worker.js" timestamp="1552650568622">
         <mark key="[" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/AuthControllerAdvice.java" timestamp="1552881260282" />
       <file name="$USER_HOME$/data/code/sailor/Dockerfile" timestamp="1552871387309">
         <mark key="[" line="5" column="17" />
       </file>
@@ -89,13 +96,15 @@
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552701625889">
         <mark key="[" line="8" column="75" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/BaseUserService.java" timestamp="1552881089707">
+        <mark key="[" line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1552640898168">
         <mark key="[" line="222" column="92" />
       </file>
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/service-worker.js" timestamp="1552701553904">
         <mark key="[" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1552878392369" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/menu_old.js" timestamp="1552472353565">
         <mark key="[" line="95" column="18" />
       </file>
@@ -130,7 +139,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/AuthDrawer.less" timestamp="1552458943881">
         <mark key="[" line="1" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552879051647">
+      <file name="/Dummy.txt" timestamp="1552880856869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.js" timestamp="1552876917325">
@@ -159,6 +168,7 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Sys/Menu.js" timestamp="1552665183007">
         <mark key="[" line="654" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1552880406253" />
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/models/user.js" timestamp="1552724235020">
         <mark key="[" line="64" column="55" />
       </file>
@@ -285,7 +295,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>提交成功</text>
+        <text>baseUser</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
