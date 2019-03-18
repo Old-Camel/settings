@@ -9,14 +9,16 @@
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1552881059569">
-        <mark key="[" line="88" column="31" />
-        <mark key="]" line="88" column="31" />
-        <mark key="." line="88" column="31" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1552888671726">
+        <mark key="[" line="95" column="45" />
+        <mark key="]" line="95" column="44" />
+        <mark key="." line="95" column="44" />
+        <mark key="^" line="95" column="44" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Readme.md" timestamp="1552643122322">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/YunzaiPasswordEncoderImpl.java" timestamp="1552887940861" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/StompRabbitMqClient.java" timestamp="1552871556361" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/defaultSettings.js" timestamp="1552723395373">
         <mark key="[" line="5" column="20" />
@@ -42,6 +44,12 @@
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/LoadingPage.js" timestamp="1552723820688">
+        <mark key="[" line="97" column="2" />
+        <mark key="]" line="97" column="2" />
+        <mark key="^" line="82" column="1" />
+        <mark key="." line="97" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1552878401072">
         <mark key="[" line="7" column="31" />
       </file>
@@ -61,6 +69,13 @@
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/manifest.json" timestamp="1552648197432">
         <mark key="[" line="4" column="17" />
+      </file>
+      <file name="/BaseUserService.java" timestamp="1552887798261" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/utils.js" timestamp="1552719998485">
+        <mark key="[" line="360" column="2" />
+        <mark key="]" line="360" column="2" />
+        <mark key="^" line="347" column="15" />
+        <mark key="." line="360" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/ResourceServerConfiguration.java" timestamp="1552716104654">
         <mark key="[" line="46" column="46" />
@@ -96,8 +111,8 @@
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552701625889">
         <mark key="[" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/BaseUserService.java" timestamp="1552881089707">
-        <mark key="[" line="22" column="15" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/BaseUserService.java" timestamp="1552887806468">
+        <mark key="[" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1552640898168">
         <mark key="[" line="222" column="92" />
@@ -111,7 +126,12 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.less" timestamp="1552707986991">
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseUserServiceImpl.java" timestamp="1552876811267" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseUserServiceImpl.java" timestamp="1552888336679">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="166" column="13" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/TopNavHeader/index.js" timestamp="1552876507939">
         <mark key="[" line="64" column="49" />
       </file>
@@ -162,6 +182,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SortItemController.java" timestamp="1552466090722">
         <mark key="[" line="94" column="57" />
       </file>
+      <file name="$USER_HOME$/data/code/plugins-portal/portal-impl/src/main/java/com/yunzainfo/pitcher/privilege/service/impl/BaseUsersServiceImpl.java" timestamp="1552888254973" />
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/layouts/UserLayout.js" timestamp="1552702939725">
         <mark key="[" line="68" column="49" />
       </file>
@@ -295,62 +316,43 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>baseUser</text>
+        <text>updatePassword</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="4">
-        <text>deptKeys</text>
+        <text>重新设置用户密码</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmV4cG9ydCBk</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjI0OjcwMDAnLAogIC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjIwOjgwODAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogIC8vIGxvZ2luOiBgaHR0cHM6Ly8xOTIuMTY4LjEwMi4xNzU6ODQ0My9jYXMvbG9naW4/c2VydmljZT0ke2VuY29kZVVSSSh3aW5kb3cubG9jYXRpb24uaHJlZil9YCw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>import {
-  ChartCard,
-  MiniArea,
-  MiniBar,
-  MiniProgress,
-  Field,
-  Bar,
-  Pie,
-  TimelineChart,
-} from 'components/Charts';</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBUYWJzLAogIFRhYmxlLAogIFJhZGlvLAogIERhdGVQaWNrZXIsCiAgVG9vbHRpcCwKICBNZW51LAogIERyb3Bkb3duLAogIFRhZw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>//  auth: 'http://222.30.194.224:7000',
-  //  auth: 'http://222.30.194.220:8080/auth',
-  //  auth: 'http://localhost:3000/auth',
-  //  auth: 'http://localhost:3000',
-  // login: `https://192.168.102.175:8443/cas/login?service=${encodeURI(window.location.href)}`,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>// if(path.startWith(&quot;/auth&quot;)){
-  //   if(path==&quot;/auth&quot;||path==&quot;/auth/&quot;){
-  //     return children;
-  //   }else{
-  //     path=path.replace(&quot;/auth&quot;,&quot;&quot;);
-  //   }
-  // }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IC8qZmV0Y2goJy9hcGkvYXV0aF9yb3V0ZXMnKQogICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAudGhlbigKICAgICAgcmV0ID0+IHsKICAgICAgICBhdXRoUm91dGVzID0gcmV0OwogICAgICAgIG9sZFJlbmRlcigpOwogICAgICB9LAogICAgICAoKSA9PiB7CiAgICAgICAgb2xkUmVuZGVyKCk7CiAgICAgIH0KICAgICk7Ki8=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QVJHIEpBUl9GSUxFCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmV4cG9ydCBk</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ2Vudj1kZXYnID4+IC9vcHQvc2V0dGluZ3Mvc2VydmVyLnByb3BlcnRpZXMK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjI0OjcwMDAnLAogIC8vICBhdXRoOiAnaHR0cDovLzIyMi4zMC4xOTQuMjIwOjgwODAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvYXV0aCcsCiAgLy8gIGF1dGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogIC8vIGxvZ2luOiBgaHR0cHM6Ly8xOTIuMTY4LjEwMi4xNzU6ODQ0My9jYXMvbG9naW4/c2VydmljZT0ke2VuY29kZVVSSSh3aW5kb3cubG9jYXRpb24uaHJlZil9YCw=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
