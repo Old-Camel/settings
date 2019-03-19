@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1552641969612">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552965786850">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552974564247">
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
@@ -19,11 +19,6 @@
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/Readme.md" timestamp="1552643122322">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/models/user.js" timestamp="1552724217600">
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="219" column="22" />
-        <mark key="." line="219" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/menu.js" timestamp="1552892596872" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/YunzaiPasswordEncoderImpl.java" timestamp="1552887940861" />
@@ -98,11 +93,6 @@
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/SiderMenu/BaseMenu.js" timestamp="1552475093934">
         <mark key="[" line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/403.js" timestamp="1552719484409">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/Header.js" timestamp="1552629857886">
         <mark key="[" line="154" column="30" />
@@ -205,10 +195,11 @@
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/pages/document.ejs" timestamp="1552701451983">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SignInfoController.java" timestamp="1552965621460">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SignInfoController.java" timestamp="1552974550835">
+        <mark key="[" line="113" column="57" />
+        <mark key="]" line="113" column="54" />
+        <mark key="." line="113" column="54" />
+        <mark key="^" line="113" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1552871544087">
         <mark key="[" line="0" column="0" />
@@ -330,48 +321,45 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>checkkKsh</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXZva2VUb2tlbihyZXF1ZXN0LHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdEtzaCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeGVyY2VzSW1wbAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2V4Y2VsIikKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5a+85YWl5oql5ZCN5L+h5oGvIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGluc2V0QnlFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSBmaWxlLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihMb2NhbERhdGVUaW1lLm5vdygpKTsKICAgICAgICAgICAgTGlzdDxTaWduSW5mbz4gbGlzdCA9IEV4Y2VsVXRpbC5pbXBvcnRFeGNlbEJ5U2F4KGZpbGUsIDAsIDEsIFNpZ25JbmZvLmNsYXNzKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKExvY2FsRGF0ZVRpbWUubm93KCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdC5zaXplKCkpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0S3NoID0gY2hlY2trS3NoKGxpc3QpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0SXNjYXJkID0gY2hlY2tJZGNhcmQobGlzdCk7CiAgICAgICAgICAgIHNlcnZpY2Uuc2F2ZUFsbChsaXN0KTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5a+85YWl5oiQ5YqfIik7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLlr7zlhaXlpLHotKUiLCBlKTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuWvvOWFpeWksei0pSIpOwogICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2NjU0FYUGFyc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdElzY2FyZCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-      ...param,
-    },</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-            response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBjaGVja2tLc2goTGlzdDxTaWduSW5mbz4gZGF0YSl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVzZXRQYXNzd29yZChTdHJpbmcgaWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeGVyY2VzSW1wbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjU0FYUGFyc2VyCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+      <register name="9" type="4">
+        <text>{
+      ...param,
+    },</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
