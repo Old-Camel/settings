@@ -9,10 +9,11 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1552641969612">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552974564247">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/ScoreController.java" timestamp="1552976071165">
+        <mark key="[" line="225" column="16" />
+        <mark key="]" line="225" column="18" />
+        <mark key="." line="225" column="18" />
+        <mark key="^" line="225" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/cas/istio-gateway.yaml" timestamp="1552541996956">
         <mark key="[" line="3" column="13" />
@@ -51,8 +52,14 @@
       <file name="$USER_HOME$/data/code/react-auth/src/utils/config.js" timestamp="1552449123711">
         <mark key="[" line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/LoadingPage.js" timestamp="1552723820688">
+        <mark key="[" line="97" column="2" />
+        <mark key="]" line="97" column="2" />
+        <mark key="^" line="82" column="1" />
+        <mark key="." line="97" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1552894305193" />
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1552894271386" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1552975413475" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Forms/models/form.js" timestamp="1552876891429" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/LogoutSuccessHandler.java" timestamp="1552889332207" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/Authorized/Authorized.js" timestamp="1552666718750">
@@ -69,6 +76,12 @@
         <mark key="[" line="4" column="17" />
       </file>
       <file name="/BaseUserService.java" timestamp="1552887798261" />
+      <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/utils/utils.js" timestamp="1552719998485">
+        <mark key="[" line="360" column="2" />
+        <mark key="]" line="360" column="2" />
+        <mark key="^" line="347" column="15" />
+        <mark key="." line="360" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/ResourceServerConfiguration.java" timestamp="1552716104654">
         <mark key="[" line="46" column="46" />
       </file>
@@ -80,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/AspectUtil.java" timestamp="1552877919442">
         <mark key="[" line="144" column="39" />
+      </file>
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SchoolController.java" timestamp="1552976346804">
+        <mark key="[" line="107" column="72" />
+        <mark key="]" line="107" column="72" />
+        <mark key="." line="107" column="72" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/service-worker.js" timestamp="1552650568622">
         <mark key="[" line="20" column="42" />
@@ -133,9 +151,11 @@
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/PageHeader/index.js" timestamp="1552473907610">
         <mark key="[" line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/SecurityUtils.java" timestamp="1552975516229" />
       <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/RightContent.js" timestamp="1552895864525">
         <mark key="[" line="173" column="29" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/security/YunzaiUserDetailsServiceImpl.java" timestamp="1552975468676" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552699249001">
         <mark key="[" line="42" column="25" />
       </file>
@@ -195,7 +215,7 @@
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/pages/document.ejs" timestamp="1552701451983">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SignInfoController.java" timestamp="1552974550835">
+      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SignInfoController.java" timestamp="1552975702643">
         <mark key="[" line="113" column="57" />
         <mark key="]" line="113" column="54" />
         <mark key="." line="113" column="54" />
@@ -321,7 +341,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>checkkKsh</text>
+        <text>xls&quot;</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -329,17 +349,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdEtzaCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2V4Y2VsIikKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5a+85YWl5oql5ZCN5L+h5oGvIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGluc2V0QnlFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSBmaWxlLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihMb2NhbERhdGVUaW1lLm5vdygpKTsKICAgICAgICAgICAgTGlzdDxTaWduSW5mbz4gbGlzdCA9IEV4Y2VsVXRpbC5pbXBvcnRFeGNlbEJ5U2F4KGZpbGUsIDAsIDEsIFNpZ25JbmZvLmNsYXNzKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKExvY2FsRGF0ZVRpbWUubm93KCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdC5zaXplKCkpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0S3NoID0gY2hlY2trS3NoKGxpc3QpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0SXNjYXJkID0gY2hlY2tJZGNhcmQobGlzdCk7CiAgICAgICAgICAgIHNlcnZpY2Uuc2F2ZUFsbChsaXN0KTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5a+85YWl5oiQ5YqfIik7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLlr7zlhaXlpLHotKUiLCBlKTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuWvvOWFpeWksei0pSIpOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW1wb3J0UGFyYW1zIHBhcmFtcyA9IG5ldyBJbXBvcnRQYXJhbXMoKTsKICAgICAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBsaXN0ID0gRXhjZWxJbXBvcnRVdGlsLmltcG9ydEV4Y2VsQnlTYXgoZmlsZS5nZXRJbnB1dFN0cmVhbSgpLCBNYXAuY2xhc3MsIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdElzY2FyZCA9IGNoZWNra0tzaChsaXN0KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2V4Y2VsIikKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5a+85YWl5oql5ZCN5L+h5oGvIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGluc2V0QnlFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSBmaWxlLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihMb2NhbERhdGVUaW1lLm5vdygpKTsKICAgICAgICAgICAgTGlzdDxTaWduSW5mbz4gbGlzdCA9IEV4Y2VsVXRpbC5pbXBvcnRFeGNlbEJ5U2F4KGZpbGUsIDAsIDEsIFNpZ25JbmZvLmNsYXNzKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKExvY2FsRGF0ZVRpbWUubm93KCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdC5zaXplKCkpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0S3NoID0gY2hlY2trS3NoKGxpc3QpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0SXNjYXJkID0gY2hlY2tJZGNhcmQobGlzdCk7CiAgICAgICAgICAgIHNlcnZpY2Uuc2F2ZUFsbChsaXN0KTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5a+85YWl5oiQ5YqfIik7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLlr7zlhaXlpLHotKUiLCBlKTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuWvvOWFpeWksei0pSIpOwogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdElzY2FyZCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -348,18 +368,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBjaGVja2tLc2goTGlzdDxTaWduSW5mbz4gZGF0YSl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeGVyY2VzSW1wbAo=</text>
+        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBjaGVja2tLc2goTGlzdDxTaWduSW5mbz4gZGF0YSl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2NjU0FYUGFyc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeGVyY2VzSW1wbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      ...param,
-    },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2NjU0FYUGFyc2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
