@@ -79,6 +79,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/AspectUtil.java" timestamp="1552877919442">
         <mark key="[" line="144" column="39" />
       </file>
+      <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/containers/DashboardPage.tsx" timestamp="1553061214800" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SchoolController.java" timestamp="1552986953838">
         <mark key="[" line="107" column="72" />
         <mark key="]" line="107" column="72" />
@@ -130,10 +131,10 @@
       <file name="$USER_HOME$/data/code/antpro-sailor/ant-design-pro/src/pages/Istio/Pods.less" timestamp="1552702836112">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553052325770">
-        <mark key="[" line="533" column="38" />
-        <mark key="]" line="533" column="38" />
-        <mark key="." line="533" column="38" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553061977641">
+        <mark key="[" line="531" column="38" />
+        <mark key="]" line="531" column="38" />
+        <mark key="." line="531" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/pages/Base/Client.js" timestamp="1552461332003">
         <mark key="[" line="19" column="32" />
@@ -144,7 +145,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/RightContent.js" timestamp="1552895864525">
         <mark key="[" line="173" column="29" />
       </file>
-      <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/DashboardGrid.tsx" timestamp="1553060694927" />
+      <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/DashboardGrid.tsx" timestamp="1553061133772" />
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/components/GlobalHeader/index.js" timestamp="1552699249001">
         <mark key="[" line="42" column="25" />
       </file>
@@ -164,6 +165,11 @@
         <mark key="[" line="89" column="107" />
         <mark key="]" line="89" column="107" />
         <mark key="." line="89" column="107" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553061725111">
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="1" />
+        <mark key="." line="58" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/antpro/ant-design-pro/src/layouts/BasicLayout.js" timestamp="1552666630987">
         <mark key="[" line="138" column="22" />
@@ -346,22 +352,22 @@
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdEtzaCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgdmFyIGxheW91dHMgPXtsZzogWwogICAgICB7aTogJzAnLCB4OiAwLCB5OiAwLCB3OiAyLCBoOiAyfSwKICAgICAge2k6ICcxJywgeDogMiwgeTogMCwgdzogMywgaDogM30sCiAgICAgIHtpOiAnMicsIHg6IDUsIHk6IDAsIHc6IDMsIGg6IDR9LAogICAgICB7aTogJzMnLCB4OiA4LCB5OiAwLCB3OiA0LCBoOiA0fQogICAgXX0=</text>
+        <text encoding="base64">ICAgICB7CiAgICAgICAgcGF0aDogJy9kYXNoYm9hcmQnLAogICAgICAgIG5hbWU6ICdkYXNoYm9hcmQnLAogICAgICAgIGljb246ICdkYXNoYm9hcmQnLAogICAgICAgIHJvdXRlczogWwogICAgICAgICAgewogICAgICAgICAgICBwYXRoOiAnL2Rhc2hib2FyZC9hbmFseXNpcycsCiAgICAgICAgICAgIG5hbWU6ICdhbmFseXNpcycsCiAgICAgICAgICAgIGNvbXBvbmVudDogJy4vRGFzaGJvYXJkL0FuYWx5c2lzJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIHBhdGg6ICcvZGFzaGJvYXJkL21vbml0b3InLAogICAgICAgICAgICBuYW1lOiAnbW9uaXRvcicsCiAgICAgICAgICAgIGNvbXBvbmVudDogJy4vRGFzaGJvYXJkL01vbml0b3InLAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgcGF0aDogJy9kYXNoYm9hcmQvd29ya3BsYWNlJywKICAgICAgICAgICAgbmFtZTogJ3dvcmtwbGFjZScsCiAgICAgICAgICAgIGNvbXBvbmVudDogJy4vRGFzaGJvYXJkL1dvcmtwbGFjZScsCiAgICAgICAgICB9LAogICAgICAgIF0sCiAgICAgIH0s</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgdmFyIGxheW91dHMgPXtsZzogWwogICAgICB7aTogJzAnLCB4OiAwLCB5OiAwLCB3OiAyLCBoOiAyfSwKICAgICAge2k6ICcxJywgeDogMiwgeTogMCwgdzogMywgaDogM30sCiAgICAgIHtpOiAnMicsIHg6IDUsIHk6IDAsIHc6IDMsIGg6IDR9LAogICAgICB7aTogJzMnLCB4OiA4LCB5OiAwLCB3OiA0LCBoOiA0fQogICAgXX0=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW1wb3J0UGFyYW1zIHBhcmFtcyA9IG5ldyBJbXBvcnRQYXJhbXMoKTsKICAgICAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBsaXN0ID0gRXhjZWxJbXBvcnRVdGlsLmltcG9ydEV4Y2VsQnlTYXgoZmlsZS5nZXRJbnB1dFN0cmVhbSgpLCBNYXAuY2xhc3MsIHBhcmFtcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2V4Y2VsIikKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5a+85YWl5oql5ZCN5L+h5oGvIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGluc2V0QnlFeGNlbChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTXVsdGlwYXJ0RmlsZSBmaWxlLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihMb2NhbERhdGVUaW1lLm5vdygpKTsKICAgICAgICAgICAgTGlzdDxTaWduSW5mbz4gbGlzdCA9IEV4Y2VsVXRpbC5pbXBvcnRFeGNlbEJ5U2F4KGZpbGUsIDAsIDEsIFNpZ25JbmZvLmNsYXNzKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKExvY2FsRGF0ZVRpbWUubm93KCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdC5zaXplKCkpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0S3NoID0gY2hlY2trS3NoKGxpc3QpOwogICAgICAgICAgICBMaXN0PFN0cmluZz4gcmVwZWF0SXNjYXJkID0gY2hlY2tJZGNhcmQobGlzdCk7CiAgICAgICAgICAgIHNlcnZpY2Uuc2F2ZUFsbChsaXN0KTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5a+85YWl5oiQ5YqfIik7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLlr7zlhaXlpLHotKUiLCBlKTsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuWvvOWFpeWksei0pSIpOwogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdElzY2FyZCA9IGNoZWNra0tzaChsaXN0KTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdElzY2FyZCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,10 +376,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBjaGVja2tLc2goTGlzdDxTaWduSW5mbz4gZGF0YSl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeGVyY2VzSW1wbAo=</text>
+        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBjaGVja2tLc2goTGlzdDxTaWduSW5mbz4gZGF0YSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
