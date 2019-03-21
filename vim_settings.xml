@@ -36,8 +36,10 @@
       <file name="$USER_HOME$/data/code/grafana/public/app/plugins/panel/graph2/GraphPanel.tsx" timestamp="1553149909668" />
       <file name="$USER_HOME$/data/code/grafana/docs/sources/plugins/developing/development.md" timestamp="1553147914844" />
       <file name="$USER_HOME$/data/code/grafana/public/app/core/config.ts" timestamp="1553153149160" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/AuthDrawer.js" timestamp="1553154500771">
-        <mark key="[" line="79" column="74" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/AuthDrawer.js" timestamp="1553157099762">
+        <mark key="[" line="83" column="32" />
+        <mark key="]" line="83" column="32" />
+        <mark key="." line="83" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelChrome.tsx" timestamp="1553153991180" />
       <file name="$USER_HOME$/data/code/grafana/public/app/plugins/panel/graph2/module.tsx" timestamp="1553151264108" />
@@ -158,7 +160,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>timeRange</text>
+        <text>info.halfCheckedKeys?[...checkedKeys, ...info.halfCheckedKeys]:checkedKeys;</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
