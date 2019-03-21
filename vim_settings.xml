@@ -3,20 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/util/ExcelUtil.java" timestamp="1552990519550">
-        <mark key="[" line="163" column="75" />
-        <mark key="]" line="163" column="75" />
-        <mark key="." line="163" column="75" />
-      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Dashboard/ShowCaseLayout.js" timestamp="1553067432451">
         <mark key="[" line="73" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/grafana/public/app/plugins/panel/singlestat/README.md" timestamp="1553148981106" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553147519626">
-        <mark key="[" line="496" column="0" />
-        <mark key="]" line="121" column="1" />
-        <mark key="^" line="121" column="1" />
-        <mark key="." line="121" column="1" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/config.ts" timestamp="1553153255096">
+        <mark key="[" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553153623688">
+        <mark key="[" line="568" column="27" />
+        <mark key="]" line="568" column="27" />
+        <mark key="^" line="122" column="1" />
+        <mark key="." line="568" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/grafana/package.json" timestamp="1553150419602" />
       <file name="$USER_HOME$/data/code/grafana/packages/grafana-ui/src/components/Graph/Graph.tsx" timestamp="1553151968726" />
@@ -24,44 +22,24 @@
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelHeader/PanelHeader.tsx" timestamp="1553138127528">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553154269421">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/TablePanel.js" timestamp="1553076060868">
         <mark key="[" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.js" timestamp="1552876917325">
-        <mark key="[" line="89" column="107" />
-        <mark key="]" line="89" column="107" />
-        <mark key="." line="89" column="107" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553061725111">
-        <mark key="[" line="58" column="1" />
-        <mark key="]" line="58" column="1" />
-        <mark key="." line="58" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553147400083">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="172" column="15" />
-        <mark key="." line="172" column="15" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1553043289476">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/plugins.ts" timestamp="1553153286517">
+        <mark key="[" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/DataPanel.tsx" timestamp="1553147983463" />
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/SchoolController.java" timestamp="1552986953838">
-        <mark key="[" line="107" column="72" />
-        <mark key="]" line="107" column="72" />
-        <mark key="." line="107" column="72" />
-      </file>
       <file name="$USER_HOME$/data/code/grafana/packages/grafana-ui/README.md" timestamp="1553151697883" />
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1552898865272">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-      </file>
       <file name="$USER_HOME$/data/code/grafana/public/app/plugins/panel/graph2/GraphPanel.tsx" timestamp="1553149909668" />
       <file name="$USER_HOME$/data/code/grafana/docs/sources/plugins/developing/development.md" timestamp="1553147914844" />
-      <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelChrome.tsx" timestamp="1553152111192" />
+      <file name="$USER_HOME$/data/code/grafana/public/app/core/config.ts" timestamp="1553153149160" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/AuthDrawer.js" timestamp="1553154500771">
+        <mark key="[" line="79" column="74" />
+      </file>
+      <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelChrome.tsx" timestamp="1553153991180" />
       <file name="$USER_HOME$/data/code/grafana/public/app/plugins/panel/graph2/module.tsx" timestamp="1553151264108" />
     </filemarks>
     <jumps>
@@ -180,7 +158,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>panelHeader</text>
+        <text>timeRange</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
