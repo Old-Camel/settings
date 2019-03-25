@@ -46,6 +46,9 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/models/panel.js" timestamp="1553499723859">
+        <mark key="[" line="53" column="59" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/CourseController.java" timestamp="1553221667602">
         <mark key="[" line="54" column="50" />
       </file>
@@ -103,10 +106,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" timestamp="1553497564776">
-        <mark key="[" line="106" column="9" />
-        <mark key="]" line="106" column="9" />
-        <mark key="." line="106" column="9" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" timestamp="1553500388743">
+        <mark key="'" line="114" column="69" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/panel.js" timestamp="1553496488957" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1553222902363">
@@ -117,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="10" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
       <jump line="49" column="13" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
       <jump line="75" column="0" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="325" column="37" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
@@ -217,6 +220,7 @@
       <jump line="104" column="32" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="217" column="58" filename="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/timetable/Timetable.java" />
       <jump line="102" column="121" filename="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/web/UserController.java" />
+      <jump line="114" column="69" filename="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -232,7 +236,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>X-My-Custom-Header</text>
+        <text>全部请求成功率</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
