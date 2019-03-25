@@ -58,7 +58,8 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553240715512">
+      <file name="/Panel.js" timestamp="1553496624768" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553496026306">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -102,11 +103,12 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" timestamp="1553240804368">
-        <mark key="[" line="108" column="18" />
-        <mark key="]" line="108" column="18" />
-        <mark key="." line="108" column="18" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" timestamp="1553497564776">
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="9" />
+        <mark key="." line="106" column="9" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/panel.js" timestamp="1553496488957" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1553222902363">
         <mark key="[" line="19" column="36" />
       </file>
@@ -230,7 +232,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>X-My-Custom-Header</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
