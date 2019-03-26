@@ -16,6 +16,9 @@
         <mark key="]" line="243" column="58" />
         <mark key="." line="243" column="58" />
       </file>
+      <file name="/File Header.txt.ft" timestamp="1553564138271">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/mapper/ScoreMapper.xml" timestamp="1553223070727">
         <mark key="[" line="28" column="74" />
       </file>
@@ -44,7 +47,13 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553563356044">
         <mark key="[" line="28" column="18" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1553564125772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseRole.java" timestamp="1553563300396" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelService.java" timestamp="1553564374881">
+        <mark key="[" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/panel.js" timestamp="1553499723859">
         <mark key="[" line="53" column="59" />
       </file>
@@ -52,6 +61,9 @@
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1553564125857">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/web/CourseController.java" timestamp="1553221667602">
         <mark key="[" line="54" column="50" />
@@ -75,6 +87,12 @@
         <mark key="[" line="155" column="43" />
         <mark key="]" line="95" column="6" />
         <mark key="." line="95" column="6" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/PanelRepository.java" timestamp="1553564094261">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="59" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553496026306">
         <mark key="[" line="2" column="0" />
@@ -110,8 +128,14 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1553222902363">
         <mark key="[" line="19" column="36" />
       </file>
+      <file name="/fragment.java" timestamp="1553563991063">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/CourseServiceImpl.java" timestamp="1553221969588">
         <mark key="[" line="60" column="84" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseAuthrityController.java" timestamp="1553563746667">
+        <mark key="[" line="44" column="94" />
       </file>
     </filemarks>
     <jumps>
@@ -230,7 +254,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>徐成</text>
+        <text>BaseRole</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -238,45 +262,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlcGVhdEtzaCA9IGNoZWNra0tzaChsaXN0KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBCYXNlVXNlciBiYXNldXNlciA9IG5ldyBCYXNlVXNlcigpOwogICAgICAgIGJhc2V1c2VyLnNldFJlYWxOYW1lKCLlvpDmiJAiKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExpc3Q8QmFzZVJvbGU+IGZpbmRCYXNlUm9sZXNCeUlkSW4oU3RyaW5nW10gaWRzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgQmFzZVJvbGUgZmluZEJhc2VSb2xlQnlSb2xlTmFtZShTdHJpbmcgcm9sZU5hbWUpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgQmFzZVJvbGUgZmluZEJhc2VSb2xlQnlSb2xlVmFsdWUoU3RyaW5nIHJvbGVWYWx1ZSk7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBCYXNlVXNlciBiYXNldXNlciA9IG5ldyBCYXNlVXNlcigpOwogICAgICAgIGJhc2V1c2VyLnNldFJlYWxOYW1lKCLlvpDmiJAiKTs=</text>
+      </register>
+      <register name="5" type="4">
         <text>---------------------
   作者：红尘灬客栈
 来源：CSDN
 原文：https://blog.csdn.net/qq_23616601/article/details/77481516
   版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>showTotal: function () {
         let {total} = data;
         return '总共' + total + '条数据';
       },</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgY29uc3QgcGFnaW5hdGlvbiA9IHsgLi4udGhpcy5zdGF0ZS5wYWdpbmF0aW9uIH07CiAgICAgIC8vIFJlYWQgdG90YWwgY291bnQgZnJvbSBzZXJ2ZXIKICAgICAgLy8gcGFnaW5hdGlvbi50b3RhbCA9IGRhdGEudG90YWxDb3VudDsKICAgICAgcGFnaW5hdGlvbi50b3RhbCA9IDEwOwogICAgICBwYWdpbmF0aW9uLnNpemU9J3NtYWxsJzs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>dispatch({
       type: 'role/fetch',
       payload: params,
     });</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGZpbHRlcnM6IFsKICAgIHsgdGV4dDogJ01hbGUnLCB2YWx1ZTogJ21hbGUnIH0sCiAgICB7IHRleHQ6ICdGZW1hbGUnLCB2YWx1ZTogJ2ZlbWFsZScgfSwKICBdLA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IEFQT0xMT19NRVRBCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiaHR0cDovLzIyMi4zMC4xOTQuMTc1OjEwMDAyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
