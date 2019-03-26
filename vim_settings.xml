@@ -37,6 +37,12 @@
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelHeader/PanelHeader.tsx" timestamp="1553138127528">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/PanelController.java" timestamp="1553593689740">
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="72" column="27" />
+        <mark key="^" line="69" column="25" />
+        <mark key="." line="72" column="27" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
@@ -46,11 +52,23 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/plugins.ts" timestamp="1553159273223">
         <mark key="[" line="1" column="62" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelLayoutServerImpl.java" timestamp="1553594455970">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Course.java" timestamp="1553221631034">
         <mark key="[" line="34" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/qq/api/impl/QQImpl.java" timestamp="1553569167808">
         <mark key="[" line="67" column="55" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1553582103056">
+        <mark key="[" line="388" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/PanelLayout.java" timestamp="1553594229896">
+        <mark key="[" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1553222902363">
         <mark key="[" line="19" column="36" />
@@ -86,7 +104,7 @@
         <mark key="." line="207" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.less" timestamp="1553590577745" />
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553569763138">
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
@@ -106,6 +124,9 @@
         <mark key="[" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/Authorized/Authorized.js" timestamp="1553582033052" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/PanelLayoutRepository.java" timestamp="1553594262328">
+        <mark key="[" line="13" column="66" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/ScoreServiceImpl.java" timestamp="1553222332694">
         <mark key="[" line="150" column="40" />
       </file>
@@ -116,13 +137,16 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/ScoreRepository.java" timestamp="1553222297609">
         <mark key="[" line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
+        <mark key="[" line="16" column="64" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/panel.js" timestamp="1553566860137">
         <mark key="[" line="69" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1553586003671">
+      <file name="/fragment.java" timestamp="1553594302592">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -242,7 +266,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>getAllPanels</text>
+        <text>删除Panel</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -251,36 +275,36 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS5UGFuZWwiKQogICAgQFB1dE1hcHBpbmcKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IHVwZGF0ZShAUmVxdWVzdEJvZHkgUGFuZWwgcGFuZWwpIHsKICAgICAgICBzZXJ2aWNlLnVwZGF0ZShwYW5lbCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5L+u5pS55oiQ5YqfIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGxldCBjaGVja2VkPWRlcHRLZXlzOwogICAgbGV0IGtleXM9W107CiAgICBsZXQgaGFsZkNoZWNrZWQ9dGhpcy5nZXRLZXkoZGF0YSxrZXlzKTsKICAgIHJldHVybiB7Y2hlY2tlZCxoYWxmQ2hlY2tlZH0=</text>
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQYW5lbExheW91dD4gZ2V0QWxsKCkgewogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoKTsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAvKnRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgdG9wOiB0aGlzLnN0YXRlLnRvcCArIDEwLAogICAgICAgICAgICAgIH0pOyov</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8UGFuZWw+IHF1ZXJ5TGlzdEZvclBhZ2UoU3BlY2lmaWNhdGlvbjxQYW5lbD4gc3BlYywgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYW5lbExheW91dCBpbnNlcnQoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgICAgICBQYW5lbExheW91dCBzYXZlID0gcmVwb3NpdG9yeS5zYXZlKHBhbmVsKTsKICAgICAgICByZXR1cm4gc2F2ZTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgIHJlcG9zaXRvcnkuc2F2ZShwYW5lbCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShTdHJpbmcgaWQpIHsKICAgICAgICByZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoaWQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhbmVsTGF5b3V0IGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgU3RyaW5nIG1zZz0i5peg5rOV5om+5Yiw5Li76ZSu5Li6IitpZCsi55qEcGFuZWwiOwogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRCeUlkKGlkKS5vckVsc2VUaHJvdygoKS0+bmV3IENoZWNrRXJyb3JFeGNlcHRpb24obXNnKSk7CiAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBvbkNoZWNrID0gKGNoZWNrZWRLZXlzKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkS2V5czogY2hlY2tlZEtleXMsIHVwZGF0ZTogdHJ1ZX0pOwogIH0=</text>
+        <text encoding="base64">IGxldCBjaGVja2VkPWRlcHRLZXlzOwogICAgbGV0IGtleXM9W107CiAgICBsZXQgaGFsZkNoZWNrZWQ9dGhpcy5nZXRLZXkoZGF0YSxrZXlzKTsKICAgIHJldHVybiB7Y2hlY2tlZCxoYWxmQ2hlY2tlZH0=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAvKnRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgdG9wOiB0aGlzLnN0YXRlLnRvcCArIDEwLAogICAgICAgICAgICAgIH0pOyov</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBvbkNoZWNrID0gKGNoZWNrZWRLZXlzKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkS2V5czogY2hlY2tlZEtleXMsIHVwZGF0ZTogdHJ1ZX0pOwogIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>Divider,Switch,
   Input,
   Table,</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Y29uc3QgZ2V0VG90YWw9KCk9PnsKCn0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">QGNvbm5lY3QoKHtwYW5lbCwgbG9hZGluZ30pID0+ICh7CiAgZGF0YTogcGFuZWwuZGF0YSwKICBsb2FkaW5nOiBsb2FkaW5nLm1vZGVscy5wYW5lbCwKfSkp</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IAogICAgICAgIDxGb3JtSXRlbQogICAgICAgICAga2V5PSJzb3J0IgogICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOiA1fX0KICAgICAgICAgIHdyYXBwZXJDb2w9e3tzcGFuOiAxNX19CiAgICAgICAgICBsYWJlbD0i5pi+56S66aG65bqPIgogICAgICAgID4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdzb3J0JywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IHJlY29yZC5zb3J0IDogMSwKICAgICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fovpPlhaXmmL7npLrpobrluo8nfV0sCiAgICAgICAgICB9KSg8SW5wdXROdW1iZXIgbWluPXsxfSAvPil9CiAgICAgICAgPC9Gb3JtSXRlbT4s</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICA8Rm9ybUl0ZW0ga2V5PSJlbmFibGVkIiBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTV9fSBsYWJlbD0i5piv5ZCm5ZCv55SoIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdlbmFibGVkJywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IChyZWNvcmQuZW5hYmxlZD09MT90cnVlOmZhbHNlKSA6IHRydWUsCiAgICAgICAgICAgIHZhbHVlUHJvcE5hbWU6ICdjaGVja2VkJywKICAgICAgICAgIH0pKDxTd2l0Y2ggY2hlY2tlZENoaWxkcmVuPSLmmK8iIHVuQ2hlY2tlZENoaWxkcmVuPSLlkKYiLz4pfQogICAgICAgIDwvRm9ybUl0ZW0+MSw=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICB0aXRsZTon6Z2i5p2/JyAsCiAgICAgICAgZGF0YUluZGV4OiAnZmllbGQnLAogICAgICAgIHdpZHRoOiAnMTUlJywKICAgICAgfSw=</text>
+        <text encoding="base64">IAogICAgICAgIDxGb3JtSXRlbQogICAgICAgICAga2V5PSJzb3J0IgogICAgICAgICAgbGFiZWxDb2w9e3tzcGFuOiA1fX0KICAgICAgICAgIHdyYXBwZXJDb2w9e3tzcGFuOiAxNX19CiAgICAgICAgICBsYWJlbD0i5pi+56S66aG65bqPIgogICAgICAgID4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdzb3J0JywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IHJlY29yZC5zb3J0IDogMSwKICAgICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fovpPlhaXmmL7npLrpobrluo8nfV0sCiAgICAgICAgICB9KSg8SW5wdXROdW1iZXIgbWluPXsxfSAvPil9CiAgICAgICAgPC9Gb3JtSXRlbT4s</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
