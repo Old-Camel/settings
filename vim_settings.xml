@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/http.js" timestamp="1553653037471" />
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,10 +13,13 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1553585651663">
         <mark key="[" line="58" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1553649815675">
-        <mark key="[" line="180" column="34" />
-        <mark key="]" line="180" column="34" />
-        <mark key="." line="180" column="34" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1553654729250">
+        <mark key="[" line="178" column="34" />
+        <mark key="]" line="178" column="34" />
+        <mark key="." line="178" column="34" />
+      </file>
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/bootstrap.properties" timestamp="1553654258152">
+        <mark key="[" line="0" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1553649842260" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553649796459">
@@ -35,8 +39,8 @@
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelHeader/PanelHeader.tsx" timestamp="1553138127528">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/PanelController.java" timestamp="1553595488798">
-        <mark key="[" line="91" column="8" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/PanelController.java" timestamp="1553654969513">
+        <mark key="[" line="88" column="26" />
         <mark key="]" line="91" column="8" />
         <mark key="^" line="74" column="25" />
         <mark key="." line="91" column="8" />
@@ -77,7 +81,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseAuthrityController.java" timestamp="1553563746667">
         <mark key="[" line="44" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1553595152374">
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1553654290890">
         <mark key="[" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Dashboard/ShowCaseLayout.js" timestamp="1553067432451">
@@ -95,19 +99,25 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1553585703677">
         <mark key="[" line="59" column="155" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553656295943">
+        <mark key="[" line="213" column="6" />
+        <mark key="]" line="213" column="6" />
+        <mark key="." line="213" column="6" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" timestamp="1553655867317" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553595532420">
+      <file name="/Dummy.txt" timestamp="1553655040458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/TablePanel.js" timestamp="1553649412558">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/TablePanel.js" timestamp="1553654442788">
         <mark key="[" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553568187585">
@@ -139,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Menu.js" />
       <jump line="325" column="37" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
       <jump line="47" column="29" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
       <jump line="76" column="24" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/dept.js" />
@@ -239,6 +248,7 @@
       <jump line="102" column="121" filename="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/web/UserController.java" />
       <jump line="114" column="69" filename="$USER_HOME$/data/code/react-auth/src/pages/Panel/ChartPanel.js" />
       <jump line="60" column="19" filename="$USER_HOME$/data/code/react-auth/src/pages/Base/Panel.js" />
+      <jump line="79" column="16" filename="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +264,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>setMenuAndAuth</text>
+        <text>callback</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -263,6 +273,34 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS5UGFuZWwiKQogICAgQFB1dE1hcHBpbmcKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IHVwZGF0ZShAUmVxdWVzdEJvZHkgUGFuZWwgcGFuZWwpIHsKICAgICAgICBzZXJ2aWNlLnVwZGF0ZShwYW5lbCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5L+u5pS55oiQ5YqfIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>else {
+      console.log(layouts);
+      //判断用户是否保存过布局
+      if (layouts == 'nolayout') {
+        return {lg: []};
+      } else {
+        return layouts;
+      }
+    }</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>// console.log(data.data);
+
+      // dispatch({
+      //   type: 'user/savePanelLayout',
+      //   panelLayout:data.data
+      // });</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICAgIGRhdGE6IGRhdGEsCiAgICAgIH0pOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGRhdGE6SlNPTi5zdHJpbmdpZnkoewogICAgICAgIC4uLnBhZ2VJbml0LAogICAgICAgIC4uLnBhcmFtcywKICAgICAgfSks</text>
+      </register>
+      <register name="5" type="4">
         <text>} else {
       if(layouts=='nolayout'){
         return [];
@@ -271,34 +309,19 @@
       // console.log(eval('('+layouts+')'));
       }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>{
         namespace: 'cloud'
       }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGxldCBhdXRocyA9IGdldEF1dGhzKCk7CiAgICBsZXQgc3RyID0gYXV0aHMuam9pbigpOwogICAgbGV0IGRhdGEgPSBwYW5lbHMuZmlsdGVyKGl0ZW0gPT4gc3RyLmluY2x1ZGVzKGl0ZW0uY29kZSkpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IFBhbmVsTGF5b3V0IGxheW91dCA9IG5ldyBQYW5lbExheW91dCgpOwogICAgICAgIGxheW91dC5zZXRJZChTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VySWQoKSk7CiAgICAgICAgbGF5b3V0LnNldExheW91dHMobGF5b3V0cyk7</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQYW5lbExheW91dD4gZ2V0QWxsKCkgewogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoKTsKICAgIH0=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8UGFuZWw+IHF1ZXJ5TGlzdEZvclBhZ2UoU3BlY2lmaWNhdGlvbjxQYW5lbD4gc3BlYywgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYW5lbExheW91dCBpbnNlcnQoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgICAgICBQYW5lbExheW91dCBzYXZlID0gcmVwb3NpdG9yeS5zYXZlKHBhbmVsKTsKICAgICAgICByZXR1cm4gc2F2ZTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgIHJlcG9zaXRvcnkuc2F2ZShwYW5lbCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShTdHJpbmcgaWQpIHsKICAgICAgICByZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoaWQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhbmVsTGF5b3V0IGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgU3RyaW5nIG1zZz0i5peg5rOV5om+5Yiw5Li76ZSu5Li6IitpZCsi55qEcGFuZWwiOwogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRCeUlkKGlkKS5vckVsc2VUaHJvdygoKS0+bmV3IENoZWNrRXJyb3JFeGNlcHRpb24obXNnKSk7CiAgICB9</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGxldCBjaGVja2VkPWRlcHRLZXlzOwogICAgbGV0IGtleXM9W107CiAgICBsZXQgaGFsZkNoZWNrZWQ9dGhpcy5nZXRLZXkoZGF0YSxrZXlzKTsKICAgIHJldHVybiB7Y2hlY2tlZCxoYWxmQ2hlY2tlZH0=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvKnRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgdG9wOiB0aGlzLnN0YXRlLnRvcCArIDEwLAogICAgICAgICAgICAgIH0pOyov</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBvbkNoZWNrID0gKGNoZWNrZWRLZXlzKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkS2V5czogY2hlY2tlZEtleXMsIHVwZGF0ZTogdHJ1ZX0pOwogIH0=</text>
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQYW5lbExheW91dD4gZ2V0QWxsKCkgewogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
