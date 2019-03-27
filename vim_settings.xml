@@ -17,6 +17,9 @@
         <mark key="[" line="0" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1553649842260" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelService.java" timestamp="1553582210981">
         <mark key="[" line="15" column="58" />
       </file>
@@ -38,20 +41,12 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553668289341">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553669121768">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/plugins.ts" timestamp="1553159273223">
-        <mark key="[" line="1" column="62" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelLayoutServerImpl.java" timestamp="1553594455970">
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="4" />
-        <mark key="." line="56" column="4" />
-        <mark key="^" line="56" column="0" />
-      </file>
+      <file name="/user.js" timestamp="1553670766324" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Course.java" timestamp="1553221631034">
         <mark key="[" line="34" column="4" />
       </file>
@@ -88,25 +83,25 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1553585703677">
         <mark key="[" line="59" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553668320179">
-        <mark key="'" line="212" column="25" />
-        <mark key="[" line="251" column="11" />
-        <mark key="]" line="251" column="11" />
-        <mark key="." line="251" column="11" />
-        <mark key="^" line="162" column="23" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/List/Applications.js" timestamp="1553670235530" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553671008944">
+        <mark key="'" line="187" column="25" />
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" timestamp="1553655867317" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553671108003">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/TablePanel.js" timestamp="1553654442788">
-        <mark key="[" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553568187585">
         <mark key="[" line="31" column="44" />
@@ -133,6 +128,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1553667195985">
         <mark key="[" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1553671093251" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
@@ -259,7 +255,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt7J2JhY2tncm91bmQtY29sb3InOicjZThlOGU4J319Pg==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -268,18 +264,39 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS5UGFuZWwiKQogICAgQFB1dE1hcHBpbmcKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IHVwZGF0ZShAUmVxdWVzdEJvZHkgUGFuZWwgcGFuZWwpIHsKICAgICAgICBzZXJ2aWNlLnVwZGF0ZShwYW5lbCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5L+u5pS55oiQ5YqfIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bGV0IGRhdGEgPSBwYW5lbHMuZmlsdGVyKGl0ZW0gPT4gaWRzLmluZGV4T2YoaXRlbS5pZCkhPS0xKTsKICAgIHJldHVybiBkYXRhOw==</text>
+        <text encoding="base64">IHNhdmVQYW5lbExheW91dChzdGF0ZSwge3BhbmVsTGF5b3V0fSkgewogICAgICBjb25zb2xlLmxvZyhwYW5lbExheW91dCk7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgcGFuZWxMYXlvdXQ6IHBhbmVsTGF5b3V0CiAgICAgIH07CiAgICB9LA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgLy8KICAvLyBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAvLyAgIGNsZWFySW50ZXJ2YWwodGhpcy50aW1lcklEKQogIC8vIH0=</text>
+        <text>const panelLayout = yield call(fetchPanelLayout);
+        yield put({
+          type: 'savePanelLayout',
+          panelLayout: panelLayout
+        });</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IC8vIHRoaXMudGltZXJJRCA9IHNldEludGVydmFsKCgpID0+IHsKICAgIC8vICAgdGhpcy5nZXRBbGwoKTsKICAgIC8vIH0sIDUwMDAp</text>
+        <text>const layout = [{w: 5, h: 2, x: 0, y: 0, i: &quot;0&quot;},
+  {w: 5, h: 2, x: 5, y: 0, i: &quot;1&quot;},
+  {w: 5, h: 2, x: 0, y: 1, i: &quot;2&quot;},
+  {w: 5, h: 2, x: 5, y: 1, i: &quot;3&quot;},
+  {w: 5, h: 2, x: 0, y: 2, i: &quot;4&quot;},
+  {w: 5, h: 2, x: 5, y: 2, i: &quot;5&quot;}];</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">LyogcHJpdmF0ZSBTdHJpbmcgaWQ7CiAgICBwcml2YXRlIFN0cmluZyBuYW1lOwogICAgcHJpdmF0ZSBTdHJpbmcgY29kZTsKICAgIHByaXZhdGUgU3RyaW5nIHVybDsKICAgIHByaXZhdGUgSW50ZWdlciB0eXBlOwogICAgcHJpdmF0ZSBJbnRlZ2VyIGRpc3BsYXlJbmRleDsKICAgIHByaXZhdGUgYm9vbGVhbiBoaWRlOyovCi8vIGNvbnN0IGRhdGEgPSBbe25hbWU6ICdjaGFydCcsIHVybDogJ2h0dHA6Ly8yMjIuMzAuMTk0LjIyNTo5MDAwL3NhaWxvci9wcm9tZXRoZXVzL3F1ZXJ5X3JhbmdlP3F1ZXJ5PXJvdW5kKHN1bShpcmF0ZShpc3Rpb19yZXF1ZXN0c190b3RhbHtyZXBvcnRlcj0iZGVzdGluYXRpb24ifVsxbV0pKSwgMC4wMDEpJywgdHlwZTogMywgaWQ6ICdhJ30sCi8vICAge25hbWU6ICd0YWJsZScsIHVybDogICdodHRwOi8vMjIyLjMwLjE5NC4yMjU6OTAwMC9hdXRoL2Jhc2Vyb2xlL3F1ZXJ5TGlzdEZvclBhZ2UnLCB0eXBlOiAyLCBpZDogJ2InLGhyZWY6J2h0dHA6Ly93d3cuYmFpZHUuY29tP2tleT17aWR9J30sCi8vICAgewovLyAgICAgbmFtZTogJ2lmcmFtZScsCi8vICAgICB1cmw6ICdodHRwOi8vdGlhbnFpLjIzNDUuY29tL3BsdWdpbi93aWRnZXQvaW5kZXguaHRtP3M9MSZ6PTEmdD0wJnY9MCZkPTMmYmQ9MCZrPSZmPSZxPTEmZT0xJmE9MSZjPTU0NTExJnc9Mzg1Jmg9OTYmYWxpZ249bGVmdCcsCi8vICAgICB0eXBlOiAxLAovLyAgICAgaWQ6ICdjJwovLyAgIH1d</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">bGV0IGRhdGEgPSBwYW5lbHMuZmlsdGVyKGl0ZW0gPT4gaWRzLmluZGV4T2YoaXRlbS5pZCkhPS0xKTsKICAgIHJldHVybiBkYXRhOw==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLy8KICAvLyBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAvLyAgIGNsZWFySW50ZXJ2YWwodGhpcy50aW1lcklEKQogIC8vIH0=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IC8vIHRoaXMudGltZXJJRCA9IHNldEludGVydmFsKCgpID0+IHsKICAgIC8vICAgdGhpcy5nZXRBbGwoKTsKICAgIC8vIH0sIDUwMDAp</text>
+      </register>
+      <register name="8" type="4">
         <text>else {
       console.log(layouts);
       //判断用户是否保存过布局
@@ -290,33 +307,13 @@
       }
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>// console.log(data.data);
 
       // dispatch({
       //   type: 'user/savePanelLayout',
       //   panelLayout:data.data
       // });</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICAgIGRhdGE6IGRhdGEsCiAgICAgIH0pOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGRhdGE6SlNPTi5zdHJpbmdpZnkoewogICAgICAgIC4uLnBhZ2VJbml0LAogICAgICAgIC4uLnBhcmFtcywKICAgICAgfSks</text>
-      </register>
-      <register name="8" type="4">
-        <text>} else {
-      if(layouts=='nolayout'){
-        return [];
-      }else{
-      console.log(layouts);
-      // console.log(eval('('+layouts+')'));
-      }</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-        namespace: 'cloud'
-      }</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
