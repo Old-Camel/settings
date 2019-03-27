@@ -12,12 +12,13 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1553585651663">
         <mark key="[" line="58" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1553649248730">
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="243" column="26" />
-        <mark key="." line="243" column="26" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1553649815675">
+        <mark key="[" line="180" column="34" />
+        <mark key="]" line="180" column="34" />
+        <mark key="." line="180" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553648541322">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1553649842260" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553649796459">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="19" column="36" />
         <mark key="." line="19" column="36" />
@@ -94,10 +95,10 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1553585703677">
         <mark key="[" line="59" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553649293098">
-        <mark key="[" line="117" column="13" />
-        <mark key="]" line="215" column="21" />
-        <mark key="." line="215" column="21" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553651087093">
+        <mark key="[" line="204" column="15" />
+        <mark key="]" line="204" column="15" />
+        <mark key="." line="204" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
@@ -258,7 +259,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>setMenuAndAuth</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -267,36 +268,38 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS5UGFuZWwiKQogICAgQFB1dE1hcHBpbmcKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IHVwZGF0ZShAUmVxdWVzdEJvZHkgUGFuZWwgcGFuZWwpIHsKICAgICAgICBzZXJ2aWNlLnVwZGF0ZShwYW5lbCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5L+u5pS55oiQ5YqfIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IFBhbmVsTGF5b3V0IGxheW91dCA9IG5ldyBQYW5lbExheW91dCgpOwogICAgICAgIGxheW91dC5zZXRJZChTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VySWQoKSk7CiAgICAgICAgbGF5b3V0LnNldExheW91dHMobGF5b3V0cyk7</text>
+        <text>{
+        namespace: 'cloud'
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQYW5lbExheW91dD4gZ2V0QWxsKCkgewogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoKTsKICAgIH0=</text>
+        <text encoding="base64">IGxldCBhdXRocyA9IGdldEF1dGhzKCk7CiAgICBsZXQgc3RyID0gYXV0aHMuam9pbigpOwogICAgbGV0IGRhdGEgPSBwYW5lbHMuZmlsdGVyKGl0ZW0gPT4gc3RyLmluY2x1ZGVzKGl0ZW0uY29kZSkpOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8UGFuZWw+IHF1ZXJ5TGlzdEZvclBhZ2UoU3BlY2lmaWNhdGlvbjxQYW5lbD4gc3BlYywgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYW5lbExheW91dCBpbnNlcnQoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgICAgICBQYW5lbExheW91dCBzYXZlID0gcmVwb3NpdG9yeS5zYXZlKHBhbmVsKTsKICAgICAgICByZXR1cm4gc2F2ZTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgIHJlcG9zaXRvcnkuc2F2ZShwYW5lbCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShTdHJpbmcgaWQpIHsKICAgICAgICByZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoaWQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhbmVsTGF5b3V0IGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgU3RyaW5nIG1zZz0i5peg5rOV5om+5Yiw5Li76ZSu5Li6IitpZCsi55qEcGFuZWwiOwogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRCeUlkKGlkKS5vckVsc2VUaHJvdygoKS0+bmV3IENoZWNrRXJyb3JFeGNlcHRpb24obXNnKSk7CiAgICB9</text>
+        <text encoding="base64">IFBhbmVsTGF5b3V0IGxheW91dCA9IG5ldyBQYW5lbExheW91dCgpOwogICAgICAgIGxheW91dC5zZXRJZChTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VySWQoKSk7CiAgICAgICAgbGF5b3V0LnNldExheW91dHMobGF5b3V0cyk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGxldCBjaGVja2VkPWRlcHRLZXlzOwogICAgbGV0IGtleXM9W107CiAgICBsZXQgaGFsZkNoZWNrZWQ9dGhpcy5nZXRLZXkoZGF0YSxrZXlzKTsKICAgIHJldHVybiB7Y2hlY2tlZCxoYWxmQ2hlY2tlZH0=</text>
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQYW5lbExheW91dD4gZ2V0QWxsKCkgewogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoKTsKICAgIH0=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAvKnRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgdG9wOiB0aGlzLnN0YXRlLnRvcCArIDEwLAogICAgICAgICAgICAgIH0pOyov</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8UGFuZWw+IHF1ZXJ5TGlzdEZvclBhZ2UoU3BlY2lmaWNhdGlvbjxQYW5lbD4gc3BlYywgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYW5lbExheW91dCBpbnNlcnQoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgICAgICBQYW5lbExheW91dCBzYXZlID0gcmVwb3NpdG9yeS5zYXZlKHBhbmVsKTsKICAgICAgICByZXR1cm4gc2F2ZTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoUGFuZWxMYXlvdXQgcGFuZWwpIHsKICAgIHJlcG9zaXRvcnkuc2F2ZShwYW5lbCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBAVHJhbnNhY3Rpb25hbChyb2xsYmFja0ZvciA9IEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShTdHJpbmcgaWQpIHsKICAgICAgICByZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoaWQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhbmVsTGF5b3V0IGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgU3RyaW5nIG1zZz0i5peg5rOV5om+5Yiw5Li76ZSu5Li6IitpZCsi55qEcGFuZWwiOwogICAgICAgIHJldHVybiByZXBvc2l0b3J5LmZpbmRCeUlkKGlkKS5vckVsc2VUaHJvdygoKS0+bmV3IENoZWNrRXJyb3JFeGNlcHRpb24obXNnKSk7CiAgICB9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBvbkNoZWNrID0gKGNoZWNrZWRLZXlzKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkS2V5czogY2hlY2tlZEtleXMsIHVwZGF0ZTogdHJ1ZX0pOwogIH0=</text>
+        <text encoding="base64">IGxldCBjaGVja2VkPWRlcHRLZXlzOwogICAgbGV0IGtleXM9W107CiAgICBsZXQgaGFsZkNoZWNrZWQ9dGhpcy5nZXRLZXkoZGF0YSxrZXlzKTsKICAgIHJldHVybiB7Y2hlY2tlZCxoYWxmQ2hlY2tlZH0=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAvKnRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgdG9wOiB0aGlzLnN0YXRlLnRvcCArIDEwLAogICAgICAgICAgICAgIH0pOyov</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICBvbkNoZWNrID0gKGNoZWNrZWRLZXlzKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHtjaGVja2VkS2V5czogY2hlY2tlZEtleXMsIHVwZGF0ZTogdHJ1ZX0pOwogIH0=</text>
+      </register>
+      <register name="9" type="4">
         <text>Divider,Switch,
   Input,
   Table,</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29uc3QgZ2V0VG90YWw9KCk9PnsKCn0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">QGNvbm5lY3QoKHtwYW5lbCwgbG9hZGluZ30pID0+ICh7CiAgZGF0YTogcGFuZWwuZGF0YSwKICBsb2FkaW5nOiBsb2FkaW5nLm1vZGVscy5wYW5lbCwKfSkp</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
