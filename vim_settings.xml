@@ -3,29 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/http.js" timestamp="1553653037471" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1553676808024">
         <mark key="[" line="4" column="27" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/YzGrantedAuthority.java" timestamp="1553738648466" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1553657760492">
         <mark key="[" line="58" column="155" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/auth/security/User.java" timestamp="1553738388362" />
       <file name="$USER_HOME$/data/code/react-auth/src/models/project.js" timestamp="1553683144830">
         <mark key="[" line="12" column="52" />
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/bootstrap.properties" timestamp="1553654258152">
         <mark key="[" line="0" column="66" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Pods.js" timestamp="1553649842260" />
-      <file name="$USER_HOME$/data/code/video-library/pom.xml" timestamp="1553674259904" />
+      <file name="$USER_HOME$/data/code/video-library/pom.xml" timestamp="1553737726747" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1553737460442">
+        <mark key="[" line="167" column="16" />
+        <mark key="]" line="167" column="16" />
+        <mark key="." line="167" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelService.java" timestamp="1553582210981">
         <mark key="[" line="15" column="58" />
@@ -42,13 +47,11 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/api.js" timestamp="1553683117622" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.less" timestamp="1553675161676">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="/user.js" timestamp="1553670766324" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Course.java" timestamp="1553221631034">
         <mark key="[" line="34" column="4" />
       </file>
@@ -85,7 +88,6 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1553585703677">
         <mark key="[" line="59" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/List/Applications.js" timestamp="1553670235530" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" timestamp="1553678683983">
         <mark key="'" line="187" column="25" />
         <mark key="[" line="167" column="60" />
@@ -102,14 +104,12 @@
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Base/Panel.js" timestamp="1553676737221" />
-      <file name="/Dummy.txt" timestamp="1553682300866">
+      <file name="/Dummy.txt" timestamp="1553738684647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
       </file>
-      <file name="/Panel.js" timestamp="1553681199391" />
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553568187585">
         <mark key="[" line="31" column="44" />
       </file>
@@ -125,24 +125,26 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Panel/Panel.less" timestamp="1553668382048">
         <mark key="[" line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/BuildAuthUtil.java" timestamp="1553738128550">
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="48" />
+        <mark key="." line="55" column="48" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/ScoreRepository.java" timestamp="1553222297609">
         <mark key="[" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1553667299068" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
         <mark key="[" line="16" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1553667195985">
         <mark key="[" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1553671093251" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
       <file name="/fragment.java" timestamp="1553594302592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/Panel.less" timestamp="1553675193625" />
     </filemarks>
     <jumps>
       <jump line="47" column="29" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
@@ -260,7 +262,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>get4xxTrcsetDataendsBySvcDataOption</text>
+        <text>SimpleGrantedAuthority</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
