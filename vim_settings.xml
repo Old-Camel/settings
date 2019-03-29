@@ -9,9 +9,12 @@
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUser.java" timestamp="1553839209760">
-        <mark key="[" line="4" column="13" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUser.java" timestamp="1553840960297">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/BaseUserRepository.java" timestamp="1553841012239" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
       </file>
@@ -27,7 +30,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1553839804439">
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseUser.java" timestamp="1553840725637">
         <mark key="[" line="158" column="10" />
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
@@ -46,6 +49,11 @@
       </file>
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelHeader/PanelHeader.tsx" timestamp="1553138127528">
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUserKey.java" timestamp="1553840888775">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
@@ -261,7 +269,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>SimpleGrantedAuthority</text>
+        <text>idcardno</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -269,44 +277,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS5UGFuZWwiKQogICAgQFB1dE1hcHBpbmcKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IHVwZGF0ZShAUmVxdWVzdEJvZHkgUGFuZWwgcGFuZWwpIHsKICAgICAgICBzZXJ2aWNlLnVwZGF0ZShwYW5lbCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5L+u5pS55oiQ5YqfIik7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEBFbWJlZGRlZElkCiAgICBwcml2YXRlIERlcHRVc2VyS2V5IGlkOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKueUqOaIt2lkKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVpZDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKumDqOmXqGlkKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgIFN0cmluZyAgZGlkOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">c2V0RGF0YTEgPSAoYXJyKSA9PiB7CiAgICBjb25zdCB7bmFtZX09dGhpcy5wcm9wcy5kYXRhOwogICAgbGV0IHhBeGlzRGF0YSA9IFtdOwogICAgbGV0IHNlcmllc0RhdGEgPSBbXTsKICAgIGxldCBsZWdlbmRzID0gW107CiAgICBsZXQgY291bnQgPSAwOwogICAgYXJyLmZvckVhY2goKGl0ZW0pID0+IHsKICAgICAgaWYgKGl0ZW0udmFsdWUgPj0gMCkgewogICAgICAgIHNlcmllc0RhdGEucHVzaChpdGVtLnZhbHVlKQogICAgICB9IGVsc2UgewogICAgICAgIHNlcmllc0RhdGEucHVzaCgwKQogICAgICB9CiAgICAgIGlmIChjb3VudCA9PT0gMCkgewogICAgICAgIGxldCB0aW1lID0gbmV3IERhdGUocGFyc2VJbnQoaXRlbS50aW1lc3RhbXApICogMTAwMCkKICAgICAgICBsZXQgaCA9IHRpbWUuZ2V0SG91cnMoKQogICAgICAgIGlmIChoIDwgMTApIHsKICAgICAgICAgIGggPSAnMCcgKyBoCiAgICAgICAgfQogICAgICAgIGxldCBtID0gdGltZS5nZXRNaW51dGVzKCkKICAgICAgICBpZiAobSA8IDEwKSB7CiAgICAgICAgICBtID0gJzAnICsgbQogICAgICAgIH0KICAgICAgICB4QXhpc0RhdGEucHVzaChoICsgJzonICsgbSkKICAgICAgfQogICAgfSk7CiAgICAvLyBsZXQgYXZnID0gdGhpcy5hcnJBdmVyYWdlTnVtKHNlcmllc0RhdGEpICsgJyUnOwogICAgcmV0dXJuIHsKICAgICAgLyogdGl0bGU6IHsKICAgICAgICAgdGV4dDogdGl0bGUsCiAgICAgICB9LCovCiAgICAgIC8vIGxlZ2VuZDogewogICAgICAvLyAgIGRhdGE6IFt7bmFtZX1dLAogICAgICAvLyAgIGJvdHRvbTogMTAKICAgICAgLy8gfSwKICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICdheGlzJywKICAgICAgICBmb3JtYXR0ZXI6ICd7Yn0gPGJyLz4ge2N9JwogICAgICB9LAogICAgICB4QXhpczogW3sKICAgICAgICB0eXBlOiAnY2F0ZWdvcnknLAogICAgICAgIGJvdW5kYXJ5R2FwOiBmYWxzZSwKICAgICAgICBkYXRhOiB4QXhpc0RhdGEKICAgICAgfV0sCiAgICAgIHlBeGlzOiB7CiAgICAgICAgYXhpc0xhYmVsOiB7CiAgICAgICAgICBmb3JtYXR0ZXI6IGZ1bmN0aW9uICh2YWwpIHsKICAgICAgICAgICAgcmV0dXJuIHZhbC50b0ZpeGVkKDIpCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogICAgICBzZXJpZXM6IFt7CiAgICAgICAgdHlwZTogJ2xpbmUnLAogICAgICAgIHNtb290aDogdHJ1ZSwKICAgICAgICAvLyBpdGVtU3R5bGU6IHtub3JtYWw6IHthcmVhU3R5bGU6IHt0eXBlOiAnbGlnaHQnfX19LAogICAgICAgIGRhdGE6IHNlcmllc0RhdGEKICAgICAgfV0KICAgIH0KICB9Ow==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB0aXRsZTp7CiAgICAgICAgdGV4dDonNFhYOuacjeWKoei2i+WKvycKICAgICAgfSw=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgaWYgKGRhdGEucmVzdWx0WzBdICYmIGRhdGEucmVzdWx0WzBdLmRhdGFWYWx1ZXMpIHsKICAgICAgICByZXN1bHQgPSBkYXRhLnJlc3VsdFswXS5kYXRhVmFsdWVzOwogICAgICB9IGVsc2UgaWYgKGRhdGEucmVzdWx0KSB7</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHNhdmVQYW5lbExheW91dChzdGF0ZSwge3BhbmVsTGF5b3V0fSkgewogICAgICBjb25zb2xlLmxvZyhwYW5lbExheW91dCk7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgcGFuZWxMYXlvdXQ6IHBhbmVsTGF5b3V0CiAgICAgIH07CiAgICB9LA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>const panelLayout = yield call(fetchPanelLayout);
-        yield put({
-          type: 'savePanelLayout',
-          panelLayout: panelLayout
-        });</text>
-      </register>
-      <register name="8" type="4">
-        <text>const layout = [{w: 5, h: 2, x: 0, y: 0, i: &quot;0&quot;},
-  {w: 5, h: 2, x: 5, y: 0, i: &quot;1&quot;},
-  {w: 5, h: 2, x: 0, y: 1, i: &quot;2&quot;},
-  {w: 5, h: 2, x: 5, y: 1, i: &quot;3&quot;},
-  {w: 5, h: 2, x: 0, y: 2, i: &quot;4&quot;},
-  {w: 5, h: 2, x: 5, y: 2, i: &quot;5&quot;}];</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LyogcHJpdmF0ZSBTdHJpbmcgaWQ7CiAgICBwcml2YXRlIFN0cmluZyBuYW1lOwogICAgcHJpdmF0ZSBTdHJpbmcgY29kZTsKICAgIHByaXZhdGUgU3RyaW5nIHVybDsKICAgIHByaXZhdGUgSW50ZWdlciB0eXBlOwogICAgcHJpdmF0ZSBJbnRlZ2VyIGRpc3BsYXlJbmRleDsKICAgIHByaXZhdGUgYm9vbGVhbiBoaWRlOyovCi8vIGNvbnN0IGRhdGEgPSBbe25hbWU6ICdjaGFydCcsIHVybDogJ2h0dHA6Ly8yMjIuMzAuMTk0LjIyNTo5MDAwL3NhaWxvci9wcm9tZXRoZXVzL3F1ZXJ5X3JhbmdlP3F1ZXJ5PXJvdW5kKHN1bShpcmF0ZShpc3Rpb19yZXF1ZXN0c190b3RhbHtyZXBvcnRlcj0iZGVzdGluYXRpb24ifVsxbV0pKSwgMC4wMDEpJywgdHlwZTogMywgaWQ6ICdhJ30sCi8vICAge25hbWU6ICd0YWJsZScsIHVybDogICdodHRwOi8vMjIyLjMwLjE5NC4yMjU6OTAwMC9hdXRoL2Jhc2Vyb2xlL3F1ZXJ5TGlzdEZvclBhZ2UnLCB0eXBlOiAyLCBpZDogJ2InLGhyZWY6J2h0dHA6Ly93d3cuYmFpZHUuY29tP2tleT17aWR9J30sCi8vICAgewovLyAgICAgbmFtZTogJ2lmcmFtZScsCi8vICAgICB1cmw6ICdodHRwOi8vdGlhbnFpLjIzNDUuY29tL3BsdWdpbi93aWRnZXQvaW5kZXguaHRtP3M9MSZ6PTEmdD0wJnY9MCZkPTMmYmQ9MCZrPSZmPSZxPTEmZT0xJmE9MSZjPTU0NTExJnc9Mzg1Jmg9OTYmYWxpZ249bGVmdCcsCi8vICAgICB0eXBlOiAxLAovLyAgICAgaWQ6ICdjJwovLyAgIH1d</text>
+        <text encoding="base64">ICB0aXRsZTp7CiAgICAgICAgdGV4dDonNFhYOuacjeWKoei2i+WKvycKICAgICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
