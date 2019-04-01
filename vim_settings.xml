@@ -28,10 +28,10 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1553657760492">
         <mark key="[" line="58" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/TokenFilter.java" timestamp="1554109077883">
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="46" />
-        <mark key="." line="44" column="46" />
+      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/TokenFilter.java" timestamp="1554109600164">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/project.js" timestamp="1553755063361">
         <mark key="[" line="12" column="52" />
@@ -165,6 +165,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
         <mark key="[" line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1554109477590" />
       <file name="$USER_HOME$/data/code/gateway/src/main/resources/application.properties" timestamp="1554106013788">
         <mark key="[" line="1" column="0" />
       </file>
@@ -294,7 +295,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>UNAUTHORIZED</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
