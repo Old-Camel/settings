@@ -17,14 +17,22 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/BaseUserRepository.java" timestamp="1553841780562">
         <mark key="[" line="21" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/Route.java" timestamp="1554102549914">
-        <mark key="[" line="22" column="35" />
+      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/Route.java" timestamp="1554106029035">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1553657760492">
         <mark key="[" line="58" column="155" />
+      </file>
+      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/TokenFilter.java" timestamp="1554106019515">
+        <mark key="[" line="51" column="86" />
+        <mark key="]" line="51" column="34" />
+        <mark key="^" line="51" column="34" />
+        <mark key="." line="51" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/project.js" timestamp="1553755063361">
         <mark key="[" line="12" column="52" />
@@ -157,6 +165,9 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
         <mark key="[" line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/data/code/gateway/src/main/resources/application.properties" timestamp="1554106013788">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1553667195985">
         <mark key="[" line="2" column="50" />
       </file>
@@ -283,7 +294,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>设置成功</text>
+        <text>&quot;http://www.baidu.com&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -292,34 +303,42 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg55So5oi35aSa6YOo6ZeoIikKICAgIEBQb3N0TWFwcGluZygiL2Jhc2VVc2VyL3VwZGF0ZUF2YXRhciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBhZGREZXB0VXNlcnMoQFJlcXVlc3RQYXJhbSBTdHJpbmcgZGlkLCBAUmVxdWVzdFBhcmFtIFN0cmluZ1tdIHVpZHMpIHsKICAgICAgICBiYXNlVXNlclNlcnZpY2Uuc2F2ZURlcHRVc2VyKGRpZCx1aWRzKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLorr7nva7miJDlip8iKTsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEBFbWJlZGRlZElkCiAgICBwcml2YXRlIERlcHRVc2VyS2V5IGlkOw==</text>
+        <text>---------------------
+    作者：尹吉欢
+    来源：CSDN
+    原文：https://blog.csdn.net/u010889990/article/details/83095824 
+    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKueUqOaIt2lkKi8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGMgLyogIEBCZWFuCiAgICBwdWJsaWMgUm91dGVMb2NhdG9yIG15Um91dGVzKFJvdXRlTG9jYXRvckJ1aWxkZXIgYnVpbGRlcikgewogICAgICAgIHJldHVybiBidWlsZGVyLnJvdXRlcygpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICB9CiAgICAvL0BPcmRlcigxKQogICAgLy9AQmVhbgogICAgcHVibGljIEdsb2JhbEZpbHRlciBmaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUb2tlbkZpbHRlcigpOwogICAgfSov</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVpZDsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgLnJvdXRlKHAgLT4gcAogICAgICAgICAgICAgICAgICAgICAgICAucGF0aCgiLyoiKQoKICAgICAgICAgICAgICAgICAgICAgICAgKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKumDqOmXqGlkKi8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmV0dXJuIChleGNoYW5nZSwgY2hhaW4pIC0+IHsKICAgICAgICAgICAgbG9nLmluZm8oInRoaXJkIHByZSBmaWx0ZXIiKTsKICAgICAgICAgICAgcmV0dXJuIGNoYWluLmZpbHRlcihleGNoYW5nZSkudGhlbihNb25vLmZyb21SdW5uYWJsZSgoKSAtPiB7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiZmlyc3QgcG9zdCBmaWx0ZXIiKTsKICAgICAgICAgICAgfSkpOwogICAgICAgIH07</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgIFN0cmluZyAgZGlkOwo=</text>
+      <register name="5" type="4">
+        <text>---------------------
+    作者：尹吉欢
+    来源：CSDN
+    原文：https://blog.csdn.net/u010889990/article/details/83095824 
+    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBFbWJlZGRlZElkCiAgICBwcml2YXRlIERlcHRVc2VyS2V5IGlkOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIC8qKueUqOaIt2lkKi8K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c2V0RGF0YTEgPSAoYXJyKSA9PiB7CiAgICBjb25zdCB7bmFtZX09dGhpcy5wcm9wcy5kYXRhOwogICAgbGV0IHhBeGlzRGF0YSA9IFtdOwogICAgbGV0IHNlcmllc0RhdGEgPSBbXTsKICAgIGxldCBsZWdlbmRzID0gW107CiAgICBsZXQgY291bnQgPSAwOwogICAgYXJyLmZvckVhY2goKGl0ZW0pID0+IHsKICAgICAgaWYgKGl0ZW0udmFsdWUgPj0gMCkgewogICAgICAgIHNlcmllc0RhdGEucHVzaChpdGVtLnZhbHVlKQogICAgICB9IGVsc2UgewogICAgICAgIHNlcmllc0RhdGEucHVzaCgwKQogICAgICB9CiAgICAgIGlmIChjb3VudCA9PT0gMCkgewogICAgICAgIGxldCB0aW1lID0gbmV3IERhdGUocGFyc2VJbnQoaXRlbS50aW1lc3RhbXApICogMTAwMCkKICAgICAgICBsZXQgaCA9IHRpbWUuZ2V0SG91cnMoKQogICAgICAgIGlmIChoIDwgMTApIHsKICAgICAgICAgIGggPSAnMCcgKyBoCiAgICAgICAgfQogICAgICAgIGxldCBtID0gdGltZS5nZXRNaW51dGVzKCkKICAgICAgICBpZiAobSA8IDEwKSB7CiAgICAgICAgICBtID0gJzAnICsgbQogICAgICAgIH0KICAgICAgICB4QXhpc0RhdGEucHVzaChoICsgJzonICsgbSkKICAgICAgfQogICAgfSk7CiAgICAvLyBsZXQgYXZnID0gdGhpcy5hcnJBdmVyYWdlTnVtKHNlcmllc0RhdGEpICsgJyUnOwogICAgcmV0dXJuIHsKICAgICAgLyogdGl0bGU6IHsKICAgICAgICAgdGV4dDogdGl0bGUsCiAgICAgICB9LCovCiAgICAgIC8vIGxlZ2VuZDogewogICAgICAvLyAgIGRhdGE6IFt7bmFtZX1dLAogICAgICAvLyAgIGJvdHRvbTogMTAKICAgICAgLy8gfSwKICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICdheGlzJywKICAgICAgICBmb3JtYXR0ZXI6ICd7Yn0gPGJyLz4ge2N9JwogICAgICB9LAogICAgICB4QXhpczogW3sKICAgICAgICB0eXBlOiAnY2F0ZWdvcnknLAogICAgICAgIGJvdW5kYXJ5R2FwOiBmYWxzZSwKICAgICAgICBkYXRhOiB4QXhpc0RhdGEKICAgICAgfV0sCiAgICAgIHlBeGlzOiB7CiAgICAgICAgYXhpc0xhYmVsOiB7CiAgICAgICAgICBmb3JtYXR0ZXI6IGZ1bmN0aW9uICh2YWwpIHsKICAgICAgICAgICAgcmV0dXJuIHZhbC50b0ZpeGVkKDIpCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogICAgICBzZXJpZXM6IFt7CiAgICAgICAgdHlwZTogJ2xpbmUnLAogICAgICAgIHNtb290aDogdHJ1ZSwKICAgICAgICAvLyBpdGVtU3R5bGU6IHtub3JtYWw6IHthcmVhU3R5bGU6IHt0eXBlOiAnbGlnaHQnfX19LAogICAgICAgIGRhdGE6IHNlcmllc0RhdGEKICAgICAgfV0KICAgIH0KICB9Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVpZDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB0aXRsZTp7CiAgICAgICAgdGV4dDonNFhYOuacjeWKoei2i+WKvycKICAgICAgfSw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKumDqOmXqGlkKi8K</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
