@@ -9,18 +9,20 @@
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUser.java" timestamp="1554183687606">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/ApiConfig.java" timestamp="1554188541105" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUser.java" timestamp="1554184976981">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/BaseUserRepository.java" timestamp="1553841780562">
         <mark key="[" line="21" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/Route.java" timestamp="1554106029035">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+      <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/Route.java" timestamp="1554188883491">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
@@ -33,6 +35,9 @@
         <mark key="[" line="39" column="12" />
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/config/application-dev.properties" timestamp="1554187907886">
+        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/project.js" timestamp="1553755063361">
         <mark key="[" line="12" column="52" />
@@ -63,11 +68,14 @@
       <file name="$USER_HOME$/data/code/grafana/public/app/features/dashboard/dashgrid/PanelHeader/PanelHeader.tsx" timestamp="1553138127528">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUserKey.java" timestamp="1554183909737">
-        <mark key="[" line="23" column="18" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUserKey.java" timestamp="1554184945898">
+        <mark key="[" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/ResourceServerConfiguration.java" timestamp="1554186426726">
+        <mark key="[" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Course.java" timestamp="1553221631034">
         <mark key="[" line="34" column="4" />
@@ -87,11 +95,14 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseAuthrityController.java" timestamp="1553563746667">
         <mark key="[" line="44" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1553739379295">
-        <mark key="[" line="41" column="23" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1554188132813">
+        <mark key="[" line="102" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/DeptUserRepository.java" timestamp="1553841756397">
-        <mark key="[" line="18" column="67" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/DeptUserRepository.java" timestamp="1554184843865">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Dashboard/ShowCaseLayout.js" timestamp="1553067432451">
         <mark key="[" line="73" column="8" />
@@ -111,11 +122,17 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1553585746468">
         <mark key="[" line="223" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1554187278114">
+        <mark key="[" line="337" column="11" />
+        <mark key="]" line="337" column="11" />
+        <mark key="^" line="341" column="7" />
+        <mark key="." line="337" column="11" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/istio/istio-svc-dpt.yaml" timestamp="1553585703677">
         <mark key="[" line="59" column="155" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseUserServiceImpl.java" timestamp="1554176626897">
-        <mark key="[" line="316" column="101" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseUserServiceImpl.java" timestamp="1554186626128">
+        <mark key="[" line="316" column="57" />
         <mark key="]" line="316" column="101" />
         <mark key="^" line="318" column="6" />
         <mark key="." line="316" column="101" />
@@ -136,8 +153,10 @@
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553844055837">
+      <file name="/Dummy.txt" timestamp="1554187419300">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
@@ -145,6 +164,7 @@
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1553568187585">
         <mark key="[" line="31" column="44" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1554186966418" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/PanelLayoutRepository.java" timestamp="1553594262328">
         <mark key="[" line="13" column="66" />
       </file>
@@ -179,7 +199,7 @@
         <mark key="^" line="12493" column="31" />
         <mark key="." line="12493" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1553740302972">
+      <file name="/fragment.java" timestamp="1554188422651">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -299,7 +319,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>enabled</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -308,44 +328,41 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg55So5oi35aSa6YOo6ZeoIikKICAgIEBQb3N0TWFwcGluZygiL2Jhc2VVc2VyL3VwZGF0ZUF2YXRhciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBhZGREZXB0VXNlcnMoQFJlcXVlc3RQYXJhbSBTdHJpbmcgZGlkLCBAUmVxdWVzdFBhcmFtIFN0cmluZ1tdIHVpZHMpIHsKICAgICAgICBiYXNlVXNlclNlcnZpY2Uuc2F2ZURlcHRVc2VyKGRpZCx1aWRzKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLorr7nva7miJDlip8iKTsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBTZXQ8QmFzZU1lbnU+IG1lbnUgPSB1c2VyLmdldE1lbnUoKTsKICAgICAgICBmb3IgKEJhc2VNZW51IGl0ZW0gOiBtZW51KSB7CiAgICAgICAgICAgIGlmICh1cmwuZXF1YWxzKGl0ZW0uZ2V0RXh0ZXJuYWxMaW5rKCkpKSB7CiAgICAgICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmICghZmxhZykgewogICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuRk9SQklEREVOLCAi5oKo5peg5p2D6K6/6Zeu5q2k57O757ufIik7CiAgICAgICAgfQ==</text>
+        <text>@EmbeddedId
+    private DeptUserKey key;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBTZXQ8QmFzZU1lbnU+IG1lbnUgPSB1c2VyLmdldE1lbnUoKTsKICAgICAgICBmb3IgKEJhc2VNZW51IGl0ZW0gOiBtZW51KSB7CiAgICAgICAgICAgIGlmICh1cmwuZXF1YWxzKGl0ZW0uZ2V0RXh0ZXJuYWxMaW5rKCkpKSB7CiAgICAgICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmICghZmxhZykgewogICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuRk9SQklEREVOLCAi5oKo5peg5p2D6K6/6Zeu5q2k57O757ufIik7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (userDetails == null) {
             throw new UsernameNotFoundException(&quot;用户名不正确&quot;);
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IC8v6K6+572u55So5oi357G75Z6L6KeS6ImyCiAgICAgICAgaWYgKHVzZXIgIT0gbnVsbCkgewogICAgICAgICAgICBCdWlsZEF1dGhVdGlsLmJ1aWxkQXV0aG9yaXRpZXModXNlcik7Ly/ojrflj5bnlKjmiLfmnYPpmZAKICAgICAgICAgICAgQnVpbGRBdXRoVXRpbC5nZXRNZW51cyh1c2VyKTsvL+iOt+WPlueUqOaIt+iPnOWNlQogICAgICAgICAgICBlbnRpdHlNYW5hZ2VyLmNsZWFyKCk7CiAgICAgICAgfQogICAgICAgIGlmICghSW50ZWdlci52YWx1ZU9mKDEpLmVxdWFscyh1c2VyLmdldElzRGVsZXRlKCkpKSB7CiAgICAgICAgICAgIC8v6I635Y+W55So5oi35p2D6ZmQ6ZuG5ZCICiAgICAgICAgICAgIFNldDxHcmFudGVkQXV0aG9yaXR5PiBncmFudGVkQXV0aG9yaXRpZXMgPSB1c2VyLmdldEF1dGhvcml0aWVzKCk7CiAgICAgICAgICAgIFNldDxCYXNlTWVudT4gbWVudXMgPSB1c2VyLmdldE1lbnVzKCk7Ly/ojrflj5bnlKjmiLfoj5zljZUKICAgICAgICAgICAgU2V0PEJhc2VNZW51PiBuZXdTZXQgPSBuZXcgVHJlZVNldDw+KCk7CiAgICAgICAgICAgIG5ld1NldC5hZGRBbGwobWVudXMpOy8v5Y676YeN5aSNCiAgICAgICAgICAgIHNldE1lbnVBdXRoKG5ld1NldCwgQnVpbGRBdXRoVXRpbC5idWlsZEF1dGgodXNlcikpOy8v6K6+5p2D6ZmQCiAgICAgICAgICAgIEJhc2VNZW51LnNvcnRNZW51QnlEaXNwbGF5SW5kZXgobmV3U2V0KTsvL+aOkumhuuW6jwogICAgICAgICAgICBCYXNlRGVwdCBiYXNlRGVwdCA9IHVzZXIuZ2V0RGVwdCgpOwogICAgICAgICAgICBTdHJpbmcgZGVwdElkID0gbnVsbDsKICAgICAgICAgICAgU3RyaW5nIGRlcHROYW1lID0gbnVsbDsKICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVkID0gdXNlci5nZXRTdGF0dXMoKSA9PSAxOwogICAgICAgICAgICBpZiAoYmFzZURlcHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZGVwdElkID0gYmFzZURlcHQuZ2V0RGVwdElkKCk7CiAgICAgICAgICAgICAgICBkZXB0TmFtZSA9IGJhc2VEZXB0LmdldERlcHROYW1lKCk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>---------------------
     作者：尹吉欢
     来源：CSDN
     原文：https://blog.csdn.net/u010889990/article/details/83095824 
     版权声明：本文为博主原创文章，转载请附上博文链接！</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGMgLyogIEBCZWFuCiAgICBwdWJsaWMgUm91dGVMb2NhdG9yIG15Um91dGVzKFJvdXRlTG9jYXRvckJ1aWxkZXIgYnVpbGRlcikgewogICAgICAgIHJldHVybiBidWlsZGVyLnJvdXRlcygpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICB9CiAgICAvL0BPcmRlcigxKQogICAgLy9AQmVhbgogICAgcHVibGljIEdsb2JhbEZpbHRlciBmaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUb2tlbkZpbHRlcigpOwogICAgfSov</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgLnJvdXRlKHAgLT4gcAogICAgICAgICAgICAgICAgICAgICAgICAucGF0aCgiLyoiKQoKICAgICAgICAgICAgICAgICAgICAgICAgKQ==</text>
+        <text encoding="base64">IGMgLyogIEBCZWFuCiAgICBwdWJsaWMgUm91dGVMb2NhdG9yIG15Um91dGVzKFJvdXRlTG9jYXRvckJ1aWxkZXIgYnVpbGRlcikgewogICAgICAgIHJldHVybiBidWlsZGVyLnJvdXRlcygpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICB9CiAgICAvL0BPcmRlcigxKQogICAgLy9AQmVhbgogICAgcHVibGljIEdsb2JhbEZpbHRlciBmaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUb2tlbkZpbHRlcigpOwogICAgfSov</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIChleGNoYW5nZSwgY2hhaW4pIC0+IHsKICAgICAgICAgICAgbG9nLmluZm8oInRoaXJkIHByZSBmaWx0ZXIiKTsKICAgICAgICAgICAgcmV0dXJuIGNoYWluLmZpbHRlcihleGNoYW5nZSkudGhlbihNb25vLmZyb21SdW5uYWJsZSgoKSAtPiB7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiZmlyc3QgcG9zdCBmaWx0ZXIiKTsKICAgICAgICAgICAgfSkpOwogICAgICAgIH07</text>
+        <text encoding="base64">ICAgLnJvdXRlKHAgLT4gcAogICAgICAgICAgICAgICAgICAgICAgICAucGF0aCgiLyoiKQoKICAgICAgICAgICAgICAgICAgICAgICAgKQ==</text>
       </register>
       <register name="9" type="4">
-        <text>---------------------
-    作者：尹吉欢
-    来源：CSDN
-    原文：https://blog.csdn.net/u010889990/article/details/83095824 
-    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+        <text encoding="base64">cmV0dXJuIChleGNoYW5nZSwgY2hhaW4pIC0+IHsKICAgICAgICAgICAgbG9nLmluZm8oInRoaXJkIHByZSBmaWx0ZXIiKTsKICAgICAgICAgICAgcmV0dXJuIGNoYWluLmZpbHRlcihleGNoYW5nZSkudGhlbihNb25vLmZyb21SdW5uYWJsZSgoKSAtPiB7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiZmlyc3QgcG9zdCBmaWx0ZXIiKTsKICAgICAgICAgICAgfSkpOwogICAgICAgIH07</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
