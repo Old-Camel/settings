@@ -106,11 +106,12 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Dashboard/ShowCaseLayout.js" timestamp="1553067432451">
         <mark key="[" line="73" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" timestamp="1554356827969">
-        <mark key="[" line="60" column="95" />
-        <mark key="]" line="74" column="19" />
-        <mark key="." line="74" column="19" />
-        <mark key="^" line="74" column="19" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" timestamp="1554358174460">
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/mapper/ScoreMapper.xml" timestamp="1553223070727">
         <mark key="[" line="28" column="74" />
@@ -215,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="24" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/dept.js" />
       <jump line="332" column="17" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
       <jump line="74" column="17" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseFieldsController.java" />
       <jump line="46" column="79" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/MerryyouLoginSuccessHandler.java" />
@@ -315,6 +315,7 @@
       <jump line="79" column="16" filename="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" />
       <jump line="238" column="25" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
       <jump line="154" column="19" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" />
+      <jump line="48" column="23" filename="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -330,7 +331,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -377,7 +378,7 @@
       <last-offset />
       <last-pattern>render</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
