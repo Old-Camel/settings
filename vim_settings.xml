@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/BaseUserRepository.java" timestamp="1553841780562">
         <mark key="[" line="21" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1554693412238">
+      <file name="/a.dummy" timestamp="1554702437763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1554260523465">
         <mark key="[" line="67" column="167" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/AuthServerApplication.java" timestamp="1554703463800" />
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/TokenFilter.java" timestamp="1554191189177">
         <mark key="[" line="73" column="33" />
         <mark key="]" line="73" column="33" />
@@ -47,14 +48,14 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/List/CardList.js" timestamp="1554346070946">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/service/impl/TaskTemplateImpl.java" timestamp="1554695840407">
-        <mark key="[" line="13" column="29" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/service/impl/TaskTemplateImpl.java" timestamp="1554702618676">
+        <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/bootstrap.properties" timestamp="1553654258152">
         <mark key="[" line="0" column="66" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/repository/TaskVarRepositoty.java" timestamp="1554695691399">
-        <mark key="[" line="15" column="57" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/repository/TaskVarRepositoty.java" timestamp="1554702464855">
+        <mark key="[" line="10" column="3" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
@@ -89,8 +90,14 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/SailorApplication.java" timestamp="1554703475463">
+        <mark key="[" line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.less" timestamp="1554343548647">
         <mark key="[" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/resources/application-local.properties" timestamp="1554704054813">
+        <mark key="[" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/ResourceServerConfiguration.java" timestamp="1554186426726">
         <mark key="[" line="46" column="29" />
@@ -104,7 +111,7 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/PanelLayout.java" timestamp="1553594229896">
         <mark key="[" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/repository/TaskRepositoty.java" timestamp="1554695711989">
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/repository/TaskRepositoty.java" timestamp="1554702423240">
         <mark key="[" line="15" column="54" />
         <mark key="]" line="15" column="54" />
         <mark key="." line="15" column="54" />
@@ -184,12 +191,13 @@
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/TaskController.java" timestamp="1554693136193">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/web/TaskController.java" timestamp="1554703370597">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554374442499">
+      <file name="/Dummy.txt" timestamp="1554702926955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,6 +227,7 @@
         <mark key="]" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/repository/TaskTemplateRepositoty.java" timestamp="1554702447393" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/ScoreRepository.java" timestamp="1553222297609">
         <mark key="[" line="30" column="34" />
       </file>
@@ -228,13 +237,13 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/resources/application.properties" timestamp="1554106013788">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1554343214460">
-        <mark key="[" line="2" column="53" />
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1554703131811">
+        <mark key="[" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
-      <file name="/fragment.java" timestamp="1554695398735">
+      <file name="/fragment.java" timestamp="1554702926946">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
