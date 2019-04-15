@@ -26,10 +26,10 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/kubernetes/ApiService.java" timestamp="1555323860552">
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="78" column="8" />
-        <mark key="." line="78" column="8" />
+      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/kubernetes/ApiService.java" timestamp="1555325796447">
+        <mark key="[" line="91" column="227" />
+        <mark key="]" line="91" column="227" />
+        <mark key="." line="91" column="227" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1555314278999" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/config/application-dev.properties" timestamp="1554187907886">
@@ -351,7 +351,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>ApiService</text>
+        <text>customResourceDefinitionCustomResourceDefinitionListDoneableCustomResourceDefinitionResourceNonNamespaceOperation</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
