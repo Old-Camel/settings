@@ -15,8 +15,10 @@
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/application.properties" timestamp="1555487821908">
-        <mark key="[" line="7" column="38" />
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/application.properties" timestamp="1555495647863">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/flowable/modeler/config/ProcessEngineConfig.java" timestamp="1555486641016">
         <mark key="[" line="36" column="0" />
@@ -270,7 +272,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
         <mark key="[" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/flow-modeler-sduty/src/main/resources/application.properties" timestamp="1555485600422" />
+      <file name="$USER_HOME$/data/code/flow-modeler-sduty/src/main/resources/application.properties" timestamp="1555495227679" />
       <file name="$USER_HOME$/data/code/newdemo/jpa/istio/istio-gateway.yaml" timestamp="1555403763716" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/static/docs/index.html" timestamp="1555470218102" />
       <file name="$USER_HOME$/data/code/flow-modeler-sduty/src/main/java/org/flow/config/ApplicationConfiguration.java" timestamp="1555485181324" />
@@ -395,7 +397,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>pathname</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>render</text>
