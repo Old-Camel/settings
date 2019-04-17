@@ -6,7 +6,7 @@
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554702437763">
+      <file name="/a.dummy" timestamp="1555480842182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
@@ -25,7 +25,7 @@
         <mark key="[" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/pom.xml" timestamp="1555473188688">
-        <mark key="[" line="7" column="22" />
+        <mark key="[" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.less" timestamp="1554343548647">
         <mark key="[" line="40" column="12" />
@@ -69,12 +69,6 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1554712631717">
         <mark key="[" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/config/KubernetesClientConfig.java" timestamp="1555376865565">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="49" column="2" />
-      </file>
       <file name="$USER_HOME$/data/code/plugins-pushserver/src/main/resources/static/ws.html" timestamp="1553753178397">
         <mark key="[" line="41" column="43" />
       </file>
@@ -90,6 +84,11 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553564125772">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable/src/main/resources/application.properties" timestamp="1555480875090">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
@@ -108,12 +107,6 @@
       </file>
       <file name="$USER_HOME$/data/code/gateway/src/main/resources/application.properties" timestamp="1554106013788">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1555404379217">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
@@ -194,7 +187,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Istio/config.ts" timestamp="1553153255096">
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/pom.xml" timestamp="1555470583593">
+      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/pom.xml" timestamp="1555480639199">
         <mark key="[" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1555404966007" />
@@ -229,7 +222,7 @@
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/istio/istio-gateway.yaml" timestamp="1555403763716" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/static/docs/index.html" timestamp="1555470218102" />
-      <file name="/fragment.java" timestamp="1555400022712">
+      <file name="/fragment.java" timestamp="1555480862000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flow-modeler-sduty/README.md" timestamp="1555395359884" />
@@ -350,7 +343,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>//kubernetesClient.customResource</text>
+        <text>server.port=9999</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
