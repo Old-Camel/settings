@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-idm-api/6.4.1/flowable-idm-api-6.4.1.jar!/org/flowable/idm/api/PasswordEncoder.class" timestamp="1555575253365" />
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/mybatis/mapper/shareniu/ProcessDefDao.xml" timestamp="1555652866581" />
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1555655732557" />
+      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/dao/TaskDao.java" timestamp="1555658381274" />
       <file name="/a.dummy" timestamp="1555487174291">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,7 +16,6 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-idm-rest/6.4.1/flowable-ui-idm-rest-6.4.1.jar!/org/flowable/ui/idm/rest/app/AccountResource.class" timestamp="1555576319773" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
       </file>
@@ -34,13 +31,9 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/config/IdmApiServlet.java" timestamp="1555573873581">
         <mark key="[" line="17" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-logic/6.4.1/flowable-ui-modeler-logic-6.4.1.jar!/org/flowable/ui/modeler/service/ModelServiceImpl.class" timestamp="1555576789131" />
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-rest/src/main/java/org/flowable/ui/idm/rest/app/AccountResource.java" timestamp="1555576293642" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/index.html" timestamp="1555641443982" />
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-logic/src/main/java/org/flowable/ui/idm/constant/GroupTypes.java" timestamp="1555645065256" />
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.less" timestamp="1554343548647">
         <mark key="[" line="40" column="12" />
       </file>
@@ -80,14 +73,11 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1554260576074">
         <mark key="[" line="223" column="26" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/init.sql" timestamp="1555583356081" />
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/config/YunzaiPasswordEncoder.java" timestamp="1555575261714" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Model.js" timestamp="1555639709261">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" timestamp="1555640261689" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1554712631717">
         <mark key="[" line="36" column="15" />
       </file>
@@ -112,6 +102,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/repository/CourseRepository.java" timestamp="1553221917468">
         <mark key="[" line="19" column="44" />
       </file>
+      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/mybatis/mapper/shareniu/TaskDao.xml" timestamp="1555658931561" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/web/RemoteAccountController.java" timestamp="1555577996072">
         <mark key="[" line="31" column="38" />
       </file>
@@ -136,14 +127,12 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/resources/application.properties" timestamp="1554106013788">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课堂资料/代码/shareniu-flowable-study/src/main/java/com/shareniu/shareniu_flowable_study/ch3/ProcessengineTest.java" timestamp="1555639685868" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/mapper/ScoreMapper.java" timestamp="1553223060621">
         <mark key="[" line="17" column="92" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/SeparateAdmissionsApplication.java" timestamp="1554713604332">
         <mark key="[" line="49" column="73" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/dao/ProcessDefDao.java" timestamp="1555652700206" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/FlowableModelerApplication.java" timestamp="1555569885059">
         <mark key="[" line="8" column="120" />
       </file>
@@ -159,7 +148,6 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/YunzaiPasswordEncoderImpl.java" timestamp="1555580055122" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/config/application-dev.properties" timestamp="1554187907886">
         <mark key="[" line="46" column="0" />
       </file>
@@ -172,7 +160,6 @@
       <file name="$USER_HOME$/data/code/kubernetes-client/kubernetes-model/pom.xml" timestamp="1555379969417">
         <mark key="[" line="258" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Dept.js" timestamp="1555640839057" />
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/resources/bootstrap.properties" timestamp="1553654258152">
         <mark key="[" line="0" column="66" />
       </file>
@@ -203,10 +190,6 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUserKey.java" timestamp="1554184945898">
         <mark key="[" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/TaskController.java" timestamp="1555577659209" />
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-idm-api/src/main/java/org/flowable/idm/api/IdmIdentityService.java" timestamp="1555645093007" />
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/IndexController.java" timestamp="1555644284008" />
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-engine-common/src/main/java/org/flowable/common/engine/impl/cfg/CommandExecutorImpl.java" timestamp="1555646007003" />
       <file name="$USER_HOME$/data/code/kubernetes-client/kubernetes-model/kubernetes-model/pom.xml" timestamp="1555379953775">
         <mark key="[" line="229" column="21" />
       </file>
@@ -251,7 +234,6 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SortItem.java" timestamp="1554711059319">
         <mark key="[" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/ShareniuFlowableSpringbootWebApplication.java" timestamp="1555577123049" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/SystemLog.java" timestamp="1554693373846">
         <mark key="[" line="33" column="25" />
       </file>
@@ -267,7 +249,6 @@
       <file name="/Dummy.txt" timestamp="1555569107755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-logic/src/main/java/org/flowable/ui/idm/service/GroupServiceImpl.java" timestamp="1555645070996" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
       </file>
@@ -283,11 +264,9 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelLayoutService.java" timestamp="1553594285957">
         <mark key="[" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/templates/index.html" timestamp="1555652654694" />
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/generatorConfig-shareniu.xml" timestamp="1555583110884">
         <mark key="[" line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/config/ShareniuDataSourceProcessEngineAutoConfiguration.java" timestamp="1555577572029" />
       <file name="/fragment.java" timestamp="1555574969092">
         <mark key="[" line="0" column="0" />
       </file>
