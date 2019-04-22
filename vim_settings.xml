@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1555660633943">
         <mark key="[" line="112" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine-common/6.4.1/flowable-engine-common-6.4.1.jar!/org/flowable/common/engine/impl/service/CommonEngineServiceImpl.class" timestamp="1555913469129" />
       <file name="/a.dummy" timestamp="1555662224148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,13 +19,15 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/F01.java" timestamp="1555896646979">
-        <mark key="[" line="14" column="18" />
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/F01.java" timestamp="1555915138088">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/application.properties" timestamp="1555896891778">
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/application.properties" timestamp="1555913980572">
         <mark key="[" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/flowable/modeler/config/ProcessEngineConfig.java" timestamp="1555486641016">
@@ -42,7 +45,9 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/flowable.cfg.xml" timestamp="1555896599986" />
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/flowable.cfg.xml" timestamp="1555913988327">
+        <mark key="[" line="10" column="99" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.less" timestamp="1554343548647">
         <mark key="[" line="40" column="12" />
       </file>
@@ -83,6 +88,9 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1554260576074">
         <mark key="[" line="223" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/leave.bpmn" timestamp="1555915232997">
+        <mark key="[" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1554712631717">
         <mark key="[" line="36" column="15" />
       </file>
@@ -95,6 +103,7 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Score.java" timestamp="1554711050091">
         <mark key="[" line="22" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine-common/6.4.1/flowable-engine-common-6.4.1.jar!/org/flowable/common/engine/impl/AbstractEngineConfiguration.class" timestamp="1555914880131" />
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/dataBase.xml" timestamp="1555639483613">
         <mark key="[" line="15" column="43" />
       </file>
@@ -110,6 +119,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/web/RemoteAccountController.java" timestamp="1555661875794">
         <mark key="[" line="31" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/repository/DeploymentBuilder.java" timestamp="1555915011361" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/School.java" timestamp="1554711094729">
         <mark key="[" line="32" column="7" />
       </file>
@@ -386,7 +396,7 @@
         <text>msg</text>
       </register>
       <register name="-" type="4">
-        <text>StudentApplication</text>
+        <text>deleteDeployment();</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -498,6 +508,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
