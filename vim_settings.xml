@@ -191,11 +191,12 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1553676808024">
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1556013695776">
-        <mark key="[" line="263" column="3" />
-        <mark key="]" line="263" column="3" />
-        <mark key="." line="263" column="3" />
-        <mark key="^" line="200" column="74" />
+      <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1556085964966">
+        <mark key="'" line="276" column="20" />
+        <mark key="[" line="280" column="2" />
+        <mark key="]" line="280" column="1" />
+        <mark key="." line="280" column="1" />
+        <mark key="^" line="280" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/repository/BaseUserRepository.java" timestamp="1553841780562">
         <mark key="[" line="21" column="55" />
@@ -334,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/AuthDrawer.js" />
       <jump line="976" column="10" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
       <jump line="101" column="6" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
       <jump line="540" column="15" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
@@ -434,6 +434,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/CeleteProcessInstanceCacadeCmd.java" />
       <jump line="317" column="3" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/RuntimeTaskHistoryServiceTest.java" />
       <jump line="332" column="5" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/RuntimeTaskHistoryServiceTest.java" />
+      <jump line="276" column="20" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -452,7 +453,7 @@
         <text>admin</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text encoding="base64">XDxjb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
@@ -492,16 +493,17 @@
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search encoding="base64">XDxjb21wbGV0ZVw+</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wbGV0ZVw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>state</entry>
         <entry>render</entry>
+        <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>mark</entry>
