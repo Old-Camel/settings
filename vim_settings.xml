@@ -69,11 +69,11 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch4/ShareniuJumpCmd.java" timestamp="1556504375246">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormView.jsx" timestamp="1557804952017">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormView.jsx" timestamp="1557805969213">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
         <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/ServiceMenu/index.less" timestamp="1554343548647">
         <mark key="[" line="40" column="12" />
@@ -128,7 +128,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" timestamp="1555386268082">
         <mark key="[" line="294" column="87" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1557804850119">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1557805949519">
         <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1554260576074">
@@ -553,46 +553,46 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBzZXRUcmVlKHBheWxvYWQpewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdUUkVFX1NFVF9UUkVFJywKICAgICAgcGF5bG9hZAogICAgfSk7CiAgfQ==</text>
+        <text encoding="base64">IHNldEZvcm1EYXRhOiAoe2Zvcm1EYXRhfSkgPT4ge3RoaXMucHJvcHMuZGlzcGF0Y2goewogIHR5cGU6J0ZPUk1fREFUQV9TRVQnLAogIHBheWxvYWQ6IGZvcm1EYXRhCn0p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBzZXRUcmVlKHBheWxvYWQpewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdUUkVFX1NFVF9UUkVFJywKICAgICAgcGF5bG9hZAogICAgfSk7CiAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>payload: {
         source,
         target,
         position,
       }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8qICAoe3NldHRpbmdzLCB0cmVlOntwcmVzZW50Oltyb290Tm9kZV19LCBtZW51fSkgPT4gKHtzZXR0aW5ncywgcm9vdE5vZGUsIG1lbnV9KSwKICBkaXNwYXRjaCA9PiAoewogICAgdXBkYXRlU2V0dGluZ3M6IHBheWxvYWQgPT4gZGlzcGF0Y2goewogICAgICB0eXBlOidTRVRUSU5HU19VUERBVEUnLAogICAgICBwYXlsb2FkCiAgICB9KSwKICAgIHNldFRyZWU6ICh7c2NoZW1hLCB1aVNjaGVtYX0pID0+IGRpc3BhdGNoKHsKICAgICAgdHlwZTonVFJFRV9TRVRfVFJFRScsCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBuYW1lOiAnbWVudScsCiAgICAgICAgc2NoZW1hLAogICAgICAgIHVpU2NoZW1hLAogICAgICB9CiAgICB9KSwKICAgIHNldE1lbnU6ICh7c2NoZW1hLHVpU2NoZW1hfSkgPT4gZGlzcGF0Y2goewogICAgICB0eXBlOidNRU5VX1NFVCcsCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBzY2hlbWEsCiAgICAgICAgdWlTY2hlbWEKICAgICAgfQogICAgfSkKICB9KSov</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>: {
         source,
         target,
         position,
       }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAvKiBhZGROb2RlOiBub2RlMmFkZCA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdUUkVFX0FERF9OT0RFJywKICAgICAgcGF5bG9hZDogewogICAgICAgIHRhcmdldE5vZGVLZXk6IG5vZGUua2V5LAogICAgICAgIHBvc2l0aW9uOiAwLAogICAgICAgIG5vZGUyYWRkLAogICAgICB9CiAgICB9KSwKICAgIG1lbnVPcGVuQ2hhbmdlOiBrZXlzID0+IGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ01FTlVfT1BFTl9LRVlTX1NFVCcsCiAgICAgIHBheWxvYWQ6IGtleXMKICAgIH0pKi8=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         targetNodeKey: node.key,
         position: 0,
         node2add,
       }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgLypyZW1vdmVOb2RlOiAoa2V5KT0+ZGlzcGF0Y2goewogICAgICB0eXBlOidUUkVFX1JFTU9WRV9OT0RFJywKICAgICAgcGF5bG9hZDoga2V5CiAgICB9KSwKICAgIHVwZGF0ZU5vZGVOYW1lOiAoa2V5LCBuYW1lKSA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6J1RSRUVfVVBEQVRFX05PREUnLAogICAgICBwYXlsb2FkOiB7dGFyZ2V0OmtleSxub2RlVXBkYXRlOntuYW1lfX0KICAgIH0pKi8=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLyoKCiAgICBzZXRBY3RpdmVOb2RlOiBzZWxlY3RlZEtleSA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6J0FDVElWRV9OT0RFX0tFWV9TRVQnLAogICAgICBwYXlsb2FkOiBzZWxlY3RlZEtleSwKICAgIH0pLAogICAgdXBkYXRlTm9kZVRpdGxlOiAodGFyZ2V0LCBuYW1lKSA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdUUkVFX1VQREFURV9OT0RFJywKICAgICAgcGF5bG9hZDogewogICAgICAgIHRhcmdldDogdGFyZ2V0LCBub2RlOiB7bmFtZX0sIHVwZGF0ZU1vZGU6IDEKICAgICAgfQogICAgfSksKi8=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">cmVtb3ZlTm9kZTogKHRhcmdldCkgPT4gZGlzcGF0Y2goewogICAgICB0eXBlOiAnVFJFRV9SRU1PVkVfTk9ERScsCiAgICAgIHBheWxvYWQ6IHRhcmdldCwKICAgIH0pLA==</text>
+        <text encoding="base64">CiAgLyoKCiAgICBzZXRBY3RpdmVOb2RlOiBzZWxlY3RlZEtleSA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6J0FDVElWRV9OT0RFX0tFWV9TRVQnLAogICAgICBwYXlsb2FkOiBzZWxlY3RlZEtleSwKICAgIH0pLAogICAgdXBkYXRlTm9kZVRpdGxlOiAodGFyZ2V0LCBuYW1lKSA9PiBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdUUkVFX1VQREFURV9OT0RFJywKICAgICAgcGF5bG9hZDogewogICAgICAgIHRhcmdldDogdGFyZ2V0LCBub2RlOiB7bmFtZX0sIHVwZGF0ZU1vZGU6IDEKICAgICAgfQogICAgfSksKi8=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
