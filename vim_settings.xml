@@ -126,8 +126,8 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" timestamp="1555386268082">
         <mark key="[" line="294" column="87" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1557882453670">
-        <mark key="[" line="20" column="9" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1557885889802">
+        <mark key="[" line="22" column="13" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
@@ -141,6 +141,7 @@
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Tree/Tree.jsx" timestamp="1557802831945">
         <mark key="[" line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Base/UserType.js" timestamp="1557883839257" />
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Settings.jsx" timestamp="1557738763766" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/css.js" timestamp="1557829403064">
         <mark key="[" line="20" column="23" />
@@ -206,11 +207,11 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1555576286105">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557883689529">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="42" column="2" />
-        <mark key="." line="42" column="2" />
-        <mark key="^" line="42" column="2" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557885665481">
+        <mark key="[" line="166" column="3" />
+        <mark key="]" line="166" column="3" />
+        <mark key="." line="166" column="3" />
+        <mark key="^" line="166" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/public/index.html" timestamp="1557828425487" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/z1/flowable.java" timestamp="1555661882523">
@@ -335,7 +336,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/StepForm/Step1.js" timestamp="1555379741643">
         <mark key="[" line="88" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557882767124">
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557885514040">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="11" column="31" />
@@ -397,9 +398,11 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/styles/common/style.css" timestamp="1555641618233">
         <mark key="[" line="997" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557882657053" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1557829668101">
-        <mark key="[" line="44" column="34" />
+      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557886154833">
+        <mark key="[" line="52" column="56" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1557885818955">
+        <mark key="[" line="23" column="16" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
         <mark key="^" line="121" column="0" />
@@ -569,7 +572,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>newState</text>
+        <text>activeNodeKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -578,46 +581,54 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>case 'TREE_MOVE_NODE':{
-    const { source, target, position } = action.payload;
-    return moveNode(state, source, target, position);
-  }</text>
+        <text encoding="base64">IHRyZWVDbGVhcihzdGF0ZSwge3BheWxvYWR9KSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgdHJlZTogbnVsbAogICAgICB9OwogICAgfSw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBjYXNlICdUUkVFX1JFTU9WRV9OT0RFJzoKICAgIGNvbnN0IG5ld1N0YXRlID0gcmVtb3ZlTm9kZShzdGF0ZSxhY3Rpb24ucGF5bG9hZCk7CiAgICByZXR1cm4gbmV3U3RhdGUubGVuZ3RoID8gbmV3U3RhdGUgOiBlbXB0eVRyZWU7</text>
+        <text encoding="base64">ICogVFJFRV9DTEVBUih7cGF5bG9hZH0sIHtjYWxsLCBwdXR9KSB7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3RyZWVDbGVhcicsCiAgICAgICAgcGF5bG9hZDogcGF5bG9hZAogICAgICB9KQogICAgfSw=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBjYXNlICdUUkVFX0FERF9OT0RFJzogewogICAgY29uc3QgewogICAgICB0YXJnZXROb2RlS2V5LAogICAgICBwb3NpdGlvbiwKICAgICAgbm9kZTJhZGQKICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIHJldHVybiBhZGROb2RlKAogICAgICBzdGF0ZSwKICAgICAgdGFyZ2V0Tm9kZUtleSwKICAgICAgcG9zaXRpb24sCiAgICAgIG5vZGUyYWRkCiAgICApOwogIH0=</text>
+        <text encoding="base64">LyogIHN3aXRjaChhY3Rpb24udHlwZSkgewoKICBjYXNlICdUUkVFX1VQREFURV9OT0RFJzoKICAgIGNvbnN0IHsgdGFyZ2V0LCBub2RlVXBkYXRlIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIGlmKHN0YXRlID09PSB0YXJnZXQgJiYgbm9kZVVwZGF0ZS5uYW1lKSB7CiAgICAgIGNvbnN0IHBhdGggPSBzdGF0ZS5zcGxpdCgnLicpOwogICAgICBpZiAocGF0aFtwYXRoLmxlbmd0aC0xXSE9PW5vZGVVcGRhdGUubmFtZSkgewogICAgICAgIHJldHVybiBwYXRoLnNsaWNlKDAsLTEpLmpvaW4oJy4nKSsnLicrbm9kZVVwZGF0ZS5uYW1lOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gc3RhdGU7CiAgY2FzZSAnVFJFRV9TRVRfVFJFRSc6CiAgY2FzZSAnVFJFRV9DTEVBUic6CiAgICByZXR1cm4gbnVsbDsKICBkZWZhdWx0OgogICAgcmV0dXJuIHN0YXRlOwogIH0qLw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBjYXNlICdUUkVFX0NMRUFSJzoKICAgIHJldHVybiBlbXB0eVRyZWU7CiAgY2FzZSAnVFJFRV9TRVRfVFJFRSc6ewogICAgY29uc3Qge25hbWUsIHNjaGVtYSwgdWlTY2hlbWF9ID0gYWN0aW9uLnBheWxvYWQ7CiAgICByZXR1cm4gc2NoZW1hMnRyZWUoCiAgICAgIG5hbWUgfHwgKHN0YXRlWzBdICYmIHN0YXRlWzBdLm5hbWUpIHx8IERFRkFVTFRfVFJFRV9OQU1FLAogICAgICBzY2hlbWEgfHwgc3RhdGVbMF0uc2NoZW1hLAogICAgICB1aVNjaGVtYSB8fCBzdGF0ZVswXS51aVNjaGVtYQogICAgKTsKICB9</text>
+        <text>const activeNodeKey =payload || null;
+      return {
+        ...state,
+        activeNodeKey: activeNodeKey
+      };</text>
       </register>
       <register name="5" type="4">
-        <text>var persistConfig = {
-  key: 'react-jsonschema-formbuilder',
-  storage,
-  stateReconciler: hardSet,
-  throttle: 15
-};</text>
+        <text encoding="base64">ICBjYXNlICdBQ1RJVkVfTk9ERV9LRVlfU0VUJzoKICAgIHJldHVybiBhY3Rpb24ucGF5bG9hZCB8fCBudWxsOw==</text>
       </register>
       <register name="6" type="4">
-        <text>var {
-  schema2tree,
-} = require('./core');</text>
+        <text>/*function tree(state=emptyTree, action) {
+  switch(action.type) {
+
+
+
+
+  case 'TREE_UPDATE_NODE': {
+    const { target, nodeUpdate } = action.payload;
+    const newState = updateNode(state, target, nodeUpdate);
+    return newState;
+  }
+  default :
+    return state;
+  }*/</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">b2RlOiAgZm9ybWJ1aWxkZXIuYWN0aXZlTm9kZUtleSAmJiBnZXROb2RlKHByZXNlbnQsIGFjdGl2ZU5vZGVLZXkpCiAgbm9kZTogZm9ybWJ1aWxkZXIudHJlZS5wcmVzZW50LAogIGFjdGl2ZU5vZGVLZXk6IGZvcm1idWlsZGVyLmFjdGl2ZU5vZGVLZXks</text>
+        <text>case 'TREE_MOVE_NODE':{
+    const { source, target, position } = action.payload;
+    return moveNode(state, source, target, position);
+  }</text>
       </register>
       <register name="8" type="4">
-        <text>// tree:{present:[{name, schema, uiSchema}]},
-//   formData,
-//   settings:{isLiveValidate},</text>
+        <text encoding="base64">ICBjYXNlICdUUkVFX1JFTU9WRV9OT0RFJzoKICAgIGNvbnN0IG5ld1N0YXRlID0gcmVtb3ZlTm9kZShzdGF0ZSxhY3Rpb24ucGF5bG9hZCk7CiAgICByZXR1cm4gbmV3U3RhdGUubGVuZ3RoID8gbmV3U3RhdGUgOiBlbXB0eVRyZWU7</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGdlbkZvcm0oe2Zvcm1EYXRhfSkgewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6J1RSRUVfU0VUX1RSRUUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgbmFtZTogJ3Jvb3QnLAogICAgICAgIHNjaGVtYTogY29uc29sZS5sb2coanNvbjJzY2hlbWEoZm9ybURhdGEsICdmb3JtJykpIHx8IGpzb24yc2NoZW1hKGZvcm1EYXRhLCAnZm9ybScpLAogICAgICAgIHVpU2NoZW1hOiB7fQogICAgICB9CiAgICB9KTsKICB9</text>
+        <text encoding="base64">ICBjYXNlICdUUkVFX0FERF9OT0RFJzogewogICAgY29uc3QgewogICAgICB0YXJnZXROb2RlS2V5LAogICAgICBwb3NpdGlvbiwKICAgICAgbm9kZTJhZGQKICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIHJldHVybiBhZGROb2RlKAogICAgICBzdGF0ZSwKICAgICAgdGFyZ2V0Tm9kZUtleSwKICAgICAgcG9zaXRpb24sCiAgICAgIG5vZGUyYWRkCiAgICApOwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
