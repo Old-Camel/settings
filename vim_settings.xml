@@ -28,11 +28,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1557196489366">
         <mark key="[" line="63" column="49" />
       </file>
-      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/views/FormView.jsx" timestamp="1557826949084">
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/models/role.js" timestamp="1557882823078" />
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Template/connectors.jsx" timestamp="1557741160199" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1553670643216">
         <mark key="[" line="19" column="0" />
@@ -64,11 +60,6 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/flowable.cfg.xml" timestamp="1556248512685">
         <mark key="[" line="23" column="55" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Editor/index.jsx" timestamp="1557826783418">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch4/ShareniuJumpCmd.java" timestamp="1556504375246">
         <mark key="[" line="41" column="0" />
@@ -215,11 +206,11 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1555576286105">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557825411483">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557883689529">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="42" column="2" />
+        <mark key="." line="42" column="2" />
+        <mark key="^" line="42" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/public/index.html" timestamp="1557828425487" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/z1/flowable.java" timestamp="1555661882523">
@@ -344,7 +335,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/StepForm/Step1.js" timestamp="1555379741643">
         <mark key="[" line="88" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557828112330">
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557882767124">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="11" column="31" />
@@ -406,7 +397,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/styles/common/style.css" timestamp="1555641618233">
         <mark key="[" line="997" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557826090438" />
+      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557882657053" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1557829668101">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="121" column="0" />
@@ -423,11 +414,6 @@
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/rjsf-patch/ArrayField.jsx" timestamp="1557741362001" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/juel脚本任务.bpmn20.xml" timestamp="1556172708668">
         <mark key="[" line="5" column="98" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1557825693560">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
@@ -583,7 +569,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>newState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -592,6 +578,24 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
+        <text>case 'TREE_MOVE_NODE':{
+    const { source, target, position } = action.payload;
+    return moveNode(state, source, target, position);
+  }</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBjYXNlICdUUkVFX1JFTU9WRV9OT0RFJzoKICAgIGNvbnN0IG5ld1N0YXRlID0gcmVtb3ZlTm9kZShzdGF0ZSxhY3Rpb24ucGF5bG9hZCk7CiAgICByZXR1cm4gbmV3U3RhdGUubGVuZ3RoID8gbmV3U3RhdGUgOiBlbXB0eVRyZWU7</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBjYXNlICdUUkVFX0FERF9OT0RFJzogewogICAgY29uc3QgewogICAgICB0YXJnZXROb2RlS2V5LAogICAgICBwb3NpdGlvbiwKICAgICAgbm9kZTJhZGQKICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIHJldHVybiBhZGROb2RlKAogICAgICBzdGF0ZSwKICAgICAgdGFyZ2V0Tm9kZUtleSwKICAgICAgcG9zaXRpb24sCiAgICAgIG5vZGUyYWRkCiAgICApOwogIH0=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjYXNlICdUUkVFX0NMRUFSJzoKICAgIHJldHVybiBlbXB0eVRyZWU7CiAgY2FzZSAnVFJFRV9TRVRfVFJFRSc6ewogICAgY29uc3Qge25hbWUsIHNjaGVtYSwgdWlTY2hlbWF9ID0gYWN0aW9uLnBheWxvYWQ7CiAgICByZXR1cm4gc2NoZW1hMnRyZWUoCiAgICAgIG5hbWUgfHwgKHN0YXRlWzBdICYmIHN0YXRlWzBdLm5hbWUpIHx8IERFRkFVTFRfVFJFRV9OQU1FLAogICAgICBzY2hlbWEgfHwgc3RhdGVbMF0uc2NoZW1hLAogICAgICB1aVNjaGVtYSB8fCBzdGF0ZVswXS51aVNjaGVtYQogICAgKTsKICB9</text>
+      </register>
+      <register name="5" type="4">
         <text>var persistConfig = {
   key: 'react-jsonschema-formbuilder',
   storage,
@@ -599,37 +603,21 @@
   throttle: 15
 };</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>var {
   schema2tree,
 } = require('./core');</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">b2RlOiAgZm9ybWJ1aWxkZXIuYWN0aXZlTm9kZUtleSAmJiBnZXROb2RlKHByZXNlbnQsIGFjdGl2ZU5vZGVLZXkpCiAgbm9kZTogZm9ybWJ1aWxkZXIudHJlZS5wcmVzZW50LAogIGFjdGl2ZU5vZGVLZXk6IGZvcm1idWlsZGVyLmFjdGl2ZU5vZGVLZXks</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>// tree:{present:[{name, schema, uiSchema}]},
 //   formData,
 //   settings:{isLiveValidate},</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGdlbkZvcm0oe2Zvcm1EYXRhfSkgewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6J1RSRUVfU0VUX1RSRUUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgbmFtZTogJ3Jvb3QnLAogICAgICAgIHNjaGVtYTogY29uc29sZS5sb2coanNvbjJzY2hlbWEoZm9ybURhdGEsICdmb3JtJykpIHx8IGpzb24yc2NoZW1hKGZvcm1EYXRhLCAnZm9ybScpLAogICAgICAgIHVpU2NoZW1hOiB7fQogICAgICB9CiAgICB9KTsKICB9</text>
-      </register>
-      <register name="6" type="4">
-        <text>formData: formbuilder.formData,
-  loading: loading.models.formbuilder</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5zY2hlbWEpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKG5hbWUpOwogICAgY29uc29sZS5sb2coc2NoZW1hKTsKICAgIGNvbnNvbGUubG9nKHVpU2NoZW1hKTsKICAgIGNvbnNvbGUubG9nKGZvcm1EYXRhKTsKICAgIGNvbnNvbGUubG9nKHNldEZvcm1EYXRhKTsKICAgIGNvbnNvbGUubG9nKGxpdmVWYWxpZGF0ZSk7CiAgICBjb25zb2xlLmxvZyhGaWVsZFRlbXBsYXRlKTsKICAgIGNvbnNvbGUubG9nKE9iamVjdEZpZWxkVGVtcGxhdGUpOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHNldEZvcm1EYXRhOiAoe2Zvcm1EYXRhfSkgPT4ge3RoaXMucHJvcHMuZGlzcGF0Y2goewogIHR5cGU6J0ZPUk1fREFUQV9TRVQnLAogIHBheWxvYWQ6IGZvcm1EYXRhCn0p</text>
+        <text encoding="base64">IGdlbkZvcm0oe2Zvcm1EYXRhfSkgewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6J1RSRUVfU0VUX1RSRUUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgbmFtZTogJ3Jvb3QnLAogICAgICAgIHNjaGVtYTogY29uc29sZS5sb2coanNvbjJzY2hlbWEoZm9ybURhdGEsICdmb3JtJykpIHx8IGpzb24yc2NoZW1hKGZvcm1EYXRhLCAnZm9ybScpLAogICAgICAgIHVpU2NoZW1hOiB7fQogICAgICB9CiAgICB9KTsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
