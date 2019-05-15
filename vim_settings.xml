@@ -74,8 +74,8 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch4/ShareniuJumpCmd.java" timestamp="1556504375246">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormView.jsx" timestamp="1557828211968">
-        <mark key="[" line="18" column="13" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormView.jsx" timestamp="1557890871410">
+        <mark key="[" line="20" column="13" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -217,11 +217,11 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1555576286105">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557887774287">
-        <mark key="[" line="170" column="3" />
-        <mark key="]" line="170" column="3" />
-        <mark key="." line="170" column="3" />
-        <mark key="^" line="170" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557890996649">
+        <mark key="[" line="178" column="6" />
+        <mark key="]" line="178" column="6" />
+        <mark key="." line="178" column="6" />
+        <mark key="^" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/public/index.html" timestamp="1557828425487" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/z1/flowable.java" timestamp="1555661882523">
@@ -408,7 +408,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/styles/common/style.css" timestamp="1555641618233">
         <mark key="[" line="997" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557886154833">
+      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557890898416">
         <mark key="[" line="52" column="56" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1557885818955">
@@ -596,28 +596,31 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHRyZWVDbGVhcihzdGF0ZSwge3BheWxvYWR9KSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgdHJlZTogbnVsbAogICAgICB9OwogICAgfSw=</text>
+        <text encoding="base64">Y29uc3QgeyB0YXJnZXQsIG5vZGVVcGRhdGUgfSA9IHBheWxvYWQ7CiAgICAgIGlmKHN0YXRlLmFjdGl2ZU5vZGVLZXkgPT09IHRhcmdldCAmJiBub2RlVXBkYXRlLm5hbWUpIHsKICAgICAgICBjb25zdCBwYXRoID0gc3RhdGUuc3BsaXQoJy4nKTsKICAgICAgICBpZiAocGF0aFtwYXRoLmxlbmd0aC0xXSE9PW5vZGVVcGRhdGUubmFtZSkgewogICAgICAgICBjb25zdCBhY3RpdmVOb2RlS2V5PSBwYXRoLnNsaWNlKDAsLTEpLmpvaW4oJy4nKSsnLicrbm9kZVVwZGF0ZS5uYW1lOwogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgICAgIGFjdGl2ZU5vZGVLZXk6IGFjdGl2ZU5vZGVLZXkKICAgICAgICAgIH07CiAgICAgICAgfQogICAgICB9ZWxzZXtyZXR1cm4gc3RhdGV9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICogVFJFRV9DTEVBUih7cGF5bG9hZH0sIHtjYWxsLCBwdXR9KSB7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3RyZWVDbGVhcicsCiAgICAgICAgcGF5bG9hZDogcGF5bG9hZAogICAgICB9KQogICAgfSw=</text>
+        <text encoding="base64">IHRyZWVDbGVhcihzdGF0ZSwge3BheWxvYWR9KSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgdHJlZTogbnVsbAogICAgICB9OwogICAgfSw=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyogIHN3aXRjaChhY3Rpb24udHlwZSkgewoKICBjYXNlICdUUkVFX1VQREFURV9OT0RFJzoKICAgIGNvbnN0IHsgdGFyZ2V0LCBub2RlVXBkYXRlIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIGlmKHN0YXRlID09PSB0YXJnZXQgJiYgbm9kZVVwZGF0ZS5uYW1lKSB7CiAgICAgIGNvbnN0IHBhdGggPSBzdGF0ZS5zcGxpdCgnLicpOwogICAgICBpZiAocGF0aFtwYXRoLmxlbmd0aC0xXSE9PW5vZGVVcGRhdGUubmFtZSkgewogICAgICAgIHJldHVybiBwYXRoLnNsaWNlKDAsLTEpLmpvaW4oJy4nKSsnLicrbm9kZVVwZGF0ZS5uYW1lOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gc3RhdGU7CiAgY2FzZSAnVFJFRV9TRVRfVFJFRSc6CiAgY2FzZSAnVFJFRV9DTEVBUic6CiAgICByZXR1cm4gbnVsbDsKICBkZWZhdWx0OgogICAgcmV0dXJuIHN0YXRlOwogIH0qLw==</text>
+        <text encoding="base64">ICogVFJFRV9DTEVBUih7cGF5bG9hZH0sIHtjYWxsLCBwdXR9KSB7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3RyZWVDbGVhcicsCiAgICAgICAgcGF5bG9hZDogcGF5bG9hZAogICAgICB9KQogICAgfSw=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">LyogIHN3aXRjaChhY3Rpb24udHlwZSkgewoKICBjYXNlICdUUkVFX1VQREFURV9OT0RFJzoKICAgIGNvbnN0IHsgdGFyZ2V0LCBub2RlVXBkYXRlIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIGlmKHN0YXRlID09PSB0YXJnZXQgJiYgbm9kZVVwZGF0ZS5uYW1lKSB7CiAgICAgIGNvbnN0IHBhdGggPSBzdGF0ZS5zcGxpdCgnLicpOwogICAgICBpZiAocGF0aFtwYXRoLmxlbmd0aC0xXSE9PW5vZGVVcGRhdGUubmFtZSkgewogICAgICAgIHJldHVybiBwYXRoLnNsaWNlKDAsLTEpLmpvaW4oJy4nKSsnLicrbm9kZVVwZGF0ZS5uYW1lOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gc3RhdGU7CiAgY2FzZSAnVFJFRV9TRVRfVFJFRSc6CiAgY2FzZSAnVFJFRV9DTEVBUic6CiAgICByZXR1cm4gbnVsbDsKICBkZWZhdWx0OgogICAgcmV0dXJuIHN0YXRlOwogIH0qLw==</text>
+      </register>
+      <register name="5" type="4">
         <text>const activeNodeKey =payload || null;
       return {
         ...state,
         activeNodeKey: activeNodeKey
       };</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBjYXNlICdBQ1RJVkVfTk9ERV9LRVlfU0VUJzoKICAgIHJldHVybiBhY3Rpb24ucGF5bG9hZCB8fCBudWxsOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/*function tree(state=emptyTree, action) {
   switch(action.type) {
 
@@ -633,17 +636,14 @@
     return state;
   }*/</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>case 'TREE_MOVE_NODE':{
     const { source, target, position } = action.payload;
     return moveNode(state, source, target, position);
   }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBjYXNlICdUUkVFX1JFTU9WRV9OT0RFJzoKICAgIGNvbnN0IG5ld1N0YXRlID0gcmVtb3ZlTm9kZShzdGF0ZSxhY3Rpb24ucGF5bG9hZCk7CiAgICByZXR1cm4gbmV3U3RhdGUubGVuZ3RoID8gbmV3U3RhdGUgOiBlbXB0eVRyZWU7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBjYXNlICdUUkVFX0FERF9OT0RFJzogewogICAgY29uc3QgewogICAgICB0YXJnZXROb2RlS2V5LAogICAgICBwb3NpdGlvbiwKICAgICAgbm9kZTJhZGQKICAgIH0gPSBhY3Rpb24ucGF5bG9hZDsKICAgIHJldHVybiBhZGROb2RlKAogICAgICBzdGF0ZSwKICAgICAgdGFyZ2V0Tm9kZUtleSwKICAgICAgcG9zaXRpb24sCiAgICAgIG5vZGUyYWRkCiAgICApOwogIH0=</text>
+        <text encoding="base64">ICBjYXNlICdUUkVFX1JFTU9WRV9OT0RFJzoKICAgIGNvbnN0IG5ld1N0YXRlID0gcmVtb3ZlTm9kZShzdGF0ZSxhY3Rpb24ucGF5bG9hZCk7CiAgICByZXR1cm4gbmV3U3RhdGUubGVuZ3RoID8gbmV3U3RhdGUgOiBlbXB0eVRyZWU7</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
