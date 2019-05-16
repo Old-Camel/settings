@@ -67,11 +67,6 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/flowable.cfg.xml" timestamp="1556248512685">
         <mark key="[" line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Editor/index.jsx" timestamp="1557889231661">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-      </file>
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch4/ShareniuJumpCmd.java" timestamp="1556504375246">
         <mark key="[" line="41" column="0" />
       </file>
@@ -164,6 +159,12 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1554712631717">
         <mark key="[" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Settings.jsx" timestamp="1557972094547">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/plugins-pushserver/src/main/resources/static/ws.html" timestamp="1553753178397">
         <mark key="[" line="41" column="43" />
       </file>
@@ -218,11 +219,12 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1555576286105">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557913541285">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1557972231703">
         <mark key="'" line="114" column="4" />
-        <mark key="[" line="218" column="4" />
-        <mark key="]" line="218" column="4" />
-        <mark key="." line="218" column="4" />
+        <mark key="[" line="236" column="3" />
+        <mark key="]" line="236" column="3" />
+        <mark key="." line="236" column="3" />
+        <mark key="^" line="228" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/public/index.html" timestamp="1557828425487" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/z1/flowable.java" timestamp="1555661882523">
@@ -346,7 +348,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/StepForm/Step1.js" timestamp="1555379741643">
         <mark key="[" line="88" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557911868566">
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557971033535">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="11" column="31" />
@@ -411,7 +413,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/styles/common/style.css" timestamp="1555641618233">
         <mark key="[" line="997" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557911721019">
+      <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/reducers.js" timestamp="1557972218949">
         <mark key="[" line="52" column="56" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1557914814253">
@@ -434,11 +436,6 @@
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/rjsf-patch/ArrayField.jsx" timestamp="1557741362001" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/juel脚本任务.bpmn20.xml" timestamp="1556172708668">
         <mark key="[" line="5" column="98" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1557825693560">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
@@ -595,7 +592,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>settingsUpdate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -604,20 +601,28 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>treeUpdateNodeByRjsfId(state, {payload}) {
-      return state;
-    },</text>
+        <text encoding="base64">IG1lbnVTZXQoc3RhdGUse3BheWxvYWR9KXsKICAgICAgY29uc3Qge3NjaGVtYSwgdWlTY2hlbWF9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgbWVudT0gICAgICBzY2hlbWEybm9kZShbJ21lbnUnXSwgc2NoZW1hLCB1aVNjaGVtYSk7CiAgICB9CgogICAgLyovKiBjYXNlICdNRU5VX1NFVCc6IHsKICAgIGNvbnN0IHtzY2hlbWEsIHVpU2NoZW1hfSA9IGFjdGlvbi5wYXlsb2FkOwogICAgcmV0dXJuIHNjaGVtYTJub2RlKFsnbWVudSddLCBzY2hlbWEsIHVpU2NoZW1hKTsKICB9Ki8=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAvKmNhc2UgJ01FTlVfT1BFTl9LRVlTX1NFVCc6CiAgICByZXR1cm4gYWN0aW9uLnBheWxvYWQ7Ki8KICAgLyogKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgYWN0aW9uLnBheWxvYWQsIHt0YXJnZXQ6IHRhcmdldC5rZXl9KQogICAgICAgIH0pCiAgICAgIH0KICAgIH0sKi8=</text>
+        <text>/*/* case 'SETTINGS_UPDATE':
+    return Object.assign({}, state, action.payload);*/*/
+  }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgcGF5bG9hZCwge3RhcmdldDogdGFyZ2V0LmtleX0KICAgICAgICAgICkKICAgICAgICB9KQogICAgICB9CiAgICB9LA==</text>
+        <text>treeUpdateNodeByRjsfId(state, {payload}) {
+      return state;
+    },</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAvKmNhc2UgJ01FTlVfT1BFTl9LRVlTX1NFVCc6CiAgICByZXR1cm4gYWN0aW9uLnBheWxvYWQ7Ki8KICAgLyogKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgYWN0aW9uLnBheWxvYWQsIHt0YXJnZXQ6IHRhcmdldC5rZXl9KQogICAgICAgIH0pCiAgICAgIH0KICAgIH0sKi8=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgcGF5bG9hZCwge3RhcmdldDogdGFyZ2V0LmtleX0KICAgICAgICAgICkKICAgICAgICB9KQogICAgICB9CiAgICB9LA==</text>
+      </register>
+      <register name="6" type="4">
         <text>/*
 
 
@@ -650,20 +655,14 @@ switch(action.type) {
     return state;
   }*/</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgogICAgICBjb25zdCBwcmVzZW50ID0geWllbGQgc2VsZWN0KHN0YXRlID0+IHN0YXRlLmZvcm1idWlsZGVyLnRyZWUucHJlc2VudCk7CiAgICAgIGNvbnN0IHRhcmdldCA9IGdldE5vZGVCeVJqc2ZJZChwcmVzZW50LCBwYXlsb2FkKTsKICAgICAgaWYoIXRhcmdldCkgcmV0dXJuIHN0YXRlOwogICAgICBpZih0YXJnZXQpIHsKICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ0FDVElWRV9OT0RFX0tFWV9TRVQnLAogICAgICAgICAgcGF5bG9hZDogdGFyZ2V0LmtleQogICAgICAgIH0pCiAgICAgIH0KICAgIH0s</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBpZighdGFyZ2V0KSByZXR1cm4gc3RhdGU7CiAgICAgIGFjdGlvbiA9IHsKICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgcGF5bG9hZDogT2JqZWN0LmFzc2lnbigKICAgICAgICAgIHt9LCBhY3Rpb24ucGF5bG9hZCwge3RhcmdldDogdGFyZ2V0LmtleX0KICAgICAgICApCiAgICAgIH07CiAgICAgIGJyZWFrOw==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBjYXNlICdBQ1RJVkVfTk9ERV9LRVlfU0VUX0JZX1JKU0ZfSUQnOiB7CiAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQoc3RhdGUudHJlZS5wcmVzZW50LCBhY3Rpb24ucGF5bG9hZCk7CiAgICBpZighdGFyZ2V0KSByZXR1cm4gc3RhdGU7CiAgICBhY3Rpb24gPSB7CiAgICAgIHR5cGU6ICdBQ1RJVkVfTk9ERV9LRVlfU0VUJywKICAgICAgcGF5bG9hZDogdGFyZ2V0LmtleQogICAgfTsKICAgIGJyZWFrOwogIH0=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBjb25zdCBwcmVzZW50ID0geWllbGQgc2VsZWN0KHN0YXRlID0+IHN0YXRlLmZvcm1idWlsZGVyLnRyZWUucHJlc2VudCk7CiAgICAgIGNvbnN0IHRhcmdldCA9IGdldE5vZGVCeVJqc2ZJZChwcmVzZW50LCBwYXlsb2FkKTsKICAgICAgaWYodGFyZ2V0KSB7CiAgICAgICAgeWllbGQgcHV0KHsKICAgICAgICAgIHR5cGU6ICdUUkVFX1JFTU9WRV9OT0RFJywKICAgICAgICAgIHBheWxvYWQ6IHRhcmdldC5rZXkKICAgICAgICB9KQogICAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIGFjdGlvbiA9IHsKICAgICAgICB0eXBlOiAnQUNUSVZFX05PREVfS0VZX1NFVCcsCiAgICAgICAgcGF5bG9hZDogdGFyZ2V0LmtleQogICAgICB9OwogICAgICBicmVhazs=</text>
+        <text encoding="base64">ICBjYXNlICdBQ1RJVkVfTk9ERV9LRVlfU0VUX0JZX1JKU0ZfSUQnOiB7CiAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQoc3RhdGUudHJlZS5wcmVzZW50LCBhY3Rpb24ucGF5bG9hZCk7CiAgICBpZighdGFyZ2V0KSByZXR1cm4gc3RhdGU7CiAgICBhY3Rpb24gPSB7CiAgICAgIHR5cGU6ICdBQ1RJVkVfTk9ERV9LRVlfU0VUJywKICAgICAgcGF5bG9hZDogdGFyZ2V0LmtleQogICAgfTsKICAgIGJyZWFrOwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
