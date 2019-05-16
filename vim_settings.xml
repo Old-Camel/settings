@@ -287,8 +287,8 @@
       <file name="$USER_HOME$/data/code/react-auth/src/app.js" timestamp="1557975185117">
         <mark key="[" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormDataView.jsx" timestamp="1557828234994">
-        <mark key="[" line="65" column="13" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormDataView.jsx" timestamp="1557996309304">
+        <mark key="[" line="67" column="13" />
         <mark key="]" line="125" column="5" />
         <mark key="." line="125" column="5" />
         <mark key="^" line="125" column="5" />
@@ -367,7 +367,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Editor/JsonEditor.jsx" timestamp="1557978120175">
         <mark key="[" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557991224673">
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1557997697449">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="11" column="31" />
@@ -417,8 +417,8 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/Template.jsx" timestamp="1557907325529">
-        <mark key="[" line="30" column="12" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/Template.jsx" timestamp="1557997270652">
+        <mark key="[" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SortItem.java" timestamp="1554711059319">
         <mark key="[" line="27" column="24" />
@@ -443,7 +443,7 @@
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/fields.js" timestamp="1557908399878" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Base/Panel.js" timestamp="1557827464702" />
-      <file name="/Dummy.txt" timestamp="1557892584765">
+      <file name="/Dummy.txt" timestamp="1557998964221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Tree/Menu.jsx" timestamp="1557912387478">
@@ -453,6 +453,12 @@
         <mark key="[" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/rjsf-patch/ArrayField.jsx" timestamp="1557741362001" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/StringField.jsx" timestamp="1557998816100">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/juel脚本任务.bpmn20.xml" timestamp="1556172708668">
         <mark key="[" line="5" column="98" />
       </file>
@@ -628,34 +634,41 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAqIFRSRUVfU0VUX1RSRUVfQllKU09OKHtwYXlsb2FkfSwge2NhbGwsIHB1dH0pIHsKICAgICAgeWllbGQgcHV0KHsKICAgICAgICB0eXBlOiAnc2V0VHJlZUJ5SnNvbicsCiAgICAgICAgcGF5bG9hZDogcGF5bG9hZAogICAgICB9KQogICAgfSw=</text>
+        <text>console.log(Widget);
+console.log(name+readonly);
+console.log(schema);
+console.log(disabled);
+console.log(required);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHNldFRyZWVCeUpzb24oc3RhdGUsIHtwYXlsb2FkfSkgewogICAgICBjb25zdCB7bmFtZSwgc2NoZW1hLCB1aVNjaGVtYX0gPSBwYXlsb2FkOwogICAgICBjb25zdCB0cmVlID0gc2NoZW1hMnRyZWUoCiAgICAgICAgbmFtZSB8fCAoc3RhdGUudHJlZS5wcmVzZW50WzBdICYmIHN0YXRlLnRyZWVbMF0ubmFtZSkgfHwgREVGQVVMVF9UUkVFX05BTUUsCiAgICAgICAgc2NoZW1hIHx8IHN0YXRlWzBdLnNjaGVtYSwKICAgICAgICB1aVNjaGVtYSB8fCBzdGF0ZVswXS51aVNjaGVtYQogICAgICApOwogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHRyZWU6IHsKICAgICAgICAgIGZ1dHVyZTogW10sCiAgICAgICAgICBwYXN0OiBbXSwKICAgICAgICAgIHByZXNlbnQ6IHRyZWUKICAgICAgICB9CiAgICAgIH07CiAgICB9LA==</text>
+        <text encoding="base64">ICAqIFRSRUVfU0VUX1RSRUVfQllKU09OKHtwYXlsb2FkfSwge2NhbGwsIHB1dH0pIHsKICAgICAgeWllbGQgcHV0KHsKICAgICAgICB0eXBlOiAnc2V0VHJlZUJ5SnNvbicsCiAgICAgICAgcGF5bG9hZDogcGF5bG9hZAogICAgICB9KQogICAgfSw=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG1lbnVTZXQoc3RhdGUse3BheWxvYWR9KXsKICAgICAgY29uc3Qge3NjaGVtYSwgdWlTY2hlbWF9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgbWVudT0gICAgICBzY2hlbWEybm9kZShbJ21lbnUnXSwgc2NoZW1hLCB1aVNjaGVtYSk7CiAgICB9CgogICAgLyovKiBjYXNlICdNRU5VX1NFVCc6IHsKICAgIGNvbnN0IHtzY2hlbWEsIHVpU2NoZW1hfSA9IGFjdGlvbi5wYXlsb2FkOwogICAgcmV0dXJuIHNjaGVtYTJub2RlKFsnbWVudSddLCBzY2hlbWEsIHVpU2NoZW1hKTsKICB9Ki8=</text>
+        <text encoding="base64">IHNldFRyZWVCeUpzb24oc3RhdGUsIHtwYXlsb2FkfSkgewogICAgICBjb25zdCB7bmFtZSwgc2NoZW1hLCB1aVNjaGVtYX0gPSBwYXlsb2FkOwogICAgICBjb25zdCB0cmVlID0gc2NoZW1hMnRyZWUoCiAgICAgICAgbmFtZSB8fCAoc3RhdGUudHJlZS5wcmVzZW50WzBdICYmIHN0YXRlLnRyZWVbMF0ubmFtZSkgfHwgREVGQVVMVF9UUkVFX05BTUUsCiAgICAgICAgc2NoZW1hIHx8IHN0YXRlWzBdLnNjaGVtYSwKICAgICAgICB1aVNjaGVtYSB8fCBzdGF0ZVswXS51aVNjaGVtYQogICAgICApOwogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHRyZWU6IHsKICAgICAgICAgIGZ1dHVyZTogW10sCiAgICAgICAgICBwYXN0OiBbXSwKICAgICAgICAgIHByZXNlbnQ6IHRyZWUKICAgICAgICB9CiAgICAgIH07CiAgICB9LA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IG1lbnVTZXQoc3RhdGUse3BheWxvYWR9KXsKICAgICAgY29uc3Qge3NjaGVtYSwgdWlTY2hlbWF9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgbWVudT0gICAgICBzY2hlbWEybm9kZShbJ21lbnUnXSwgc2NoZW1hLCB1aVNjaGVtYSk7CiAgICB9CgogICAgLyovKiBjYXNlICdNRU5VX1NFVCc6IHsKICAgIGNvbnN0IHtzY2hlbWEsIHVpU2NoZW1hfSA9IGFjdGlvbi5wYXlsb2FkOwogICAgcmV0dXJuIHNjaGVtYTJub2RlKFsnbWVudSddLCBzY2hlbWEsIHVpU2NoZW1hKTsKICB9Ki8=</text>
+      </register>
+      <register name="5" type="4">
         <text>/*/* case 'SETTINGS_UPDATE':
     return Object.assign({}, state, action.payload);*/*/
   }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>treeUpdateNodeByRjsfId(state, {payload}) {
       return state;
     },</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAvKmNhc2UgJ01FTlVfT1BFTl9LRVlTX1NFVCc6CiAgICByZXR1cm4gYWN0aW9uLnBheWxvYWQ7Ki8KICAgLyogKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgYWN0aW9uLnBheWxvYWQsIHt0YXJnZXQ6IHRhcmdldC5rZXl9KQogICAgICAgIH0pCiAgICAgIH0KICAgIH0sKi8=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgKiBUUkVFX1VQREFURV9OT0RFX0JZX1JKU0ZfSUQoe3BheWxvYWR9LCB7Y2FsbCwgcHV0LCBzZWxlY3R9KSB7CiAgICAgIGNvbnN0IHtyanNmSWR9ID0gcGF5bG9hZDsKICAgICAgY29uc3QgcHJlc2VudCA9IHlpZWxkIHNlbGVjdChzdGF0ZSA9PiBzdGF0ZS5mb3JtYnVpbGRlci50cmVlLnByZXNlbnQpOwogICAgICBjb25zdCB0YXJnZXQgPSBnZXROb2RlQnlSanNmSWQocHJlc2VudCwgcmpzZklkKTsKICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgaWYgKHRhcmdldCkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnVFJFRV9VUERBVEVfTk9ERScsCiAgICAgICAgICBwYXlsb2FkOiBPYmplY3QuYXNzaWduKAogICAgICAgICAgICB7fSwgcGF5bG9hZCwge3RhcmdldDogdGFyZ2V0LmtleX0KICAgICAgICAgICkKICAgICAgICB9KQogICAgICB9CiAgICB9LA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/*
 
 
@@ -687,9 +700,6 @@ switch(action.type) {
   default:
     return state;
   }*/</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgICBjb25zdCBwcmVzZW50ID0geWllbGQgc2VsZWN0KHN0YXRlID0+IHN0YXRlLmZvcm1idWlsZGVyLnRyZWUucHJlc2VudCk7CiAgICAgIGNvbnN0IHRhcmdldCA9IGdldE5vZGVCeVJqc2ZJZChwcmVzZW50LCBwYXlsb2FkKTsKICAgICAgaWYoIXRhcmdldCkgcmV0dXJuIHN0YXRlOwogICAgICBpZih0YXJnZXQpIHsKICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ0FDVElWRV9OT0RFX0tFWV9TRVQnLAogICAgICAgICAgcGF5bG9hZDogdGFyZ2V0LmtleQogICAgICAgIH0pCiAgICAgIH0KICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
