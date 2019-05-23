@@ -147,7 +147,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/PanelService.java" timestamp="1553582210981">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1558601075975">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1558602928133">
         <mark key="[" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/SignInfo.java" timestamp="1554711054950">
@@ -430,11 +430,11 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/juel脚本任务.bpmn20.xml" timestamp="1556172708668">
         <mark key="[" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1558601602413">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1558603149103">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+        <mark key="^" line="14" column="53" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
@@ -566,7 +566,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>http://172.17.7.15:8888</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
