@@ -103,13 +103,19 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1555576286105">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1558681687692">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" timestamp="1558684621423">
         <mark key="[" line="142" column="24" />
         <mark key="]" line="142" column="24" />
         <mark key="." line="142" column="24" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/config/ProcessEngineConfig.java" timestamp="1556589611901">
         <mark key="[" line="74" column="105" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/App.jsx" timestamp="1558684500459">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="82" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1558577941951">
         <mark key="[" line="61" column="21" />
@@ -160,8 +166,8 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/TestType.java" timestamp="1554711065058">
         <mark key="[" line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/form.js" timestamp="1558681569567">
-        <mark key="[" line="1" column="74" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/form.js" timestamp="1558684217087">
+        <mark key="[" line="27" column="6" />
         <mark key="]" line="1" column="74" />
         <mark key="." line="1" column="74" />
       </file>
@@ -205,11 +211,12 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch10/cmd/GetProcessCmd.java" timestamp="1556527121141">
         <mark key="[" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" timestamp="1558681706995">
-        <mark key="[" line="109" column="24" />
-        <mark key="]" line="109" column="24" />
-        <mark key="^" line="101" column="1" />
-        <mark key="." line="109" column="24" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" timestamp="1558683695306">
+        <mark key="'" line="110" column="67" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="113" column="2" />
+        <mark key="^" line="113" column="2" />
+        <mark key="." line="113" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/form.js" timestamp="1558660276454" />
       <file name="/Dummy.txt" timestamp="1558664699271">
@@ -316,7 +323,7 @@
         <mark key="[" line="67" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1557224307359">
-        <mark key="[" line="351" column="5" />
+        <mark key="[" line="352" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/PanelLayout.java" timestamp="1553594229896">
         <mark key="[" line="17" column="3" />
@@ -443,7 +450,8 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/mapper/ScoreMapper.xml" timestamp="1553223070727">
         <mark key="[" line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1558679729898">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1558684571425">
+        <mark key="'" line="136" column="15" />
         <mark key="[" line="159" column="18" />
         <mark key="]" line="159" column="18" />
         <mark key="." line="159" column="18" />
@@ -517,8 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="6" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
-      <jump line="540" column="15" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
       <jump line="89" column="28" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/user.js" />
       <jump line="57" column="19" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/AuthDrawer.js" />
       <jump line="962" column="9" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
@@ -617,6 +623,8 @@
       <jump line="332" column="5" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/RuntimeTaskHistoryServiceTest.java" />
       <jump line="276" column="20" filename="$USER_HOME$/data/code/flowable/flowable-modeler/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" />
       <jump line="114" column="4" filename="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" />
+      <jump line="110" column="67" filename="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" />
+      <jump line="136" column="15" filename="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -632,7 +640,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text>dispatch, pageInit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -641,45 +649,45 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3JvbGxiYWNrJwogICAgICB9KTs=</text>
+        <text encoding="base64">ICByZXNldD0oKT0+ewoKICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgKQ==</text>
+        <text encoding="base64">IHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3JvbGxiYWNrJwogICAgICB9KTs=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgKQ==</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
  * Created by wangyunfei on 2017/6/12.
  */</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PEZvcm1JdGVtIGtleT0iY29kZSIgbGFiZWxDb2w9e3tzcGFuOiA1fX0gd3JhcHBlckNvbD17e3NwYW46IDE2fX0gbGFiZWw9IuihqOWNlee8lueggSI+CiAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignY29kZScsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByZWNvcmQgPyByZWNvcmQuY29kZSA6ICcnLAogICAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpeihqOWNlee8lueggSd9XSwKICAgICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6KGo5Y2V57yW56CBIi8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiwKICAgICAgICA8Rm9ybUl0ZW0ga2V5PSJ0eXBlIiBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTZ9fSBsYWJlbD0i6KGo5Y2V57G75Z6LIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCd0eXBlJywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IHJlY29yZC50eXBlICsgJycgOiBudWxsLAogICAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+mAieaLqeihqOWNleexu+Weiyd9XSwKICAgICAgICAgIH0pKAogICAgICAgICAgICA8U2VsZWN0IHBsYWNlaG9sZGVyPSfor7fpgInmi6nooajljZXnsbvlnosnIGFsbG93Q2xlYXIgc3R5bGU9e3t3aWR0aDogJzEwMCUnfX0+CiAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0iMSI+aWZyYW1lPC9PcHRpb24+CiAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0iMiI+6KGo5qC8PC9PcHRpb24+CiAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0iMyI+cHJvbWV0aGV1c+WbvuihqDwvT3B0aW9uPgogICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgICl9CiAgICAgICAgPC9Gb3JtSXRlbT4sCiAgICAgICAgPEZvcm1JdGVtIGtleT0idXJsIiBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTZ9fSBsYWJlbD0i6K6/6Zeu5Zyw5Z2AIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCd1cmwnLCB7CiAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkID8gcmVjb3JkLnVybCA6ICcnLAogICAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpeiuv+mXruWcsOWdgCd9XSwKICAgICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6K6/6Zeu5Zyw5Z2AIi8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiwKICAgICAgICA8Rm9ybUl0ZW0ga2V5PSJocmVmIiBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTZ9fSBsYWJlbD0i6ZO+5o6l5Zyw5Z2AIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdocmVmJywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IHJlY29yZC5ocmVmIDogJycsCiAgICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+i+k+WFpemTvuaOpeWcsOWdgCd9XSwKICAgICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6ZO+5o6l5Zyw5Z2AIi8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiwKICAgICAgICA8Rm9ybUl0ZW0ga2V5PSJjb2x1bW5zIiBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTZ9fSBsYWJlbD0i6KGo5aS0Ij4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdjb2x1bW5zJywgewogICAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZCA/IHJlY29yZC5jb2x1bW5zIDogJycsCiAgICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+i+k+WFpeihqOWktCd9XSwKICAgICAgICAgIH0pKDxUZXh0QXJlYSByb3dzPXs2fSBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6KGo5aS0Ii8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiw=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsgcGF0aDogJy91c2VyL3JlZ2lzdGVyJywgbmFtZTogJ3JlZ2lzdGVyJywgY29tcG9uZW50OiAnLi9Vc2VyL1JlZ2lzdGVyJyB9LAogICAgICB7IHBhdGg6ICcvdXNlci9idWlsZGVyJywgY29tcG9uZW50OiAnLi9Gb3JtQnVpbGRlci9BcHAnIH0sCiAgICAgIHsKICAgICAgICBwYXRoOiAnL3VzZXIvcmVnaXN0ZXItcmVzdWx0JywKICAgICAgICBuYW1lOiAncmVnaXN0ZXIucmVzdWx0JywKICAgICAgICBjb21wb25lbnQ6ICcuL1VzZXIvUmVnaXN0ZXJSZXN1bHQnLAogICAgICB9LA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAnL3N5cycsCiAgICBjb21wb25lbnQ6ICcuLi9sYXlvdXRzL0xvYWRpbmdQYWdlJywKICAgIHJvdXRlczogWwogICAgICB7IHBhdGg6ICcvc3lzL2RlcHQnLCBjb21wb25lbnQ6ICcuL1N5cy9EZXB0JyB9LAogICAgICB7IHBhdGg6ICcvc3lzL3VzZXJpbmZvJywgY29tcG9uZW50OiAnLi9TeXMvVXNlckluZm8nIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvcm9sZScsIGNvbXBvbmVudDogJy4vU3lzL1JvbGUnIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvbWVudScsIGNvbXBvbmVudDogJy4vU3lzL01lbnUnIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvcm9sZWdyb3VwJywgY29tcG9uZW50OiAnLi9TeXMvUm9sZUdyb3VwJyB9LAogICAgICB7IHBhdGg6ICcvc3lzL21vZGVsJywgY29tcG9uZW50OiAnLi9TeXMvTW9kZWxlcicgfQogICAgXQogIH0s</text>
-      </register>
       <register name="7" type="4">
-        <text>{
-    path: '/kubernetes',
-    component: '../layouts/LoadingPage',
-    routes: [ { path: '/kubernetes/dockers', component: './Kubernetes/Dockers' } ]
-  },</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAnL3N5cycsCiAgICBjb21wb25lbnQ6ICcuLi9sYXlvdXRzL0xvYWRpbmdQYWdlJywKICAgIHJvdXRlczogWwogICAgICB7IHBhdGg6ICcvc3lzL2RlcHQnLCBjb21wb25lbnQ6ICcuL1N5cy9EZXB0JyB9LAogICAgICB7IHBhdGg6ICcvc3lzL3VzZXJpbmZvJywgY29tcG9uZW50OiAnLi9TeXMvVXNlckluZm8nIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvcm9sZScsIGNvbXBvbmVudDogJy4vU3lzL1JvbGUnIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvbWVudScsIGNvbXBvbmVudDogJy4vU3lzL01lbnUnIH0sCiAgICAgIHsgcGF0aDogJy9zeXMvcm9sZWdyb3VwJywgY29tcG9uZW50OiAnLi9TeXMvUm9sZUdyb3VwJyB9LAogICAgICB7IHBhdGg6ICcvc3lzL21vZGVsJywgY29tcG9uZW50OiAnLi9TeXMvTW9kZWxlcicgfQogICAgXQogIH0s</text>
       </register>
       <register name="8" type="4">
         <text>{
     path: '/kubernetes',
     component: '../layouts/LoadingPage',
     routes: [ { path: '/kubernetes/dockers', component: './Kubernetes/Dockers' } ]
-  },
-  // app</text>
+  },</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHsgcGF0aDogJy91c2VyL3JlZ2lzdGVyJywgbmFtZTogJ3JlZ2lzdGVyJywgY29tcG9uZW50OiAnLi9Vc2VyL1JlZ2lzdGVyJyB9LAogICAgICB7IHBhdGg6ICcvdXNlci9idWlsZGVyJywgY29tcG9uZW50OiAnLi9Gb3JtQnVpbGRlci9BcHAnIH0sCiAgICAgIHsKICAgICAgICBwYXRoOiAnL3VzZXIvcmVnaXN0ZXItcmVzdWx0JywKICAgICAgICBuYW1lOiAncmVnaXN0ZXIucmVzdWx0JywKICAgICAgICBjb21wb25lbnQ6ICcuL1VzZXIvUmVnaXN0ZXJSZXN1bHQnLAogICAgICB9LA==</text>
+        <text>{
+    path: '/kubernetes',
+    component: '../layouts/LoadingPage',
+    routes: [ { path: '/kubernetes/dockers', component: './Kubernetes/Dockers' } ]
+  },
+  // app</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
@@ -690,7 +698,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
