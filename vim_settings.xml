@@ -89,6 +89,7 @@
       <file name="$USER_HOME$/data/code/sailor/pom.xml" timestamp="1557131241413">
         <mark key="[" line="153" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelBpmnResource.java" timestamp="1558939392459" />
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/dataBase.xml" timestamp="1555639483613">
         <mark key="[" line="15" column="43" />
       </file>
@@ -208,12 +209,12 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SecurityServerConfig.java" timestamp="1554711654909">
         <mark key="[" line="69" column="29" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1558936870191">
-        <mark key="'" line="64" column="18" />
-        <mark key="[" line="463" column="19" />
-        <mark key="]" line="463" column="19" />
-        <mark key="." line="463" column="19" />
-        <mark key="^" line="64" column="16" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1558939546714">
+        <mark key="'" line="65" column="18" />
+        <mark key="[" line="432" column="26" />
+        <mark key="]" line="421" column="17" />
+        <mark key="." line="421" column="17" />
+        <mark key="^" line="421" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1558679520336">
         <mark key="[" line="117" column="11" />
@@ -356,7 +357,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/qq/api/impl/QQImpl.java" timestamp="1553569167808">
         <mark key="[" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/AbstractModelBpmnResource.java" timestamp="1558927838024" />
+      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/AbstractModelBpmnResource.java" timestamp="1558939348506" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/PanelLayout.java" timestamp="1553594229896">
         <mark key="[" line="17" column="3" />
       </file>
@@ -546,8 +547,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1558927983916">
-        <mark key="^" line="59" column="54" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1558939369689">
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="12" />
+        <mark key="^" line="69" column="54" />
+        <mark key="." line="105" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1558919145492">
         <mark key="[" line="18" column="19" />
@@ -685,7 +689,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>modalVisible</text>
+        <text>LOGGER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
