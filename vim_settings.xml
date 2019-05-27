@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/config/database/jdbc-shareniu-dev.properties" timestamp="1555583202204">
         <mark key="[" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/plankv2/webapp-dashboard/src/app/home/home.component.ts" timestamp="1558945524919" />
+      <file name="$USER_HOME$/data/code/plankv2/webapp-dashboard/src/app/home/home.component.ts" timestamp="1558950076959" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1558925657091">
         <mark key="[" line="63" column="49" />
       </file>
@@ -236,6 +236,12 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch10/cmd/GetProcessCmd.java" timestamp="1556527121141">
         <mark key="[" line="19" column="59" />
       </file>
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/module/shareurl/controller/DashboardShareController.java" timestamp="1558950928214">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/model/ShareUrlModel.java" timestamp="1558950150640" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" timestamp="1558683695306">
         <mark key="'" line="110" column="67" />
         <mark key="[" line="114" column="0" />
@@ -275,7 +281,7 @@
         <mark key="[" line="17" column="65" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable5-test/src/test/java/org/activiti/engine/test/api/repository/RepositoryServiceTest.java" timestamp="1558927748923" />
-      <file name="/fragment.java" timestamp="1558667361876">
+      <file name="/fragment.java" timestamp="1558950971851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/Panel.less" timestamp="1557051111652">
@@ -397,6 +403,7 @@
         <mark key="[" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/plankv2/webapp-manage/src/app/routes/role/role.component.ts" timestamp="1558945163439" />
+      <file name="$USER_HOME$/data/code/consolev2/console-server/src/main/java/com/yunzainfo/bigdata/consolev2/module/shareurl/service/IPreviewUrlService.java" timestamp="1558950393916" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/k8s-config/limit.yaml" timestamp="1557113522634">
         <mark key="[" line="8" column="16" />
       </file>
@@ -446,6 +453,11 @@
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/fields/StringField.jsx" timestamp="1558583125484">
         <mark key="[" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/model/GrantRole.java" timestamp="1558950508386">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/project.js" timestamp="1553755063361">
         <mark key="[" line="12" column="52" />
@@ -701,6 +713,17 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzSW5zdGFuY2U9PW51bGwpewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3sue7j+e7k+adnyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuato+WcqOi/kOihjCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
+        <text>import com.yunzainfo.bigdata.consolev2.config.AppGlobalProperties;
+import com.yunzainfo.bigdata.consolev2.model.ResultMap;
+import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.PreviewUrlEntity;
+import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.ShareUrlRequest;
+import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IPreviewUrlService;
+import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IShareUrlFeignClient;</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>modelType = 0;
         if (StringUtils.isBlank(sort)) {
             sort = &quot;modifiedDesc&quot;;
@@ -708,34 +731,28 @@
 
         return modelQueryService.getModels(filter, sort, modelType, request);</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Z2V0Q2hlY2tib3hQcm9wczogcmVjb3JkID0+ICh7CiAgICAgICAgZGlzYWJsZWQ6IHJlY29yZC5uYW1lID09PSAnRGlzYWJsZWQgVXNlcicsIC8vIENvbHVtbiBjb25maWd1cmF0aW9uIG5vdCB0byBiZSBjaGVja2VkCiAgICAgICAgbmFtZTogcmVjb3JkLm5hbWUsCiAgICAgIH0pLA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgLy8KICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC8vICAgZm9ybVZhbHVlczogdmFsdWVzLAogICAgICAvLyAgIHNlbGVjdGVkUm93czogW10sCiAgICAgIC8vIH0pOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBjb25zdCB2YWx1ZXMgPSB7CiAgICAgICAgLi4ucGFnZVBhcmFtLAogICAgICAgIC4uLnBhbmVsVmFsdWUsCiAgICAgIH07</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsvKiA8U3RhbmRhcmRUYWJsZQogICAgICAgICAgICAgIHNlbGVjdGVkUm93cz17c2VsZWN0ZWRSb3dzfQogICAgICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9CiAgICAgICAgICAgICAgZGF0YT17ZGF0YX0KICAgICAgICAgICAgICBjb2x1bW5zPXtjb2x1bW5zfQogICAgICAgICAgICAgIHNpemU9J3NtYWxsJwogICAgICAgICAgICAgIHR5cGU9J3JhZGlvJwogICAgICAgICAgICAgIHJvd0tleT0nZmllbGRJZCcKICAgICAgICAgICAgICBvblNlbGVjdFJvdz17dGhpcy5oYW5kbGVTZWxlY3RSb3dzfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVN0YW5kYXJkVGFibGVDaGFuZ2V9CiAgICAgICAgICAgIC8+Ki99</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
       list: [],
     },</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgLypTdHJpbmcgY3VycmVudFVzZXJJZCA9IFNlY3VyaXR5VXRpbHMuZ2V0Q3VycmVudFVzZXJJZCgpOwogICAgICAgIGlmIChjdXJyZW50VXNlcklkICE9IG51bGwpIHsKICAgICAgICAgICAgUmVtb3RlVXNlciByZW1vdGVVc2VyID0gcmVtb3RlSWRtU2VydmljZS5nZXRVc2VyKGN1cnJlbnRVc2VySWQpOwogICAgICAgICAgICBpZiAocmVtb3RlVXNlciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB1c2VyUmVwcmVzZW50YXRpb24gPSBuZXcgVXNlclJlcHJlc2VudGF0aW9uKHJlbW90ZVVzZXIpOwoKICAgICAgICAgICAgICAgIGlmIChyZW1vdGVVc2VyLmdldEdyb3VwcygpICE9IG51bGwgJiYgcmVtb3RlVXNlci5nZXRHcm91cHMoKS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxHcm91cFJlcHJlc2VudGF0aW9uPiBncm91cHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKFJlbW90ZUdyb3VwIHJlbW90ZUdyb3VwIDogcmVtb3RlVXNlci5nZXRHcm91cHMoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBncm91cHMuYWRkKG5ldyBHcm91cFJlcHJlc2VudGF0aW9uKHJlbW90ZUdyb3VwKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHVzZXJSZXByZXNlbnRhdGlvbi5zZXRHcm91cHMoZ3JvdXBzKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAocmVtb3RlVXNlci5nZXRQcml2aWxlZ2VzKCkgIT0gbnVsbCAmJiByZW1vdGVVc2VyLmdldFByaXZpbGVnZXMoKS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgdXNlclJlcHJlc2VudGF0aW9uLnNldFByaXZpbGVnZXMocmVtb3RlVXNlci5nZXRQcml2aWxlZ2VzKCkpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKHVzZXJSZXByZXNlbnRhdGlvbiAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiB1c2VyUmVwcmVzZW50YXRpb247CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfSov</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vQEF1dG93aXJlZAogICAgLy9wcm90ZWN0ZWQgUmVtb3RlSWRtU2VydmljZSByZW1vdGVJZG1TZXJ2aWNlOwogICAgLy8KICAgIC8vQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9yZXN0L2VkaXRvci11c2VycyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgLy9wdWJsaWMgUmVzdWx0TGlzdERhdGFSZXByZXNlbnRhdGlvbiBnZXRVc2VycyhAUmVxdWVzdFBhcmFtKHZhbHVlID0gImZpbHRlciIsIHJlcXVpcmVkID0gZmFsc2UpIFN0cmluZyBmaWx0ZXIpIHsKICAgIC8vICAgIExpc3Q8PyBleHRlbmRzIFVzZXI+IG1hdGNoaW5nVXNlcnMgPSByZW1vdGVJZG1TZXJ2aWNlLmZpbmRVc2Vyc0J5TmFtZUZpbHRlcihmaWx0ZXIpOwogICAgLy8gICAgTGlzdDxVc2VyUmVwcmVzZW50YXRpb24+IHVzZXJSZXByZXNlbnRhdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4obWF0Y2hpbmdVc2Vycy5zaXplKCkpOwogICAgLy8gICAgZm9yIChVc2VyIHVzZXIgOiBtYXRjaGluZ1VzZXJzKSB7CiAgICAvLyAgICAgICAgdXNlclJlcHJlc2VudGF0aW9ucy5hZGQobmV3IFVzZXJSZXByZXNlbnRhdGlvbih1c2VyKSk7CiAgICAvLyAgICB9CiAgICAvLyAgICByZXR1cm4gbmV3IFJlc3VsdExpc3REYXRhUmVwcmVzZW50YXRpb24odXNlclJlcHJlc2VudGF0aW9ucyk7CiAgICAvL30=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICByZXNldD0oKT0+ewoKICB9</text>
+        <text encoding="base64">IC8vQEF1dG93aXJlZAogICAgLy9wcm90ZWN0ZWQgUmVtb3RlSWRtU2VydmljZSByZW1vdGVJZG1TZXJ2aWNlOwogICAgLy8KICAgIC8vQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9yZXN0L2VkaXRvci11c2VycyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgLy9wdWJsaWMgUmVzdWx0TGlzdERhdGFSZXByZXNlbnRhdGlvbiBnZXRVc2VycyhAUmVxdWVzdFBhcmFtKHZhbHVlID0gImZpbHRlciIsIHJlcXVpcmVkID0gZmFsc2UpIFN0cmluZyBmaWx0ZXIpIHsKICAgIC8vICAgIExpc3Q8PyBleHRlbmRzIFVzZXI+IG1hdGNoaW5nVXNlcnMgPSByZW1vdGVJZG1TZXJ2aWNlLmZpbmRVc2Vyc0J5TmFtZUZpbHRlcihmaWx0ZXIpOwogICAgLy8gICAgTGlzdDxVc2VyUmVwcmVzZW50YXRpb24+IHVzZXJSZXByZXNlbnRhdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4obWF0Y2hpbmdVc2Vycy5zaXplKCkpOwogICAgLy8gICAgZm9yIChVc2VyIHVzZXIgOiBtYXRjaGluZ1VzZXJzKSB7CiAgICAvLyAgICAgICAgdXNlclJlcHJlc2VudGF0aW9ucy5hZGQobmV3IFVzZXJSZXByZXNlbnRhdGlvbih1c2VyKSk7CiAgICAvLyAgICB9CiAgICAvLyAgICByZXR1cm4gbmV3IFJlc3VsdExpc3REYXRhUmVwcmVzZW50YXRpb24odXNlclJlcHJlc2VudGF0aW9ucyk7CiAgICAvL30=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
