@@ -77,7 +77,7 @@
       <file name="$USER_HOME$/data/code/plugins-pushserver/src/main/resources/static/ws.html" timestamp="1553753178397">
         <mark key="[" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/11.html" timestamp="1558929048665">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/11.html" timestamp="1558936918711">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="10" />
         <mark key="^" line="8" column="24" />
@@ -129,6 +129,7 @@
       <file name="$USER_HOME$/data/code/react-auth/package.json" timestamp="1558577941951">
         <mark key="[" line="61" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/panel.js" timestamp="1558936533667" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Menu.js" timestamp="1558689289663" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/FlowableModelerApplication.java" timestamp="1556520719369">
         <mark key="[" line="8" column="120" />
@@ -207,11 +208,12 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SecurityServerConfig.java" timestamp="1554711654909">
         <mark key="[" line="69" column="29" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1558929291425">
-        <mark key="[" line="375" column="6" />
-        <mark key="]" line="375" column="6" />
-        <mark key="." line="375" column="6" />
-        <mark key="^" line="269" column="12" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1558936870191">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="463" column="19" />
+        <mark key="]" line="463" column="19" />
+        <mark key="." line="463" column="19" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1558679520336">
         <mark key="[" line="117" column="11" />
@@ -230,6 +232,13 @@
       </file>
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch10/cmd/GetProcessCmd.java" timestamp="1556527121141">
         <mark key="[" line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" timestamp="1558683695306">
+        <mark key="'" line="110" column="67" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="113" column="2" />
+        <mark key="^" line="113" column="2" />
+        <mark key="." line="113" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelsResource.java" timestamp="1558690801852" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Base/Panel.js" timestamp="1558920539964" />
@@ -482,6 +491,13 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/mapper/ScoreMapper.xml" timestamp="1553223070727">
         <mark key="[" line="28" column="74" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1558684571425">
+        <mark key="'" line="136" column="15" />
+        <mark key="[" line="159" column="18" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
+        <mark key="^" line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/pom.xml" timestamp="1555480639199">
         <mark key="[" line="16" column="53" />
       </file>
@@ -554,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="28" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/models/user.js" />
       <jump line="57" column="19" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/AuthDrawer.js" />
       <jump line="962" column="9" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
       <jump line="149" column="18" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
@@ -654,6 +669,7 @@
       <jump line="114" column="4" filename="$USER_HOME$/data/code/react-auth/src/models/formbuilder.js" />
       <jump line="110" column="67" filename="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Toolbar.jsx" />
       <jump line="136" column="15" filename="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" />
+      <jump line="64" column="18" filename="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -669,7 +685,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cDovL2ltYWdlLmJhaWR1LmNvbS9zZWFyY2gvZGV0YWlsP2N0PTUwMzMxNjQ4MCZ6PXVuZGVmaW5lZCZ0bj1iYWlkdWltYWdlZGV0YWlsJmlwbj1kJndvcmQ9YW50ZGVzaWduJnN0ZXBfd29yZD0maWU9dXRmLTgmaW49JmNsPTImbG09LTEmc3Q9dW5kZWZpbmVkJmhkPXVuZGVmaW5lZCZsYXRlc3Q9dW5kZWZpbmVkJmNvcHlyaWdodD11bmRlZmluZWQmY3M9MjA1NjA3NjkyNiwzMDMxNDI1MTgwJm9zPTExNTk0MjEzNzMsMTg5NjMzMjM0OCZzaW1pZD0zNDUyODM4NTg3LDM4MTQ1ODg5MSZwbj0yJnJuPTEmZGk9NDIzNTAmbG49MzEwJmZyPSZmbXE9MTU1ODkyODg3MzQ4MV9SJmZtPSZpYz11bmRlZmluZWQmcz11bmRlZmluZWQmc2U9JnNtZT0mdGFiPTAmd2lkdGg9dW5kZWZpbmVkJmhlaWdodD11bmRlZmluZWQmZmFjZT11bmRlZmluZWQmaXM9MCwwJmlzdHlwZT0wJmlzdD0maml0PSZiZHR5cGU9MCZzcG49MCZwaT0wJmdzbT0wJm9ianVybD1odHRwJTNBJTJGJTJGNWIwOTg4ZTU5NTIyNS5jZG4uc29odWNzLmNvbSUyRnFfNzAlMkNjX3pvb20lMkN3XzY0MCUyRmltYWdlcyUyRjIwMTgxMjI2JTJGZGNkYTQ5NTZlMGNiNGJlODk0ZWI5MGJmZDkxZGE2ZGUuanBnJnJwc3RhcnQ9MCZycG51bT0wJmFkcGljaWQ9MCZmb3JjZT11bmRlZmluZWQ=</text>
+        <text>modalVisible</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
