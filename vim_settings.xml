@@ -16,6 +16,7 @@
         <mark key="[" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/plankv2/webapp-dashboard/src/app/home/home.component.ts" timestamp="1558950076959" />
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/module/shareurl/entity/PreviewUrlEntity.java" timestamp="1559007890674" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-logic/6.4.1/flowable-ui-modeler-logic-6.4.1.jar!/org/flowable/ui/modeler/service/FlowableModelQueryService.class" timestamp="1558689895962" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseFieldsServiceImpl.java" timestamp="1558592187783">
         <mark key="[" line="60" column="38" />
@@ -66,11 +67,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1554712631717">
         <mark key="[" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/resources/mybatis/mapper/shareurl/PreviewUrlMapper.xml" timestamp="1559006273238">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="15" />
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/resources/mybatis/mapper/shareurl/PreviewUrlMapper.xml" timestamp="1559007927427">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="41" />
         <mark key="^" line="25" column="12" />
-        <mark key="." line="27" column="15" />
+        <mark key="." line="32" column="41" />
       </file>
       <file name="$USER_HOME$/data/code/plugins-pushserver/src/main/resources/static/ws.html" timestamp="1553753178397">
         <mark key="[" line="41" column="43" />
@@ -398,10 +399,11 @@
       <file name="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" timestamp="1556623680083">
         <mark key="[" line="90" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/module/shareurl/service/impl/PreviewUrlServiceImpl.java" timestamp="1559006006133">
-        <mark key="[" line="55" column="53" />
-        <mark key="]" line="55" column="53" />
-        <mark key="." line="55" column="53" />
+      <file name="$USER_HOME$/data/code/plankv2/plank-server/src/main/java/com/yunzainfo/bigdata/plankv2/module/shareurl/service/impl/PreviewUrlServiceImpl.java" timestamp="1559006979745">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
@@ -703,7 +705,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>resultMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -712,26 +714,31 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IExpc3Q8UHJldmlld1VybEVudGl0eT4gZW50aXRpZXMgPSBwcmV2aWV3VXJsTWFwcGVyLnNlbGVjdEJ5QWNjb3VudChhY2NvdW50KTsKICAgICAgICBpZihlbnRpdGllcyA9PSBudWxsKXsKICAgICAgICAgICAgZW50aXRpZXMgPSBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICB9</text>
+        <text>if(entities == null){
+            entities = Collections.emptyList();
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IExpc3Q8UHJldmlld1VybEVudGl0eT4gZW50aXRpZXMgPSBwcmV2aWV3VXJsTWFwcGVyLnNlbGVjdEJ5QWNjb3VudChhY2NvdW50KTsKICAgICAgICBpZihlbnRpdGllcyA9PSBudWxsKXsKICAgICAgICAgICAgZW50aXRpZXMgPSBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="4">
         <text>import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.PreviewUrlEntity;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.mapper.PreviewUrlMapper;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IPreviewUrlService;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>import com.yunzainfo.bigdata.consolev2.config.AppGlobalProperties;
 import com.yunzainfo.bigdata.consolev2.model.ResultMap;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.ShareUrlRequest;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IShareUrlFeignClient;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIC8vLyoqCiAgICAvLyAqIOiOt+WPluS7quihqOadv+WIhuS6q+eahHVybAogICAgLy8gKiBAcmV0dXJuCiAgICAvLyAqLwogICAgLy9AQXBpT3BlcmF0aW9uKCLojrflj5bku6rooajmnb/liIbkuqvnmoR1cmwiKQogICAgLy9AUG9zdE1hcHBpbmcoIi9saXN0RGFzaGJvYXJkU2hhcmVVcmwiKQogICAgLy9wdWJsaWMgUmVzcG9uc2VFbnRpdHkgbGlzdERhc2hib2FyZFNoYXJlVXJsKCl7CiAgICAvLyAgICBTaGFyZVVybFJlcXVlc3QgcmVxdWVzdCA9IG5ldyBTaGFyZVVybFJlcXVlc3QoKTsKICAgIC8vICAgIHJlcXVlc3Quc2V0QXBwSWQoYXBwR2xvYmFsUHJvcGVydGllcy5nZXRBcHBJZCgpKTsKICAgIC8vICAgIHRyeSB7CiAgICAvLyAgICAgICAgUmVzdWx0TWFwIHJlc3VsdE1hcCA9IHNoYXJlVXJsRmVpZ25DbGllbnQubGlzdFNoYXJlVXJsTW9kZWxzKHJlcXVlc3QpOwogICAgLy8gICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMocmVzdWx0TWFwLmdldENvZGUoKSkuYm9keShyZXN1bHRNYXApOwogICAgLy8gICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAvLyAgICAgICAgbG9nLmVycm9yKCJSZXF1ZXN0IFNoYXJlVXJsQ29sbGVjdGlvbiBhcHAgRXhjZXB0aW9uIiwgZSk7CiAgICAvLyAgICAgICAgUmVzdWx0TWFwIHJlc3VsdE1hcCA9IG5ldyBSZXN1bHRNYXAoKS5mYWlsKCkubWVzc2FnZSgi6I635Y+WRGFzaGJvYXJkIFVybOmUmeivryEiKTsKICAgIC8vICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKHJlc3VsdE1hcC5nZXRDb2RlKCkpLmJvZHkocmVzdWx0TWFwKTsKICAgIC8vICAgIH0KICAgIC8vfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>import com.yunzainfo.bigdata.consolev2.config.AppGlobalProperties;
 import com.yunzainfo.bigdata.consolev2.model.ResultMap;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.PreviewUrlEntity;
@@ -739,7 +746,7 @@ import com.yunzainfo.bigdata.consolev2.module.shareurl.entity.ShareUrlRequest;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IPreviewUrlService;
 import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IShareUrlFeignClient;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>modelType = 0;
         if (StringUtils.isBlank(sort)) {
             sort = &quot;modifiedDesc&quot;;
@@ -747,14 +754,11 @@ import com.yunzainfo.bigdata.consolev2.module.shareurl.service.IShareUrlFeignCli
 
         return modelQueryService.getModels(filter, sort, modelType, request);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Z2V0Q2hlY2tib3hQcm9wczogcmVjb3JkID0+ICh7CiAgICAgICAgZGlzYWJsZWQ6IHJlY29yZC5uYW1lID09PSAnRGlzYWJsZWQgVXNlcicsIC8vIENvbHVtbiBjb25maWd1cmF0aW9uIG5vdCB0byBiZSBjaGVja2VkCiAgICAgICAgbmFtZTogcmVjb3JkLm5hbWUsCiAgICAgIH0pLA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgLy8KICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC8vICAgZm9ybVZhbHVlczogdmFsdWVzLAogICAgICAvLyAgIHNlbGVjdGVkUm93czogW10sCiAgICAgIC8vIH0pOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBjb25zdCB2YWx1ZXMgPSB7CiAgICAgICAgLi4ucGFnZVBhcmFtLAogICAgICAgIC4uLnBhbmVsVmFsdWUsCiAgICAgIH07</text>
+        <text encoding="base64">ICAgLy8KICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC8vICAgZm9ybVZhbHVlczogdmFsdWVzLAogICAgICAvLyAgIHNlbGVjdGVkUm93czogW10sCiAgICAgIC8vIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
