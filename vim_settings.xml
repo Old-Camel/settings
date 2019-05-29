@@ -221,11 +221,11 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/config/SecurityServerConfig.java" timestamp="1554711654909">
         <mark key="[" line="69" column="29" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559095448761">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559096989598">
         <mark key="'" line="65" column="18" />
-        <mark key="[" line="155" column="1" />
-        <mark key="]" line="155" column="1" />
-        <mark key="." line="155" column="1" />
+        <mark key="[" line="497" column="163" />
+        <mark key="]" line="497" column="163" />
+        <mark key="." line="497" column="163" />
         <mark key="^" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/formstate.js" timestamp="1558679520336">
@@ -718,7 +718,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>{ Fragment }</text>
+        <text>this.state.selectedRows[0].id}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
