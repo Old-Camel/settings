@@ -177,12 +177,12 @@
         <mark key="[" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/toolbar-controller.js" timestamp="1559183960103" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559203543158">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559206494258">
         <mark key="'" line="79" column="18" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="473" column="21" />
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="114" column="6" />
+        <mark key="." line="114" column="6" />
+        <mark key="^" line="114" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/CourseServiceImpl.java" timestamp="1553221969588">
         <mark key="[" line="60" column="84" />
@@ -248,11 +248,11 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559203181945">
-        <mark key="[" line="76" column="50" />
-        <mark key="]" line="76" column="50" />
-        <mark key="." line="76" column="50" />
-        <mark key="^" line="61" column="28" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559206250077">
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="59" column="10" />
+        <mark key="." line="67" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/logback-spring.xml" timestamp="1558598065070">
         <mark key="[" line="171" column="10" />
@@ -308,6 +308,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/qq/api/impl/QQImpl.java" timestamp="1553569167808">
         <mark key="[" line="67" column="55" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1559204980585" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/PanelLayout.java" timestamp="1553594229896">
         <mark key="[" line="17" column="3" />
       </file>
@@ -629,7 +630,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>放Ifarme的id</text>
+        <text encoding="base64">ICAgcmV0dXJuIHVybDs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -638,43 +639,43 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">d2luZG93LmNsb3NlRWRpdG9yPSgpPT57CgogIH0=</text>
+        <text encoding="base64">ICAvLyAvLyBFeGVjdXRlIGFueSBjYWxsYmFjawogICAgICAgICAgICAgICAgICAgIC8vIGlmIChzdWNjZXNzQ2FsbGJhY2spIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgc3VjY2Vzc0NhbGxiYWNrKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIC8vIHNlcnZpY2VzLiRzY29wZS5zYXZlKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAvLyAgICAgaWYgKGVkaXRvck1hbmFnZXIuZ2V0U3RlbmNpbERhdGEoKSkgewogICAgICAgICAgICAvLyAgICAgICAgIHZhciBzdGVuY2lsTmFtZVNwYWNlID0gZWRpdG9yTWFuYWdlci5nZXRTdGVuY2lsRGF0YSgpLm5hbWVzcGFjZTsKICAgICAgICAgICAgLy8gICAgICAgICBpZiAoc3RlbmNpbE5hbWVTcGFjZSAhPT0gdW5kZWZpbmVkICYmIHN0ZW5jaWxOYW1lU3BhY2UgIT09IG51bGwgJiYgc3RlbmNpbE5hbWVTcGFjZS5pbmRleE9mKCdjbW1uMS4xJykgIT09IC0xKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgICRsb2NhdGlvbi5wYXRoKCIvY2FzZW1vZGVscyIpOwogICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIC8vICAgICAgICAgfQogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyAgICAgJGxvY2F0aW9uLnBhdGgoJy9wcm9jZXNzZXMnKTsKICAgICAgICAgICAgLy8gfSk7</text>
+        <text encoding="base64">ICAgICAgICAgIOW9k2lmcmFtZeaYr+iiq+WKqOaAgeWIm+W7uueahOaXtuWAme+8jOS7peS4iuaWueW8j+S+neeEtuacieaViOOAguW9k+eEtu+8jOS9oOS5n+WPr+S7peS9v+eUqHdpbmRvdy5uYW1l55qE5pa55byP5Y675YGa5aSE55CG44CCCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOS9nOiAhe+8mml0S2luZ09uZQogICAgICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9pdEtpbmdPbmUvYXJ0aWNsZS9kZXRhaWxzLzc4MzM1MTc3IAogICAgICAgICAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKCRzY29wZS5lcnJvciAmJiAkc2NvcGUuZXJyb3IuaXNDb25mbGljdCkgewogICAgICAgICAgICAgICAgcGFyYW1zLmNvbmZsaWN0UmVzb2x2ZUFjdGlvbiA9ICRzY29wZS5lcnJvci5jb25mbGljdFJlc29sdmVBY3Rpb247CiAgICAgICAgICAgICAgICBpZiAoJHNjb3BlLmVycm9yLmNvbmZsaWN0UmVzb2x2ZUFjdGlvbiA9PT0gJ3NhdmVBcycpIHsKICAgICAgICAgICAgICAgICAgICBwYXJhbXMuc2F2ZUFzID0gJHNjb3BlLmVycm9yLnNhdmVBczsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICB2YXIgc2F2ZUV2ZW50ID0gewogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiBGTE9XQUJMRS5ldmVudEJ1cy5FVkVOVF9UWVBFX01PREVMX1NBVkVELAogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbElkOiBtb2RlbE1ldGFEYXRhLm1vZGVsSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50VHlwZTogJ3VwZGF0ZS1tb2RlbCcKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIEZMT1dBQkxFLmV2ZW50QnVzLmRpc3BhdGNoKEZMT1dBQkxFLmV2ZW50QnVzLkVWRU5UX1RZUEVfTU9ERUxfU0FWRUQsIHNhdmVFdmVudCk7</text>
       </register>
       <register name="4" type="4">
-        <text>var modelMetaData
-            modelMetaData.name = $scope.saveDialog.name;
-            modelMetaData.key = $scope.saveDialog.key;
-            modelMetaData.description = $scope.saveDialog.description;</text>
+        <text encoding="base64">IHNlcnZpY2VzLiRzY29wZS5tb2RlbERhdGEubmFtZSA9ICRzY29wZS5zYXZlRGlhbG9nLm5hbWU7CiAgICAgICAgICAgICAgICAgICAgc2VydmljZXMuJHNjb3BlLm1vZGVsRGF0YS5rZXkgPSAkc2NvcGUuc2F2ZURpYWxvZy5rZXk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGlmICghJHNjb3BlLnNhdmVEaWFsb2cubmFtZSB8fCAkc2NvcGUuc2F2ZURpYWxvZy5uYW1lLmxlbmd0aCA9PSAwIHx8CiAgICAgICAgICAgICAgICAhJHNjb3BlLnNhdmVEaWFsb2cua2V5IHx8ICRzY29wZS5zYXZlRGlhbG9nLmtleS5sZW5ndGggPT0gMCkgewoKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+        <text>console.log( window.location.href);
+                     url='';</text>
       </register>
       <register name="6" type="4">
-        <text>var saveDialog = {
-                'name' : modelMetaData.name,
-                'key' : modelMetaData.key,
-                'description' : description,
-                'newVersion' : false,
-                'comment' : ''
-            };</text>
+        <text>postMsg=function(){
+    top.postMessage(&quot;子页面消息收到&quot;, 'http://localhost:8000/flow/flow/design');
+}</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VySW5mb0ZvckF1dGhSZXBvc2l0b3J5IHVzZXJJbmZvRm9yQXV0aFJlcG9zaXRvcnk7</text>
+        <text>if(data){
+                        
+                    }</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZyBzbCA9IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuaXAocmVxdWVzdC5nZXRJcCgpKQogICAgICAgICAgICAgICAgICAgIC5yZWFsTmFtZShyZXF1ZXN0LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgLmNsYXNzTmFtZShyZXF1ZXN0LmdldENsYXNzTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2ROYW1lKHJlcXVlc3QuZ2V0TWV0aG9kTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5hcmdzKHJlcXVlc3QuZ2V0QXJncygpKQogICAgICAgICAgICAgICAgICAgIC5yZXF1ZXN0VXJsKHJlcXVlc3QuZ2V0UmVxdWVzdFVybCgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2REZXNjKHJlcXVlc3QuZ2V0TWV0aG9kRGVzYygpKQogICAgICAgICAgICAgICAgICAgIC5zdGF0dXMocmVxdWVzdC5nZXRTdGF0dXMoKSkKICAgICAgICAgICAgICAgICAgICAucmVxdWVzdFR5cGUocmVxdWVzdC5nZXRSZXF1ZXN0VHlwZSgpKQogICAgICAgICAgICAgICAgICAgIC5lcnJvckluZm8ocmVxdWVzdC5nZXRFcnJvckluZm8oKSkKICAgICAgICAgICAgICAgICAgICAucnVuVGltZShyZXF1ZXN0LmdldFJ1blRpbWUoKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICAgICAgc2wuc2V0Q3JlYXRlZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIHNsLnNldExhc3RNb2RpZmllZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIGxvZ1Jlc3Bvc2l0b3J5LnNhdmVBbmRGbHVzaChzbCk7Cg==</text>
+        <text>var postMsg=function(){
+
+}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IEBSZXNvdXJjZQogICAgcHJpdmF0ZSBCYXNlVXNlclNlcnZpY2UgYmFzZVVzZXJTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbGlzdFVzZXIgKFBvc3RUeXBlIHBvc3RUeXBlLCBTdHJlYW1PYnNlcnZlcjxMaXN0VXNlcj4gcmVzcG9uc2VPYnNlcnZlcikgewoKICAgICAgICB0cnkgewogICAgICAgICAgICBMaXN0PFVzZXI+IGxpc3RVc2VyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIExpc3QgPEJhc2VVc2VyPiB1c2VyTGlzdCA9IGJhc2VVc2VyU2VydmljZS5maW5kVXNlcnMocG9zdFR5cGUpOwogICAgICAgICAgICB1c2VyTGlzdC5mb3JFYWNoKHUgLT4gewogICAgICAgICAgICAgICAgbGlzdFVzZXIuYWRkKFVzZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRVc2VySUQodS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFVzZXJOYW1lKHUuZ2V0UmVhbE5hbWUoKT09bnVsbD8iIjp1LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXREZXB0SWQodS5nZXREZXB0SWQoKT09bnVsbD8iIjp1LmdldERlcHRJZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0RGVwdE5hbWUodS5nZXREZXB0KCk9PW51bGw/IiI6dS5nZXREZXB0KCkuZ2V0RGVwdE5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjY291bnQodS5nZXRVc2VyQ29kZSgpPT1udWxsPyIiOnUuZ2V0VXNlckNvZGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgTGlzdFVzZXIuQnVpbGRlciBidWlsZGVyID0gTGlzdFVzZXIubmV3QnVpbGRlcigpLmFkZEFsbFVzZXIobGlzdFVzZXIpOwogICAgICAgICAgICByZXNwb25zZU9ic2VydmVyLm9uTmV4dChidWlsZGVyLmJ1aWxkKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCJncnBj6LCD55So5aSx6LSle30gIiwgZSk7CiAgICAgICAgICAgIHJlc3BvbnNlT2JzZXJ2ZXIub25FcnJvcihTdGF0dXMuSU5URVJOQUwud2l0aENhdXNlKGUpLndpdGhEZXNjcmlwdGlvbigiZ3JwY+iwg+eUqOWksei0pSIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0=</text>
+        <text>if(data) {
+                       
+                    }</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
