@@ -177,6 +177,13 @@
         <mark key="[" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/toolbar-controller.js" timestamp="1559183960103" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559203543158">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="473" column="21" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/CourseServiceImpl.java" timestamp="1553221969588">
         <mark key="[" line="60" column="84" />
       </file>
@@ -195,7 +202,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1559185103718" />
       <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/common/Entity.proto" timestamp="1559184744970" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelsResource.java" timestamp="1559117242461" />
-      <file name="/Dummy.txt" timestamp="1559196824030">
+      <file name="/Dummy.txt" timestamp="1559202260548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Tree/Menu.jsx" timestamp="1557912387478">
@@ -222,7 +229,7 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/generatorConfig-shareniu.xml" timestamp="1555583110884">
         <mark key="[" line="17" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1559185012893">
+      <file name="/fragment.java" timestamp="1559202260542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/Panel.less" timestamp="1557051111652">
@@ -241,11 +248,11 @@
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559200399109">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559203181945">
+        <mark key="[" line="76" column="50" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="61" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/logback-spring.xml" timestamp="1558598065070">
         <mark key="[" line="171" column="10" />
@@ -622,7 +629,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ChenGongZong</text>
+        <text>放Ifarme的id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -631,18 +638,27 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>var modelMetaData
-            modelMetaData.name = $scope.saveDialog.name;
-            modelMetaData.key = $scope.saveDialog.key;
-            modelMetaData.description = $scope.saveDialog.description;</text>
+        <text encoding="base64">d2luZG93LmNsb3NlRWRpdG9yPSgpPT57CgogIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmICghJHNjb3BlLnNhdmVEaWFsb2cubmFtZSB8fCAkc2NvcGUuc2F2ZURpYWxvZy5uYW1lLmxlbmd0aCA9PSAwIHx8CiAgICAgICAgICAgICAgICAhJHNjb3BlLnNhdmVEaWFsb2cua2V5IHx8ICRzY29wZS5zYXZlRGlhbG9nLmtleS5sZW5ndGggPT0gMCkgewoKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgIC8vIHNlcnZpY2VzLiRzY29wZS5zYXZlKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAvLyAgICAgaWYgKGVkaXRvck1hbmFnZXIuZ2V0U3RlbmNpbERhdGEoKSkgewogICAgICAgICAgICAvLyAgICAgICAgIHZhciBzdGVuY2lsTmFtZVNwYWNlID0gZWRpdG9yTWFuYWdlci5nZXRTdGVuY2lsRGF0YSgpLm5hbWVzcGFjZTsKICAgICAgICAgICAgLy8gICAgICAgICBpZiAoc3RlbmNpbE5hbWVTcGFjZSAhPT0gdW5kZWZpbmVkICYmIHN0ZW5jaWxOYW1lU3BhY2UgIT09IG51bGwgJiYgc3RlbmNpbE5hbWVTcGFjZS5pbmRleE9mKCdjbW1uMS4xJykgIT09IC0xKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgICRsb2NhdGlvbi5wYXRoKCIvY2FzZW1vZGVscyIpOwogICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIC8vICAgICAgICAgfQogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyAgICAgJGxvY2F0aW9uLnBhdGgoJy9wcm9jZXNzZXMnKTsKICAgICAgICAgICAgLy8gfSk7</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">aWYgKCRzY29wZS5lcnJvciAmJiAkc2NvcGUuZXJyb3IuaXNDb25mbGljdCkgewogICAgICAgICAgICAgICAgcGFyYW1zLmNvbmZsaWN0UmVzb2x2ZUFjdGlvbiA9ICRzY29wZS5lcnJvci5jb25mbGljdFJlc29sdmVBY3Rpb247CiAgICAgICAgICAgICAgICBpZiAoJHNjb3BlLmVycm9yLmNvbmZsaWN0UmVzb2x2ZUFjdGlvbiA9PT0gJ3NhdmVBcycpIHsKICAgICAgICAgICAgICAgICAgICBwYXJhbXMuc2F2ZUFzID0gJHNjb3BlLmVycm9yLnNhdmVBczsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text>var modelMetaData
+            modelMetaData.name = $scope.saveDialog.name;
+            modelMetaData.key = $scope.saveDialog.key;
+            modelMetaData.description = $scope.saveDialog.description;</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmICghJHNjb3BlLnNhdmVEaWFsb2cubmFtZSB8fCAkc2NvcGUuc2F2ZURpYWxvZy5uYW1lLmxlbmd0aCA9PSAwIHx8CiAgICAgICAgICAgICAgICAhJHNjb3BlLnNhdmVEaWFsb2cua2V5IHx8ICRzY29wZS5zYXZlRGlhbG9nLmtleS5sZW5ndGggPT0gMCkgewoKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>var saveDialog = {
                 'name' : modelMetaData.name,
                 'key' : modelMetaData.key,
@@ -651,32 +667,14 @@
                 'comment' : ''
             };</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VySW5mb0ZvckF1dGhSZXBvc2l0b3J5IHVzZXJJbmZvRm9yQXV0aFJlcG9zaXRvcnk7</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZyBzbCA9IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuaXAocmVxdWVzdC5nZXRJcCgpKQogICAgICAgICAgICAgICAgICAgIC5yZWFsTmFtZShyZXF1ZXN0LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgLmNsYXNzTmFtZShyZXF1ZXN0LmdldENsYXNzTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2ROYW1lKHJlcXVlc3QuZ2V0TWV0aG9kTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5hcmdzKHJlcXVlc3QuZ2V0QXJncygpKQogICAgICAgICAgICAgICAgICAgIC5yZXF1ZXN0VXJsKHJlcXVlc3QuZ2V0UmVxdWVzdFVybCgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2REZXNjKHJlcXVlc3QuZ2V0TWV0aG9kRGVzYygpKQogICAgICAgICAgICAgICAgICAgIC5zdGF0dXMocmVxdWVzdC5nZXRTdGF0dXMoKSkKICAgICAgICAgICAgICAgICAgICAucmVxdWVzdFR5cGUocmVxdWVzdC5nZXRSZXF1ZXN0VHlwZSgpKQogICAgICAgICAgICAgICAgICAgIC5lcnJvckluZm8ocmVxdWVzdC5nZXRFcnJvckluZm8oKSkKICAgICAgICAgICAgICAgICAgICAucnVuVGltZShyZXF1ZXN0LmdldFJ1blRpbWUoKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICAgICAgc2wuc2V0Q3JlYXRlZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIHNsLnNldExhc3RNb2RpZmllZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIGxvZ1Jlc3Bvc2l0b3J5LnNhdmVBbmRGbHVzaChzbCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEBSZXNvdXJjZQogICAgcHJpdmF0ZSBCYXNlVXNlclNlcnZpY2UgYmFzZVVzZXJTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbGlzdFVzZXIgKFBvc3RUeXBlIHBvc3RUeXBlLCBTdHJlYW1PYnNlcnZlcjxMaXN0VXNlcj4gcmVzcG9uc2VPYnNlcnZlcikgewoKICAgICAgICB0cnkgewogICAgICAgICAgICBMaXN0PFVzZXI+IGxpc3RVc2VyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIExpc3QgPEJhc2VVc2VyPiB1c2VyTGlzdCA9IGJhc2VVc2VyU2VydmljZS5maW5kVXNlcnMocG9zdFR5cGUpOwogICAgICAgICAgICB1c2VyTGlzdC5mb3JFYWNoKHUgLT4gewogICAgICAgICAgICAgICAgbGlzdFVzZXIuYWRkKFVzZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRVc2VySUQodS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFVzZXJOYW1lKHUuZ2V0UmVhbE5hbWUoKT09bnVsbD8iIjp1LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXREZXB0SWQodS5nZXREZXB0SWQoKT09bnVsbD8iIjp1LmdldERlcHRJZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0RGVwdE5hbWUodS5nZXREZXB0KCk9PW51bGw/IiI6dS5nZXREZXB0KCkuZ2V0RGVwdE5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjY291bnQodS5nZXRVc2VyQ29kZSgpPT1udWxsPyIiOnUuZ2V0VXNlckNvZGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgTGlzdFVzZXIuQnVpbGRlciBidWlsZGVyID0gTGlzdFVzZXIubmV3QnVpbGRlcigpLmFkZEFsbFVzZXIobGlzdFVzZXIpOwogICAgICAgICAgICByZXNwb25zZU9ic2VydmVyLm9uTmV4dChidWlsZGVyLmJ1aWxkKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCJncnBj6LCD55So5aSx6LSle30gIiwgZSk7CiAgICAgICAgICAgIHJlc3BvbnNlT2JzZXJ2ZXIub25FcnJvcihTdGF0dXMuSU5URVJOQUwud2l0aENhdXNlKGUpLndpdGhEZXNjcmlwdGlvbigiZ3JwY+iwg+eUqOWksei0pSIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHN0cmluZyBlcnJvck1lc3NhZ2UgPSAzOwogICAgc3RyaW5nIGpzb25EYXRhID0gNDs=</text>
-      </register>
-      <register name="8" type="4">
-        <text>message ListUser {
-    repeated User user = 1;
-
-}</text>
-      </register>
       <register name="9" type="4">
-        <text>message User {
-    string userID = 1;
-    string userName= 2;
-    string deptId= 3;
-    string deptName= 4;
-    string account= 5;
-}</text>
+        <text encoding="base64">IEBSZXNvdXJjZQogICAgcHJpdmF0ZSBCYXNlVXNlclNlcnZpY2UgYmFzZVVzZXJTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbGlzdFVzZXIgKFBvc3RUeXBlIHBvc3RUeXBlLCBTdHJlYW1PYnNlcnZlcjxMaXN0VXNlcj4gcmVzcG9uc2VPYnNlcnZlcikgewoKICAgICAgICB0cnkgewogICAgICAgICAgICBMaXN0PFVzZXI+IGxpc3RVc2VyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIExpc3QgPEJhc2VVc2VyPiB1c2VyTGlzdCA9IGJhc2VVc2VyU2VydmljZS5maW5kVXNlcnMocG9zdFR5cGUpOwogICAgICAgICAgICB1c2VyTGlzdC5mb3JFYWNoKHUgLT4gewogICAgICAgICAgICAgICAgbGlzdFVzZXIuYWRkKFVzZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRVc2VySUQodS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFVzZXJOYW1lKHUuZ2V0UmVhbE5hbWUoKT09bnVsbD8iIjp1LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXREZXB0SWQodS5nZXREZXB0SWQoKT09bnVsbD8iIjp1LmdldERlcHRJZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0RGVwdE5hbWUodS5nZXREZXB0KCk9PW51bGw/IiI6dS5nZXREZXB0KCkuZ2V0RGVwdE5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjY291bnQodS5nZXRVc2VyQ29kZSgpPT1udWxsPyIiOnUuZ2V0VXNlckNvZGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgTGlzdFVzZXIuQnVpbGRlciBidWlsZGVyID0gTGlzdFVzZXIubmV3QnVpbGRlcigpLmFkZEFsbFVzZXIobGlzdFVzZXIpOwogICAgICAgICAgICByZXNwb25zZU9ic2VydmVyLm9uTmV4dChidWlsZGVyLmJ1aWxkKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCJncnBj6LCD55So5aSx6LSle30gIiwgZSk7CiAgICAgICAgICAgIHJlc3BvbnNlT2JzZXJ2ZXIub25FcnJvcihTdGF0dXMuSU5URVJOQUwud2l0aENhdXNlKGUpLndpdGhEZXNjcmlwdGlvbigiZ3JwY+iwg+eUqOWksei0pSIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
