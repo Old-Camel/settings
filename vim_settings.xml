@@ -92,6 +92,7 @@
       <file name="$USER_HOME$/data/code/sailor/pom.xml" timestamp="1557131241413">
         <mark key="[" line="153" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/message-center/MessagePush.proto" timestamp="1559184673055" />
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/dataBase.xml" timestamp="1555639483613">
         <mark key="[" line="15" column="43" />
       </file>
@@ -207,8 +208,10 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/Flowable第三期资料/shareniu-flowable-study/src/main/java/com/shareniu/v6/ch10/cmd/GetProcessCmd.java" timestamp="1556527121141">
         <mark key="[" line="19" column="59" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1559185103718" />
+      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/common/Entity.proto" timestamp="1559184744970" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelsResource.java" timestamp="1559117242461" />
-      <file name="/Dummy.txt" timestamp="1559125042949">
+      <file name="/Dummy.txt" timestamp="1559185742996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Tree/Menu.jsx" timestamp="1557912387478">
@@ -235,7 +238,7 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/sql/generatorConfig-shareniu.xml" timestamp="1555583110884">
         <mark key="[" line="17" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1559009282176">
+      <file name="/fragment.java" timestamp="1559185012893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/Panel.less" timestamp="1557051111652">
@@ -250,6 +253,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1558597178392">
         <mark key="[" line="38" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/UserListService.java" timestamp="1559185618943" />
       <file name="$USER_HOME$/data/code/gateway/src/main/java/com/yunzainfo/cloud/gateway/config/AuthControllerAdvice.java" timestamp="1554189703846">
         <mark key="[" line="21" column="25" />
       </file>
@@ -325,6 +329,11 @@
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1558581916709">
         <mark key="[" line="113" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/auth/Token.proto" timestamp="1559184934457">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/Tree/Tree.jsx" timestamp="1557802831945">
         <mark key="[" line="14" column="6" />
@@ -402,6 +411,11 @@
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/DeptUserKey.java" timestamp="1554184945898">
         <mark key="[" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/Oauth2TokenService.java" timestamp="1559185724015">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/data/code/kubernetes-client/kubernetes-model/kubernetes-model/pom.xml" timestamp="1555379953775">
         <mark key="[" line="229" column="21" />
       </file>
@@ -436,7 +450,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/pom.xml" timestamp="1555480639199">
         <mark key="[" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1559184387773" />
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/SysController.java" timestamp="1559185359418" />
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/resources/定时器任务.bpmn20.xml" timestamp="1556244947649">
         <mark key="[" line="2" column="18" />
       </file>
@@ -626,7 +640,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>spring-social-weibo-1.0.1-SNAPSHOT.jar</text>
+        <text>ChenGongZong</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -635,56 +649,43 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmZsb3dhYmxlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmxvYWJsZS1pbWFnZS1nZW5lcmF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvZXhjbHVzaW9uPg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VySW5mb0ZvckF1dGhSZXBvc2l0b3J5IHVzZXJJbmZvRm9yQXV0aFJlcG9zaXRvcnk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbG93YWJsZS1pbWFnZS1nZW5lcmF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuZmxvd2FibGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDwvZXhjbHVzaW9uPg==</text>
+        <text encoding="base64">IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZyBzbCA9IGNvbS55dW56YWluZm8uY2xvdWQuY29tbW9uLmVudGl0eS5jb3JlLlN5c3RlbUxvZy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuaXAocmVxdWVzdC5nZXRJcCgpKQogICAgICAgICAgICAgICAgICAgIC5yZWFsTmFtZShyZXF1ZXN0LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgLmNsYXNzTmFtZShyZXF1ZXN0LmdldENsYXNzTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2ROYW1lKHJlcXVlc3QuZ2V0TWV0aG9kTmFtZSgpKQogICAgICAgICAgICAgICAgICAgIC5hcmdzKHJlcXVlc3QuZ2V0QXJncygpKQogICAgICAgICAgICAgICAgICAgIC5yZXF1ZXN0VXJsKHJlcXVlc3QuZ2V0UmVxdWVzdFVybCgpKQogICAgICAgICAgICAgICAgICAgIC5tZXRob2REZXNjKHJlcXVlc3QuZ2V0TWV0aG9kRGVzYygpKQogICAgICAgICAgICAgICAgICAgIC5zdGF0dXMocmVxdWVzdC5nZXRTdGF0dXMoKSkKICAgICAgICAgICAgICAgICAgICAucmVxdWVzdFR5cGUocmVxdWVzdC5nZXRSZXF1ZXN0VHlwZSgpKQogICAgICAgICAgICAgICAgICAgIC5lcnJvckluZm8ocmVxdWVzdC5nZXRFcnJvckluZm8oKSkKICAgICAgICAgICAgICAgICAgICAucnVuVGltZShyZXF1ZXN0LmdldFJ1blRpbWUoKSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICAgICAgc2wuc2V0Q3JlYXRlZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIHNsLnNldExhc3RNb2RpZmllZEJ5KHJlcXVlc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgICAgIGxvZ1Jlc3Bvc2l0b3J5LnNhdmVBbmRGbHVzaChzbCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgPGJ1aWxkPgogICAgICAgCiAgICA8L2J1aWxkPg==</text>
+        <text encoding="base64">IEBSZXNvdXJjZQogICAgcHJpdmF0ZSBCYXNlVXNlclNlcnZpY2UgYmFzZVVzZXJTZXJ2aWNlOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbGlzdFVzZXIgKFBvc3RUeXBlIHBvc3RUeXBlLCBTdHJlYW1PYnNlcnZlcjxMaXN0VXNlcj4gcmVzcG9uc2VPYnNlcnZlcikgewoKICAgICAgICB0cnkgewogICAgICAgICAgICBMaXN0PFVzZXI+IGxpc3RVc2VyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIExpc3QgPEJhc2VVc2VyPiB1c2VyTGlzdCA9IGJhc2VVc2VyU2VydmljZS5maW5kVXNlcnMocG9zdFR5cGUpOwogICAgICAgICAgICB1c2VyTGlzdC5mb3JFYWNoKHUgLT4gewogICAgICAgICAgICAgICAgbGlzdFVzZXIuYWRkKFVzZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRVc2VySUQodS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFVzZXJOYW1lKHUuZ2V0UmVhbE5hbWUoKT09bnVsbD8iIjp1LmdldFJlYWxOYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXREZXB0SWQodS5nZXREZXB0SWQoKT09bnVsbD8iIjp1LmdldERlcHRJZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0RGVwdE5hbWUodS5nZXREZXB0KCk9PW51bGw/IiI6dS5nZXREZXB0KCkuZ2V0RGVwdE5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjY291bnQodS5nZXRVc2VyQ29kZSgpPT1udWxsPyIiOnUuZ2V0VXNlckNvZGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgTGlzdFVzZXIuQnVpbGRlciBidWlsZGVyID0gTGlzdFVzZXIubmV3QnVpbGRlcigpLmFkZEFsbFVzZXIobGlzdFVzZXIpOwogICAgICAgICAgICByZXNwb25zZU9ic2VydmVyLm9uTmV4dChidWlsZGVyLmJ1aWxkKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nLmVycm9yKCJncnBj6LCD55So5aSx6LSle30gIiwgZSk7CiAgICAgICAgICAgIHJlc3BvbnNlT2JzZXJ2ZXIub25FcnJvcihTdGF0dXMuSU5URVJOQUwud2l0aENhdXNlKGUpLndpdGhEZXNjcmlwdGlvbigiZ3JwY+iwg+eUqOWksei0pSIpLmFzUnVudGltZUV4Y2VwdGlvbigpKTsKCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcmVzcG9uc2VPYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0=</text>
       </register>
       <register name="4" type="4">
-        <text>log.error(&quot;Error while deleting: &quot;, e);
-            throw new BadRequestException(&quot;Model cannot be deleted: &quot; + modelId);</text>
+        <text encoding="base64">IHN0cmluZyBlcnJvck1lc3NhZ2UgPSAzOwogICAgc3RyaW5nIGpzb25EYXRhID0gNDs=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IDxCdXR0b24KICAgICAgICAgICAgICAgICAgICAgIGljb249ImVkaXQiCiAgICAgICAgICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5oYW5kbGVNb2RhbEVkaXQodHJ1ZSwgc2VsZWN0ZWRSb3dzKX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICDnvJbovpHmqKHlnovlsZ7mgKcKICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4=</text>
+        <text>message ListUser {
+    repeated User user = 1;
+
+}</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgY29uc3QgewogICAgICBwYWdlSW5pdDoge3BhZ2VQYXJhbX0sCiAgICB9ID0gdGhpcy5wcm9wczs=</text>
+        <text>message User {
+    string userID = 1;
+    string userName= 2;
+    string deptId= 3;
+    string deptName= 4;
+    string account= 5;
+}</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIGZvcm0udmFsaWRhdGVGaWVsZHMoKGVyciwgcGFuZWxWYWx1ZSkgPT4gewogICAgICBpZiAoZXJyKSByZXR1cm47CgogICAgICBjb25zdCB2YWx1ZXMgPSB7CiAgICAgICAgLi4ucGFnZVBhcmFtLAogICAgICAgIC4uLnBhbmVsVmFsdWUsCiAgICAgIH07CgogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBmb3JtVmFsdWVzOiB2YWx1ZXMsCiAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgfSk7CiAgICAgIE9iamVjdC5hc3NpZ24odmFsdWVzKTsKICAgICAgY29uc3QgcGF5bG9hZCA9IHsuLi50aGlzLnByb3BzLnBhZ2VJbml0LCAuLi57cGFnZVBhcmFtOiB2YWx1ZXN9fTs=</text>
+        <text encoding="base64">ICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmZsb3dhYmxlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmxvYWJsZS1pbWFnZS1nZW5lcmF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvZXhjbHVzaW9uPg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyogewogICAgICAgIHRpdGxlOiAn5rWB56iL5ZCN56ewJywKICAgICAgICBkYXRhSW5kZXg6ICduYW1lJywKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5rWB56iL5qCH6K+GJywKICAgICAgICBkYXRhSW5kZXg6ICdrZXknLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICfniYjmnKwnLAogICAgICAgIGRhdGFJbmRleDogJ3ZlcnNpb24nLAogICAgICAgIHJlbmRlcjogdmFsID0+ICgndicgKyB2YWwpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ+WIm+W7uuS6uicsCiAgICAgICAgZGF0YUluZGV4OiAnY3JlYXRlZEJ5JwogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICfmnIDlkI7mm7TmlrDkuronLAogICAgICAgIGRhdGFJbmRleDogJ2xhc3RVcGRhdGVkQnknCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ+acgOWQjuabtOaWsOaXtumXtCcsCiAgICAgICAgZGF0YUluZGV4OiAnbGFzdFVwZGF0ZWQnLAogICAgICAgIHJlbmRlcjogdmFsID0+ICh2YWwgPyA8c3Bhbj57bW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tJyl9PC9zcGFuPiA6ICcnKSwKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5o+P6L+wJywKICAgICAgICBkYXRhSW5kZXg6ICdkZXNjcmlwdGlvbicKICAgICAgfSov</text>
+        <text encoding="base64">IDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbG93YWJsZS1pbWFnZS1nZW5lcmF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuZmxvd2FibGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDwvZXhjbHVzaW9uPg==</text>
       </register>
       <register name="9" type="4">
-        <text>layer.open({
-      type: 2,
-      title: false,
-      closeBtn: 0, //不显示关闭按钮
-      shade: [0],
-      area: ['340px', '215px'],
-      offset: 'rb', //右下角弹出
-      time: 2000, //2秒后自动关闭
-      anim: 2,
-      content: [url, 'no'], //iframe的url，no代表不显示滚动条
-      end: function(){ //此处用于演示
-        layer.open({
-          type: 2,
-          title: '很多时候，我们想最大化看，比如像这个页面。',
-          shadeClose: true,
-          shade: false,
-          maxmin: true, //开启最大化最小化按钮
-          area: ['893px', '600px'],
-          content: '//fly.layui.com/'
-        });
-      }
-    });</text>
+        <text encoding="base64">ICAgPGJ1aWxkPgogICAgICAgCiAgICA8L2J1aWxkPg==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
