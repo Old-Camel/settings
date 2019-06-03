@@ -21,10 +21,11 @@
         <mark key="." line="104" column="45" />
         <mark key="^" line="101" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559551061127">
-        <mark key="[" line="239" column="14" />
-        <mark key="]" line="239" column="14" />
-        <mark key="." line="239" column="14" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559555366212">
+        <mark key="[" line="145" column="37" />
+        <mark key="]" line="150" column="32" />
+        <mark key="." line="150" column="32" />
+        <mark key="^" line="150" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1558925657091">
         <mark key="[" line="63" column="49" />
@@ -201,8 +202,8 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/List/CardList.js" timestamp="1555066482549">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1559541795676">
-        <mark key="[" line="22" column="13" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1559555223023">
+        <mark key="[" line="20" column="28" />
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
@@ -246,7 +247,7 @@
       <file name="$USER_HOME$/data/功能设计/工作流文档/form/src/main/resources/properties/config.properties" timestamp="1557301320082">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1559550153038" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1559555784211" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1559544595231">
         <mark key="[" line="18" column="97" />
         <mark key="]" line="17" column="7" />
@@ -283,11 +284,10 @@
         <mark key="[" line="33" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1559185103718" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559552325914">
-        <mark key="[" line="136" column="23" />
-        <mark key="]" line="136" column="23" />
-        <mark key="." line="136" column="23" />
-        <mark key="^" line="433" column="13" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559554879222">
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="89" column="5" />
+        <mark key="." line="89" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/common/Entity.proto" timestamp="1559184744970" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelsResource.java" timestamp="1559117242461" />
@@ -383,7 +383,7 @@
       <file name="$USER_HOME$/data/code/react-jsonschema-formbuilder/src/App.jsx" timestamp="1557737960754">
         <mark key="[" line="110" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1559540350032" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/UserInfo.js" timestamp="1559553202199" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/PanelServerImpl.java" timestamp="1553582242294">
         <mark key="[" line="58" column="19" />
       </file>
@@ -431,7 +431,7 @@
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/modeler/test/GroovyTask.java" timestamp="1556172196639">
         <mark key="[" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/StudentApplication.java" timestamp="1559281846233" />
+      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/main/java/com/yunzainfo/cloud/student/StudentApplication.java" timestamp="1559555852023" />
       <file name="$USER_HOME$/data/code/newdemo/jpa/config/application-dev.properties" timestamp="1559269839814" />
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/SortItemService.java" timestamp="1553222902363">
         <mark key="[" line="19" column="36" />
@@ -523,7 +523,7 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1558688764068">
         <mark key="[" line="23" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559551261199">
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559554224479">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -572,7 +572,7 @@
       <file name="$USER_HOME$/data/code/kubernetes-client/kubernetes-model/kubernetes-model/pom.xml" timestamp="1555379953775">
         <mark key="[" line="229" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1559532848331">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1559552500224">
         <mark key="[" line="40" column="38" />
         <mark key="]" line="40" column="38" />
         <mark key="." line="40" column="38" />
@@ -587,6 +587,7 @@
         <mark key="]" line="55" column="50" />
         <mark key="." line="55" column="50" />
       </file>
+      <file name="/process.js" timestamp="1559552575243" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/StepForm/Step1.js" timestamp="1555379741643">
         <mark key="[" line="88" column="50" />
       </file>
@@ -834,7 +835,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>selectedKeys[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -843,19 +844,37 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICp1cGRhdGUoeyBwYXlsb2FkLCBjYWxsYmFjaywgcmVzZXRGb3JtIH0sIHsgY2FsbCB9KSB7CiAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwodXBkYXRlUHJvY2Vzc1R5cGUsIHBheWxvYWQpOwogICAgICBzdWNjZXNzQW5kUmVzZXRmb3JtKHJlc3BvbnNlLCBjYWxsYmFjaywgcmVzZXRGb3JtKTsKICAgIH0s</text>
+        <text encoding="base64">IGlmIChyZWNvcmQpIHsKICAgICAgICBmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdmaWxlJywgewogICAgICAgICAgaW5pdGlhbFZhbHVlOiAnJywKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgaGFuZGxlTW9kYWxFZGl0ID0gKGZsYWcsIHNlbGVjdGVkUm93cykgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVmlzaWJsZTogISFmbGFnLAogICAgICBtb2RhbFZhbHVlOiBzZWxlY3RlZFJvd3NbMF0sCiAgICAgIG1vZGFsVGl0bGU6ICfnvJbovpHnlKjmiLcnLAogICAgfSk7CiAgfTs=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBvbk1lbnVDaGFuZ2UgPSAodiwgZSkgPT4gewogICAgY29uc3Qge2F1dGhUcmVlfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB2YWx1ZSA9IHYudHJpbSgpOwogICAgaWYgKHZhbHVlLnRyaW0oKS5sZW5ndGggPiAwKSB7CiAgICAgIGxldCBjaGlsZHJlbiA9IGF1dGhUcmVlLmZpbHRlcihpdGVtID0+IHsKICAgICAgICByZXR1cm4gaXRlbS50aXRsZS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKHZhbHVlLnRvTG93ZXJDYXNlKCkpOwogICAgICB9KTsKICAgICAgY2hpbGRyZW4ubGVuZ3RoID4gMCAmJgogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzZWxlY3RTeXN0ZW1EYXRhOiBjaGlsZHJlbgogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHNlbGVjdFN5c3RlbURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQogIH07</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBoYW5kbGVJdGVtQ2xpY2sgPSAoZSwgZGF0YSkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlSXRlbTogZGF0YS5uYW1lLCBjaGlsZHJlbkRyYXdlcjogdHJ1ZX0pOwogIH07CiAgc2hvd0RyYXdlciA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkcmF3ZXJWaXNpYmxlOiB0cnVlLAogICAgfSk7CiAgfTsKIAogIG9uQ2xvc2UgPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZHJhd2VyVmlzaWJsZTogZmFsc2UsCiAgICAgIGF1dGhXaWxsU3VibWl0OiBudWxsLAogICAgfSk7CiAgfTs=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHNldEF1dGggPSAoKSA9PiB7CiAgICBjb25zdCB7c2VsZWN0ZWRSb3dzfSA9IHRoaXMuc3RhdGU7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3VzZXIvZmV0Y2hBdXRoJywKICAgICAgcGF5bG9hZDogc2VsZWN0ZWRSb3dzWzBdLnVzZXJJZCwKICAgICAgY2FsbGJhY2s6IHRoaXMuc2hvd0RyYXdlciwKICAgIH0pOwogIH07</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IHNob3dDaGlsZHJlbkRyYXdlciA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjaGlsZHJlbkRyYXdlcjogdHJ1ZSwKICAgIH0pOwogIH07CgogIG9uQ2hpbGRyZW5EcmF3ZXJDbG9zZSA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjaGlsZHJlbkRyYXdlcjogZmFsc2UsCiAgICB9KTsKICB9OwoKICBoYW5kbGVBdXRoQ2hhbmdlID0gKGtleSwgYXV0aHMpID0+IHsKICAgIGNvbnN0IHthdXRoV2lsbFN1Ym1pdCwgcmVmcmVzaH0gPSB0aGlzLnN0YXRlOwogICAgaWYgKCFhdXRoV2lsbFN1Ym1pdCkgewogICAgICBsZXQgZGF0YSA9IHRoaXMucHJvcHMuYXV0aFdpbGxDaGVjazsKICAgICAgZGF0YVtrZXldID0gYXV0aHM7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGF1dGhXaWxsU3VibWl0OiBkYXRhLAogICAgICAgIHJlZnJlc2g6ICFyZWZyZXNoLAogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIGxldCBkYXRhID0gYXV0aFdpbGxTdWJtaXQ7CiAgICAgIGRhdGFba2V5XSA9IGF1dGhzOwogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBhdXRoV2lsbFN1Ym1pdDogZGF0YSwKICAgICAgICByZWZyZXNoOiAhcmVmcmVzaCwKICAgICAgfSk7CiAgICB9CiAgfTsKICBhdXRoU3VibWl0ID0gKCkgPT4gewogICAgY29uc3Qge2F1dGhXaWxsU3VibWl0LCBzZWxlY3RlZFJvd3N9ID0gdGhpcy5zdGF0ZTsKICAgIGNvbnN0IHtkaXNwYXRjaCwgYXV0aFdpbGxDaGVja30gPSB0aGlzLnByb3BzOwogICAgbGV0IGRhdGEgPSBbXTsKICAgIGxldCBzdWJtaXQgPSBudWxsOwogICAgaWYgKCFhdXRoV2lsbFN1Ym1pdCkgewogICAgICBzdWJtaXQgPSBhdXRoV2lsbENoZWNrOwogICAgfSBlbHNlIHsKICAgICAgc3VibWl0ID0gYXV0aFdpbGxTdWJtaXQ7CiAgICB9CiAgICBPYmplY3Qua2V5cyhzdWJtaXQpLmZvckVhY2goaXRlbSA9PiB7CiAgICAgIGRhdGEgPSBkYXRhLmNvbmNhdChzdWJtaXRbaXRlbV0pOwogICAgfSk7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd1c2VyL3NldEF1dGgnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgdXNlcklkOiBzZWxlY3RlZFJvd3NbMF0udXNlcklkLAogICAgICAgIG1lbnVJZHM6IGRhdGEsCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiB0aGlzLm9uQ2xvc2UsCiAgICB9KTsKICB9OwoKICBhdXRoU3VibWl0Q2FsbGJhY2soKSB7CiAgfQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICp1cGRhdGUoeyBwYXlsb2FkLCBjYWxsYmFjaywgcmVzZXRGb3JtIH0sIHsgY2FsbCB9KSB7CiAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwodXBkYXRlUHJvY2Vzc1R5cGUsIHBheWxvYWQpOwogICAgICBzdWNjZXNzQW5kUmVzZXRmb3JtKHJlc3BvbnNlLCBjYWxsYmFjaywgcmVzZXRGb3JtKTsKICAgIH0s</text>
+      </register>
+      <register name="8" type="4">
         <text>export async function deployProcessByModel(param) {
   return http(Path.flow + '/process/deployModel/'+param.modelId+'/'+param.category, {
     method: 'POST'
   });
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>export async function updateProcessType(param) {
   return http(Path.flow + '/process', {
     method: 'PUT',
@@ -864,52 +883,6 @@
     },
   });
 }</text>
-      </register>
-      <register name="4" type="4">
-        <text>org.flowable.ui.modeler.domain.Model modelData =modelService.getModel(modelId);
-        //获取模型
-        byte[] bytes = modelService.getBpmnXML(modelData);
-
-        if (bytes == null) {
-            return YunzaiReturn.build(false,&quot;模型数据为空，请先设计流程并成功保存，再进行发布。&quot;);
-        }
-        BpmnModel model=modelService.getBpmnModel(modelData);
-        model.setTargetNamespace(category);
-        if(model.getProcesses().size()==0){
-            return YunzaiReturn.build(false, &quot;数据模型不符要求，请至少设计一条主线流程&quot;);
-        }
-        byte[] bpmnBytes = new BpmnXMLConverter().convertToXML(model);
-        //发布流程
-        String processName = modelData.getName() + &quot;.bpmn20.xml&quot;;
-        repositoryService.createDeployment()
-                .name(modelData.getName())
-                .category(category)
-                .addString(processName, new String(bpmnBytes, &quot;UTF-8&quot;))
-                .deploy();</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">TGlzdDxEZXBsb3ltZW50PiBsaXN0ID0gcmVwb3NpdG9yeVNlcnZpY2UuY3JlYXRlRGVwbG95bWVudFF1ZXJ5KCkuZGVwbG95bWVudEtleShrZXkpLmxpc3QoKTsKICAgICAgICBmb3IgKERlcGxveW1lbnQgZGVwbG95bWVudCA6IGxpc3QpIHsKICAgICAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZGVsZXRlRGVwbG95bWVudChkZXBsb3ltZW50LmdldElkKCksdHJ1ZSk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">TW9kZWwgbW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0TW9kZWwoaWQpOwogICAgICAgIEJwbW5Nb2RlbCBicG1uTW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0QnBtbk1vZGVsKG1vZGVsKTsKICAgICAgICBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgZGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yCiAgICAgICAgICAgICAgICA9IG5ldyBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IoKTsKICAgICAgICBMaXN0PFN0cmluZz4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBkZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IuZ2VuZXJhdGVEaWFncmFtKGJwbW5Nb2RlbCwgIlBORyIsIGhpZ2hMaWdodGVkQWN0aXZpdGllcywgdHJ1ZSk7CiAgICAgICAgT3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        selectTreeData: [
-          {
-            key: 'root',
-            title: '系统列表',
-            icon: 'appstore',
-            children: children,
-          },
-        ],
-      }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGMgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgc2VsZWN0VHJlZURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
