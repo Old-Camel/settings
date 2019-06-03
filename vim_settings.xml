@@ -21,11 +21,7 @@
         <mark key="." line="104" column="45" />
         <mark key="^" line="101" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559532018752">
-        <mark key="[" line="126" column="17" />
-        <mark key="]" line="126" column="17" />
-        <mark key="." line="126" column="17" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559546960488" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1558925657091">
         <mark key="[" line="63" column="49" />
       </file>
@@ -63,6 +59,7 @@
       <file name="$USER_HOME$/data/code/form/devServer.js" timestamp="1557279853061">
         <mark key="[" line="4" column="61" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/DeleteProcessInstanceCacadeCmd.java" timestamp="1559544447173" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-app/src/main/resources/flowable-default.properties" timestamp="1555406427230">
         <mark key="[" line="47" column="48" />
       </file>
@@ -246,8 +243,8 @@
         <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1559540225630" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1559531799585">
-        <mark key="[" line="17" column="7" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1559544595231">
+        <mark key="[" line="18" column="97" />
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
       </file>
@@ -282,7 +279,7 @@
         <mark key="[" line="33" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1559185103718" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559543928793">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559546725559">
         <mark key="[" line="867" column="22" />
         <mark key="]" line="867" column="22" />
         <mark key="." line="867" column="22" />
@@ -339,7 +336,7 @@
       <file name="/File Header.txt.ft" timestamp="1553564138271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1558927972569">
+      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1559545129366">
         <mark key="[" line="112" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/flowable/flowable-modeler/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1558597178392">
@@ -362,8 +359,8 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/SchemaField.jsx" timestamp="1558578317115">
         <mark key="[" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1559531834753">
-        <mark key="[" line="24" column="31" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1559546519034">
+        <mark key="[" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/flow-modeler-sduty/src/main/resources/application-dev.properties" timestamp="1555570169734">
         <mark key="[" line="3" column="35" />
@@ -559,7 +556,11 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/RepositoryServiceTest.java" timestamp="1559540954466" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/RepositoryServiceTest.java" timestamp="1559546924568">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/Oauth2TokenService.java" timestamp="1559185724015">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="11" />
@@ -672,8 +673,8 @@
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1559524902537">
-        <mark key="[" line="55" column="17" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1559544291037">
+        <mark key="[" line="87" column="13" />
         <mark key="]" line="96" column="32" />
         <mark key="^" line="96" column="32" />
         <mark key="." line="96" column="32" />
@@ -830,7 +831,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>新建用户</text>
+        <text encoding="base64">ICAgTW9kZWxTZXJ2aWNlIG1vZGVsU2VydmljZTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -838,13 +839,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpOwo=</text>
+      <register name="1" type="4">
+        <text>org.flowable.ui.modeler.domain.Model modelData =modelService.getModel(modelId);
+        //获取模型
+        byte[] bytes = modelService.getBpmnXML(modelData);
+
+        if (bytes == null) {
+            return YunzaiReturn.build(false,&quot;模型数据为空，请先设计流程并成功保存，再进行发布。&quot;);
+        }
+        BpmnModel model=modelService.getBpmnModel(modelData);
+        model.setTargetNamespace(category);
+        if(model.getProcesses().size()==0){
+            return YunzaiReturn.build(false, &quot;数据模型不符要求，请至少设计一条主线流程&quot;);
+        }
+        byte[] bpmnBytes = new BpmnXMLConverter().convertToXML(model);
+        //发布流程
+        String processName = modelData.getName() + &quot;.bpmn20.xml&quot;;
+        repositoryService.createDeployment()
+                .name(modelData.getName())
+                .category(category)
+                .addString(processName, new String(bpmnBytes, &quot;UTF-8&quot;))
+                .deploy();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">TGlzdDxEZXBsb3ltZW50PiBsaXN0ID0gcmVwb3NpdG9yeVNlcnZpY2UuY3JlYXRlRGVwbG95bWVudFF1ZXJ5KCkuZGVwbG95bWVudEtleShrZXkpLmxpc3QoKTsKICAgICAgICBmb3IgKERlcGxveW1lbnQgZGVwbG95bWVudCA6IGxpc3QpIHsKICAgICAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZGVsZXRlRGVwbG95bWVudChkZXBsb3ltZW50LmdldElkKCksdHJ1ZSk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">TW9kZWwgbW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0TW9kZWwoaWQpOwogICAgICAgIEJwbW5Nb2RlbCBicG1uTW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0QnBtbk1vZGVsKG1vZGVsKTsKICAgICAgICBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgZGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yCiAgICAgICAgICAgICAgICA9IG5ldyBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IoKTsKICAgICAgICBMaXN0PFN0cmluZz4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBkZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IuZ2VuZXJhdGVEaWFncmFtKGJwbW5Nb2RlbCwgIlBORyIsIGhpZ2hMaWdodGVkQWN0aXZpdGllcywgdHJ1ZSk7CiAgICAgICAgT3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>{
         selectTreeData: [
           {
@@ -856,26 +885,17 @@
         ],
       }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGMgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgc2VsZWN0VHJlZURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBhdXRoU3VibWl0Q2FsbGJhY2soKSB7CiAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBjaGlsZHJlbi5sZW5ndGggPiAwICYmCiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHNlbGVjdFRyZWVEYXRhOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIGtleTogJ3Jvb3QnLAogICAgICAgICAgICB0aXRsZTogJ+ezu+e7n+WIl+ihqCcsCiAgICAgICAgICAgIGljb246ICdhcHBzdG9yZScsCiAgICAgICAgICAgIGNoaWxkcmVuOiBjaGlsZHJlbiwKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzZWxlY3RUcmVlRGF0YTogbnVsbCwKICAgICAgfSk7CiAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i5pWZ5bel5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ3VzZXJDb2RlJykoPElucHV0Lz4pfTwvRm9ybUl0ZW0+CiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i55m75b2V6LSm5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ2FjY291bnQnKSg8SW5wdXQvPil9PC9Gb3JtSXRlbT4KICAgICAgICAgIDwvQ29sPg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICA8TW9kYWxGb3JtCiAgICAgICAgICB7Li4ucGFyZW50TWV0aG9kc30KICAgICAgICAgIG1vZGFsVmlzaWJsZT17bW9kYWxWaXNpYmxlfQogICAgICAgICAgcmVjb3JkPXttb2RhbFZhbHVlfQogICAgICAgICAgbW9kYWxUaXRsZT17bW9kYWxUaXRsZX0KICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9CiAgICAgICAgICBzZWxlY3RlZEtleT17c2VsZWN0ZWRSb3dLZXlzWzBdfQogICAgICAgIC8+</text>
+        <text encoding="base64">IDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i5pWZ5bel5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ3VzZXJDb2RlJykoPElucHV0Lz4pfTwvRm9ybUl0ZW0+CiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i55m75b2V6LSm5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ2FjY291bnQnKSg8SW5wdXQvPil9PC9Gb3JtSXRlbT4KICAgICAgICAgIDwvQ29sPg==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
