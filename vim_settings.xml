@@ -21,8 +21,8 @@
         <mark key="." line="104" column="45" />
         <mark key="^" line="101" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559525858414">
-        <mark key="[" line="53" column="18" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559527736015">
+        <mark key="[" line="83" column="61" />
         <mark key="]" line="53" column="34" />
         <mark key="." line="53" column="18" />
       </file>
@@ -237,7 +237,7 @@
         <mark key="[" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/toolbar-controller.js" timestamp="1559183960103" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559524586294">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559526371262">
         <mark key="'" line="80" column="18" />
         <mark key="[" line="134" column="40" />
         <mark key="]" line="134" column="40" />
@@ -422,12 +422,6 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/entity/Score.java" timestamp="1554711050091">
         <mark key="[" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ActProcessTypeServiceImpl.java" timestamp="1559296291198">
-        <mark key="'" line="80" column="10" />
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="47" column="52" />
-        <mark key="." line="47" column="52" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/Panel.java" timestamp="1553594186919">
         <mark key="[" line="36" column="25" />
       </file>
@@ -476,6 +470,9 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/SeparateAdmissionsApplication.java" timestamp="1554713604332">
         <mark key="[" line="49" column="73" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/sql/init.sql" timestamp="1559528038304">
+        <mark key="[" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/java/com/yunzainfo/separateadmissions/service/impl/SortItemServiceImpl.java" timestamp="1553222623668">
         <mark key="[" line="97" column="127" />
       </file>
@@ -487,6 +484,11 @@
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1558688764068">
         <mark key="[" line="23" column="38" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559526395425">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar.js" timestamp="1559207178039">
         <mark key="[" line="176" column="9" />
@@ -528,11 +530,11 @@
       <file name="$USER_HOME$/data/code/kubernetes-client/kubernetes-model/kubernetes-model/pom.xml" timestamp="1555379953775">
         <mark key="[" line="229" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1559522793572">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="11" column="9" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1559526745816">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-idm-engine/6.4.1/flowable-idm-engine-6.4.1.jar!/org/flowable/idm/engine/impl/persistence/entity/UserEntityImpl.class" timestamp="1559119215663" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/ResourceServerConfiguration.java" timestamp="1554186426726">
@@ -548,6 +550,9 @@
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Editor/JsonEditor.jsx" timestamp="1557978120175">
         <mark key="[" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1559527687579">
+        <mark key="[" line="119" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.1/mybatis-spring-2.0.1.jar!/org/mybatis/spring/SqlSessionFactoryBean.class" timestamp="1559290173283" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Dashboard/ShowCaseLayout.js" timestamp="1553067432451">
@@ -782,7 +787,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>resetForm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -791,38 +796,40 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICA8T3B0aW9uIHZhbHVlPSJqYWNrIj5KYWNrPC9PcHRpb24+CiAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Imx1Y3kiPkx1Y3k8L09wdGlvbj4KICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0idG9tIj5Ub208L09wdGlvbj4=</text>
+        <text>body: {
+      ...param,
+    },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IG9uQ2hhbmdlPXtvbkNoYW5nZX0KICAgICAgICAgICAgb25Gb2N1cz17b25Gb2N1c30KICAgICAgICAgICAgb25CbHVyPXtvbkJsdXJ9</text>
+        <text encoding="base64">CgogICAgICAgICAgICA8T3B0aW9uIHZhbHVlPSJqYWNrIj5KYWNrPC9PcHRpb24+CiAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Imx1Y3kiPkx1Y3k8L09wdGlvbj4KICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0idG9tIj5Ub208L09wdGlvbj4=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IG9uQ2hhbmdlPXtvbkNoYW5nZX0KICAgICAgICAgICAgb25Gb2N1cz17b25Gb2N1c30KICAgICAgICAgICAgb25CbHVyPXtvbkJsdXJ9</text>
+      </register>
+      <register name="4" type="4">
         <text>{
     method: 'DELETE',
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2Zvcm0vZmV0Y2hSb2xlVXNlcnMnLAogICAgICBwYXlsb2FkOiByb3dzWzBdLmlkCiAgICB9KQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8vQEJlYW4KICAgIC8vcHVibGljIERhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIgZGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlcihEYXRhU291cmNlIGRhdGFTb3VyY2UpewogICAgLy8gICAgRGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlciBkYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyID0gbmV3IERhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIoZGF0YVNvdXJjZSk7CiAgICAvLyAgICByZXR1cm4gZGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlcjsKICAgIC8vfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBQYXRoTWF0Y2hpbmdSZXNvdXJjZVBhdHRlcm5SZXNvbHZlcigpLmdldFJlc291cmNlKCJjbGFzc3BhdGg6bXliYXRpcy9teWJhdGlzLWNvbmZpZy54bWwiKTsKICAgICAgICAgICAgc3FsU2Vzc2lvbkZhY3RvcnlCZWFuLnNldENvbmZpZ0xvY2F0aW9uKHJlc291cmNlKTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGhhbmRsZVNlbGVjdFJvd3MgPSByb3dzID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzZWxlY3RlZFJvd3M6IHJvd3MsCiAgICAgIHNlYXJjaFVzZXJUZXh0OiAnJywKICAgICAgc2VhcmNoRGVwdFRleHQ6ICcnLAogICAgfSk7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2Zvcm0vZmV0Y2hSb2xlVXNlcnMnLAogICAgICBwYXlsb2FkOiByb3dzWzBdLmlkCiAgICB9KQogIH07</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if(age!=null){
             criteria.andAgeEqualTo(age);
         }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyI+CiAgICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWhlYWRlci13cmFwcGVyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWhlYWRlciI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJhY3Rpb24iIG5nLWNsaWNrPSJjYW5jZWwoKSI+JnRpbWVzOyB7eydHRU5FUkFMLkFDVElPTi5DQU5DRUwnIHwgdHJhbnNsYXRlfX08L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGgyPnt7J1BST0NFU1MuUE9QVVAuSU1QT1JULVRJVExFJyB8IHRyYW5zbGF0ZX19PC9oMj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtYm9keSI+CgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24taW5mby1zaWduIj48L2k+CiAgICAgICAgICAgICAgICAgICAge3snUFJPQ0VTUy5QT1BVUC5JTVBPUlQtREVTQ1JJUFRJT04nIHwgdHJhbnNsYXRlfX0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwhLS1baWYgSUUgOV0+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW1wb3J0LXByb2Nlc3MtZm9ybSI+CgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBuZ2Ytc2VsZWN0PSIiIG5nZi1jaGFuZ2U9Im9uRmlsZVNlbGVjdCgkZmlsZXMsIHRydWUpIiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbGVyOyBwYWRkaW5nLXRvcDo2cHg7IiA+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW1wb3J0LXByb2Nlc3MtZHJvcGJveCIKICAgICAgICAgICAgICAgICAgICAgICAgIG5nZi1kcm9wPSJvbkZpbGVTZWxlY3QoJGZpbGVzKSIKICAgICAgICAgICAgICAgICAgICAgICAgIG5nZi1kcmFnLW92ZXItY2xhc3M9ImRyYWdvdmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgbmctc2hvdz0iZHJvcFN1cHBvcnRlZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7J1BST0NFU1MuUE9QVVAuSU1QT1JULkRST1BaT05FJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBuZ2YtZHJvcC1hdmFpbGFibGU9ImRyb3BTdXBwb3J0ZWQ9dHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgIG5nLXNob3c9IiFkcm9wU3VwcG9ydGVkIj57eydQUk9DRVNTLlBPUFVQLklNUE9SVC5OTy1EUk9QJyB8IHRyYW5zbGF0ZX19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JhcGgtd3JhcHBlciIgbmctc2hvdz0ic3RhdHVzLmxvYWRpbmciIHN0eWxlPSJtYXJnaW46IDEwcHggMCAxMHB4IDAiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmFwaC1iYXIiIG5nLXN0eWxlPSJ7d2lkdGg6IG1vZGVsLnVwbG9hZFByb2dyZXNzICsgJyUnfSI+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kYW5nZXIgYnRuLXNtIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctY2xpY2s9InVwbG9hZC5hYm9ydCgpIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctZGlzYWJsZWQ9IiFzdGF0dXMubG9hZGluZyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAyMHB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAge3snUFJPQ0VTUy5QT1BVUC5JTVBPUlQuQ0FOQ0VMLVVQTE9BRCcgfCB0cmFuc2xhdGV9fQogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgoKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPCFbZW5kaWZdLS0+CiAgICAgICAgICAgICAgICA8IS0tW2lmIGd0IElFIDldPiA8IS0tIC0tPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW1wb3J0LXByb2Nlc3MtZm9ybSI+CgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBuZ2Ytc2VsZWN0PSIiIG5nZi1jaGFuZ2U9Im9uRmlsZVNlbGVjdCgkZmlsZXMpIiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbGVyOyBwYWRkaW5nLXRvcDo2cHg7IiA+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW1wb3J0LXByb2Nlc3MtZHJvcGJveCIKICAgICAgICAgICAgICAgICAgICAgICAgIG5nZi1kcm9wIG5nZi1jaGFuZ2U9Im9uRmlsZVNlbGVjdCgkZmlsZXMpIgogICAgICAgICAgICAgICAgICAgICAgICAgbmdmLWRyYWctb3Zlci1jbGFzcz0iZHJhZ292ZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICBuZy1zaG93PSJkcm9wU3VwcG9ydGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAge3snUFJPQ0VTUy5QT1BVUC5JTVBPUlQuRFJPUFpPTkUnIHwgdHJhbnNsYXRlfX0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IG5nZi1kcm9wLWF2YWlsYWJsZT0iZHJvcFN1cHBvcnRlZD10cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgbmctc2hvdz0iIWRyb3BTdXBwb3J0ZWQiPnt7J1BST0NFU1MuUE9QVVAuSU1QT1JULk5PLURST1AnIHwgdHJhbnNsYXRlfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmFwaC13cmFwcGVyIiBuZy1zaG93PSJzdGF0dXMubG9hZGluZyIgc3R5bGU9Im1hcmdpbjogMTBweCAwIDEwcHggMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyYXBoLWJhciIgbmctc3R5bGU9Int3aWR0aDogbW9kZWwudXBsb2FkUHJvZ3Jlc3MgKyAnJSd9Ij48L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRhbmdlciBidG4tc20iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGljaz0idXBsb2FkLmFib3J0KCkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1kaXNhYmxlZD0iIXN0YXR1cy5sb2FkaW5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDIwcHgiPgogICAgICAgICAgICAgICAgICAgICAgICB7eydQUk9DRVNTLlBPUFVQLklNUE9SVC5DQU5DRUwtVVBMT0FEJyB8IHRyYW5zbGF0ZX19CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8IS0tIDwhW2VuZGlmXS0tPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWZvb3Rlci13cmFwcGVyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWZvb3RlciI+CiAgICAgICAgICAgICAgICAgICAgPGxvYWRpbmc+PC9sb2FkaW5nPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InB1bGwtcmlnaHQgbW9kZWxlci1wcm9jZXNzZXMtZXJyb3IiIG5nLWlmPSJtb2RlbC5lcnJvciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7J1BST0NFU1MuUE9QVVAuSU1QT1JULkVSUk9SJyB8IHRyYW5zbGF0ZX19IDxzcGFuIG5nLWlmPSJtb2RlbC5lcnJvck1lc3NhZ2UiPiA6IDwvc3Bhbj57e21vZGVsLmVycm9yTWVzc2FnZX19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
