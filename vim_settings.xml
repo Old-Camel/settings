@@ -21,7 +21,11 @@
         <mark key="." line="104" column="45" />
         <mark key="^" line="101" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559546960488" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559551061127">
+        <mark key="[" line="239" column="14" />
+        <mark key="]" line="239" column="14" />
+        <mark key="." line="239" column="14" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1558925657091">
         <mark key="[" line="63" column="49" />
       </file>
@@ -242,7 +246,7 @@
       <file name="$USER_HOME$/data/功能设计/工作流文档/form/src/main/resources/properties/config.properties" timestamp="1557301320082">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1559540225630" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1559550153038" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1559544595231">
         <mark key="[" line="18" column="97" />
         <mark key="]" line="17" column="7" />
@@ -252,7 +256,7 @@
         <mark key="[" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/toolbar-controller.js" timestamp="1559183960103" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559550083544">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559550337634">
         <mark key="'" line="80" column="18" />
         <mark key="[" line="134" column="40" />
         <mark key="]" line="134" column="40" />
@@ -279,11 +283,11 @@
         <mark key="[" line="33" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/grpcservice/SystemLogService.java" timestamp="1559185103718" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559550112547">
-        <mark key="[" line="881" column="22" />
-        <mark key="]" line="881" column="22" />
-        <mark key="." line="881" column="22" />
-        <mark key="^" line="680" column="13" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Process.js" timestamp="1559552325914">
+        <mark key="[" line="136" column="23" />
+        <mark key="]" line="136" column="23" />
+        <mark key="." line="136" column="23" />
+        <mark key="^" line="433" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/common/Entity.proto" timestamp="1559184744970" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/ModelsResource.java" timestamp="1559117242461" />
@@ -361,6 +365,11 @@
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1559546519034">
         <mark key="[" line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1559551163913">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/flow-modeler-sduty/src/main/resources/application-dev.properties" timestamp="1555570169734">
         <mark key="[" line="3" column="35" />
@@ -514,10 +523,10 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1558688764068">
         <mark key="[" line="23" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559540395254">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559551261199">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar.js" timestamp="1559207178039">
         <mark key="[" line="176" column="9" />
@@ -600,12 +609,12 @@
       <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/mapper/ScoreMapper.xml" timestamp="1553223070727">
         <mark key="[" line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/process.js" timestamp="1559543248896">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/process.js" timestamp="1559551280001">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1559540216574">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1559551348061">
         <mark key="'" line="136" column="15" />
         <mark key="[" line="264" column="2" />
         <mark key="]" line="265" column="3" />
@@ -667,7 +676,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/resources/flowable-default.properties" timestamp="1555482450193">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1559544291037">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1559550526216">
         <mark key="[" line="87" column="13" />
         <mark key="]" line="96" column="32" />
         <mark key="^" line="96" column="32" />
@@ -825,7 +834,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgTW9kZWxTZXJ2aWNlIG1vZGVsU2VydmljZTs=</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -834,6 +843,29 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICp1cGRhdGUoeyBwYXlsb2FkLCBjYWxsYmFjaywgcmVzZXRGb3JtIH0sIHsgY2FsbCB9KSB7CiAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwodXBkYXRlUHJvY2Vzc1R5cGUsIHBheWxvYWQpOwogICAgICBzdWNjZXNzQW5kUmVzZXRmb3JtKHJlc3BvbnNlLCBjYWxsYmFjaywgcmVzZXRGb3JtKTsKICAgIH0s</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>export async function deployProcessByModel(param) {
+  return http(Path.flow + '/process/deployModel/'+param.modelId+'/'+param.category, {
+    method: 'POST'
+  });
+}</text>
+      </register>
+      <register name="3" type="4">
+        <text>export async function updateProcessType(param) {
+  return http(Path.flow + '/process', {
+    method: 'PUT',
+    body: {
+      ...param,
+    },
+  });
+}</text>
+      </register>
+      <register name="4" type="4">
         <text>org.flowable.ui.modeler.domain.Model modelData =modelService.getModel(modelId);
         //获取模型
         byte[] bytes = modelService.getBpmnXML(modelData);
@@ -855,19 +887,16 @@
                 .addString(processName, new String(bpmnBytes, &quot;UTF-8&quot;))
                 .deploy();</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">TGlzdDxEZXBsb3ltZW50PiBsaXN0ID0gcmVwb3NpdG9yeVNlcnZpY2UuY3JlYXRlRGVwbG95bWVudFF1ZXJ5KCkuZGVwbG95bWVudEtleShrZXkpLmxpc3QoKTsKICAgICAgICBmb3IgKERlcGxveW1lbnQgZGVwbG95bWVudCA6IGxpc3QpIHsKICAgICAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZGVsZXRlRGVwbG95bWVudChkZXBsb3ltZW50LmdldElkKCksdHJ1ZSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">TW9kZWwgbW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0TW9kZWwoaWQpOwogICAgICAgIEJwbW5Nb2RlbCBicG1uTW9kZWwgPSBtb2RlbFNlcnZpY2UuZ2V0QnBtbk1vZGVsKG1vZGVsKTsKICAgICAgICBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgZGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yCiAgICAgICAgICAgICAgICA9IG5ldyBEZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IoKTsKICAgICAgICBMaXN0PFN0cmluZz4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBkZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IuZ2VuZXJhdGVEaWFncmFtKGJwbW5Nb2RlbCwgIlBORyIsIGhpZ2hMaWdodGVkQWN0aXZpdGllcywgdHJ1ZSk7CiAgICAgICAgT3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>{
         selectTreeData: [
           {
@@ -879,17 +908,8 @@
         ],
       }</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGMgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgc2VsZWN0VHJlZURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBhdXRoU3VibWl0Q2FsbGJhY2soKSB7CiAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBjaGlsZHJlbi5sZW5ndGggPiAwICYmCiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHNlbGVjdFRyZWVEYXRhOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIGtleTogJ3Jvb3QnLAogICAgICAgICAgICB0aXRsZTogJ+ezu+e7n+WIl+ihqCcsCiAgICAgICAgICAgIGljb246ICdhcHBzdG9yZScsCiAgICAgICAgICAgIGNoaWxkcmVuOiBjaGlsZHJlbiwKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzZWxlY3RUcmVlRGF0YTogbnVsbCwKICAgICAgfSk7CiAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i5pWZ5bel5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ3VzZXJDb2RlJykoPElucHV0Lz4pfTwvRm9ybUl0ZW0+CiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgbWQ9ezZ9IHNtPXsxOH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i55m75b2V6LSm5Y+3Ij57Z2V0RmllbGREZWNvcmF0b3IoJ2FjY291bnQnKSg8SW5wdXQvPil9PC9Gb3JtSXRlbT4KICAgICAgICAgIDwvQ29sPg==</text>
+        <text encoding="base64">IGMgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgc2VsZWN0VHJlZURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
