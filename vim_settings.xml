@@ -6,6 +6,13 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1559545129366">
         <mark key="[" line="112" column="66" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559618883771">
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="59" column="10" />
+        <mark key="." line="67" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/controllers/process.js" timestamp="1559618463504" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomRemoteIdmServiceImpl.java" timestamp="1559614183010">
         <mark key="[" line="41" column="3" />
       </file>
@@ -50,12 +57,13 @@
         <mark key="[" line="1111" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-rest/src/main/java/org/flowable/ui/idm/rest/api/ApiGroupsResource.java" timestamp="1559613913010" />
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/token.js" timestamp="1559618027942" />
+      <file name="$USER_HOME$/data/code/react-auth/src/utils/token.js" timestamp="1559618748431" />
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190530.031041-167.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1559617729666" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ActProcessType.java" timestamp="1559295652063">
         <mark key="[" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/EditorGroupsResource.java" timestamp="1559611380881" />
+      <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/IfamePanel.js" timestamp="1559619660673" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/security/Http401UnauthorizedEntryPoint.java" timestamp="1559616795697" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.12.RELEASE/spring-context-5.0.12.RELEASE.jar!/org/springframework/context/annotation/FilterType.class" timestamp="1559613269717" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1559559118960">
@@ -90,17 +98,17 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app.js" timestamp="1559618034839">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="50" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app.js" timestamp="1559618770900">
+        <mark key="[" line="186" column="46" />
+        <mark key="]" line="186" column="46" />
+        <mark key="." line="186" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559559199702">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559620401507">
         <mark key="'" line="80" column="18" />
-        <mark key="[" line="134" column="40" />
-        <mark key="]" line="134" column="40" />
+        <mark key="[" line="567" column="114" />
+        <mark key="]" line="567" column="114" />
         <mark key="^" line="11" column="9" />
-        <mark key="." line="134" column="40" />
+        <mark key="." line="567" column="114" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1559527687579">
         <mark key="[" line="119" column="6" />
@@ -259,7 +267,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>RedisConfiguration</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
