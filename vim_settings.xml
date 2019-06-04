@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1559545129366">
-        <mark key="[" line="112" column="66" />
-      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" timestamp="1559618883771">
         <mark key="[" line="67" column="17" />
         <mark key="]" line="67" column="17" />
@@ -13,8 +10,8 @@
         <mark key="." line="67" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/controllers/process.js" timestamp="1559618463504" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomRemoteIdmServiceImpl.java" timestamp="1559614183010">
-        <mark key="[" line="41" column="3" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomRemoteIdmServiceImpl.java" timestamp="1559629342006">
+        <mark key="[" line="95" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-idm-rest/6.4.1/flowable-ui-idm-rest-6.4.1.jar!/org/flowable/ui/idm/rest/api/ApiGroupsResource.class" timestamp="1559613931614" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1559617884999">
@@ -23,45 +20,26 @@
         <mark key="." line="151" column="32" />
         <mark key="^" line="151" column="32" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableControllerAdvice.java" timestamp="1559117331601">
-        <mark key="[" line="26" column="9" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/web/CustomFormLoginConfig.java" timestamp="1559616606447" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1559557930005">
         <mark key="[" line="46" column="73" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/RemoteAccountController.java" timestamp="1559615306747" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/XcDataSource.java" timestamp="1559289620237">
-        <mark key="[" line="22" column="3" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/RemoteAccountController.java" timestamp="1559628491304">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="6" />
+        <mark key="." line="44" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/web/CustomUsernamePasswordAuthenticationFilter.java" timestamp="1559616590651" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/configuration/url-config.js" timestamp="1559617959600" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ResourceServerConfig.java" timestamp="1559616134554">
-        <mark key="[" line="21" column="50" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/security/CustomLdapAuthenticationProvider.java" timestamp="1559614237486" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/conf/SecurityConfiguration.java" timestamp="1559616622921" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-common/6.4.1/flowable-ui-common-6.4.1.jar!/org/flowable/ui/common/service/idm/RemoteIdmServiceImpl.class" timestamp="1559611785718" />
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1559297433010">
-        <mark key="[" line="102" column="34" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/conf/ApplicationConfiguration.java" timestamp="1559617572437" />
-      <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1559124579806">
-        <mark key="[" line="223" column="26" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-logic/src/main/java/org/flowable/ui/idm/properties/FlowableIdmAppProperties.java" timestamp="1559617316643" />
-      <file name="$USER_HOME$/data/code/separateadmissions/src/main/resources/application.yaml" timestamp="1559269880559">
-        <mark key="[" line="36" column="15" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/css/style.css" timestamp="1559207869636">
-        <mark key="[" line="1111" column="13" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-rest/src/main/java/org/flowable/ui/idm/rest/api/ApiGroupsResource.java" timestamp="1559613913010" />
       <file name="$USER_HOME$/data/code/react-auth/src/utils/token.js" timestamp="1559618748431" />
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190530.031041-167.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1559617729666" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ActProcessType.java" timestamp="1559295652063">
-        <mark key="[" line="21" column="26" />
-      </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/ChartPanel.js" timestamp="1559627821695" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-modeler/flowable-ui-modeler-rest/src/main/java/org/flowable/ui/modeler/rest/app/EditorGroupsResource.java" timestamp="1559611380881" />
       <file name="$USER_HOME$/data/code/react-auth/src/components/Panel/IfamePanel.js" timestamp="1559619660673" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-conf/src/main/java/org/flowable/ui/idm/security/Http401UnauthorizedEntryPoint.java" timestamp="1559616795697" />
@@ -72,12 +50,6 @@
         <mark key="." line="27" column="53" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-common/src/main/java/org/flowable/ui/common/service/idm/RemoteIdmServiceImpl.java" timestamp="1559612261694" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/toolbar.js" timestamp="1559207178039">
-        <mark key="[" line="176" column="9" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/Modeler.js" timestamp="1559095155250">
-        <mark key="[" line="7" column="153" />
-      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1559610395185">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="16" />
@@ -98,20 +70,17 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app.js" timestamp="1559626923901">
-        <mark key="[" line="186" column="46" />
-        <mark key="]" line="186" column="46" />
-        <mark key="." line="186" column="46" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app.js" timestamp="1559628996141">
+        <mark key="[" line="335" column="24" />
+        <mark key="]" line="335" column="24" />
+        <mark key="." line="335" column="24" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559626613631">
-        <mark key="'" line="80" column="18" />
-        <mark key="[" line="202" column="4" />
-        <mark key="]" line="202" column="4" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1559629156904">
+        <mark key="'" line="81" column="18" />
+        <mark key="[" line="203" column="4" />
+        <mark key="]" line="203" column="4" />
         <mark key="^" line="11" column="9" />
-        <mark key="." line="202" column="4" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1559527687579">
-        <mark key="[" line="119" column="6" />
+        <mark key="." line="203" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/process.js" timestamp="1559559376826">
         <mark key="[" line="21" column="12" />
@@ -147,9 +116,6 @@
         <mark key="." line="96" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-ui-idm/flowable-ui-idm-rest/pom.xml" timestamp="1559616518280" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1559525829110">
-        <mark key="[" line="45" column="85" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="149" column="18" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/UserInfo.js" />
@@ -267,7 +233,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>window.location.search.substr(1).match(reg);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -276,6 +242,12 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICBMaXN0PFByb2Nlc3NEZWZpbml0aW9uPiBsaXN0ID0gcmVwb3NpdG9yeVNlcnZpY2UuY3JlYXRlTmF0aXZlUHJvY2Vzc0RlZmluaXRpb25RdWVyeSgpCiAgICAgICAgICAgICAgICAuc3FsKCJzZWxlY3QgKiBmcm9tIEFDVF9SRV9QUk9DREVGIikubGlzdCgpOwogICAgICAgIGZvciAoUHJvY2Vzc0RlZmluaXRpb24gcHJvY2Vzc0RlZmluaXRpb24gOiBsaXN0KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwcm9jZXNzRGVmaW5pdGlvbi5nZXRJZCgpKTsKICAgICAgICB9</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>for (;;){
       var a= document.getElementById('editorIframe');
       if(a!=null){
@@ -284,32 +256,26 @@
       }
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgcHVibGljIFN0cmluZyBnZXRQcm9jZXNzQ2F0ZWdvcnlLZXkoKSB7CiAgICAgICAgcmV0dXJuIHByb2Nlc3NDYXRlZ29yeUtleTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQcm9jZXNzQ2F0ZWdvcnlLZXkoU3RyaW5nIHByb2Nlc3NDYXRlZ29yeUtleSkgewogICAgICAgIHRoaXMucHJvY2Vzc0NhdGVnb3J5S2V5ID0gcHJvY2Vzc0NhdGVnb3J5S2V5OwogICAgfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PGlmIHRlc3Q9InVuY2xhc3NpZmllZCI+CgkJCWFuZCAgY2lkIGlzIG51bGwKCQk8L2lmPg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGlmIChyZWNvcmQpIHsKICAgICAgICBmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdmaWxlJywgewogICAgICAgICAgaW5pdGlhbFZhbHVlOiAnJywKICAgICAgICB9KTsKICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgaGFuZGxlTW9kYWxFZGl0ID0gKGZsYWcsIHNlbGVjdGVkUm93cykgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVmlzaWJsZTogISFmbGFnLAogICAgICBtb2RhbFZhbHVlOiBzZWxlY3RlZFJvd3NbMF0sCiAgICAgIG1vZGFsVGl0bGU6ICfnvJbovpHnlKjmiLcnLAogICAgfSk7CiAgfTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBvbk1lbnVDaGFuZ2UgPSAodiwgZSkgPT4gewogICAgY29uc3Qge2F1dGhUcmVlfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB2YWx1ZSA9IHYudHJpbSgpOwogICAgaWYgKHZhbHVlLnRyaW0oKS5sZW5ndGggPiAwKSB7CiAgICAgIGxldCBjaGlsZHJlbiA9IGF1dGhUcmVlLmZpbHRlcihpdGVtID0+IHsKICAgICAgICByZXR1cm4gaXRlbS50aXRsZS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKHZhbHVlLnRvTG93ZXJDYXNlKCkpOwogICAgICB9KTsKICAgICAgY2hpbGRyZW4ubGVuZ3RoID4gMCAmJgogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzZWxlY3RTeXN0ZW1EYXRhOiBjaGlsZHJlbgogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHNlbGVjdFN5c3RlbURhdGE6IG51bGwsCiAgICAgIH0pOwogICAgfQogIH07</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBoYW5kbGVJdGVtQ2xpY2sgPSAoZSwgZGF0YSkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlSXRlbTogZGF0YS5uYW1lLCBjaGlsZHJlbkRyYXdlcjogdHJ1ZX0pOwogIH07CiAgc2hvd0RyYXdlciA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkcmF3ZXJWaXNpYmxlOiB0cnVlLAogICAgfSk7CiAgfTsKIAogIG9uQ2xvc2UgPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZHJhd2VyVmlzaWJsZTogZmFsc2UsCiAgICAgIGF1dGhXaWxsU3VibWl0OiBudWxsLAogICAgfSk7CiAgfTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHNldEF1dGggPSAoKSA9PiB7CiAgICBjb25zdCB7c2VsZWN0ZWRSb3dzfSA9IHRoaXMuc3RhdGU7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3VzZXIvZmV0Y2hBdXRoJywKICAgICAgcGF5bG9hZDogc2VsZWN0ZWRSb3dzWzBdLnVzZXJJZCwKICAgICAgY2FsbGJhY2s6IHRoaXMuc2hvd0RyYXdlciwKICAgIH0pOwogIH07</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHNob3dDaGlsZHJlbkRyYXdlciA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjaGlsZHJlbkRyYXdlcjogdHJ1ZSwKICAgIH0pOwogIH07CgogIG9uQ2hpbGRyZW5EcmF3ZXJDbG9zZSA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjaGlsZHJlbkRyYXdlcjogZmFsc2UsCiAgICB9KTsKICB9OwoKICBoYW5kbGVBdXRoQ2hhbmdlID0gKGtleSwgYXV0aHMpID0+IHsKICAgIGNvbnN0IHthdXRoV2lsbFN1Ym1pdCwgcmVmcmVzaH0gPSB0aGlzLnN0YXRlOwogICAgaWYgKCFhdXRoV2lsbFN1Ym1pdCkgewogICAgICBsZXQgZGF0YSA9IHRoaXMucHJvcHMuYXV0aFdpbGxDaGVjazsKICAgICAgZGF0YVtrZXldID0gYXV0aHM7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGF1dGhXaWxsU3VibWl0OiBkYXRhLAogICAgICAgIHJlZnJlc2g6ICFyZWZyZXNoLAogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIGxldCBkYXRhID0gYXV0aFdpbGxTdWJtaXQ7CiAgICAgIGRhdGFba2V5XSA9IGF1dGhzOwogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBhdXRoV2lsbFN1Ym1pdDogZGF0YSwKICAgICAgICByZWZyZXNoOiAhcmVmcmVzaCwKICAgICAgfSk7CiAgICB9CiAgfTsKICBhdXRoU3VibWl0ID0gKCkgPT4gewogICAgY29uc3Qge2F1dGhXaWxsU3VibWl0LCBzZWxlY3RlZFJvd3N9ID0gdGhpcy5zdGF0ZTsKICAgIGNvbnN0IHtkaXNwYXRjaCwgYXV0aFdpbGxDaGVja30gPSB0aGlzLnByb3BzOwogICAgbGV0IGRhdGEgPSBbXTsKICAgIGxldCBzdWJtaXQgPSBudWxsOwogICAgaWYgKCFhdXRoV2lsbFN1Ym1pdCkgewogICAgICBzdWJtaXQgPSBhdXRoV2lsbENoZWNrOwogICAgfSBlbHNlIHsKICAgICAgc3VibWl0ID0gYXV0aFdpbGxTdWJtaXQ7CiAgICB9CiAgICBPYmplY3Qua2V5cyhzdWJtaXQpLmZvckVhY2goaXRlbSA9PiB7CiAgICAgIGRhdGEgPSBkYXRhLmNvbmNhdChzdWJtaXRbaXRlbV0pOwogICAgfSk7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd1c2VyL3NldEF1dGgnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgdXNlcklkOiBzZWxlY3RlZFJvd3NbMF0udXNlcklkLAogICAgICAgIG1lbnVJZHM6IGRhdGEsCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiB0aGlzLm9uQ2xvc2UsCiAgICB9KTsKICB9OwoKICBhdXRoU3VibWl0Q2FsbGJhY2soKSB7CiAgfQ==</text>
+        <text encoding="base64">IHNldEF1dGggPSAoKSA9PiB7CiAgICBjb25zdCB7c2VsZWN0ZWRSb3dzfSA9IHRoaXMuc3RhdGU7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3VzZXIvZmV0Y2hBdXRoJywKICAgICAgcGF5bG9hZDogc2VsZWN0ZWRSb3dzWzBdLnVzZXJJZCwKICAgICAgY2FsbGJhY2s6IHRoaXMuc2hvd0RyYXdlciwKICAgIH0pOwogIH07</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
