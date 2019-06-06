@@ -21,6 +21,7 @@
         <mark key="." line="151" column="32" />
         <mark key="^" line="151" column="32" />
       </file>
+      <file name="/router.config.js" timestamp="1559807589875" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-engine/src/main/java/org/flowable/engine/TaskService.java" timestamp="1559732273169" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/YzTaskServiceImpl.java" timestamp="1559723504169">
         <mark key="[" line="96" column="41" />
@@ -72,6 +73,12 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/mapper/ProcessDefMapper.java" timestamp="1559723686409" />
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/resources/mybatis/mapper/shareniu/TaskDao.xml" timestamp="1559789739499" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-task-service/src/main/java/org/flowable/task/service/impl/persistence/entity/AbstractEntityManager.java" timestamp="1559732518154" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Form.jsx" timestamp="1559808226013">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/Downloads/JSite/jsite-flowable/src/main/java/com/jsite/modules/flowable/service/FlowTaskService.java" timestamp="1559800188041">
         <mark key="[" line="454" column="25" />
         <mark key="]" line="454" column="25" />
@@ -114,10 +121,10 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1559804775010">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="36" />
-        <mark key="." line="51" column="36" />
+      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1559808184632">
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/Todo.js" timestamp="1559789059439">
         <mark key="[" line="311" column="16" />
@@ -273,7 +280,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -282,57 +289,34 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICB7CiAgICAgICAgdGl0bGU6ICflvZPliY3oioLngrknLAogICAgICAgIGRhdGFJbmRleDogJ2xhc3RUYXNrTmFtZScKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5rWB56iL55Sz6K+35pe26Ze0JywKICAgICAgICBkYXRhSW5kZXg6ICdhcHBseVRpbWUnLAogICAgICAgIHJlbmRlcjogdmFsID0+ICh2YWwgPyA8c3Bhbj57bW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tJyl9PC9zcGFuPiA6ICcnKSwKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5rWB56iL57uT5p2f5pe26Ze0JywKICAgICAgICBkYXRhSW5kZXg6ICdzdG9wVGltZScsCiAgICAgICAgcmVuZGVyOiB2YWwgPT4gKHZhbCA/IDxzcGFuPnttb21lbnQodmFsKS5mb3JtYXQoJ1lZWVktTU0tREQgSEg6bW0nKX08L3NwYW4+IDogJ+acque7k+adnycpLAogICAgICB9</text>
+        <text encoding="base64">ICA8U2lkZXIKICAgICAgICAgIHRyaWdnZXI9e251bGx9CiAgICAgICAgICBjb2xsYXBzaWJsZQogICAgICAgICAgY29sbGFwc2VkPXt0aGlzLnN0YXRlLmNvbGxhcHNlZH0KICAgICAgICAgIHdpZHRoPXtzZXR0aW5ncy5sZWZ0U2lkZXJXaWR0aH0KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjZmZmJywKICAgICAgICAgICAgcGFkZGluZzogMCwKICAgICAgICAgICAgb3ZlcmZsb3c6ICdhdXRvJywKICAgICAgICAgICAgYm94U2hhZG93OiAnMCAycHggM3B4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDJweCAzcHggMCByZ2JhKDAsIDAsIDAsIDAuMiknLAogICAgICAgICAgICBoZWlnaHQ6ICcxMDB2aCcsCiAgICAgICAgICAgIHBvc2l0aW9uOiAnZml4ZWQnLAogICAgICAgICAgICBsZWZ0OiAwLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICA8VGFicyBkZWZhdWx0QWN0aXZlS2V5PScwJyBzaXplPSJzbWFsbCI+CiAgICAgICAgICAgIDxUYWJQYW5lIHRhYj0i6K6+6K6hIiBzdHlsZT17eyBwYWRkaW5nOiAnOHB4JyB9fSBrZXk9IjAiPgogICAgICAgICAgICAgIDxUcmVlIC8+CiAgICAgICAgICAgIDwvVGFiUGFuZT4KICAgICAgICAgICAgPFRhYlBhbmUgdGFiPSLorr7nva4iIHN0eWxlPXt7IHBhZGRpbmc6ICc4cHgnIH19IGtleT0iMSI+CiAgICAgICAgICAgICAgPFNldHRpbmdzIC8+CiAgICAgICAgICAgIDwvVGFiUGFuZT4KICAgICAgICAgIDwvVGFicz4KICAgICAgICA8L1NpZGVyPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOafpeivouS7o+WKngogICAgICogQHBhcmFtIHRhc2tBUElEYXRhCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIExpc3Q8VGFza0FQSURhdGE+IHF1ZXJ5QnlVc2VySWRBbmRTeXN0ZW1JZExpc3QoVGFza0FQSURhdGEgdGFza0FQSURhdGEpOwoKICA=</text>
+        <text encoding="base64">ICB7CiAgICAgICAgdGl0bGU6ICflvZPliY3oioLngrknLAogICAgICAgIGRhdGFJbmRleDogJ2xhc3RUYXNrTmFtZScKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5rWB56iL55Sz6K+35pe26Ze0JywKICAgICAgICBkYXRhSW5kZXg6ICdhcHBseVRpbWUnLAogICAgICAgIHJlbmRlcjogdmFsID0+ICh2YWwgPyA8c3Bhbj57bW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tJyl9PC9zcGFuPiA6ICcnKSwKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAn5rWB56iL57uT5p2f5pe26Ze0JywKICAgICAgICBkYXRhSW5kZXg6ICdzdG9wVGltZScsCiAgICAgICAgcmVuZGVyOiB2YWwgPT4gKHZhbCA/IDxzcGFuPnttb21lbnQodmFsKS5mb3JtYXQoJ1lZWVktTU0tREQgSEg6bW0nKX08L3NwYW4+IDogJ+acque7k+adnycpLAogICAgICB9</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOafpeivouS7o+WKngogICAgICogQHBhcmFtIHRhc2tBUElEYXRhCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIExpc3Q8VGFza0FQSURhdGE+IHF1ZXJ5QnlVc2VySWRBbmRTeXN0ZW1JZExpc3QoVGFza0FQSURhdGEgdGFza0FQSURhdGEpOwoKICA=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICog5bey5a6h5qC455qE5rWB56iL5Y676YeNCiAgICAgKiBAcGFyYW0gdGFza0FQSURhdGEKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgTGlzdDxUYXNrQVBJRGF0YT4gcXVlcnlEaXN0aW5jdFByb2Nlc3NCeVVzZXJJZEFuZFN5c3RlbUlkQ2hlY2tlZChUYXNrQVBJRGF0YSB0YXNrQVBJRGF0YSk7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ClNFTEVDVAoJCXRhc2tJZCwKCQlzdGFydFRpbWUsCgkJZW5kVGltZSwKCQlwcm9jZXNzSW5zdGFuY2VJZCwKCQl0YXNrTmFtZSwKCQlwcmlvcml0eSwKCQlwcm9jZXNzRGVmTmFtZSwKCQlzdGFydFVzZXJJZCwKCQlhcHBseVRpbWUsCgkJc3RvcFRpbWUsCgkJcHJvY2Vzc0NhdGVnb3J5LAoJCXByb2Nlc3NLZXksCgkJcHJvY2Vzc0luc3RhbmNlTmFtZSwKCQloYW5kZXJJZAoJCUZST00KCQko</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBmZXRjaFByb2Nlc3MocGFyYW0pIHsKICByZXR1cm4gaHR0cChQYXRoLmZsb3cgKyAnL3Byb2Nlc3MvcXVlcnlMaXN0Rm9yUGFnZScsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICAuLi5wYXJhbSwKICAgIH0sCiAgfSk7Cn0=</text>
-      </register>
       <register name="9" type="4">
-        <text>(
-		SELECT
-			art.ID_ AS TASK_ID_,
-			art.ASSIGNEE_ AS USER_ID_
-		FROM
-			flowable.act_ru_task art
-		WHERE
-			art.ID_ IS NOT NULL
-		AND art.ASSIGNEE_ IS NOT NULL
-		AND art.ASSIGNEE_ = #{userId}
-		UNION
-			SELECT
-				TASK_ID_,
-				USER_ID_
-			FROM
-				flowable.ACT_RU_IDENTITYLINK I,
-				flowable.ACT_RU_TASK T
-			WHERE
-				TASK_ID_ IS NOT NULL
-			AND USER_ID_ = #{userId}
-			AND I.TASK_ID_ = T.ID_
-			AND T.ASSIGNEE_ IS NULL
-			AND TYPE_ = 'candidate'
-	) t,</text>
+        <text encoding="base64">CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBmZXRjaFByb2Nlc3MocGFyYW0pIHsKICByZXR1cm4gaHR0cChQYXRoLmZsb3cgKyAnL3Byb2Nlc3MvcXVlcnlMaXN0Rm9yUGFnZScsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICAuLi5wYXJhbSwKICAgIH0sCiAgfSk7Cn0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
