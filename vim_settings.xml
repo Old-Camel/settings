@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1559809532905">
         <mark key="[" line="112" column="66" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/widgets/TextWidget.js" timestamp="1560160951872">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/widgets/TextWidget.js" timestamp="1560162054529">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -38,11 +38,12 @@
       <file name="$USER_HOME$/data/code/react-auth/src/models/formdataview.js" timestamp="1559814196733">
         <mark key="[" line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/data/code/react-jsonschema-form/src/components/widgets/TextWidget.js" timestamp="1560162021504" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1559723373016">
         <mark key="[" line="46" column="73" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/option.js" timestamp="1560137364302" />
-      <file name="$USER_HOME$/data/code/react-jsonschema-form/src/components/widgets/BaseInput.js" timestamp="1560156659952" />
+      <file name="$USER_HOME$/data/code/react-jsonschema-form/src/components/widgets/BaseInput.js" timestamp="1560161741392" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/FormView.jsx" timestamp="1560156810060">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="34" column="1" />
@@ -90,6 +91,11 @@
       <file name="/Dummy.txt" timestamp="1560150246864">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1560163451451">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/processform.js" timestamp="1560138903236">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
@@ -101,8 +107,8 @@
         <mark key="." line="60" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/index.jsx" timestamp="1560156795772" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1560158853348">
-        <mark key="[" line="43" column="14" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1560162099288">
+        <mark key="[" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/widgets/DateTimeWidget.js" timestamp="1560159425833">
         <mark key="[" line="3" column="0" />
@@ -258,7 +264,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>emptyValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
