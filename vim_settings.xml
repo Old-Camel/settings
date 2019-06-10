@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1560131453506">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1560145890453">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/controller/ProcessController.java" timestamp="1559809532905">
         <mark key="[" line="112" column="66" />
@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/utils/utils.js" timestamp="1560133383616">
         <mark key="[" line="361" column="44" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1560145496945" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1559731966704">
         <mark key="[" line="94" column="89" />
       </file>
@@ -86,6 +87,10 @@
         <mark key="." line="51" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FormData.java" timestamp="1560137713253" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/Template.jsx" timestamp="1560145849524" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/NotInLineModelConnectors.jsx" timestamp="1560145766500">
+        <mark key="[" line="156" column="19" />
+      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1559811558755">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="107" column="0" />
@@ -101,6 +106,7 @@
         <mark key="]" line="60" column="6" />
         <mark key="." line="60" column="6" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/index.jsx" timestamp="1560145875350" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1560137770727" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/sql/init.sql" timestamp="1559813625894">
         <mark key="[" line="25" column="79" />
@@ -255,7 +261,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>import {FieldTemplate, ObjectFieldTemplate} from '../NotInLineModelTemplate';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
