@@ -60,10 +60,10 @@
         <mark key="^" line="60" column="85" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Profile/BasicProfile.js" timestamp="1560130589692" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1560239168329">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1560242715486">
         <mark key="[" line="49" column="18" />
         <mark key="]" line="49" column="18" />
-        <mark key="^" line="170" column="1" />
+        <mark key="^" line="159" column="13" />
         <mark key="." line="49" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/components/GlobalHeader/index.less" timestamp="1560235101440" />
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1560216441285">
         <mark key="[" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1560160890072">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormData.js" timestamp="1560242688206">
         <mark key="[" line="161" column="18" />
         <mark key="]" line="161" column="18" />
         <mark key="." line="161" column="18" />
@@ -99,6 +99,7 @@
         <mark key="]" line="38" column="7" />
         <mark key="." line="38" column="7" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/ProcessType.less" timestamp="1560241886224" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/NotInLineModelConnectors.jsx" timestamp="1560145766500">
         <mark key="[" line="156" column="19" />
       </file>
@@ -125,8 +126,10 @@
         <mark key="]" line="60" column="6" />
         <mark key="." line="60" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1560238439571">
-        <mark key="[" line="22" column="7" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1560243330694">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/index.jsx" timestamp="1560156795772" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1560220323167">
@@ -138,7 +141,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/utils/Path.js" timestamp="1560214415972" />
-      <file name="$USER_HOME$/data/code/react-auth/src/components/SettingDrawer/index.less" timestamp="1560237652320" />
+      <file name="$USER_HOME$/data/code/react-auth/src/components/SettingDrawer/index.less" timestamp="1560241246858" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1560137770727" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/sql/init.sql" timestamp="1559813625894">
         <mark key="[" line="25" column="79" />
@@ -293,7 +296,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -302,15 +305,18 @@
         <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdFVzZXJJZCIgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IHVzZXJfaWQgZnJvbSBiYXNlX3VzZXJzIHdoZXJlIGFjY291bnQ9I3thY2NvdW50fQogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IDxpbnB1dAogICAgICAgICAgdHlwZT0iY2hlY2tib3giCiAgICAgICAgICBpZD17aWR9CiAgICAgICAgICBjaGVja2VkPXt0eXBlb2YgdmFsdWUgPT09ICJ1bmRlZmluZWQiID8gZmFsc2UgOiB2YWx1ZX0KICAgICAgICAgIHJlcXVpcmVkPXtyZXF1aXJlZH0KICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZCB8fCByZWFkb25seX0KICAgICAgICAgIGF1dG9Gb2N1cz17YXV0b2ZvY3VzfQogICAgICAgICAgb25DaGFuZ2U9e2V2ZW50ID0+IG9uQ2hhbmdlKGV2ZW50LnRhcmdldC5jaGVja2VkKX0KICAgICAgICAgIG9uQmx1cj17b25CbHVyICYmIChldmVudCA9PiBvbkJsdXIoaWQsIGV2ZW50LnRhcmdldC5jaGVja2VkKSl9CiAgICAgICAgICBvbkZvY3VzPXtvbkZvY3VzICYmIChldmVudCA9PiBvbkZvY3VzKGlkLCBldmVudC50YXJnZXQuY2hlY2tlZCkpfQogICAgICAgIC8+</text>
+        <text encoding="base64">IGhhbmRsZXI9ewogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5oYW5kbGV9IG9uQ2xpY2s9e3RoaXMudG9nZ2xlckNvbnRlbnR9PgogICAgICAgICAgICAgICAgICA8SWNvbgogICAgICAgICAgICAgICAgICAgIHR5cGU9e2NvbGxhcHNlaW5mbyA/ICdjbG9zZScgOiAnc2V0dGluZyd9CiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI2ZmZicsCiAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMjAsCiAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">eyFtdWx0aXBsZSAmJiBzY2hlbWEuZGVmYXVsdCA9PT0gdW5kZWZpbmVkICYmICgKICAgICAgICA8T3B0aW9uIHZhbHVlPSIiPntwbGFjZWhvbGRlcn08L09wdGlvbj4KICAgICAgKX0=</text>
+        <text encoding="base64">IDxpbnB1dAogICAgICAgICAgdHlwZT0iY2hlY2tib3giCiAgICAgICAgICBpZD17aWR9CiAgICAgICAgICBjaGVja2VkPXt0eXBlb2YgdmFsdWUgPT09ICJ1bmRlZmluZWQiID8gZmFsc2UgOiB2YWx1ZX0KICAgICAgICAgIHJlcXVpcmVkPXtyZXF1aXJlZH0KICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZCB8fCByZWFkb25seX0KICAgICAgICAgIGF1dG9Gb2N1cz17YXV0b2ZvY3VzfQogICAgICAgICAgb25DaGFuZ2U9e2V2ZW50ID0+IG9uQ2hhbmdlKGV2ZW50LnRhcmdldC5jaGVja2VkKX0KICAgICAgICAgIG9uQmx1cj17b25CbHVyICYmIChldmVudCA9PiBvbkJsdXIoaWQsIGV2ZW50LnRhcmdldC5jaGVja2VkKSl9CiAgICAgICAgICBvbkZvY3VzPXtvbkZvY3VzICYmIChldmVudCA9PiBvbkZvY3VzKGlkLCBldmVudC50YXJnZXQuY2hlY2tlZCkpfQogICAgICAgIC8+</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">eyFtdWx0aXBsZSAmJiBzY2hlbWEuZGVmYXVsdCA9PT0gdW5kZWZpbmVkICYmICgKICAgICAgICA8T3B0aW9uIHZhbHVlPSIiPntwbGFjZWhvbGRlcn08L09wdGlvbj4KICAgICAgKX0=</text>
+      </register>
+      <register name="4" type="4">
         <text>if (process.env.NODE_ENV !== &quot;production&quot;) {
   TextWidget.propTypes = {
     value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
@@ -318,16 +324,16 @@
   };
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHV0Y1RvTG9jYWwoanNvbkRhdGUpIHsKICBpZiAoIWpzb25EYXRlKSB7CiAgICByZXR1cm4gIiI7CiAgfQoKICAvLyByZXF1aXJlZCBmb3JtYXQgb2YgYCJ5eXl5LU1NLWRkVGhoOm1tIiBmb2xsb3dlZCBieSBvcHRpb25hbCAiOnNzIiBvciAiOnNzLlNTUyIKICAvLyBodHRwczovL2h0bWwuc3BlYy53aGF0d2cub3JnL211bHRpcGFnZS9pbnB1dC5odG1sI2xvY2FsLWRhdGUtYW5kLXRpbWUtc3RhdGUtKHR5cGUlM0RkYXRldGltZS1sb2NhbCkKICAvLyA+IHNob3VsZCBiZSBhIF92YWxpZCBsb2NhbCBkYXRlIGFuZCB0aW1lIHN0cmluZ18gKG5vdCBHTVQpCgogIC8vIE5vdGUgLSBkYXRlIGNvbnN0cnVjdG9yIHBhc3NlZCBsb2NhbCBJU08tODYwMSBkb2VzIG5vdCBjb3JyZWN0bHkKICAvLyBjaGFuZ2UgdGltZSB0byBVVEMgaW4gbm9kZSBwcmUtOAogIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZShqc29uRGF0ZSk7CgogIGNvbnN0IHl5eXkgPSBwYWQoZGF0ZS5nZXRGdWxsWWVhcigpLCA0KTsKICBjb25zdCBNTSA9IHBhZChkYXRlLmdldE1vbnRoKCkgKyAxLCAyKTsKICBjb25zdCBkZCA9IHBhZChkYXRlLmdldERhdGUoKSwgMik7CiAgY29uc3QgaGggPSBwYWQoZGF0ZS5nZXRIb3VycygpLCAyKTsKICBjb25zdCBtbSA9IHBhZChkYXRlLmdldE1pbnV0ZXMoKSwgMik7CiAgY29uc3Qgc3MgPSBwYWQoZGF0ZS5nZXRTZWNvbmRzKCksIDIpOwogIGNvbnN0IFNTUyA9IHBhZChkYXRlLmdldE1pbGxpc2Vjb25kcygpLCAzKTsKCiAgcmV0dXJuIGAke3l5eXl9LSR7TU19LSR7ZGR9VCR7aGh9OiR7bW19OiR7c3N9LiR7U1NTfWA7Cn0KCmV4cG9ydCBmdW5jdGlvbiBsb2NhbFRvVVRDKGRhdGVTdHJpbmcpIHsKICBpZiAoZGF0ZVN0cmluZykgewogICAgcmV0dXJuIG5ldyBEYXRlKGRhdGVTdHJpbmcpLnRvSlNPTigpOwogIH0KfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgey8qPEJhc2VJbnB1dCovfQogICAgICB7Lyp0eXBlPSJkYXRldGltZS1sb2NhbCIqL30KICAgICAgey8qey4uLnByb3BzfSovfQogICAgICB7Lyp2YWx1ZT17dXRjVG9Mb2NhbCh2YWx1ZSl9Ki99CiAgICAgIHsvKm9uQ2hhbmdlPXt2YWx1ZSA9PiBvbkNoYW5nZShsb2NhbFRvVVRDKHZhbHVlKSl9Ki99CiAgICB7LyovPiovfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvLyA8QmFzZUlucHV0CiAgICAvLyAgIHR5cGU9ImRhdGUiCiAgICAvLyAgIHsuLi5wcm9wc30KICAgIC8vICAgb25DaGFuZ2U9e3ZhbHVlID0+IG9uQ2hhbmdlKHZhbHVlIHx8IHVuZGVmaW5lZCl9CiAgICAvLyAvPg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
         path: '/process',
         component: '../layouts/BlankLayout',
@@ -336,11 +342,8 @@
         ]
       },</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmKCFpZCl7CiAgICAgIHJvdXRlci5wdXNoKCcvZGVzaWduL2Zvcm0nKTsKICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICB7CiAgICAgICAgcGF0aDogJy9wcm9jZXNzJywKICAgICAgICBjb21wb25lbnQ6ICcuLi9sYXlvdXRzL0JsYW5rTGF5b3V0JywKICAgICAgICByb3V0ZXM6IFsKICAgICAgICAgIHtwYXRoOiAnL3Byb2Nlc3MvZm9ybS86a2V5JywgY29tcG9uZW50OiAnLi9Gb3JtQnVpbGRlci9Qcm9jZXNzRm9ybSd9CiAgICAgICAgXQoKICAgICAgfSw=</text>
+        <text encoding="base64">IGlmKCFpZCl7CiAgICAgIHJvdXRlci5wdXNoKCcvZGVzaWduL2Zvcm0nKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
