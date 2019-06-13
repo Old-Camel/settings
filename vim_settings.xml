@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomRemoteIdmServiceImpl.java" timestamp="1559723552842">
         <mark key="[" line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-json-converter/src/main/java/org/flowable/editor/language/json/converter/UserTaskJsonConverter.java" timestamp="1560423801897" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1560418719303">
         <mark key="[" line="345" column="8" />
         <mark key="]" line="350" column="39" />
@@ -87,6 +88,8 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-cmmn-engine/src/main/java/org/flowable/cmmn/engine/impl/process/ProcessInstanceService.java" timestamp="1560397777225" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/properties/signal-definitions-write-template.html" timestamp="1560409152359" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class" timestamp="1560424321480" />
+      <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-json-converter/src/main/java/org/flowable/editor/language/json/converter/BpmnJsonConverter.java" timestamp="1560423602646" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/VarTest.java" timestamp="1560322764380">
         <mark key="[" line="175" column="0" />
       </file>
@@ -103,6 +106,7 @@
         <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/properties-event-listeners-controller.js" timestamp="1560411054749" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1560423305217" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/FlowableApplication.java" timestamp="1560417040972" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/properties-default-controllers.js" timestamp="1560410975456">
         <mark key="[" line="108" column="30" />
@@ -128,12 +132,15 @@
         <mark key="[" line="49" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-json-converter/6.4.1/flowable-json-converter-6.4.1.jar!/org/flowable/editor/language/json/converter/BpmnJsonConverter.class" timestamp="1560419355582" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1560420084936">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1560422584457">
         <mark key="[" line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig1.java" timestamp="1560423350232">
+        <mark key="[" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/properties/event-listeners-display-template.html" timestamp="1560409769152" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/Process.class" timestamp="1560420307735" />
-      <file name="/fragment.java" timestamp="1560395734639">
+      <file name="/fragment.java" timestamp="1560423320513">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
