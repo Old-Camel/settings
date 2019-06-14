@@ -52,7 +52,8 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-logic/6.4.1/flowable-ui-modeler-logic-6.4.1.jar!/org/flowable/ui/modeler/service/ModelServiceImpl.class" timestamp="1560476296757" />
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/ExtensionAttribute.class" timestamp="1560481535610" />
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-logic/6.4.1/flowable-ui-modeler-logic-6.4.1.jar!/org/flowable/ui/modeler/service/ModelServiceImpl.class" timestamp="1560480651108" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/Handel.js" timestamp="1560396163304">
         <mark key="[" line="93" column="26" />
         <mark key="]" line="292" column="16" />
@@ -91,8 +92,10 @@
         <mark key="^" line="1308" column="31" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomModelServiceImpl.java" timestamp="1560478443846">
-        <mark key="[" line="18" column="35" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomModelServiceImpl.java" timestamp="1560480908001">
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="12" />
+        <mark key="." line="53" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1560216441285">
         <mark key="[" line="13" column="16" />
@@ -112,10 +115,10 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Template/NotInLineModelConnectors.jsx" timestamp="1560145766500">
         <mark key="[" line="156" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/converter/CustomBpmnJsonConverter.java" timestamp="1560478585195">
-        <mark key="[" line="64" column="37" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="37" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/converter/CustomBpmnJsonConverter.java" timestamp="1560481485862">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1560395734647">
         <mark key="[" line="0" column="0" />
@@ -145,7 +148,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1560220323167">
         <mark key="[" line="49" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-json-converter/6.4.1/flowable-json-converter-6.4.1.jar!/org/flowable/editor/language/json/converter/BpmnJsonConverter.class" timestamp="1560478300474">
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-json-converter/6.4.1/flowable-json-converter-6.4.1.jar!/org/flowable/editor/language/json/converter/BpmnJsonConverter.class" timestamp="1560480254598">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="1179" column="4" />
       </file>
@@ -306,7 +309,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyBFZGl0b3JKc29uQ29uc3RhbnRzLCBTdGVuY2lsQ29uc3RhbnRzLCBBY3Rpdml0eVByb2Nlc3NvciA=</text>
+        <text>LOGGER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
