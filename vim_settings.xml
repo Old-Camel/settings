@@ -99,10 +99,11 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enum/JudgeType.java" timestamp="1560321421760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1560840605995">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="." line="53" column="17" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1560845207285">
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="87" column="7" />
+        <mark key="." line="87" column="7" />
+        <mark key="^" line="87" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/formdataview.js" timestamp="1559814196733">
         <mark key="[" line="14" column="25" />
@@ -123,7 +124,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1560843525954">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1560844481447">
         <mark key="[" line="38" column="47" />
         <mark key="]" line="38" column="59" />
         <mark key="." line="38" column="47" />
@@ -135,10 +136,10 @@
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-converter/6.4.1/flowable-bpmn-converter-6.4.1.jar!/org/flowable/bpmn/converter/BpmnXMLConverter.class" timestamp="1560493508909" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/ProcessInstanceQueryProperty.java" timestamp="1560763036250" />
       <file name="$USER_HOME$/data/code/agilebpm-base-spring-boot/agilebpm-ui/src/main/resources/static/agilebpm-ui/sys/dataDict/dataDictList.html" timestamp="1560825289563" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1560843285687">
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="373" column="2" />
-        <mark key="." line="373" column="2" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1560844500288">
+        <mark key="[" line="389" column="48" />
+        <mark key="]" line="389" column="48" />
+        <mark key="." line="389" column="48" />
         <mark key="^" line="373" column="2" />
       </file>
       <file name="$USER_HOME$/data/功能设计/学习资料/第一期/flowable课程补充/shareniu-flowable-springboot-web/src/main/java/com/shareniu/flowable/config/ShareniuDataSourceConfig.java" timestamp="1560501456508" />
@@ -356,7 +357,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Content of tab {i}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
