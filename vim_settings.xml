@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1561014617763">
         <mark key="[" line="86" column="89" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Menu.js" timestamp="1561027900501" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1561010540009">
         <mark key="[" line="72" column="48" />
       </file>
@@ -52,11 +53,11 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ServiceTest.java" timestamp="1561012773155">
         <mark key="[" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561027185465">
-        <mark key="[" line="205" column="37" />
-        <mark key="]" line="205" column="34" />
-        <mark key="." line="205" column="34" />
-        <mark key="^" line="205" column="34" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561028908304">
+        <mark key="[" line="182" column="91" />
+        <mark key="]" line="182" column="91" />
+        <mark key="." line="182" column="91" />
+        <mark key="^" line="212" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/formdataview.js" timestamp="1559814196733">
         <mark key="[" line="14" column="25" />
@@ -121,6 +122,11 @@
       </file>
       <file name="/fragment.java" timestamp="1561020569605">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1561028455899">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="111" column="44" />
+        <mark key="." line="111" column="44" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/design.js" timestamp="1560841607668">
         <mark key="[" line="21" column="30" />
@@ -268,7 +274,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>操作按钮</text>
+        <text>是否隐藏菜单</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
