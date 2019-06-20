@@ -63,6 +63,7 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1560137732251">
         <mark key="[" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/OptionForFormPermission.java" timestamp="1561012937879" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/editor-app/configuration/properties-execution-listeners-controller.js" timestamp="1560829385557">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="29" column="0" />
@@ -79,7 +80,7 @@
         <mark key="]" line="436" column="48" />
         <mark key="." line="436" column="32" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1561010973454" />
+      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1561012223763" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1561010540009">
         <mark key="[" line="72" column="48" />
       </file>
@@ -101,6 +102,9 @@
         <mark key="[" line="27" column="3" />
         <mark key="]" line="27" column="3" />
         <mark key="." line="27" column="3" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ServiceTest.java" timestamp="1561012773155">
+        <mark key="[" line="59" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1560998845186">
         <mark key="[" line="156" column="12" />
@@ -186,8 +190,8 @@
         <mark key="]" line="59" column="32" />
         <mark key="." line="59" column="32" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/OptionForWeb.java" timestamp="1560999206764">
-        <mark key="[" line="17" column="24" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/OptionForWeb.java" timestamp="1561012907365">
+        <mark key="[" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/index.html" timestamp="1560827542417">
         <mark key="[" line="125" column="45" />
@@ -232,8 +236,10 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig1.java" timestamp="1560423350232">
         <mark key="[" line="24" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1560999720170">
-        <mark key="[" line="94" column="0" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1561012824158">
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="93" column="8" />
+        <mark key="." line="93" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/formdata.js" timestamp="1560913839772">
         <mark key="[" line="33" column="43" />
@@ -394,7 +400,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>String a={&quot;type&quot;:&quot;object&quot;,&quot;properties&quot;:{&quot;text&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;请假原因&quot;},&quot;number&quot;:{&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;请假天数&quot;,&quot;description&quot;:&quot;234567&quot;},&quot;text_1&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;经理意见&quot;},&quot;text_2&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;总经理意见&quot;},&quot;text_3&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;人事意见&quot;},&quot;text_4&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;文件&quot;},&quot;datetime&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;时间&quot;},&quot;datetime_1&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;日期&quot;},&quot;checkboxes&quot;:{&quot;type&quot;:&quot;array&quot;,&quot;title&quot;:&quot;Check Boxes&quot;,&quot;items&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;enum&quot;:[&quot;option-1&quot;,&quot;option-2&quot;,&quot;option-3&quot;]},&quot;uniqueItems&quot;:true,&quot;additionalItems&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;enum&quot;:[&quot;option-1&quot;,&quot;option-2&quot;,&quot;option-3&quot;]}},&quot;checkbox&quot;:{&quot;type&quot;:&quot;boolean&quot;,&quot;title&quot;:&quot;Checkbox&quot;},&quot;dropdown&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;Dropdown&quot;,&quot;enum&quot;:[&quot;option-1&quot;,&quot;option-2&quot;,&quot;option-3&quot;],&quot;enumNames&quot;:[&quot;Option 1&quot;,&quot;Option 2&quot;,&quot;Option 3&quot;]}},&quot;title&quot;:&quot; 请假单&quot;,&quot;description&quot;:&quot; 描述&quot;}</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
