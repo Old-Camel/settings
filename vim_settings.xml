@@ -33,11 +33,11 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomRemoteIdmServiceImpl.java" timestamp="1559723552842">
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561433577682">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561444438482">
         <mark key="'" line="93" column="6" />
-        <mark key="[" line="175" column="31" />
-        <mark key="]" line="175" column="31" />
-        <mark key="." line="175" column="31" />
+        <mark key="[" line="182" column="70" />
+        <mark key="]" line="182" column="70" />
+        <mark key="." line="182" column="70" />
         <mark key="^" line="105" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1561442226680">
@@ -48,10 +48,10 @@
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/dept.js" timestamp="1561360258017" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1561443158945">
-        <mark key="[" line="141" column="32" />
-        <mark key="]" line="141" column="32" />
-        <mark key="^" line="118" column="22" />
-        <mark key="." line="141" column="32" />
+        <mark key="[" line="142" column="32" />
+        <mark key="]" line="142" column="32" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="142" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1561347415052" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1561374649683">
@@ -63,11 +63,11 @@
         <mark key="." line="54" column="22" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1561427140640" />
-      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1561361403614">
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="66" column="5" />
-        <mark key="." line="66" column="5" />
-        <mark key="^" line="66" column="7" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1561444805578">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="68" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormPermissions.js" timestamp="1561443113918">
         <mark key="[" line="75" column="57" />
@@ -115,10 +115,10 @@
         <mark key="[" line="67" column="80" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1561344868745" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1561442581413">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1561444717364">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/FormDataServiceImpl.java" timestamp="1560913579379">
         <mark key="[" line="55" column="5" />
@@ -363,7 +363,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>uiSchema</text>
+        <text>jsonArray</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -421,7 +421,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
