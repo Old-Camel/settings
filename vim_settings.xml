@@ -3,21 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/react-auth/src/utils/http.js" timestamp="1561364999316">
-        <mark key="[" line="105" column="36" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1561448419248">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/entity/DeploymentEntityImpl.java" timestamp="1561455710358" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ServiceTest.java" timestamp="1561372103910">
-        <mark key="[" line="72" column="5" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/process.js" timestamp="1561430811365">
-        <mark key="[" line="26" column="49" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561458404578">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1561513741298">
         <mark key="'" line="93" column="6" />
-        <mark key="[" line="130" column="65" />
-        <mark key="]" line="152" column="70" />
-        <mark key="." line="152" column="70" />
+        <mark key="[" line="180" column="87" />
+        <mark key="]" line="180" column="87" />
+        <mark key="." line="180" column="87" />
         <mark key="^" line="105" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1561458774036">
@@ -25,30 +20,50 @@
         <mark key="]" line="326" column="71" />
         <mark key="." line="326" column="71" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/dept.js" timestamp="1561360258017" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1561458787453">
         <mark key="[" line="152" column="8" />
         <mark key="]" line="152" column="16" />
         <mark key="." line="152" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/user.js" timestamp="1561347415052" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1561450366675">
+        <mark key="[" line="147" column="83" />
+        <mark key="]" line="126" column="7" />
+        <mark key="." line="126" column="7" />
+        <mark key="^" line="118" column="46" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1561457622434">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/pom.xml" timestamp="1561367814707">
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="22" />
         <mark key="." line="54" column="22" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1561427140640" />
+      <file name="$USER_HOME$/data/code/react-auth/src/models/processform.js" timestamp="1561458729955">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1561445337546">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="68" column="7" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1561513864062" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FormPermissions.js" timestamp="1561443113918">
         <mark key="[" line="75" column="57" />
         <mark key="]" line="75" column="57" />
         <mark key="." line="75" column="57" />
         <mark key="^" line="79" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1561424717979">
+        <mark key="[" line="190" column="43" />
+        <mark key="]" line="190" column="43" />
+        <mark key="." line="190" column="43" />
+        <mark key="^" line="171" column="109" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1561457329619">
         <mark key="[" line="27" column="47" />
@@ -61,74 +76,22 @@
         <mark key="." line="197" column="14" />
         <mark key="^" line="151" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/StartEvent.class" timestamp="1561449040036" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.js" timestamp="1561369833772">
         <mark key="[" line="399" column="48" />
         <mark key="]" line="399" column="48" />
         <mark key="." line="399" column="48" />
         <mark key="^" line="373" column="2" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/RuntimeTaskHistoryServiceTest.java" timestamp="1561348039972" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/i18n/fr.json" timestamp="1561365673321" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1561370497760">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/task.js" timestamp="1561512245341" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomModelServiceImpl.java" timestamp="1561424795892" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1561348236721">
-        <mark key="[" line="67" column="80" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1561344868745" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1561448419248">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-rest/6.4.1/flowable-ui-modeler-rest-6.4.1.jar!/org/flowable/ui/modeler/rest/api/ApiModelResource.class" timestamp="1561364333944" />
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
-        <mark key="[" line="24" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/util/ProcessDefinitionUtil.java" timestamp="1561372261832" />
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/util/CommandContextUtil.java" timestamp="1561455744452" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.less" timestamp="1561369855855">
-        <mark key="[" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1561450366675">
-        <mark key="[" line="147" column="83" />
-        <mark key="]" line="126" column="7" />
-        <mark key="." line="126" column="7" />
-        <mark key="^" line="118" column="46" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1561347781453" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1561457622434">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/processform.js" timestamp="1561458729955">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1561430685115" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Task/Todo.js" timestamp="1561456368208" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/StartProcessResult.java" timestamp="1561430581240" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1561424717979">
-        <mark key="[" line="190" column="43" />
-        <mark key="]" line="190" column="43" />
-        <mark key="." line="190" column="43" />
-        <mark key="^" line="171" column="109" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/pom.xml" timestamp="1561431727078" />
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/cmd/GetStartFormModelCmd.java" timestamp="1561450848669" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1561017466112">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-rest/6.4.1/flowable-ui-modeler-rest-6.4.1.jar!/org/flowable/ui/modeler/rest/app/ModelResource.class" timestamp="1561366797297" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1561370497760">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1561459043306">
         <mark key="[" line="129" column="23" />
         <mark key="]" line="129" column="23" />
@@ -140,7 +103,6 @@
         <mark key="." line="44" column="10" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-json-converter/6.4.1/flowable-json-converter-6.4.1.jar!/org/flowable/editor/language/json/converter/BpmnJsonConverterUtil.class" timestamp="1561426180288" />
     </filemarks>
     <jumps>
       <jump line="215" column="18" filename="$USER_HOME$/data/code/v2/ant-design-pro/src/routes/SystemSetting/Dept.js" />
@@ -284,7 +246,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>开始表单权限</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -342,7 +304,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
