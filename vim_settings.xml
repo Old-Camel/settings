@@ -38,12 +38,18 @@
       <file name="$USER_HOME$/data/code/react-auth/src/models/role.js" timestamp="1561708170478" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Dept.js" timestamp="1561692644652" />
       <file name="$USER_HOME$/data/code/react-auth/src/models/user.js" timestamp="1561708165976" />
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-form-json-converter/6.4.1/flowable-form-json-converter-6.4.1.jar!/org/flowable/editor/form/converter/FormJsonConverter.class" timestamp="1561716261309" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/dept.js" timestamp="1561600113915" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-spring-boot-autoconfigure/6.4.1/flowable-spring-boot-autoconfigure-6.4.1.jar!/org/flowable/spring/boot/dmn/FlowableDmnProperties.class" timestamp="1561543102132" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.yml" timestamp="1561545642629">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1561716178913">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseRoleController.java" timestamp="1561708315170">
         <mark key="[" line="118" column="113" />
@@ -110,6 +116,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1561701995632">
         <mark key="[" line="103" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-form-model/6.4.1/flowable-form-model-6.4.1.jar!/org/flowable/form/model/SimpleFormModel.class" timestamp="1561716264915" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/RoleUser.js" timestamp="1561711497410">
         <mark key="[" line="228" column="5" />
         <mark key="]" line="228" column="5" />
@@ -187,7 +194,7 @@
       <file name="/fragment.java" timestamp="1561701939122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1561629957524">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1561716528152">
         <mark key="[" line="129" column="23" />
         <mark key="]" line="129" column="23" />
         <mark key="." line="129" column="23" />
@@ -335,7 +342,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>bpmnModel.getFlowElement()</text>
+        <text encoding="base64">ICAgICAgICBGbG93YWJsZUZvcm1Kc29uRXhjZXB0aW9u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
