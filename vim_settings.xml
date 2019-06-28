@@ -45,11 +45,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1561713836127">
-        <mark key="[" line="74" column="88" />
-        <mark key="]" line="172" column="3" />
-        <mark key="." line="172" column="17" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseRoleController.java" timestamp="1561708315170">
         <mark key="[" line="118" column="113" />
         <mark key="]" line="118" column="113" />
@@ -106,6 +101,7 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1561694385915">
         <mark key="[" line="83" column="97" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/FlowElement.class" timestamp="1561714969603" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/stencilset_bpmn.json" timestamp="1561370497760">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -128,6 +124,7 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/FlowNode.class" timestamp="1561715038825" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/cache/annotation/Cacheable.java" timestamp="1561540093906" />
       <file name="$USER_HOME$/data/code/react-auth/src/services/system/role.js" timestamp="1561531933129" />
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
@@ -338,7 +335,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Fragment</text>
+        <text>bpmnModel.getFlowElement()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
