@@ -46,7 +46,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable-app-rest/src/main/java/org/flowable/rest/app/FlowableRestApplication.java" timestamp="1561951520213" />
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/JudgeAssigneeResult.java" timestamp="1561968036328">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/JudgeAssigneeResult.java" timestamp="1561970919645">
         <mark key="[" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1561952524734">
@@ -80,10 +80,10 @@
         <mark key="]" line="50" column="72" />
         <mark key="." line="50" column="72" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1561967779650">
-        <mark key="[" line="316" column="13" />
-        <mark key="]" line="316" column="13" />
-        <mark key="." line="316" column="13" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1561971279698">
+        <mark key="[" line="353" column="26" />
+        <mark key="]" line="353" column="26" />
+        <mark key="." line="353" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1561694385915">
         <mark key="[" line="83" column="97" />
@@ -138,6 +138,7 @@
         <mark key="." line="71" column="24" />
         <mark key="^" line="71" column="24" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enums/JudgeType.java" timestamp="1561970922261" />
       <file name="$USER_HOME$/data/code/flowable-engine/modules/flowable5-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricScopeInstanceEntity.java" timestamp="1561949679077" />
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/application-local.yml" timestamp="1561543567952">
         <mark key="[" line="56" column="93" />
@@ -303,7 +304,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>lists</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
