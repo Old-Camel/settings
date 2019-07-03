@@ -88,6 +88,7 @@
         <mark key="." line="135" column="19" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/Signal.class" timestamp="1562151553814" />
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.less" timestamp="1561369855855">
         <mark key="[" line="6" column="24" />
       </file>
@@ -106,10 +107,11 @@
       <file name="/Dummy.txt" timestamp="1561701939159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1562149867535">
-        <mark key="[" line="86" column="9" />
-        <mark key="]" line="86" column="120" />
-        <mark key="^" line="235" column="31" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1562151617954">
+        <mark key="[" line="147" column="20" />
+        <mark key="]" line="147" column="20" />
+        <mark key="^" line="144" column="17" />
+        <mark key="." line="147" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1562066154446">
         <mark key="[" line="19" column="5" />
@@ -273,7 +275,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>isNull</text>
+        <text>ReceiveTask</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -282,42 +284,47 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIGZsb3dFbGVtZW50cyDlhajmtYHnqIvnmoToioLngrnpm4blkIgKICAgICAqIEBwYXJhbSBmbG93RWxlbWVudCAg5b2T5YmN6IqC54K5CiAgICAgKiBAZGF0ZSAyMDE4LzQvMTEgOTo0NAogICAgICogQHRpdGxlIGdldFN1YlByb2Nlc3MKICAgICAqIEBkZXNjcmlwdGlvbjog5p+l6K+i5LiA5Liq6IqC54K555qE5piv5ZCm5a2Q5Lu75Yqh5Lit55qE6IqC54K577yM5aaC5p6c5piv77yM6L+U5Zue5a2Q5Lu75YqhCiAgICAgKiBAcmV0dXJuOiBvcmcuYWN0aXZpdGkuYnBtbi5tb2RlbC5GbG93RWxlbWVudAogICAgICov</text>
+        <text>//接收任务
+                    else if (nextFlowElement instanceof Signal) {
+                        next(flowElements, nextFlowElement, map, nextUser);
+                    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>---------------------
-        作者：D丶ream
-        来源：CSDN
-        原文：https://blog.csdn.net/h1059141989/article/details/79924185
-        版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+        <text>else{
+                        next(flowElements, nextFlowElement, map, nextUser);
+                    }</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIGZsb3dFbGVtZW50cyDlhajmtYHnqIvnmoToioLngrnpm4blkIgKICAgICAqIEBwYXJhbSBmbG93RWxlbWVudCAg5b2T5YmN6IqC54K5CiAgICAgKiBAZGF0ZSAyMDE4LzQvMTEgOTo0NAogICAgICogQHRpdGxlIGdldFN1YlByb2Nlc3MKICAgICAqIEBkZXNjcmlwdGlvbjog5p+l6K+i5LiA5Liq6IqC54K555qE5piv5ZCm5a2Q5Lu75Yqh5Lit55qE6IqC54K577yM5aaC5p6c5piv77yM6L+U5Zue5a2Q5Lu75YqhCiAgICAgKiBAcmV0dXJuOiBvcmcuYWN0aXZpdGkuYnBtbi5tb2RlbC5GbG93RWxlbWVudAogICAgICov</text>
+      </register>
+      <register name="4" type="4">
         <text>---------------------
         作者：D丶ream
         来源：CSDN
         原文：https://blog.csdn.net/h1059141989/article/details/79924185
         版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICAgICAgICAg5L2c6ICF77yaROS4tnJlYW0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2gxMDU5MTQxOTg5L2FydGljbGUvZGV0YWlscy83OTkyNDE4NQogICAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IExpc3Q8VXNlclRhc2s+IHVzZXJUYXNrTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8VXNlclRhc2s+IG5leHRVc2VyVGFza0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBVc2VyVGFzayB1c2VyVGFzaz1udWxsOwogICAgICAgIGlmKGVsZW1lbnQgaW5zdGFuY2VvZiBVc2VyVGFzayAmJiAhZWxlbWVudC5nZXRJZCgpLmVxdWFscyhlbGVtZW50SWQpKXsKCgogICAgICAgIH1lbHNlewoKICAgICAgICB9Cg==</text>
+        <text>---------------------
+        作者：D丶ream
+        来源：CSDN
+        原文：https://blog.csdn.net/h1059141989/article/details/79924185
+        版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGV0IHVzZXJzID0gcm93cy5tYXAoaSA9PiB7CiAgICAgIGxldCB2PXt9OwogICAgICB2WydpZCddPWkudXNlcklkOwogICAgICB2WyduYW1lJ109aS5yZWFsTmFtZTsKICAgICAgcmV0dXJuIHY7CiAgICB9KTs=</text>
+        <text encoding="base64">IC0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICAgICAgICAg5L2c6ICF77yaROS4tnJlYW0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2gxMDU5MTQxOTg5L2FydGljbGUvZGV0YWlscy83OTkyNDE4NQogICAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFibGVMaXN0T3BlcmF0b3J9PgogICAgICAgICAgICAgICAgICB7c2VsZWN0ZWRSb3dzLmxlbmd0aCA+MSAmJgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgaWNvbj0icGx1cy1jaXJjbGUiCiAgICAgICAgICAgICAgICAgICAgdHlwZT0icHJpbWFyeSIKICAgICAgICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuYWRkfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAg5re75Yqg55So5oi3CiAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPn0KCgogICAgICAgICAgICAgICAgPC9kaXY+</text>
+        <text encoding="base64">IExpc3Q8VXNlclRhc2s+IHVzZXJUYXNrTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8VXNlclRhc2s+IG5leHRVc2VyVGFza0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBVc2VyVGFzayB1c2VyVGFzaz1udWxsOwogICAgICAgIGlmKGVsZW1lbnQgaW5zdGFuY2VvZiBVc2VyVGFzayAmJiAhZWxlbWVudC5nZXRJZCgpLmVxdWFscyhlbGVtZW50SWQpKXsKCgogICAgICAgIH1lbHNlewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKAogIDxkaXY+CiAgICA8TXlUYWc+VGFnMTwvTXlUYWc+CiAgICA8TXlUYWc+VGFnMjwvTXlUYWc+CiAgICA8TXlUYWc+VGFnMzwvTXlUYWc+CiAgPC9kaXY+LAogIG1vdW50Tm9kZSwKKTs=</text>
+        <text encoding="base64">bGV0IHVzZXJzID0gcm93cy5tYXAoaSA9PiB7CiAgICAgIGxldCB2PXt9OwogICAgICB2WydpZCddPWkudXNlcklkOwogICAgICB2WyduYW1lJ109aS5yZWFsTmFtZTsKICAgICAgcmV0dXJuIHY7CiAgICB9KTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">b25DbG9zZT17ZSA9PiB7CiAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICAgICAgdGhpcy5jbG9zZShpdGVtLCBpLnVzZXJJZCkKICAgICAgICB9fQ==</text>
+        <text encoding="base64">IDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFibGVMaXN0T3BlcmF0b3J9PgogICAgICAgICAgICAgICAgICB7c2VsZWN0ZWRSb3dzLmxlbmd0aCA+MSAmJgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgaWNvbj0icGx1cy1jaXJjbGUiCiAgICAgICAgICAgICAgICAgICAgdHlwZT0icHJpbWFyeSIKICAgICAgICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuYWRkfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAg5re75Yqg55So5oi3CiAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPn0KCgogICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
