@@ -13,7 +13,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/Dockerfile" timestamp="1562310121464" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/views/app-definitions.html" timestamp="1562211001709" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-json-converter/6.4.1/flowable-json-converter-6.4.1.jar!/org/flowable/editor/language/json/converter/UserTaskJsonConverter.class" timestamp="1562566234815" />
-      <file name="/a.dummy" timestamp="1562552444855">
+      <file name="/a.dummy" timestamp="1562574056895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/Davinci/webapp/app/index.html" timestamp="1561964047412">
@@ -29,6 +29,12 @@
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1562143565028" />
       <file name="$MAVEN_REPOSITORY$/com/dstz/agilebpm/wf-rest/1.5.0/wf-rest-1.5.0.jar!/com/dstz/bpm/rest/controller/BpmMyTaskController.class" timestamp="1562308997660" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowSetting.js" timestamp="1562297564670">
+        <mark key="'" line="522" column="80" />
+        <mark key="[" line="290" column="4" />
+        <mark key="]" line="290" column="4" />
+        <mark key="." line="290" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1562296552086">
         <mark key="[" line="283" column="18" />
         <mark key="]" line="283" column="18" />
@@ -41,8 +47,8 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/FormServiceTest.java" timestamp="1562118209663">
         <mark key="[" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enums/MESSAGE.java" timestamp="1562554007147">
-        <mark key="[" line="10" column="7" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enums/MESSAGE.java" timestamp="1562574348398">
+        <mark key="[" line="12" column="25" />
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="8" />
@@ -54,6 +60,13 @@
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/JudgeAssigneeResult.java" timestamp="1562203262398">
         <mark key="[" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1562296452140">
+        <mark key="'" line="332" column="11" />
+        <mark key="[" line="282" column="43" />
+        <mark key="]" line="282" column="43" />
+        <mark key="." line="282" column="43" />
+        <mark key="^" line="280" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1562573286482">
         <mark key="[" line="64" column="51" />
@@ -76,10 +89,12 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/TaskBeforeListener.java" timestamp="1562552400778">
         <mark key="[" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1562567558265">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1562574197774">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="43" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1562296325091">
         <mark key="[" line="27" column="70" />
@@ -111,6 +126,12 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1561701995632">
         <mark key="[" line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1562574353939">
+        <mark key="'" line="55" column="37" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="32" />
+        <mark key="." line="52" column="32" />
+      </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1561348236721">
         <mark key="[" line="67" column="80" />
       </file>
@@ -123,6 +144,13 @@
         <mark key="[" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FormData.java" timestamp="1562553313614" />
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/UsersSelect.js" timestamp="1562134271301">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="129" column="30" />
+        <mark key="]" line="135" column="19" />
+        <mark key="." line="135" column="19" />
+        <mark key="^" line="29" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1.jar!/org/flowable/bpmn/model/Signal.class" timestamp="1562151553814" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessThreadLocal.java" timestamp="1562568181968">
         <mark key="[" line="15" column="19" />
@@ -193,8 +221,6 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1562231359786" />
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/data/code/react-auth/src/models/role.js" />
-      <jump line="371" column="20" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="384" column="16" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="436" column="27" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="387" column="20" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
@@ -293,6 +319,8 @@
       <jump line="252" column="11" filename="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" />
       <jump line="643" column="40" filename="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" />
       <jump line="76" column="0" filename="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" />
+      <jump line="57" column="8" filename="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" />
+      <jump line="56" column="37" filename="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +362,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>userTask</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
