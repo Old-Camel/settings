@@ -13,11 +13,11 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1562292106444">
         <mark key="[" line="44" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/services/system/task.js" timestamp="1562637896386">
-        <mark key="[" line="55" column="52" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/data/code/react-auth/src/services/system/task.js" timestamp="1562644108605">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562574056895">
         <mark key="[" line="0" column="0" />
@@ -62,7 +62,7 @@
         <mark key="]" line="294" column="43" />
         <mark key="." line="294" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1562638631899">
+      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1562644096120">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="32" />
         <mark key="^" line="111" column="32" />
@@ -103,12 +103,12 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1562643391918">
+      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1562644233988">
         <mark key="a" line="581" column="62" />
         <mark key="'" line="1024" column="19" />
-        <mark key="[" line="692" column="10" />
-        <mark key="]" line="692" column="10" />
-        <mark key="." line="692" column="10" />
+        <mark key="[" line="1011" column="22" />
+        <mark key="]" line="1011" column="22" />
+        <mark key="." line="1011" column="22" />
         <mark key="^" line="1024" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1562634435164">
@@ -156,7 +156,7 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/processform.js" timestamp="1562638076937">
+      <file name="$USER_HOME$/data/code/react-auth/src/models/processform.js" timestamp="1562644113680">
         <mark key="[" line="64" column="17" />
         <mark key="]" line="64" column="17" />
         <mark key="." line="64" column="17" />
@@ -315,7 +315,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>{delegateUser}</text>
+        <text>taskFooter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
