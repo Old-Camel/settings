@@ -43,13 +43,7 @@
         <mark key="^" line="125" column="32" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1563184469682">
-        <mark key="'" line="57" column="53" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="57" column="50" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1563186323364" />
       <file name="$USER_HOME$/data/code/flowable-web/.babelrc.js" timestamp="1563160724142" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1561694385915">
         <mark key="[" line="83" column="97" />
@@ -83,6 +77,7 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1562066154446">
         <mark key="[" line="19" column="5" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/core.js" timestamp="1563186031086" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView2222.jsx" timestamp="1563175048127">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="28" />
@@ -101,7 +96,7 @@
         <mark key="]" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/formbuilder.js" timestamp="1563184456867">
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/formbuilder.js" timestamp="1563185257030">
         <mark key="[" line="43" column="13" />
         <mark key="]" line="43" column="10" />
         <mark key="." line="43" column="10" />
@@ -199,6 +194,7 @@
       <file name="$USER_HOME$/data/code/Sche/src/main/resources/application.yaml" timestamp="1563069585284">
         <mark key="[" line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1563186185972" />
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/application-local.yml" timestamp="1561543567952">
         <mark key="[" line="56" column="93" />
       </file>
@@ -372,15 +368,25 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnN0IHRyZWUgPSBhZGROb2RlKAogICAgICAgIHN0YXRlLnRyZWUucHJlc2VudCwKICAgICAgICB0YXJnZXROb2RlS2V5LAogICAgICAgIHBvc2l0aW9uLAogICAgICAgIG5vZGUyYWRkCiAgICAgICk7CiAgICAgIGNvbnNvbGUubG9nKHRyZWUpOw==</text>
+        <text>let tree = JSON.parse(JSON.stringify(present[0]));
+    let newschema = JSON.parse(JSON.stringify(schema));
+
+    newschema.properties = reorder(newschema.properties,
+      result.source.index,
+      result.destination.index);
+    tree.schema=newschema;
+console.log(tree);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgY29uc3QgewogICAgICAgIHRhcmdldE5vZGVLZXksCiAgICAgICAgcG9zaXRpb24sCiAgICAgICAgbm9kZTJhZGQKICAgICAgfSA9IHBheWxvYWQ7</text>
+        <text encoding="base64">CiAgICAgIGNvbnN0IHRyZWUgPSBhZGROb2RlKAogICAgICAgIHN0YXRlLnRyZWUucHJlc2VudCwKICAgICAgICB0YXJnZXROb2RlS2V5LAogICAgICAgIHBvc2l0aW9uLAogICAgICAgIG5vZGUyYWRkCiAgICAgICk7CiAgICAgIGNvbnNvbGUubG9nKHRyZWUpOw==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgY29uc3QgewogICAgICAgIHRhcmdldE5vZGVLZXksCiAgICAgICAgcG9zaXRpb24sCiAgICAgICAgbm9kZTJhZGQKICAgICAgfSA9IHBheWxvYWQ7</text>
+      </register>
+      <register name="4" type="4">
         <text>const items = reorder(
       i,
       result.source.index,
@@ -391,23 +397,20 @@
       items
     });</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxkaXYgY2xhc3NOYW1lPXtjbGFzc05hbWVzfT4KICAgICAgICAgICAgICB7ZGlzcGxheUxhYmVsICYmIDxMYWJlbCBsYWJlbD17bGFiZWx9IHJlcXVpcmVkPXtyZXF1aXJlZH0gaWQ9e2lkfSAvPn0KICAgICAgICAgICAgICB7ZGlzcGxheUxhYmVsICYmIGRlc2NyaXB0aW9uID8gZGVzY3JpcHRpb24gOiBudWxsfQogICAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgICAgICB7cmVhZG9ubHl9CiAgICAgICAgICAgICAge2Vycm9yc30KICAgICAgICAgICAgICB7aGVscH0KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8RHJvcHBhYmxlIGRyb3BwYWJsZUlkPSJkcm9wcGFibGUiPgogICAgeyhwcm92aWRlZCwgc25hcHNob3QpID0+ICgKICAgICAgPGRpdgogICAgICAgIHsuLi5wcm92aWRlZC5kcm9wcGFibGVQcm9wc30KICAgICAgICByZWY9e3Byb3ZpZGVkLmlubmVyUmVmfQogICAgICAgIHN0eWxlPXtnZXRMaXN0U3R5bGUoc25hcHNob3QuaXNEcmFnZ2luZ092ZXIpfQogICAgICA+</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bWF9IGRyYWdnYWJsZUlkPXtpZH0gaW5kZXg9ezMyfSA+CiAgICAgIHsocHJvdmlkZWQsIHNuYXBzaG90KSA9PiAoCiAgIA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Z2V0SW5kZXg9KGlkLCk9PnsKCiAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoKY29uc3QgQXBwQ29udGFpbmVyID0gY29ubmVjdCgoewogIGFjdGl2ZU5vZGVLZXksCiAgc2V0dGluZ3MKfSk9Pih7CiAgYWN0aXZlTm9kZUtleSwKICBzZXR0aW5ncwp9KSkoQXBwKTsKZXhwb3J0IGRlZmF1bHQgKCk9Pig8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT4KICA8UGVyc2lzdEdhdGUgbG9hZGluZz17bnVsbH0gcGVyc2lzdG9yPXtwZXJzaXN0b3J9PgogICAgPEFwcENvbnRhaW5lciAvPgogIDwvUGVyc2lzdEdhdGU+CjwvUHJvdmlkZXI+KTsqLwovKgogICA8SWNvbgogICBjbGFzc05hbWU9InRyaWdnZXIiCiAgIHR5cGU9e3RoaXMuc3RhdGUuY29sbGFwc2VkID8gJ21lbnUtdW5mb2xkJyA6ICdtZW51LWZvbGQnfQogICBvbkNsaWNrPXt0aGlzLnRvZ2dsZX0KICAgLz4KICovCi8qCiAgIDxDb250ZW50IHN0eWxlPXt7IG1hcmdpbjogJzI0cHggMTZweCcsIHBhZGRpbmc6IDI0LCBiYWNrZ3JvdW5kOiAnI2ZmZicsIG1pbkhlaWdodDogMjgwLCB3aWR0aDpzZXR0aW5ncy5mb3JtV2lkdGggfX0+CiAqLw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgLyogY29uc29sZS5sb2cobmFtZSk7CiAgICAgY29uc29sZS5sb2coc2NoZW1hKTsKICAgICBjb25zb2xlLmxvZyh1aVNjaGVtYSk7CiAgICAgY29uc29sZS5sb2coZm9ybURhdGEpOwogICAgIGNvbnNvbGUubG9nKGxpdmVWYWxpZGF0ZSk7CiAgICAgY29uc29sZS5sb2coRmllbGRUZW1wbGF0ZSk7CiAgICAgY29uc29sZS5sb2coT2JqZWN0RmllbGRUZW1wbGF0ZSk7Ki8=</text>
+        <text encoding="base64">LyoKY29uc3QgQXBwQ29udGFpbmVyID0gY29ubmVjdCgoewogIGFjdGl2ZU5vZGVLZXksCiAgc2V0dGluZ3MKfSk9Pih7CiAgYWN0aXZlTm9kZUtleSwKICBzZXR0aW5ncwp9KSkoQXBwKTsKZXhwb3J0IGRlZmF1bHQgKCk9Pig8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT4KICA8UGVyc2lzdEdhdGUgbG9hZGluZz17bnVsbH0gcGVyc2lzdG9yPXtwZXJzaXN0b3J9PgogICAgPEFwcENvbnRhaW5lciAvPgogIDwvUGVyc2lzdEdhdGU+CjwvUHJvdmlkZXI+KTsqLwovKgogICA8SWNvbgogICBjbGFzc05hbWU9InRyaWdnZXIiCiAgIHR5cGU9e3RoaXMuc3RhdGUuY29sbGFwc2VkID8gJ21lbnUtdW5mb2xkJyA6ICdtZW51LWZvbGQnfQogICBvbkNsaWNrPXt0aGlzLnRvZ2dsZX0KICAgLz4KICovCi8qCiAgIDxDb250ZW50IHN0eWxlPXt7IG1hcmdpbjogJzI0cHggMTZweCcsIHBhZGRpbmc6IDI0LCBiYWNrZ3JvdW5kOiAnI2ZmZicsIG1pbkhlaWdodDogMjgwLCB3aWR0aDpzZXR0aW5ncy5mb3JtV2lkdGggfX0+CiAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
