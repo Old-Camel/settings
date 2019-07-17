@@ -57,9 +57,12 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1562207334680">
         <mark key="[" line="34" column="70" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1563331132255">
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1563342373050">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="191" column="8" />
+        <mark key="]" line="191" column="8" />
+        <mark key="." line="191" column="8" />
+        <mark key="^" line="192" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1563270867429">
         <mark key="[" line="106" column="70" />
@@ -193,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="1" filename="$USER_HOME$/data/code/react-auth/src/components/SiderMenu/BaseMenu.js" />
       <jump line="93" column="103" filename="$USER_HOME$/webapps/convert/src/main/java/com/yunzai/convert/web/ConvertController.java" />
       <jump line="29" column="12" filename="$USER_HOME$/webapps/convert/src/main/java/com/yunzai/convert/web/Up.java" />
       <jump line="117" column="27" filename="$USER_HOME$/data/code/plugins-notice/notice-web/src/main/webapp/resources/js/forworkflow/notice/NoticeFormWin.js" />
@@ -293,6 +295,7 @@
       <jump line="61" column="15" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" />
       <jump line="56" column="53" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" />
       <jump line="81" column="29" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/connectors.jsx" />
+      <jump line="191" column="0" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +337,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text>HistoricProcessInstanceResource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
