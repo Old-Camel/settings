@@ -61,8 +61,10 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/RoleTagSelect.js" timestamp="1562136566534">
         <mark key="[" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileBaseInput.js" timestamp="1563420205720">
-        <mark key="[" line="84" column="17" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileBaseInput.js" timestamp="1563421733458">
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1563419273644">
         <mark key="[" line="100" column="51" />
@@ -355,7 +357,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>leave</text>
+        <text>defaultValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
