@@ -40,7 +40,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/6.4.1/flowable-bpmn-model-6.4.1-sources.jar!/org/flowable/bpmn/model/Activity.java" timestamp="1563360801377" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/cfg/ProcessEngineConfigurationImpl.java" timestamp="1563271185718" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileBaseInput.js" timestamp="1563438891246">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileBaseInput.js" timestamp="1563507733849">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1563431313549">
         <mark key="[" line="76" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileCheckboxsWidget.js" timestamp="1563504795053">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="23" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileCheckboxsWidget.js" timestamp="1563507935285">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
         <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+        <mark key="." line="23" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +310,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
