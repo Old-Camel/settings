@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1562066154446">
         <mark key="[" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1563785166473">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1563785796861">
         <mark key="a" line="1001" column="29" />
         <mark key="'" line="1438" column="44" />
-        <mark key="[" line="1001" column="15" />
-        <mark key="]" line="1001" column="29" />
-        <mark key="." line="1001" column="29" />
+        <mark key="[" line="1490" column="15" />
+        <mark key="]" line="1490" column="15" />
+        <mark key="." line="1490" column="15" />
         <mark key="^" line="1001" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileSelectWidget.js" timestamp="1563527325669">
@@ -357,7 +357,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>completeNodes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
