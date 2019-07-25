@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1563524511781">
         <mark key="[" line="59" column="82" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/ProcessDefinitionCacheEntry.java" timestamp="1564044256032" />
       <file name="/a.dummy" timestamp="1562574056895">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +54,9 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563270417001">
         <mark key="[" line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564045103712">
+        <mark key="[" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/UserTagSelect.js" timestamp="1562640547928">
         <mark key="[" line="7" column="41" />
@@ -152,6 +156,11 @@
       </file>
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
         <mark key="[" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/CustomProcessDefinitionCacheEntry.java" timestamp="1564045390986">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.less" timestamp="1561369855855">
         <mark key="[" line="6" column="24" />
@@ -390,39 +399,46 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHByb2Nlc3NHbG9iZWxTZXR0aW5ncykpewogICAgICAgICAgICAgICAgICAgIHJldHVybiAgc3VwZXIuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIH0=</text>
+        <text>//public CustomProcessDefinitionCacheEntry(ProcessDefinition processDefinition, BpmnModel bpmnModel, Process process) {
+    //    super(processDefinition, bpmnModel, process);
+    //}
+
+
+    public CustomProcessDefinitionCacheEntry() {
+        
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBTdHJpbmcgaWQgPSBTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0VXNlcklkKCk7CiAgICAgICAgQXV0aGVudGljYXRpb24uc2V0QXV0aGVudGljYXRlZFVzZXJJZChpZCk7CiAgICAgICAgU3RyaW5nIGtleSA9IChTdHJpbmcpIG1hcC5nZXQoImtleSIpOwogICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWFwLmdldCgibmFtZSIpOwogICAgICAgIFN0cmluZyBwcmlvcml0eSA9IChTdHJpbmcpIG1hcC5nZXQoInByaW9yaXR5Iik7CiAgICAgICAgSW50ZWdlciAgcHJpb3JpdHlWYWx1ZT0gSW50ZWdlci52YWx1ZU9mKHByaW9yaXR5KTsKICAgICAgICBtYXAucmVtb3ZlKCJrZXkiKTsKICAgICAgICBtYXAucmVtb3ZlKCJuYW1lIik7CiAgICAgICAgbWFwLnJlbW92ZSgicHJpb3JpdHkiKTsK</text>
+        <text encoding="base64">ICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHByb2Nlc3NHbG9iZWxTZXR0aW5ncykpewogICAgICAgICAgICAgICAgICAgIHJldHVybiAgc3VwZXIuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIGIuYWRkKGkpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICBTdHJpbmcgaWQgPSBTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0VXNlcklkKCk7CiAgICAgICAgQXV0aGVudGljYXRpb24uc2V0QXV0aGVudGljYXRlZFVzZXJJZChpZCk7CiAgICAgICAgU3RyaW5nIGtleSA9IChTdHJpbmcpIG1hcC5nZXQoImtleSIpOwogICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWFwLmdldCgibmFtZSIpOwogICAgICAgIFN0cmluZyBwcmlvcml0eSA9IChTdHJpbmcpIG1hcC5nZXQoInByaW9yaXR5Iik7CiAgICAgICAgSW50ZWdlciAgcHJpb3JpdHlWYWx1ZT0gSW50ZWdlci52YWx1ZU9mKHByaW9yaXR5KTsKICAgICAgICBtYXAucmVtb3ZlKCJrZXkiKTsKICAgICAgICBtYXAucmVtb3ZlKCJuYW1lIik7CiAgICAgICAgbWFwLnJlbW92ZSgicHJpb3JpdHkiKTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IEFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5ID0gQ29tbWFuZENvbnRleHRVdGlsLmdldFByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uKCkuZ2V0QWN0aXZpdHlCZWhhdmlvckZhY3RvcnkoKTsKICAgICAgICBVc2VyVGFza0FjdGl2aXR5QmVoYXZpb3IgdXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yMSA9IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5LmNyZWF0ZVVzZXJUYXNrQWN0aXZpdHlCZWhhdmlvcihudWxsKTsKICAgICAgICA=</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIGIuYWRkKGkpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IEFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5ID0gQ29tbWFuZENvbnRleHRVdGlsLmdldFByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uKCkuZ2V0QWN0aXZpdHlCZWhhdmlvckZhY3RvcnkoKTsKICAgICAgICBVc2VyVGFza0FjdGl2aXR5QmVoYXZpb3IgdXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yMSA9IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5LmNyZWF0ZVVzZXJUYXNrQWN0aXZpdHlCZWhhdmlvcihudWxsKTsKICAgICAgICA=</text>
+      </register>
+      <register name="6" type="4">
         <text>public FreeProcessAddNodeCommand(  ) {
 
 
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHB1YmxpYyBGcmVlUHJvY2Vzc0NhQ2hlSW1wbCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3peWFt+exuz09PT09PjoiK3RoaXMucmVkaXNVdGlsKTsKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFJlZGlzVGVtcGxhdGUoUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIE9iamVjdD4gcmVkaXNUZW1wbGF0ZSkgewogICAgICAgIHRoaXMucmVkaXNUZW1wbGF0ZSA9IHJlZGlzVGVtcGxhdGU7CiAgICB9</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>else {
 
         }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLyBpZiAoYXNzaWduZWUubGVuZ3RoID09IDApIHsKICAgIC8vICAgbWVzc2FnZS5lcnJvcigi5rWB56iL6K6+6K6h5pyJ6K+v77yM6K+36IGU57O757O757uf566h55CG5ZGYIikKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHRoaXMuc2V0U3RhdGUoe3NldFVzZXI6IHRydWV9KQogICAgLy8gfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
