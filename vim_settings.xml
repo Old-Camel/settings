@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuJumpCmd.java" timestamp="1563862331649">
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.7.RELEASE/spring-data-redis-2.0.7.RELEASE.jar!/org/springframework/data/redis/serializer/Jackson2JsonRedisSerializer.class" timestamp="1564106949550" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1563272337404">
         <mark key="[" line="64" column="34" />
       </file>
@@ -58,8 +59,8 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564047782262">
         <mark key="[" line="54" column="179" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564104249875">
-        <mark key="[" line="88" column="0" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564107885450">
+        <mark key="[" line="70" column="112" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/UserTagSelect.js" timestamp="1562640547928">
         <mark key="[" line="7" column="41" />
@@ -159,6 +160,11 @@
         <mark key="[" line="23" column="47" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/ProtostuffRedisSerializer.java" timestamp="1564107868753">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.less" timestamp="1561369855855">
         <mark key="[" line="6" column="24" />
@@ -395,7 +401,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
