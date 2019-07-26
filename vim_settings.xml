@@ -57,8 +57,10 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563270417001">
         <mark key="[" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564047782262">
-        <mark key="[" line="54" column="179" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564112038399">
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564107885450">
         <mark key="[" line="70" column="112" />
@@ -74,11 +76,6 @@
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1562207334680">
         <mark key="[" line="34" column="70" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1564051180867">
-        <mark key="[" line="59" column="53" />
-        <mark key="]" line="671" column="13" />
-        <mark key="." line="671" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1564043004244">
         <mark key="[" line="396" column="63" />
@@ -116,13 +113,9 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563930231011">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomProcessDefinitionCacheEntry.java" timestamp="1564111932969" />
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1561694385915">
         <mark key="[" line="83" column="97" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1564036332060">
-        <mark key="[" line="266" column="23" />
-        <mark key="]" line="266" column="23" />
-        <mark key="." line="266" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1564041049655">
         <mark key="[" line="32" column="24" />
@@ -138,6 +131,9 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1564024166961">
         <mark key="[" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomBpmnModel.java" timestamp="1564111996021">
+        <mark key="[" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1564051363128">
         <mark key="[" line="75" column="0" />
@@ -157,7 +153,7 @@
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
         <mark key="[" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/CustomProcessDefinitionCacheEntry.java" timestamp="1564054949866">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/CustomProcessDefinitionCacheEntry.java" timestamp="1564111804353">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
@@ -172,7 +168,7 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1564110258666" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1564048247242">
-        <mark key="[" line="72" column="12" />
+        <mark key="[" line="66" column="12" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1564104601914">
         <mark key="[" line="0" column="0" />
@@ -213,11 +209,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1563347193273">
         <mark key="[" line="155" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1563956123920">
-        <mark key="[" line="60" column="48" />
-        <mark key="]" line="60" column="48" />
-        <mark key="." line="60" column="48" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/application-local.yml" timestamp="1561543567952">
         <mark key="[" line="56" column="93" />
       </file>
@@ -233,12 +224,7 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1561543394868">
         <mark key="[" line="81" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/task.js" timestamp="1564037247811">
-        <mark key="[" line="98" column="28" />
-        <mark key="]" line="98" column="54" />
-        <mark key="." line="98" column="28" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/CustomDeploymentCache.java" timestamp="1564047996193">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/CustomDeploymentCache.java" timestamp="1564111782963">
         <mark key="[" line="58" column="44" />
         <mark key="]" line="58" column="44" />
         <mark key="." line="58" column="44" />
@@ -254,11 +240,6 @@
       </file>
       <file name="/fragment.java" timestamp="1564109841130">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessCaCheImpl.java" timestamp="1564047888451">
-        <mark key="[" line="54" column="65" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/config/config.js" timestamp="1563113759784">
         <mark key="[" line="119" column="21" />
@@ -406,7 +387,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>processDefinitionCacheEntry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
