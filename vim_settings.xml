@@ -35,9 +35,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/node_modules/antd-mobile/es/list/style/index.css" timestamp="1563534243166">
         <mark key="[" line="240" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomProcess.java" timestamp="1564135573979">
-        <mark key="[" line="21" column="52" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomProcess.java" timestamp="1564135919623" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/TaskService.java" timestamp="1564128943026" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1563520513581">
         <mark key="[" line="75" column="102" />
@@ -62,7 +60,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563270417001">
         <mark key="[" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564134751797">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564136330960">
         <mark key="'" line="72" column="41" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564107885450">
@@ -156,10 +154,10 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1561348236721">
         <mark key="[" line="67" column="80" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1564131037803">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="24" />
-        <mark key="." line="73" column="24" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1564136502455">
+        <mark key="[" line="75" column="14" />
+        <mark key="]" line="75" column="14" />
+        <mark key="." line="75" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1563524635138">
         <mark key="[" line="49" column="82" />
@@ -407,7 +405,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>convertBpmnModel</text>
+        <text>getExecutable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -416,12 +414,15 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhwcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkuZ2V0QnBtbk1vZGVsKCksY3VzdG9tQnBtbk1vZGVsKTsKICAgICAgICAgICAgICAgIE9iamVjdE91dHB1dFN0cmVhbSBvYmk9bnVsbDsKICAgICAgICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBiYWk9bnVsbDs=</text>
+        <text encoding="base64">ICBDb2xsZWN0aW9uPEZsb3dFbGVtZW50PiBmbG93RWxlbWVudHMgPSBwcm9jZXNzLmdldEZsb3dFbGVtZW50cygpOwogICAgICAgICAgICAgICAgZm9yIChGbG93RWxlbWVudCBmbG93RWxlbWVudCA6IGZsb3dFbGVtZW50cykgewogICAgICAgICAgICAgICAgICAgIGNvbnZlcnRQcm9jZXNzLmFkZEZsb3dFbGVtZW50KGZsb3dFbGVtZW50KTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhwcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkuZ2V0QnBtbk1vZGVsKCksY3VzdG9tQnBtbk1vZGVsKTsKICAgICAgICAgICAgICAgIE9iamVjdE91dHB1dFN0cmVhbSBvYmk9bnVsbDsKICAgICAgICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBiYWk9bnVsbDs=</text>
+      </register>
+      <register name="3" type="4">
         <text>try {
                     bai=new ByteArrayOutputStream();
                     obi=new ObjectOutputStream(bai);
@@ -432,20 +433,20 @@
                     e.printStackTrace();
                 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77yaYnIweAogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvYmluZzIwMTEvYXJ0aWNsZS9kZXRhaWxzLzgwMTA2MTkzCiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>---------------------
         作者：br0x
         来源：CSDN
         原文：https://blog.csdn.net/bing2011/article/details/80106193 
         版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg5L2c6ICF77yaYnIweAogICAg5p2l5rqQ77yaQ1NETgogICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JpbmcyMDExL2FydGljbGUvZGV0YWlscy84MDEwNjE5MyAKICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>//public CustomProcessDefinitionCacheEntry(ProcessDefinition processDefinition, BpmnModel bpmnModel, Process process) {
     //    super(processDefinition, bpmnModel, process);
     //}
@@ -455,14 +456,11 @@
         
     }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHByb2Nlc3NHbG9iZWxTZXR0aW5ncykpewogICAgICAgICAgICAgICAgICAgIHJldHVybiAgc3VwZXIuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBTdHJpbmcgaWQgPSBTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0VXNlcklkKCk7CiAgICAgICAgQXV0aGVudGljYXRpb24uc2V0QXV0aGVudGljYXRlZFVzZXJJZChpZCk7CiAgICAgICAgU3RyaW5nIGtleSA9IChTdHJpbmcpIG1hcC5nZXQoImtleSIpOwogICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWFwLmdldCgibmFtZSIpOwogICAgICAgIFN0cmluZyBwcmlvcml0eSA9IChTdHJpbmcpIG1hcC5nZXQoInByaW9yaXR5Iik7CiAgICAgICAgSW50ZWdlciAgcHJpb3JpdHlWYWx1ZT0gSW50ZWdlci52YWx1ZU9mKHByaW9yaXR5KTsKICAgICAgICBtYXAucmVtb3ZlKCJrZXkiKTsKICAgICAgICBtYXAucmVtb3ZlKCJuYW1lIik7CiAgICAgICAgbWFwLnJlbW92ZSgicHJpb3JpdHkiKTsK</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIGIuYWRkKGkpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICBTdHJpbmcgaWQgPSBTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0VXNlcklkKCk7CiAgICAgICAgQXV0aGVudGljYXRpb24uc2V0QXV0aGVudGljYXRlZFVzZXJJZChpZCk7CiAgICAgICAgU3RyaW5nIGtleSA9IChTdHJpbmcpIG1hcC5nZXQoImtleSIpOwogICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWFwLmdldCgibmFtZSIpOwogICAgICAgIFN0cmluZyBwcmlvcml0eSA9IChTdHJpbmcpIG1hcC5nZXQoInByaW9yaXR5Iik7CiAgICAgICAgSW50ZWdlciAgcHJpb3JpdHlWYWx1ZT0gSW50ZWdlci52YWx1ZU9mKHByaW9yaXR5KTsKICAgICAgICBtYXAucmVtb3ZlKCJrZXkiKTsKICAgICAgICBtYXAucmVtb3ZlKCJuYW1lIik7CiAgICAgICAgbWFwLnJlbW92ZSgicHJpb3JpdHkiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
