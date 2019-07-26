@@ -18,7 +18,6 @@
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1563524511781">
         <mark key="[" line="59" column="82" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/ProcessDefinitionCacheEntry.java" timestamp="1564047524479" />
       <file name="/a.dummy" timestamp="1562574056895">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,6 +45,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1563765957155">
         <mark key="[" line="41" column="33" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/common/pom.xml" timestamp="1564104564843">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/CustomTaskService.java" timestamp="1563760910292">
         <mark key="[" line="27" column="88" />
       </file>
@@ -58,12 +62,17 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564047782262">
         <mark key="[" line="54" column="179" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564050983316" />
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564104249875">
+        <mark key="[" line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/UserTagSelect.js" timestamp="1562640547928">
         <mark key="[" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/TaskModel.java" timestamp="1563875417992">
         <mark key="[" line="17" column="24" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1564104602867">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1562207334680">
         <mark key="[" line="34" column="70" />
@@ -100,7 +109,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/utils.js" timestamp="1563777422952">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/FlowableApplication.java" timestamp="1564050011412" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/RedisLockUtil.java" timestamp="1563781759982">
         <mark key="[" line="44" column="60" />
       </file>
@@ -151,7 +159,7 @@
       <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
         <mark key="[" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/CustomProcessDefinitionCacheEntry.java" timestamp="1564047656295">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/CustomProcessDefinitionCacheEntry.java" timestamp="1564054949866">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
@@ -162,8 +170,17 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1564048247242">
         <mark key="[" line="72" column="12" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1564104601914">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/Davinci/webapp/app/containers/App/index.tsx" timestamp="1561964083732">
         <mark key="[" line="37" column="34" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/ProtostuffUtil.java" timestamp="1564104423245">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/RoleTagSelect.js" timestamp="1562136566534">
         <mark key="[" line="4" column="23" />
@@ -391,6 +408,22 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77yaYnIweAogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvYmluZzIwMTEvYXJ0aWNsZS9kZXRhaWxzLzgwMTA2MTkzCiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>---------------------
+        作者：br0x
+        来源：CSDN
+        原文：https://blog.csdn.net/bing2011/article/details/80106193 
+        版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg5L2c6ICF77yaYnIweAogICAg5p2l5rqQ77yaQ1NETgogICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JpbmcyMDExL2FydGljbGUvZGV0YWlscy84MDEwNjE5MyAKICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
+      </register>
+      <register name="4" type="4">
         <text>//public CustomProcessDefinitionCacheEntry(ProcessDefinition processDefinition, BpmnModel bpmnModel, Process process) {
     //    super(processDefinition, bpmnModel, process);
     //}
@@ -400,37 +433,23 @@
         
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHByb2Nlc3NHbG9iZWxTZXR0aW5ncykpewogICAgICAgICAgICAgICAgICAgIHJldHVybiAgc3VwZXIuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBTdHJpbmcgaWQgPSBTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0VXNlcklkKCk7CiAgICAgICAgQXV0aGVudGljYXRpb24uc2V0QXV0aGVudGljYXRlZFVzZXJJZChpZCk7CiAgICAgICAgU3RyaW5nIGtleSA9IChTdHJpbmcpIG1hcC5nZXQoImtleSIpOwogICAgICAgIFN0cmluZyBuYW1lID0gKFN0cmluZykgbWFwLmdldCgibmFtZSIpOwogICAgICAgIFN0cmluZyBwcmlvcml0eSA9IChTdHJpbmcpIG1hcC5nZXQoInByaW9yaXR5Iik7CiAgICAgICAgSW50ZWdlciAgcHJpb3JpdHlWYWx1ZT0gSW50ZWdlci52YWx1ZU9mKHByaW9yaXR5KTsKICAgICAgICBtYXAucmVtb3ZlKCJrZXkiKTsKICAgICAgICBtYXAucmVtb3ZlKCJuYW1lIik7CiAgICAgICAgbWFwLnJlbW92ZSgicHJpb3JpdHkiKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIGIuYWRkKGkpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IEFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5ID0gQ29tbWFuZENvbnRleHRVdGlsLmdldFByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uKCkuZ2V0QWN0aXZpdHlCZWhhdmlvckZhY3RvcnkoKTsKICAgICAgICBVc2VyVGFza0FjdGl2aXR5QmVoYXZpb3IgdXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yMSA9IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5LmNyZWF0ZVVzZXJUYXNrQWN0aXZpdHlCZWhhdmlvcihudWxsKTsKICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>public FreeProcessAddNodeCommand(  ) {
 
 
     }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHB1YmxpYyBGcmVlUHJvY2Vzc0NhQ2hlSW1wbCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW3peWFt+exuz09PT09PjoiK3RoaXMucmVkaXNVdGlsKTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFJlZGlzVGVtcGxhdGUoUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIE9iamVjdD4gcmVkaXNUZW1wbGF0ZSkgewogICAgICAgIHRoaXMucmVkaXNUZW1wbGF0ZSA9IHJlZGlzVGVtcGxhdGU7CiAgICB9</text>
-      </register>
-      <register name="9" type="4">
-        <text>else {
-
-        }</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
