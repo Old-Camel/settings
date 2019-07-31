@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563270417001">
         <mark key="[" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1564480858564">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1564543126936">
         <mark key="'" line="294" column="15" />
         <mark key="[" line="538" column="0" />
         <mark key="]" line="443" column="0" />
@@ -77,11 +77,11 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1561348236721">
         <mark key="[" line="67" column="80" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1564482462449">
-        <mark key="[" line="112" column="36" />
-        <mark key="]" line="112" column="36" />
-        <mark key="." line="112" column="36" />
-        <mark key="^" line="109" column="67" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1564543046438">
+        <mark key="[" line="84" column="14" />
+        <mark key="]" line="84" column="14" />
+        <mark key="." line="84" column="14" />
+        <mark key="^" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1563524635138">
         <mark key="[" line="49" column="82" />
@@ -154,12 +154,11 @@
       <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/JudgeAssigneeResult.java" timestamp="1562203262398">
         <mark key="[" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564542067821">
-        <mark key="'" line="82" column="41" />
-        <mark key="[" line="135" column="68" />
-        <mark key="]" line="135" column="68" />
-        <mark key="^" line="135" column="44" />
-        <mark key="." line="135" column="68" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ActivityCompleteListener.java" timestamp="1564543745395">
+        <mark key="'" line="81" column="41" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564469529383">
         <mark key="[" line="72" column="32" />
@@ -205,11 +204,16 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/RoleUserSelect.js" timestamp="1563792846754">
         <mark key="[" line="193" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1564480772527">
-        <mark key="[" line="85" column="54" />
-        <mark key="]" line="85" column="54" />
-        <mark key="^" line="43" column="96" />
-        <mark key="." line="85" column="54" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomProcessDefinitionCacheEntry.java" timestamp="1564542352616">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1564542800884">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="131" column="54" />
+        <mark key="^" line="52" column="96" />
+        <mark key="." line="131" column="54" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1563862339947">
         <mark key="[" line="166" column="0" />
@@ -227,11 +231,11 @@
         <mark key="[" line="33" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.40/fastjson-1.2.40.jar!/com/alibaba/fastjson/support/spring/FastJsonRedisSerializer.class" timestamp="1564469064161" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1564476748635">
-        <mark key="[" line="186" column="30" />
-        <mark key="]" line="186" column="30" />
-        <mark key="^" line="186" column="14" />
-        <mark key="." line="186" column="30" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1564543151150">
+        <mark key="[" line="166" column="11" />
+        <mark key="]" line="166" column="11" />
+        <mark key="^" line="184" column="14" />
+        <mark key="." line="166" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/Davinci/webapp/app/containers/App/index.tsx" timestamp="1561964083732">
         <mark key="[" line="37" column="34" />
@@ -280,8 +284,8 @@
       <file name="/fragment.java" timestamp="1564109841130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessCaCheImpl.java" timestamp="1564471229974">
-        <mark key="[" line="42" column="24" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessCaCheImpl.java" timestamp="1564542295871">
+        <mark key="[" line="43" column="47" />
         <mark key="]" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
@@ -428,7 +432,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>xmlBytes</text>
+        <text>IOException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -437,12 +441,55 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEFycmF5TGlzdDxTdHJpbmc+IHByaXZpbGVnZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtaWRtIik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLW1vZGVsZXIiKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtdGFzayIpOwogICAgICAgIHByaXZpbGVnZXMuYWRkKCJmbG93YWJsZS1yZXN0Iik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLWFkbWluIik7</text>
+        <text encoding="base64">IEN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeSBjdXN0b21Qcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkgPSBuZXcgQ3VzdG9tUHJvY2Vzc0RlZmluaXRpb25DYWNoZUVudHJ5KCk7CiAgICAgICAgICAgIGN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeS5zZXRCcG1uTW9kZWwobmV3SnNvbik7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBmb3IgKEZsb3dFbGVtZW50IGVsZW1lbnQgOiBwcm9jZXNzLmdldEZsb3dFbGVtZW50cygpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYoZWxlbWVudCBpbnN0YW5jZW9mICBVc2VyVGFzayl7CiAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJUYXNrIHV0ID0gKFVzZXJUYXNrKSBlbGVtZW50OwogICAgICAgICAgICAgICAgICAgICAgICBVc2VyVGFza0FjdGl2aXR5QmVoYXZpb3IgdXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yID0gYWN0aXZpdHlCZWhhdmlvckZhY3RvcnkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY3JlYXRlVXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yKHV0KTsKICAgICAgICAgICAgICAgICAgICAgICAgdXQuc2V0QmVoYXZpb3IodXNlclRhc2tBY3Rpdml0eUJlaGF2aW9yKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYoZWxlbWVudCBpbnN0YW5jZW9mICBTdGFydEV2ZW50KXsKICAgICAgICAgICAgICAgICAgICAgICAgU3RhcnRFdmVudCBzZSA9IChTdGFydEV2ZW50KSBlbGVtZW50OwogICAgICAgICAgICAgICAgICAgICAgICBOb25lU3RhcnRFdmVudEFjdGl2aXR5QmVoYXZpb3Igbm9uZVN0YXJ0RXZlbnRBY3Rpdml0eUJlaGF2aW9yID0gYWN0aXZpdHlCZWhhdmlvckZhY3RvcnkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY3JlYXRlTm9uZVN0YXJ0RXZlbnRBY3Rpdml0eUJlaGF2aW9yKHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2Uuc2V0QmVoYXZpb3Iobm9uZVN0YXJ0RXZlbnRBY3Rpdml0eUJlaGF2aW9yKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYoZWxlbWVudCBpbnN0YW5jZW9mICBFbmRFdmVudCl7CiAgICAgICAgICAgICAgICAgICAgICAgIEVuZEV2ZW50IGVlID0gKEVuZEV2ZW50KSBlbGVtZW50OwogICAgICAgICAgICAgICAgICAgICAgICBOb25lRW5kRXZlbnRBY3Rpdml0eUJlaGF2aW9yIG5vbmVFbmRFdmVudEFjdGl2aXR5QmVoYXZpb3IgPSBhY3Rpdml0eUJlaGF2aW9yRmFjdG9yeQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jcmVhdGVOb25lRW5kRXZlbnRBY3Rpdml0eUJlaGF2aW9yKGVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgZWUuc2V0QmVoYXZpb3Iobm9uZUVuZEV2ZW50QWN0aXZpdHlCZWhhdmlvcik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmKGVsZW1lbnQgaW5zdGFuY2VvZiAgU2VxdWVuY2VGbG93KXsKICAgICAgICAgICAgICAgICAgICAgICAgU2VxdWVuY2VGbG93IHNmID0gKFNlcXVlbmNlRmxvdykgZWxlbWVudDsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHNvdXJjZVJlZiA9IHNmLmdldFNvdXJjZVJlZigpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdGFyZ2V0UmVmID0gc2YuZ2V0VGFyZ2V0UmVmKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIEZsb3dFbGVtZW50IHNvdXJjZSA9IHByb2Nlc3MuZ2V0Rmxvd0VsZW1lbnQoc291cmNlUmVmKTsKICAgICAgICAgICAgICAgICAgICAgICAgRmxvd0VsZW1lbnQgdGFyZ2V0ID0gcHJvY2Vzcy5nZXRGbG93RWxlbWVudCh0YXJnZXRSZWYpOwogICAgICAgICAgICAgICAgICAgICAgICBzZi5zZXRUYXJnZXRGbG93RWxlbWVudCh0YXJnZXQpOwogICAgICAgICAgICAgICAgICAgICAgICBzZi5zZXRTb3VyY2VGbG93RWxlbWVudChzb3VyY2UpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgQnBtblhNTENvbnZlcnRlciBicG1uWE1MQ29udmVydGVyID0gbmV3IEJwbW5YTUxDb252ZXJ0ZXIoKTsKICAgICAgICAgICAgICAgIE1vZGVsU2VydmljZSBtb2RlbFNlcnZpY2UgPSBTcHJpbmdVdGlsLmdldEJlYW4oTW9kZWxTZXJ2aWNlLmNsYXNzKTsKICAgICAgICAgICAgICAgIGJ5dGVbXSB4bWxCeXRlcyA9IG1vZGVsU2VydmljZS5nZXRCcG1uWE1MKGJwbW5Nb2RlbCk7CgogICAgICAgICAgICAgICAgU3RyaW5nIHMyPW51bGw7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICBzMiA9IG5ldyBTdHJpbmcoeG1sQnl0ZXMsICJVVEYtOCIpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN0cmluZyBzMSA9IHhtbEJ5dGVzLnRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICBieXRlW10gYnl0ZXMgPSBzMS5nZXRCeXRlcygpOwoKICAgICAgICAgICAgICAgIElucHV0U3RyZWFtIGluPSBudWxsOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpbiA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShzMi5nZXRCeXRlcygiVVRGLTgiKSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy/or7vlj5Z4bWzmlofku7YKICAgICAgICAgICAgICAgIFhNTElucHV0RmFjdG9yeSBmYWN0b3J5ID0gWE1MSW5wdXRGYWN0b3J5Lm5ld0luc3RhbmNlKCk7CiAgICAgICAgICAgICAgICBYTUxTdHJlYW1SZWFkZXIgcmVhZGVyID0gbnVsbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVhZGVyID0gZmFjdG9yeS5jcmVhdGVYTUxTdHJlYW1SZWFkZXIoaW4pOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoWE1MU3RyZWFtRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8v5bCGeG1s5paH5Lu26L2s5o2i5oiQQnBtbk1vZGVsCiAgICAgICAgICAgICAgICBCcG1uTW9kZWwgYnBtbk1vZGVsMSA9IGJwbW5YTUxDb252ZXJ0ZXIuY29udmVydFRvQnBtbk1vZGVsKChYTUxTdHJlYW1SZWFkZXIpIHJlYWRlcik7CgoKICAgICAgICAgICAgICAgIE9iamVjdE5vZGUganNvbk5vZGVzID0gY3VzdG9tQnBtbkpzb25Db252ZXJ0ZXIuY29udmVydFRvSnNvbihicG1uTW9kZWwpOwogICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBqc29uTm9kZXMudG9TdHJpbmcoKTsKCiAgICAgICAgICAgICAgICBKc29uTm9kZSBqc29uTm9kZSA9IG51bGw7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb25Ob2RlID0gbmV3IE9iamVjdE1hcHBlcigpLnJlYWRUcmVlKHMpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBCcG1uTW9kZWwgYnBtbk1vZGVsMiA9IFByb2Nlc3NEZWZpbml0aW9uVXRpbC5nZXRCcG1uTW9kZWwoInVzZXJ0YXNrOjQ6MzZjZjU5OTMtOTcxMC0xMWU5LWIzYWEtMDIyNDliNTI2ZjY0Iik7CgogICAgICAgICAgICAgICAgQnBtbk1vZGVsIGJwbW5Nb2RlbDEyID0gY3VzdG9tQnBtbkpzb25Db252ZXJ0ZXIuY29udmVydFRvQnBtbk1vZGVsKGpzb25Ob2RlKTsKICAgICAgICAgICAgICAgIEJwbW5QYXJzZXIgYnBtblBhcnNlciA9IHByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uLmdldEJwbW5QYXJzZXIoKTsKICAgICAgICAgICAgICAgIFN0cmluZyBkZXBsb3ltZW50SWQgPSBwcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkuZ2V0UHJvY2Vzc0RlZmluaXRpb24oKS5nZXREZXBsb3ltZW50SWQoKTsKICAgICAgICAgICAgICAgIFN0cmluZyByZXNvdXJjZU5hbWUgPSBwcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkuZ2V0UHJvY2Vzc0RlZmluaXRpb24oKS5nZXRSZXNvdXJjZU5hbWUoKTsKICAgICAgICAgICAgICAgIERlcGxveW1lbnRFbnRpdHkgZGVwbG95bWVudCA9IGRlcGxveW1lbnRFbnRpdHlNYW5hZ2VyLmZpbmRCeUlkKGRlcGxveW1lbnRJZCk7CiAgICAgICAgICAgICAgICBCcG1uUGFyc2UgYnBtblBhcnNlID0gYnBtblBhcnNlci5jcmVhdGVQYXJzZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zb3VyY2VJbnB1dFN0cmVhbShuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFNvdXJjZVN5c3RlbUlkKHJlc291cmNlTmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgLmRlcGxveW1lbnQoZGVwbG95bWVudCkKICAgICAgICAgICAgICAgICAgICAgICAgLm5hbWUocmVzb3VyY2VOYW1lKTsKCgoKICAgICAgICAgICAgICAgIGJwbW5QYXJzZS5zZXRWYWxpZGF0ZVNjaGVtYShmYWxzZSk7CiAgICAgICAgICAgICAgICBicG1uUGFyc2Uuc2V0VmFsaWRhdGVQcm9jZXNzKGZhbHNlKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgYnBtblBhcnNlLmV4ZWN1dGUoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGludCBhPTEvMDsKICAgICAgICAgICAgICAgIGN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeS5zZXRCcG1uTW9kZWwoanNvbk5vZGVzLnRvU3RyaW5nKCkpOw==</text>
+      </register>
+      <register name="6" type="4">
+        <text>BpmnModel bpmnModel2 = ProcessDefinitionUtil.getBpmnModel(&quot;usertask:4:36cf5993-9710-11e9-b3aa-02249b526f64&quot;);
+
+                BpmnModel bpmnModel12 = customBpmnJsonConverter.convertToBpmnModel(jsonNode);
+                BpmnParser bpmnParser = processEngineConfiguration.getBpmnParser();
+                String deploymentId = processDefinitionCacheEntry.getProcessDefinition().getDeploymentId();
+                String resourceName = processDefinitionCacheEntry.getProcessDefinition().getResourceName();
+                DeploymentEntity deployment = deploymentEntityManager.findById(deploymentId);
+                BpmnParse bpmnParse = bpmnParser.createParse()
+                        .sourceInputStream(new ByteArrayInputStream())
+                        .setSourceSystemId(resourceName)
+                        .deployment(deployment)
+                        .name(resourceName);
+
+
+
+                bpmnParse.setValidateSchema(false);
+                bpmnParse.setValidateProcess(false);
+                try {
+                    bpmnParse.execute();
+                } catch (Exception e) {
+                    throw e;
+                }
+                int a=1/0;
+                customProcessDefinitionCacheEntry.setBpmnModel(jsonNodes.toString());
+                FreeProcessCaChe cache = SpringUtil.getBean(FreeProcessCaChe.class);
+                JdkSerializationRedisSerializer jdkSerializationRedisSerializer = new JdkSerializationRedisSerializer();</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IEFycmF5TGlzdDxTdHJpbmc+IHByaXZpbGVnZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtaWRtIik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLW1vZGVsZXIiKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtdGFzayIpOwogICAgICAgIHByaXZpbGVnZXMuYWRkKCJmbG93YWJsZS1yZXN0Iik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLWFkbWluIik7</text>
+      </register>
+      <register name="8" type="4">
         <text>@Autowired
     private RepositoryService repositoryService;
     @Autowired
@@ -450,7 +497,7 @@
     @Autowired
     private TaskService taskService;</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>if(flowElement instanceof UserTask){
 
     UserTask u=(UserTask) flowElement;
@@ -459,30 +506,6 @@
         System.out.println(1);
     }
 }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IE5vbmVFbmRFdmVudEFjdGl2aXR5QmVoYXZpb3Igbm9uZUVuZEV2ZW50QWN0aXZpdHlCZWhhdmlvciA9IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNyZWF0ZU5vbmVFbmRFdmVudEFjdGl2aXR5QmVoYXZpb3IoZWUpOwogICAgICAgICAgICAgICAgICAgICAgICBlZS5zZXRCZWhhdmlvcihub25lRW5kRXZlbnRBY3Rpdml0eUJlaGF2aW9yKTs=</text>
-      </register>
-      <register name="5" type="4">
-        <text>UserTaskActivityBehavior userTaskActivityBehavior = activityBehaviorFactory
-                                .createUserTaskActivityBehavior(ut);</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gPFRhZyBzdHlsZT17eyAgICBjb2xvcjogI2ZhOGMxNjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvL2lmIChleHRlbnNpb25FbGVtZW50cyAhPSBudWxsICYmICghZXh0ZW5zaW9uRWxlbWVudHMuaXNFbXB0eSgpKSkgewogICAgICAgIC8vICAgIEV4dGVuc2lvbkVsZW1lbnQgZXh0ZW5zaW9uRWxlbWVudCA9IGV4dGVuc2lvbkVsZW1lbnRzLmdldCgwKTsKICAgICAgICAvLyAgICBTdHJpbmcgZWxlbWVudFRleHQgPSBleHRlbnNpb25FbGVtZW50LmdldEVsZW1lbnRUZXh0KCk7CiAgICAgICAgLy8gICAganNvbk9iamVjdCA9IEpTT04ucGFyc2VPYmplY3QoZWxlbWVudFRleHQpOwogICAgICAgIC8vfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">SlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICBQcm9jZXNzIG1haW5Qcm9jZXNzID0gYnBtbk1vZGVsLmdldE1haW5Qcm9jZXNzKCk7CiAgICAgICAgU3RyaW5nIHByb2Nlc3NHbG9iZWxTZXR0aW5ncyA9ICJwcm9jZXNzR2xvYmVsU2V0dGluZ3MiOwogICAgICAgIExpc3Q8RXh0ZW5zaW9uRWxlbWVudD4gZXh0ZW5zaW9uRWxlbWVudHMgPSBtYWluUHJvY2Vzcy5nZXRFeHRlbnNpb25FbGVtZW50cygpLmdldChwcm9jZXNzR2xvYmVsU2V0dGluZ3MpOwogICAgICAgIGlmIChleHRlbnNpb25FbGVtZW50cyAhPSBudWxsICYmICghZXh0ZW5zaW9uRWxlbWVudHMuaXNFbXB0eSgpKSkgewogICAgICAgICAgICBFeHRlbnNpb25FbGVtZW50IGV4dGVuc2lvbkVsZW1lbnQgPSBleHRlbnNpb25FbGVtZW50cy5nZXQoMCk7CiAgICAgICAgICAgIFN0cmluZyBlbGVtZW50VGV4dCA9IGV4dGVuc2lvbkVsZW1lbnQuZ2V0RWxlbWVudFRleHQoKTsKICAgICAgICAgICAgZWxlbWVudFRleHQgPSBlbGVtZW50VGV4dC5yZXBsYWNlQWxsKCJcXFxcIiwgIiIpOwogICAgICAgICAgICBpZighZWxlbWVudFRleHQuc3RhcnRzV2l0aCgieyIpKXsKICAgICAgICAgICAgICAgIGVsZW1lbnRUZXh0ID0gZWxlbWVudFRleHQuc3Vic3RyaW5nKDEsIGVsZW1lbnRUZXh0Lmxlbmd0aCgpIC0gMSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAganNvbk9iamVjdCA9IEpTT05PYmplY3QucGFyc2VPYmplY3QoZWxlbWVudFRleHQpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>try {
-
-            bpmnModel = FlowUtils.convertJsonToModel(customBpmnJsonConverter, json);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
