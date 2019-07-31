@@ -64,7 +64,7 @@
         <mark key="]" line="267" column="23" />
         <mark key="." line="267" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/DeploymentManager.java" timestamp="1564536589611" />
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/DeploymentManager.java" timestamp="1564537203511" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1563932797383">
         <mark key="[" line="59" column="14" />
       </file>
@@ -267,6 +267,12 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1564480988121">
         <mark key="[" line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/RemoteAccountController.java" timestamp="1564537509402">
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="5" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessHistoryMapper.xml" timestamp="1564477928349">
         <mark key="[" line="18" column="31" />
       </file>
@@ -433,6 +439,20 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IEFycmF5TGlzdDxTdHJpbmc+IHByaXZpbGVnZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtaWRtIik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLW1vZGVsZXIiKTsKICAgICAgICBwcml2aWxlZ2VzLmFkZCgiZmxvd2FibGUtdGFzayIpOwogICAgICAgIHByaXZpbGVnZXMuYWRkKCJmbG93YWJsZS1yZXN0Iik7CiAgICAgICAgcHJpdmlsZWdlcy5hZGQoImZsb3dhYmxlLWFkbWluIik7</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>@Autowired
+    private RepositoryService repositoryService;
+    @Autowired
+    private RuntimeService runtimeService;
+    @Autowired
+    private TaskService taskService;</text>
+      </register>
+      <register name="3" type="4">
         <text>if(flowElement instanceof UserTask){
 
     UserTask u=(UserTask) flowElement;
@@ -442,38 +462,29 @@
     }
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IE5vbmVFbmRFdmVudEFjdGl2aXR5QmVoYXZpb3Igbm9uZUVuZEV2ZW50QWN0aXZpdHlCZWhhdmlvciA9IGFjdGl2aXR5QmVoYXZpb3JGYWN0b3J5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNyZWF0ZU5vbmVFbmRFdmVudEFjdGl2aXR5QmVoYXZpb3IoZWUpOwogICAgICAgICAgICAgICAgICAgICAgICBlZS5zZXRCZWhhdmlvcihub25lRW5kRXZlbnRBY3Rpdml0eUJlaGF2aW9yKTs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>UserTaskActivityBehavior userTaskActivityBehavior = activityBehaviorFactory
                                 .createUserTaskActivityBehavior(ut);</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gPFRhZyBzdHlsZT17eyAgICBjb2xvcjogI2ZhOGMxNjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAvL2lmIChleHRlbnNpb25FbGVtZW50cyAhPSBudWxsICYmICghZXh0ZW5zaW9uRWxlbWVudHMuaXNFbXB0eSgpKSkgewogICAgICAgIC8vICAgIEV4dGVuc2lvbkVsZW1lbnQgZXh0ZW5zaW9uRWxlbWVudCA9IGV4dGVuc2lvbkVsZW1lbnRzLmdldCgwKTsKICAgICAgICAvLyAgICBTdHJpbmcgZWxlbWVudFRleHQgPSBleHRlbnNpb25FbGVtZW50LmdldEVsZW1lbnRUZXh0KCk7CiAgICAgICAgLy8gICAganNvbk9iamVjdCA9IEpTT04ucGFyc2VPYmplY3QoZWxlbWVudFRleHQpOwogICAgICAgIC8vfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">SlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICBQcm9jZXNzIG1haW5Qcm9jZXNzID0gYnBtbk1vZGVsLmdldE1haW5Qcm9jZXNzKCk7CiAgICAgICAgU3RyaW5nIHByb2Nlc3NHbG9iZWxTZXR0aW5ncyA9ICJwcm9jZXNzR2xvYmVsU2V0dGluZ3MiOwogICAgICAgIExpc3Q8RXh0ZW5zaW9uRWxlbWVudD4gZXh0ZW5zaW9uRWxlbWVudHMgPSBtYWluUHJvY2Vzcy5nZXRFeHRlbnNpb25FbGVtZW50cygpLmdldChwcm9jZXNzR2xvYmVsU2V0dGluZ3MpOwogICAgICAgIGlmIChleHRlbnNpb25FbGVtZW50cyAhPSBudWxsICYmICghZXh0ZW5zaW9uRWxlbWVudHMuaXNFbXB0eSgpKSkgewogICAgICAgICAgICBFeHRlbnNpb25FbGVtZW50IGV4dGVuc2lvbkVsZW1lbnQgPSBleHRlbnNpb25FbGVtZW50cy5nZXQoMCk7CiAgICAgICAgICAgIFN0cmluZyBlbGVtZW50VGV4dCA9IGV4dGVuc2lvbkVsZW1lbnQuZ2V0RWxlbWVudFRleHQoKTsKICAgICAgICAgICAgZWxlbWVudFRleHQgPSBlbGVtZW50VGV4dC5yZXBsYWNlQWxsKCJcXFxcIiwgIiIpOwogICAgICAgICAgICBpZighZWxlbWVudFRleHQuc3RhcnRzV2l0aCgieyIpKXsKICAgICAgICAgICAgICAgIGVsZW1lbnRUZXh0ID0gZWxlbWVudFRleHQuc3Vic3RyaW5nKDEsIGVsZW1lbnRUZXh0Lmxlbmd0aCgpIC0gMSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAganNvbk9iamVjdCA9IEpTT05PYmplY3QucGFyc2VPYmplY3QoZWxlbWVudFRleHQpOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>try {
 
             bpmnModel = FlowUtils.convertJsonToModel(customBpmnJsonConverter, json);
         } catch (IOException e) {
             e.printStackTrace();
         }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBCcG1uTW9kZWwgYnBtbk1vZGVsMT1udWxsOwoKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICBicG1uTW9kZWwxID0gRmxvd1V0aWxzLmNvbnZlcnRKc29uVG9Nb2RlbChjdXN0b21CcG1uSnNvbkNvbnZlcnRlciwgbmV3SnNvbik7CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiZGQiKTsKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vcnVudGltZVNlcnZpY2UuY3JlYXRlQ2hhbmdlQWN0aXZpdHlTdGF0ZUJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLy8gICAgICAgIC5wcm9jZXNzSW5zdGFuY2VJZChwcm9jZXNzSW5zdGFuY2VJZCkKICAgICAgICAgICAgICAgIC8vICAgICAgICAubW92ZUFjdGl2aXR5SWRUbyhjdXJyZW50QWN0aXZpdHlJZCwgbmV3QWN0aXZpdHlJZCkKICAgICAgICAgICAgICAgIC8vICAgICAgICAuY2hhbmdlU3RhdGUoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
