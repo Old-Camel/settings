@@ -31,7 +31,7 @@
         <mark key="." line="93" column="4" />
         <mark key="^" line="448" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1564730105631">
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1564733391642">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
@@ -64,11 +64,11 @@
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/bpmn/parser/handler/ProcessParseHandler.java" timestamp="1564541359602" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1564713579917" />
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1564562061146" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1564729017848">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1564733958755">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1564564845412">
         <mark key="[" line="34" column="0" />
@@ -109,6 +109,7 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramCanvas.class" timestamp="1564651432244" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1564565566782" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/FileWidget.js" timestamp="1564733425157" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Todo.js" timestamp="1564655266284">
         <mark key="[" line="409" column="20" />
         <mark key="]" line="409" column="20" />
@@ -313,7 +314,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>flow</text>
+        <text>textarea</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
