@@ -3,38 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuJumpCmd.java" timestamp="1563862331649">
-        <mark key="[" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1563272337404">
-        <mark key="[" line="64" column="34" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessHistory.java" timestamp="1564477907069" />
-      <file name="/a.dummy" timestamp="1564472941882">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileTextWidget.js" timestamp="1563436549747">
-        <mark key="[" line="5" column="19" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MultiInstanceListener.java" timestamp="1564564403276" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/IdmProcessEngineConfiguration.java" timestamp="1564712331786" />
-      <file name="$USER_HOME$/data/code/cloud/auth-center/istio/istio-svc-dpt.yaml" timestamp="1563520513581">
-        <mark key="[" line="75" column="102" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/FormServiceTest.java" timestamp="1562118209663">
-        <mark key="[" line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1564564406677">
         <mark key="[" line="41" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/CustomTaskService.java" timestamp="1563760910292">
-        <mark key="[" line="27" column="88" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/agenda/ContinueProcessOperation.java" timestamp="1564481668635">
         <mark key="[" line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/GetProcessDefinitionCacheEntryCmd.java" timestamp="1563270417001">
-        <mark key="[" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/PraseBpmnModelCmd.java" timestamp="1564628163672">
         <mark key="[" line="13" column="2" />
@@ -43,6 +19,11 @@
         <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/resources/bootstrap.properties" timestamp="1564628839565" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1564716733038">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1564655948124">
         <mark key="'" line="299" column="15" />
         <mark key="[" line="93" column="4" />
@@ -50,23 +31,11 @@
         <mark key="." line="93" column="4" />
         <mark key="^" line="448" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/FormServiceTest.java" timestamp="1564026220466">
-        <mark key="[" line="51" column="25" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1564648197146">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/FlowableApplication.java" timestamp="1564629140123">
-        <mark key="[" line="39" column="52" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/GetProcessDefinitionCacheEntryCmd.java" timestamp="1564449815151">
-        <mark key="[" line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1564481136023">
         <mark key="[" line="169" column="114" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1561694385915">
-        <mark key="[" line="83" column="97" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1564627590853">
         <mark key="[" line="351" column="0" />
@@ -75,17 +44,11 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1564648620967" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/DeploymentManager.java" timestamp="1564541613020" />
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1563932797383">
-        <mark key="[" line="59" column="14" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowDesign.js" timestamp="1564713280288">
         <mark key="[" line="578" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1564535154583">
         <mark key="[" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ShareniuMuliInstanceJump.java" timestamp="1561348236721">
-        <mark key="[" line="67" column="80" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1564625675672">
         <mark key="[" line="65" column="35" />
@@ -93,48 +56,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="83" column="15" />
       </file>
-      <file name="/console" timestamp="1564623941180">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1563524635138">
-        <mark key="[" line="49" column="82" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.7.RELEASE/spring-data-redis-2.0.7.RELEASE.jar!/org/springframework/data/redis/serializer/RedisSerializer.class" timestamp="1564469049106" />
-      <file name="$USER_HOME$/data/code/newdemo/jpa/jpa-core/src/test/java/StudentTest.java" timestamp="1561367916549">
-        <mark key="[" line="24" column="35" />
-      </file>
-      <file name="/a.sql" timestamp="1564623933897">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/cfg/ProcessEngineConfigurationImpl.java" timestamp="1564540433020" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/Flow/FlowDesign.less" timestamp="1561369855855">
-        <mark key="[" line="6" column="24" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1564104601914">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT.jar!/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.class" timestamp="1564557091197" />
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/RoleTagSelect.js" timestamp="1562136566534">
-        <mark key="[" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessInstanceCaChe.java" timestamp="1563862969843">
-        <mark key="[" line="12" column="43" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/bpmn/parser/handler/ProcessParseHandler.java" timestamp="1564541359602" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1564624844143">
-        <mark key="[" line="33" column="64" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/ProcessForm.less" timestamp="1562066154446">
-        <mark key="[" line="19" column="5" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1564713579917" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/CustomDefaultFlowableEngineAgendaFactory.java" timestamp="1564387827335">
-        <mark key="[" line="15" column="53" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1564562061146" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessCaChe.java" timestamp="1564047830339">
-        <mark key="[" line="15" column="4" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1564564845412">
         <mark key="[" line="34" column="0" />
       </file>
@@ -147,39 +74,6 @@
         <mark key="]" line="1047" column="26" />
         <mark key="^" line="1047" column="26" />
         <mark key="." line="1047" column="26" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileSelectWidget.js" timestamp="1563527325669">
-        <mark key="[" line="62" column="16" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/config/config.js" timestamp="1563113759784">
-        <mark key="[" line="119" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1562292106444">
-        <mark key="[" line="44" column="26" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/config/application-pro.properties" timestamp="1564560603633">
-        <mark key="[" line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/GenerateActivity.java" timestamp="1564397004031">
-        <mark key="[" line="82" column="114" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1563524511781">
-        <mark key="[" line="59" column="82" />
-      </file>
-      <file name="$USER_HOME$/data/code/Davinci/webapp/app/index.html" timestamp="1561964047412">
-        <mark key="[" line="31" column="11" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ServiceTest.java" timestamp="1562318678698">
-        <mark key="[" line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/node_modules/antd-mobile/es/list/style/index.css" timestamp="1563534243166">
-        <mark key="[" line="240" column="25" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/CustomDefaultFlowableEngineAgenda.java" timestamp="1564387380960">
-        <mark key="[" line="15" column="46" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseMenu.java" timestamp="1562048753682">
-        <mark key="[" line="171" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/AuthServerApplication.java" timestamp="1564629132151" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEndListener.java" timestamp="1564625520729">
@@ -196,65 +90,28 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Mine.js" timestamp="1564708844326">
         <mark key="[" line="415" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/JudgeAssigneeResult.java" timestamp="1562203262398">
-        <mark key="[" line="20" column="27" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/theme/bs4/utils.js" timestamp="1564716487726" />
       <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RedisCacheConfigutation.java" timestamp="1564469529383">
         <mark key="[" line="72" column="32" />
         <mark key="]" line="72" column="32" />
         <mark key="." line="72" column="32" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/pages/FormBuilder/UserTagSelect.js" timestamp="1562640547928">
-        <mark key="[" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/TaskModel.java" timestamp="1563875417992">
-        <mark key="[" line="17" column="24" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1564104602867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1562207334680">
-        <mark key="[" line="34" column="70" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/TaskGatewayServiceTest.java" timestamp="1564640879263">
         <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramCanvas.class" timestamp="1564651432244" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/CustomContinueProcessOperation.java" timestamp="1564387806105">
-        <mark key="[" line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1563764082046">
-        <mark key="[" line="24" column="32" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/TaskBeforeListener.java" timestamp="1562552400778">
-        <mark key="[" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/models/design.js" timestamp="1562634930656">
-        <mark key="[" line="24" column="39" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessHistory.java" timestamp="1562668162463">
-        <mark key="[" line="13" column="3" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1564565566782" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/FileWidget.js" timestamp="1564714610873">
-        <mark key="[" line="107" column="7" />
-        <mark key="]" line="107" column="7" />
-        <mark key="." line="107" column="7" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/utils.js" timestamp="1563777422952">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/FileWidget.js" timestamp="1564715843239">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Todo.js" timestamp="1564655266284">
         <mark key="[" line="409" column="20" />
         <mark key="]" line="409" column="20" />
         <mark key="." line="409" column="20" />
         <mark key="^" line="418" column="10" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/util/RedisLockUtil.java" timestamp="1563781759982">
-        <mark key="[" line="44" column="60" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/RoleUserSelect.js" timestamp="1563792846754">
-        <mark key="[" line="193" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomProcessDefinitionCacheEntry.java" timestamp="1564566154761">
         <mark key="[" line="28" column="14" />
@@ -267,36 +124,15 @@
         <mark key="^" line="53" column="96" />
         <mark key="." line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1563862339947">
-        <mark key="[" line="166" column="0" />
-      </file>
-      <file name="/RegExp Fragment (FlowUtils.java:4648).regexp" timestamp="1564468293340">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1564628999202">
-        <mark key="[" line="23" column="21" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-gateway.yaml" timestamp="1564628925447">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1564449913636">
-        <mark key="[" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomBpmnModel.java" timestamp="1564111996021">
-        <mark key="[" line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/config/application-dev.properties" timestamp="1564560600516">
-        <mark key="[" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FreeProcessDefinitionCache.java" timestamp="1564627803210">
         <mark key="[" line="35" column="22" />
         <mark key="]" line="35" column="22" />
         <mark key="." line="35" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/RepositoryServiceTest.java" timestamp="1563415569449">
-        <mark key="[" line="33" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.40/fastjson-1.2.40.jar!/com/alibaba/fastjson/support/spring/FastJsonRedisSerializer.class" timestamp="1564469064161" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1564638629857">
@@ -305,45 +141,18 @@
         <mark key="." line="77" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1564711203112" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/META-INF/app.properties" timestamp="1564629424871">
-        <mark key="[" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1564653499816">
         <mark key="^" line="195" column="14" />
-      </file>
-      <file name="$USER_HOME$/data/code/Davinci/webapp/app/containers/App/index.tsx" timestamp="1561964083732">
-        <mark key="[" line="37" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1564710784437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/bpmn/deployer/BpmnDeployer.java" timestamp="1564539795663" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/bpmn/deployer/ParsedDeploymentBuilder.java" timestamp="1564541097164" />
-      <file name="$USER_HOME$/data/code/Sche/src/main/resources/application.yaml" timestamp="1563069585284">
-        <mark key="[" line="44" column="24" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Toolbar.jsx" timestamp="1563325561358">
-        <mark key="[" line="81" column="30" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Tree.jsx" timestamp="1563347193273">
-        <mark key="[" line="155" column="47" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1564564012720">
         <mark key="[" line="71" column="48" />
         <mark key="]" line="71" column="48" />
         <mark key="." line="71" column="48" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/resources/application-local.yml" timestamp="1564560358515">
-        <mark key="[" line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/Form.jsx" timestamp="1563412830817">
-        <mark key="[" line="20" column="48" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1563247453008">
-        <mark key="[" line="77" column="56" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowengine/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1561543394868">
-        <mark key="[" line="81" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1564480988121">
         <mark key="[" line="73" column="0" />
@@ -353,15 +162,6 @@
         <mark key="]" line="46" column="7" />
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="5" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessHistoryMapper.xml" timestamp="1564477928349">
-        <mark key="[" line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/flowable.cfg.xml" timestamp="1564110158007">
-        <mark key="[" line="22" column="53" />
-      </file>
-      <file name="/fragment.java" timestamp="1564628043010">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/FreeProcessCaCheImpl.java" timestamp="1564542295871">
         <mark key="[" line="43" column="47" />
@@ -511,7 +311,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>文本框</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -520,37 +320,46 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNvbnN0IHN0YXR1cyA9IGluZm8uZmlsZS5zdGF0dXM7CgogICAgICAgIGlmIChzdGF0dXMgPT09ICdkb25lJykgewogICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKGAke2luZm8uZmlsZS5uYW1lfSDkuIrkvKDlpLHotKVgKTsKICAgICAgICB9IGVsc2UgaWYgKHN0YXR1cyA9PT0gJ2Vycm9yJykgewogICAgICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0g5LiK5Lyg5oiQ5YqfYCk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICByZW5kZXJfKCkgewogICAgY29uc3QgeyBtdWx0aXBsZSwgaWQsIHJlYWRvbmx5LCBkaXNhYmxlZCwgYXV0b2ZvY3VzIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBmaWxlc0luZm8gfSA9IHRoaXMuc3RhdGU7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxwPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHJlZj17cmVmID0+ICh0aGlzLmlucHV0UmVmID0gcmVmKX0KICAgICAgICAgICAgaWQ9e2lkfQogICAgICAgICAgICB0eXBlPSJmaWxlIgogICAgICAgICAgICBkaXNhYmxlZD17cmVhZG9ubHkgfHwgZGlzYWJsZWR9CiAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uQ2hhbmdlfQogICAgICAgICAgICBkZWZhdWx0VmFsdWU9IiIKICAgICAgICAgICAgYXV0b0ZvY3VzPXthdXRvZm9jdXN9CiAgICAgICAgICAgIG11bHRpcGxlPXttdWx0aXBsZX0KICAgICAgICAgIC8+CiAgICAgICAgPC9wPgogICAgICAgIDxGaWxlc0luZm8gZmlsZXNJbmZvPXtmaWxlc0luZm99IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmIChzdGF0dXMgIT09ICd1cGxvYWRpbmcnKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgICAgIH0=</text>
+        <text>if (process.env.NODE_ENV !== &quot;production&quot;) {
+  FileWidget.propTypes = {
+    multiple: PropTypes.bool,
+    value: PropTypes.oneOfType([
+      PropTypes.string,
+      PropTypes.arrayOf(PropTypes.string),
+    ]),
+    autofocus: PropTypes.bool,
+  };
+}</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IGNvbnN0IHN0YXR1cyA9IGluZm8uZmlsZS5zdGF0dXM7CgogICAgICAgIGlmIChzdGF0dXMgPT09ICdkb25lJykgewogICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKGAke2luZm8uZmlsZS5uYW1lfSDkuIrkvKDlpLHotKVgKTsKICAgICAgICB9IGVsc2UgaWYgKHN0YXR1cyA9PT0gJ2Vycm9yJykgewogICAgICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0g5LiK5Lyg5oiQ5YqfYCk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGlmIChzdGF0dXMgIT09ICd1cGxvYWRpbmcnKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
         <text>@Autowired
     ManagementService managementService;</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC0gcG9ydDogNDAwMAogICAgICBuYW1lOiBncnBj</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>DeploymentManager deploymentManager = CommandContextUtil.getProcessEngineConfiguration().getDeploymentManager();
 		ProcessDefinitionCacheEntry processDefinitionCacheEntry = deploymentManager.getProcessDefinitionCache()
 				.get(processDefinitionId);</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8vaWYoYWN0aXZpdHlUeXBlLmVxdWFscygiZW5kRXZlbnQiKSkgewogICAgICAgIC8vICAgIFJlcG9zaXRvcnlTZXJ2aWNlIHJlcG9zaXRvcnlTZXJ2aWNlID0gU3ByaW5nVXRpbC5nZXRCZWFuKFJlcG9zaXRvcnlTZXJ2aWNlLmNsYXNzKTsKICAgICAgICAvLyAgICBKU09OT2JqZWN0IHNldHRpbmdzID0gRmxvd1V0aWxzLmdldFByb2Nlc3NHbG9iZWxTZXR0aW5nc0J5UHJvY2Vzc0RlZmluaXRpb25JZChyZXBvc2l0b3J5U2VydmljZSwgZW50aXR5LmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKSk7CiAgICAgICAgLy8gICAgQm9vbGVhbiBmcmVlUHJvY2VzcyA9IHNldHRpbmdzLmdldEJvb2xlYW4oImZyZWVQcm9jZXNzIik7CiAgICAgICAgLy8gICAgaWYoQm9vbGVhblV0aWxzLmlzVHJ1ZShmcmVlUHJvY2VzcykpewogICAgICAgIC8vICAgICAgICAvL+a4hemZpOe8k+WtmAogICAgICAgIC8vICAgICAgICBQcm9jZXNzIHByb2Nlc3MgPSBQcm9jZXNzRGVmaW5pdGlvblV0aWwuZ2V0UHJvY2VzcyhlbnRpdHkuZ2V0UHJvY2Vzc0RlZmluaXRpb25JZCgpKTsKICAgICAgICAvLyAgICAgICAgRnJlZVByb2Nlc3NDYUNoZSBjYWNoZSA9IFNwcmluZ1V0aWwuZ2V0QmVhbihGcmVlUHJvY2Vzc0NhQ2hlLmNsYXNzKTsKICAgICAgICAvLyAgICAgICAgLy9jYWNoZS5yZW1vdmUoZW50aXR5LmdldFByb2Nlc3NJbnN0YW5jZUlkKCkpOwogICAgICAgIC8vICAgIH0KICAgICAgICAvLyAgICBQcm9jZXNzUmVjb3JkIHByb2Nlc3NSZWNvcmQgPSBuZXcgUHJvY2Vzc1JlY29yZCgpOwogICAgICAgIC8vICAgIHByb2Nlc3NSZWNvcmQuc2V0SW5zdGFuY2VJZChlbnRpdHkuZ2V0UHJvY2Vzc0luc3RhbmNlSWQoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRNZXNzYWdlKE1FU1NBR0UuSU5TVEFOQ0VDT01QTEVURSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRFeGVjdXRpb25JZChlbnRpdHkuZ2V0RXhlY3V0aW9uSWQoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRVc2VyTmFtZShTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0UmVhbG5hbWUoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRVc2VySWQoU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlcklkKCkpOwogICAgICAgIC8vICAgIHByb2Nlc3NSZWNvcmQuc2V0QWN0aXZpdHlJZChlbnRpdHkuZ2V0QWN0aXZpdHlJZCgpKTsKICAgICAgICAvLyAgICBwcm9jZXNzUmVjb3JkLnNldFR5cGUoMik7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZFJlcG9zaXRvcnkuc2F2ZUFuZEZsdXNoKHByb2Nlc3NSZWNvcmQpOwogICAgICAgIC8vfQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBSZXBvc2l0b3J5U2VydmljZSByZXBvc2l0b3J5U2VydmljZSA9IFNwcmluZ1V0aWwuZ2V0QmVhbihSZXBvc2l0b3J5U2VydmljZS5jbGFzcyk7CiAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZ2V0QnBtbk1vZGVsKCk=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGxlYW5VdGlscy5pc1RydWUoZnJlZVByb2Nlc3MpKXsKICAgICAgICAgICAgICAgIE1hbmFnZW1lbnRTZWlmKGFjdGl2aXR5VHlwZS5lcXVhbHMoInN0YXJ0RXZlbnQiKSkgewogICAgICAgICAgICAgICAgICAgIFJlcG9zaXRvcnlTZXJ2aWNlIHJlcG9zaXRvcnlTZXJ2aWNlID0gU3ByaW5nVXRpbC5nZXRCZWFuKFJlcG9zaXRvcnlTZXJ2aWNlLmNsYXNzKTsKICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IHNldHRpbmdzID0gRmxvd1V0aWxzLmdldFByb2Nlc3NHbG9iZWxTZXR0aW5nc0J5UHJvY2Vzc0RlZmluaXRpb25JZChyZXBvc2l0b3J5U2VydmljZSwgZW50aXR5LmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKSk7CiAgICAgICAgICAgICAgICAgICAgQm9vbGVhbiBmcmVlUHJvY2VzcyA9IHNldHRpbmdzLmdldEJvb2xlYW4oImZyZWVQcm9jZXNzIik7CiAgICAgICAgICAgICAgICAgICAgaWYoQm9vcnZpY2UgbWFuYWdlbWVudFNlcnZpY2UgPSBTcHJpbmdVdGlsLmdldEJlYW4oTWFuYWdlbWVudFNlcnZpY2UuY2xhc3MpOwogICAgICAgICAgICAgICAgLy/mlL7lhaXnvJPlrZgKICAgICAgICAgICAgICAgIFByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeSBwcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkgPSBtYW5hZ2VtZW50U2VydmljZS5leGVjdXRlQ29tbWFuZChuZXcgR2V0UHJvY2Vzc0RlZmluaXRpb25DYWNoZUVudHJ5Q21kKGVudGl0eS5nZXRQcm9jZXNzRGVmaW5pdGlvbklkKCkpKTsKICAgICAgICAgICAgICAgIEN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeSBjdXN0b21Qcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkgPSBGbG93VXRpbHMucGFyc2VDdXN0b21Qcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkocHJvY2Vzc0RlZmluaXRpb25DYWNoZUVudHJ5KTsKICAgICAgICAgICAgICAgIEZyZWVQcm9jZXNzQ2FDaGUgY2FjaGUgPSBTcHJpbmdVdGlsLmdldEJlYW4oRnJlZVByb2Nlc3NDYUNoZS5jbGFzcyk7CiAgICAgICAgICAgICAgICBjYWNoZS5hZGQoZW50aXR5LmdldFByb2Nlc3NJbnN0YW5jZUlkKCksY3VzdG9tUHJvY2Vzc0RlZmluaXRpb25DYWNoZUVudHJ5KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBQcm9jZXNzUmVjb3JkIHByb2Nlc3NSZWNvcmQgPSBuZXcgUHJvY2Vzc1JlY29yZCgpOwogICAgICAgICAgICBwcm9jZXNzUmVjb3JkLnNldEluc3RhbmNlSWQoZW50aXR5LmdldFByb2Nlc3NJbnN0YW5jZUlkKCkpOwogICAgICAgICAgICBwcm9jZXNzUmVjb3JkLnNldE1lc3NhZ2UoTUVTU0FHRS5JTlNUQU5DRUNSRUFURSk7CiAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0QWN0aXZpdHlJZChlbnRpdHkuZ2V0QWN0aXZpdHlJZCgpKTsKICAgICAgICAgICAgcHJvY2Vzc1JlY29yZC5zZXRFeGVjdXRpb25JZChlbnRpdHkuZ2V0RXhlY3V0aW9uSWQoKSk7CiAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0VXNlck5hbWUoU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlclJlYWxOYW1lKCkpOwogICAgICAgICAgICBwcm9jZXNzUmVjb3JkLnNldFVzZXJJZChTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VySWQoKSk7CiAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0VHlwZSgxKTsKICAgICAgICAgICAgcHJvY2Vzc1JlY29yZFJlcG9zaXRvcnkuc2F2ZUFuZEZsdXNoKHByb2Nlc3NSZWNvcmQpOwogICAgICAgIH0KICAgICAgICBpZihhY3Rpdml0eVR5cGUuZXF1YWxzKCJ1c2VyVGFzayIpKSB7CiAgICAgICAgICAgIEJvb2xlYW4gc2tpcCA9IFByb2Nlc3NUaHJlYWRMb2NhbC5nZXRTa2lwKCkub3JFbHNlKGZhbHNlKTsKICAgICAgICAgICAgaWYoIXNraXApIHsKICAgICAgICAgICAgICAgIFByb2Nlc3NSZWNvcmQgcHJvY2Vzc1JlY29yZCA9IG5ldyBQcm9jZXNzUmVjb3JkKCk7CiAgICAgICAgICAgICAgICBwcm9jZXNzUmVjb3JkLnNldEluc3RhbmNlSWQoZW50aXR5LmdldFByb2Nlc3NJbnN0YW5jZUlkKCkpOwogICAgICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFByb2Nlc3NUaHJlYWRMb2NhbC5nZXROb3RlKCkub3JFbHNlKCLlrozmiJDku7vliqEiKTsKICAgICAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0TWVzc2FnZShtc2cpOwogICAgICAgICAgICAgICAgcHJvY2Vzc1JlY29yZC5zZXRFeGVjdXRpb25JZChlbnRpdHkuZ2V0RXhlY3V0aW9uSWQoKSk7CiAgICAgICAgICAgICAgICBwcm9jZXNzUmVjb3JkLnNldFVzZXJOYW1lKFNlY3VyaXR5VXRpbHMuZ2V0Q3VycmVudFVzZXJEZXRhaWwoKS5nZXRSZWFsbmFtZSgpKTsKICAgICAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0VXNlcklkKFNlY3VyaXR5VXRpbHMuZ2V0Q3VycmVudFVzZXJJZCgpKTsKICAgICAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0QWN0aXZpdHlJZChlbnRpdHkuZ2V0QWN0aXZpdHlJZCgpKTsKICAgICAgICAgICAgICAgIHByb2Nlc3NSZWNvcmQuc2V0VHlwZSgzKTsKICAgICAgICAgICAgICAgIHByb2Nlc3NSZWNvcmRSZXBvc2l0b3J5LnNhdmVBbmRGbHVzaChwcm9jZXNzUmVjb3JkKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IEN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeSBjdXN0b21Qcm9jZXNzRGVmaW5pdGlvbkNhY2hlRW50cnkgPSBuZXcgQ3VzdG9tUHJvY2Vzc0RlZmluaXRpb25DYWNoZUVudHJ5KCk7CiAgICAgICAgICAgIGN1c3RvbVByb2Nlc3NEZWZpbml0aW9uQ2FjaGVFbnRyeS5zZXRCcG1uTW9kZWwobmV3SnNvbik7</text>
+        <text encoding="base64">ICBSZXBvc2l0b3J5U2VydmljZSByZXBvc2l0b3J5U2VydmljZSA9IFNwcmluZ1V0aWwuZ2V0QmVhbihSZXBvc2l0b3J5U2VydmljZS5jbGFzcyk7CiAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZ2V0QnBtbk1vZGVsKCk=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
