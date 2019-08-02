@@ -64,7 +64,12 @@
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/bpmn/parser/handler/ProcessParseHandler.java" timestamp="1564541359602" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1564713579917" />
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1564562061146" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1564728321244" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1564729017848">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1564564845412">
         <mark key="[" line="34" column="0" />
       </file>
@@ -317,12 +322,18 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICByZW5kZXJfKCkgewogICAgY29uc3QgeyBtdWx0aXBsZSwgaWQsIHJlYWRvbmx5LCBkaXNhYmxlZCwgYXV0b2ZvY3VzIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBmaWxlc0luZm8gfSA9IHRoaXMuc3RhdGU7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxwPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHJlZj17cmVmID0+ICh0aGlzLmlucHV0UmVmID0gcmVmKX0KICAgICAgICAgICAgaWQ9e2lkfQogICAgICAgICAgICB0eXBlPSJmaWxlIgogICAgICAgICAgICBkaXNhYmxlZD17cmVhZG9ubHkgfHwgZGlzYWJsZWR9CiAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uQ2hhbmdlfQogICAgICAgICAgICBkZWZhdWx0VmFsdWU9IiIKICAgICAgICAgICAgYXV0b0ZvY3VzPXthdXRvZm9jdXN9CiAgICAgICAgICAgIG11bHRpcGxlPXttdWx0aXBsZX0KICAgICAgICAgIC8+CiAgICAgICAgPC9wPgogICAgICAgIDxGaWxlc0luZm8gZmlsZXNJbmZvPXtmaWxlc0luZm99IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9</text>
+        <text encoding="base64">ICAvKiAgbnVtYmVyRW51bVJhZGlvOiB7CiAgICAgICd1aTp3aWRnZXQnOiAncmFkaW8nLAogICAgICAndWk6b3B0aW9ucyc6IHsKICAgICAgICBpbmxpbmU6IHRydWUsCiAgICAgIH0sCiAgICB9LCov</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAvLyBudW1iZXJFbnVtUmFkaW86IHsKICAgICAgLy8gICB0eXBlOiAibnVtYmVyIiwKICAgICAgLy8gICB0aXRsZTogIk51bWJlciBlbnVtIiwKICAgICAgLy8gICBlbnVtOiBbMSwgMiwgM10sCiAgICAgIC8vIH0s</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICByZW5kZXJfKCkgewogICAgY29uc3QgeyBtdWx0aXBsZSwgaWQsIHJlYWRvbmx5LCBkaXNhYmxlZCwgYXV0b2ZvY3VzIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBmaWxlc0luZm8gfSA9IHRoaXMuc3RhdGU7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxwPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHJlZj17cmVmID0+ICh0aGlzLmlucHV0UmVmID0gcmVmKX0KICAgICAgICAgICAgaWQ9e2lkfQogICAgICAgICAgICB0eXBlPSJmaWxlIgogICAgICAgICAgICBkaXNhYmxlZD17cmVhZG9ubHkgfHwgZGlzYWJsZWR9CiAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uQ2hhbmdlfQogICAgICAgICAgICBkZWZhdWx0VmFsdWU9IiIKICAgICAgICAgICAgYXV0b0ZvY3VzPXthdXRvZm9jdXN9CiAgICAgICAgICAgIG11bHRpcGxlPXttdWx0aXBsZX0KICAgICAgICAgIC8+CiAgICAgICAgPC9wPgogICAgICAgIDxGaWxlc0luZm8gZmlsZXNJbmZvPXtmaWxlc0luZm99IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>if (process.env.NODE_ENV !== &quot;production&quot;) {
   FileWidget.propTypes = {
     multiple: PropTypes.bool,
@@ -334,29 +345,23 @@
   };
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGNvbnN0IHN0YXR1cyA9IGluZm8uZmlsZS5zdGF0dXM7CgogICAgICAgIGlmIChzdGF0dXMgPT09ICdkb25lJykgewogICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKGAke2luZm8uZmlsZS5uYW1lfSDkuIrkvKDlpLHotKVgKTsKICAgICAgICB9IGVsc2UgaWYgKHN0YXR1cyA9PT0gJ2Vycm9yJykgewogICAgICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0g5LiK5Lyg5oiQ5YqfYCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGlmIChzdGF0dXMgIT09ICd1cGxvYWRpbmcnKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>@Autowired
     ManagementService managementService;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIC0gcG9ydDogNDAwMAogICAgICBuYW1lOiBncnBj</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>DeploymentManager deploymentManager = CommandContextUtil.getProcessEngineConfiguration().getDeploymentManager();
 		ProcessDefinitionCacheEntry processDefinitionCacheEntry = deploymentManager.getProcessDefinitionCache()
 				.get(processDefinitionId);</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vaWYoYWN0aXZpdHlUeXBlLmVxdWFscygiZW5kRXZlbnQiKSkgewogICAgICAgIC8vICAgIFJlcG9zaXRvcnlTZXJ2aWNlIHJlcG9zaXRvcnlTZXJ2aWNlID0gU3ByaW5nVXRpbC5nZXRCZWFuKFJlcG9zaXRvcnlTZXJ2aWNlLmNsYXNzKTsKICAgICAgICAvLyAgICBKU09OT2JqZWN0IHNldHRpbmdzID0gRmxvd1V0aWxzLmdldFByb2Nlc3NHbG9iZWxTZXR0aW5nc0J5UHJvY2Vzc0RlZmluaXRpb25JZChyZXBvc2l0b3J5U2VydmljZSwgZW50aXR5LmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKSk7CiAgICAgICAgLy8gICAgQm9vbGVhbiBmcmVlUHJvY2VzcyA9IHNldHRpbmdzLmdldEJvb2xlYW4oImZyZWVQcm9jZXNzIik7CiAgICAgICAgLy8gICAgaWYoQm9vbGVhblV0aWxzLmlzVHJ1ZShmcmVlUHJvY2VzcykpewogICAgICAgIC8vICAgICAgICAvL+a4hemZpOe8k+WtmAogICAgICAgIC8vICAgICAgICBQcm9jZXNzIHByb2Nlc3MgPSBQcm9jZXNzRGVmaW5pdGlvblV0aWwuZ2V0UHJvY2VzcyhlbnRpdHkuZ2V0UHJvY2Vzc0RlZmluaXRpb25JZCgpKTsKICAgICAgICAvLyAgICAgICAgRnJlZVByb2Nlc3NDYUNoZSBjYWNoZSA9IFNwcmluZ1V0aWwuZ2V0QmVhbihGcmVlUHJvY2Vzc0NhQ2hlLmNsYXNzKTsKICAgICAgICAvLyAgICAgICAgLy9jYWNoZS5yZW1vdmUoZW50aXR5LmdldFByb2Nlc3NJbnN0YW5jZUlkKCkpOwogICAgICAgIC8vICAgIH0KICAgICAgICAvLyAgICBQcm9jZXNzUmVjb3JkIHByb2Nlc3NSZWNvcmQgPSBuZXcgUHJvY2Vzc1JlY29yZCgpOwogICAgICAgIC8vICAgIHByb2Nlc3NSZWNvcmQuc2V0SW5zdGFuY2VJZChlbnRpdHkuZ2V0UHJvY2Vzc0luc3RhbmNlSWQoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRNZXNzYWdlKE1FU1NBR0UuSU5TVEFOQ0VDT01QTEVURSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRFeGVjdXRpb25JZChlbnRpdHkuZ2V0RXhlY3V0aW9uSWQoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRVc2VyTmFtZShTZWN1cml0eVV0aWxzLmdldEN1cnJlbnRVc2VyRGV0YWlsKCkuZ2V0UmVhbG5hbWUoKSk7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZC5zZXRVc2VySWQoU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlcklkKCkpOwogICAgICAgIC8vICAgIHByb2Nlc3NSZWNvcmQuc2V0QWN0aXZpdHlJZChlbnRpdHkuZ2V0QWN0aXZpdHlJZCgpKTsKICAgICAgICAvLyAgICBwcm9jZXNzUmVjb3JkLnNldFR5cGUoMik7CiAgICAgICAgLy8gICAgcHJvY2Vzc1JlY29yZFJlcG9zaXRvcnkuc2F2ZUFuZEZsdXNoKHByb2Nlc3NSZWNvcmQpOwogICAgICAgIC8vfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBSZXBvc2l0b3J5U2VydmljZSByZXBvc2l0b3J5U2VydmljZSA9IFNwcmluZ1V0aWwuZ2V0QmVhbihSZXBvc2l0b3J5U2VydmljZS5jbGFzcyk7CiAgICAgICAgcmVwb3NpdG9yeVNlcnZpY2UuZ2V0QnBtbk1vZGVsKCk=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
