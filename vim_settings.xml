@@ -40,12 +40,7 @@
         <mark key="[" line="92" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xwpf/usermodel/XWPFDocument.class" timestamp="1564993091499" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processfile.js" timestamp="1565163188359">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processfile.js" timestamp="1565170821595" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ActProcessTypeController.java" timestamp="1565166640176" />
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1565146663013">
         <mark key="[" line="17" column="27" />
@@ -99,7 +94,7 @@
         <mark key="^" line="53" column="96" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessFile.js" timestamp="1565165721756">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessFile.js" timestamp="1565172103840">
         <mark key="'" line="163" column="12" />
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
@@ -114,10 +109,10 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/Dockerfile" timestamp="1564986445489">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/processfile.js" timestamp="1565163219748">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/processfile.js" timestamp="1565171257936">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Preview.js" timestamp="1565165133640">
         <mark key="'" line="99" column="26" />
@@ -130,16 +125,19 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1564990317590">
         <mark key="[" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/ProcessFileTemplateRepository.java" timestamp="1565168663050">
-        <mark key="[" line="15" column="144" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/ProcessFileTemplateRepository.java" timestamp="1565171052931">
+        <mark key="[" line="17" column="144" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1565171805982">
+        <mark key="[" line="23" column="76" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/afterturn/easypoi-base/3.0.3/easypoi-base-3.0.3.jar!/cn/afterturn/easypoi/word/entity/MyXWPFDocument.class" timestamp="1564993088524" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/weixin/connect/WeixinConnectionFactory.java" timestamp="1565160381912" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/index.html" timestamp="1564985597650" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565170586435">
-        <mark key="[" line="282" column="44" />
-        <mark key="]" line="282" column="44" />
-        <mark key="." line="282" column="44" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565172801805">
+        <mark key="[" line="706" column="9" />
+        <mark key="]" line="706" column="9" />
+        <mark key="." line="706" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine-common/6.4.1/flowable-engine-common-6.4.1.jar!/org/flowable/common/engine/impl/util/TestClockImpl.class" timestamp="1565061256611" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/social/config/SecurityConstants.java" timestamp="1565161047909" />
@@ -171,7 +169,11 @@
         <mark key="[" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1565164261487" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1565167694878" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1565172163505">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1564564845412">
         <mark key="[" line="34" column="0" />
       </file>
@@ -327,7 +329,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>records</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -336,42 +338,95 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">QEdldE1hcHBpbmcoIi9vcHRpb25zIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGdldE9wdGlvbnMoKSB7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5qih5p2/5LiL5ouJ5pWw5o2uIiwgbnVsbCk7CiAgICB9</text>
+        <text encoding="base64">IDxCdXR0b24KICAgICAgICAgICAgaWNvbj0iY2xvc2UtY2lyY2xlIgogICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICB0eXBlPSJkYW5nZXIiCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlRGVsRmlsZShzZWxlY3RlZFJvd3MpfT4KICAgICAgICAgICAg5riF6Zmk5qih5p2/CiAgICAgICAgICA8L0J1dHRvbj4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgoKICBjaGFuZ2VUb0Rlc2lnbiA9ICgpID0+IHsKICAgIHJvdXRlci5wdXNoKCcvZm9ybS9idWlsZGVyJyk7CiAgfQ==</text>
+        <text>public Integer getVersion() {
+        return version;
+    }
+
+    public void setVersion(Integer version) {
+        this.version = version;
+    }
+
+    public String getProcessCategoryName() {
+        return processCategoryName;
+    }
+
+    public void setProcessCategoryName(String processCategoryName) {
+        this.processCategoryName = processCategoryName;
+    }
+
+    public String getProcessId() {
+		return processId;
+	}
+
+	public void setProcessId(String processId) {
+		this.processId = processId;
+	}
+
+	public String getDefKey() {
+        return defKey;
+    }
+
+    public void setDefKey(String defKey) {
+        this.defKey = defKey;
+    }
+
+    public String getProcessCategory() {
+        return processCategory;
+    }
+
+    public void setProcessCategory(String processCategory) {
+        this.processCategory = processCategory;
+    }
+
+    public String getProcessDefName() {
+        return processDefName;
+    }
+
+    public void setProcessDefName(String processDefName) {
+        this.processDefName = processDefName;
+    }
+
+    @Override
+    public String toString() {
+        return &quot;ProcessDefEntity{&quot; +
+                &quot;defKey='&quot; + defKey + '\'' +
+                &quot;, processDefName='&quot; + processDefName + '\'' +
+                &quot;, processCategory='&quot; + processCategory + '\'' +
+                '}';
+    }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICByZW5kZXJTZWFyY2hGb3JtKCkgewogICAgY29uc3Qge2dldEZpZWxkRGVjb3JhdG9yfSA9IHRoaXMucHJvcHMuZm9ybTsKICAgIHJldHVybiAoCiAgICAgIDxGb3JtIG9uU3VibWl0PXt0aGlzLmhhbmRsZVNlYXJjaH0gbGF5b3V0PSJpbmxpbmUiPgogICAgICAgIDxSb3cgZ3V0dGVyPXt7bWQ6IDgsIGxnOiAyNCwgeGw6IDQ4fX0+CgogICAgICAgICAgPENvbCBtZD17Nn0gc209ezI0fT4KICAgICAgICAgICAgPEZvcm1JdGVtIGxhYmVsPSLooajljZXlkI3np7AiPgogICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignbmFtZScpKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIi8+KX0KICAgICAgICAgICAgPC9Gb3JtSXRlbT4KICAgICAgICAgIDwvQ29sPgoKICAgICAgICAgIDxDb2wgbWQ9ezEyfSBzbT17MjR9PgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5zdWJtaXRCdXR0b25zfT4KICAgICAgICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIGh0bWxUeXBlPSJzdWJtaXQiPgogICAgICAgICAgICAgICAg5p+l6K+iCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgPEJ1dHRvbiBzdHlsZT17e21hcmdpbkxlZnQ6IDh9fSBvbkNsaWNrPXt0aGlzLmhhbmRsZUZvcm1SZXNldH0+CiAgICAgICAgICAgICAgICDph43nva4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgPC9Sb3c+CiAgICAgIDwvRm9ybT4KICAgICk7CiAgfQ==</text>
+        <text encoding="base64">QEdldE1hcHBpbmcoIi9vcHRpb25zIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGdldE9wdGlvbnMoKSB7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5qih5p2/5LiL5ouJ5pWw5o2uIiwgbnVsbCk7CiAgICB9</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZGVzaWduRm9ybSA9IHJlY29yZHMgPT4gewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdmb3JtYnVpbGRlci9TRVRfUkVDT1JEX1RPU1RBVEUnLAogICAgICBwYXlsb2FkOiByZWNvcmRzWzBdLAogICAgICBjYWxsYmFjazogdGhpcy5jaGFuZ2VUb0Rlc2lnbiwKICAgIH0pOwogIH07</text>
+        <text encoding="base64">CgoKICBjaGFuZ2VUb0Rlc2lnbiA9ICgpID0+IHsKICAgIHJvdXRlci5wdXNoKCcvZm9ybS9idWlsZGVyJyk7CiAgfQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYiA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICBkb2Mud3JpdGUoYik7IC8vIGRvYyBzaG91bGQgYmUgYSBYV1BGRG9jdW1lbnQ=</text>
+        <text encoding="base64">ICByZW5kZXJTZWFyY2hGb3JtKCkgewogICAgY29uc3Qge2dldEZpZWxkRGVjb3JhdG9yfSA9IHRoaXMucHJvcHMuZm9ybTsKICAgIHJldHVybiAoCiAgICAgIDxGb3JtIG9uU3VibWl0PXt0aGlzLmhhbmRsZVNlYXJjaH0gbGF5b3V0PSJpbmxpbmUiPgogICAgICAgIDxSb3cgZ3V0dGVyPXt7bWQ6IDgsIGxnOiAyNCwgeGw6IDQ4fX0+CgogICAgICAgICAgPENvbCBtZD17Nn0gc209ezI0fT4KICAgICAgICAgICAgPEZvcm1JdGVtIGxhYmVsPSLooajljZXlkI3np7AiPgogICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignbmFtZScpKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIi8+KX0KICAgICAgICAgICAgPC9Gb3JtSXRlbT4KICAgICAgICAgIDwvQ29sPgoKICAgICAgICAgIDxDb2wgbWQ9ezEyfSBzbT17MjR9PgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5zdWJtaXRCdXR0b25zfT4KICAgICAgICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIGh0bWxUeXBlPSJzdWJtaXQiPgogICAgICAgICAgICAgICAg5p+l6K+iCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgPEJ1dHRvbiBzdHlsZT17e21hcmdpbkxlZnQ6IDh9fSBvbkNsaWNrPXt0aGlzLmhhbmRsZUZvcm1SZXNldH0+CiAgICAgICAgICAgICAgICDph43nva4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgPC9Sb3c+CiAgICAgIDwvRm9ybT4KICAgICk7CiAgfQ==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ZGVzaWduRm9ybSA9IHJlY29yZHMgPT4gewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdmb3JtYnVpbGRlci9TRVRfUkVDT1JEX1RPU1RBVEUnLAogICAgICBwYXlsb2FkOiByZWNvcmRzWzBdLAogICAgICBjYWxsYmFjazogdGhpcy5jaGFuZ2VUb0Rlc2lnbiwKICAgIH0pOwogIH07</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYiA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICBkb2Mud3JpdGUoYik7IC8vIGRvYyBzaG91bGQgYmUgYSBYV1BGRG9jdW1lbnQ=</text>
+      </register>
+      <register name="8" type="4">
         <text>XWPFDocument doc = WordExportUtil.exportWord07(
                 &quot;xjzg.docx&quot;, map);</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>//File file = new File(&quot;/Users/xucheng/data/xjzg.docx&quot;);
         //file.createNewFile();
         //FileOutputStream fos = new FileOutputStream(file);
 
         //doc.write(fos);
         //fos.close();</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-      ...param,
-    },</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9ybS52YWxpZGF0ZUZpZWxkcygoZXJyLCBwYW5lbFZhbHVlKSA9PiB7CiAgICAgIGlmIChlcnIpIHJldHVybjsKCiAgICAgIGNvbnN0IHZhbHVlcyA9IHsKICAgICAgICAuLi5wYWdlUGFyYW0sCiAgICAgICAgLi4ucGFuZWxWYWx1ZSwKICAgICAgfTsKCiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGZvcm1WYWx1ZXM6IHZhbHVlcywKICAgICAgICBzZWxlY3RlZFJvd3M6IFtdLAogICAgICB9KTsKICAgICAgT2JqZWN0LmFzc2lnbih2YWx1ZXMpOw==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
