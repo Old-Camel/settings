@@ -3,57 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1565079189877">
-        <mark key="[" line="73" column="49" />
-      </file>
-      <file name="/a.dummy" timestamp="1565229564940">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessFileTemplateServiceImpl.java" timestamp="1565230148785">
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="60" column="51" />
-        <mark key="." line="60" column="51" />
-        <mark key="^" line="26" column="7" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/layouts/LoadingPage.js" timestamp="1565338266391" />
       <file name="$USER_HOME$/data/code/flowable-web/src/models/task.js" timestamp="1565315045796" />
-      <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1565322770405" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Handel.js" timestamp="1565254583160">
-        <mark key="[" line="348" column="33" />
-        <mark key="]" line="303" column="1" />
-        <mark key="." line="303" column="1" />
-        <mark key="^" line="303" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1564564406677">
-        <mark key="[" line="41" column="47" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Mine.js" timestamp="1565313585181">
-        <mark key="[" line="446" column="32" />
-        <mark key="]" line="393" column="19" />
-        <mark key="." line="393" column="19" />
-        <mark key="^" line="445" column="15" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessFileTemplateController.java" timestamp="1565230328644">
-        <mark key="[" line="138" column="41" />
-        <mark key="]" line="143" column="47" />
-        <mark key="." line="143" column="47" />
-        <mark key="^" line="143" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/agenda/ContinueProcessOperation.java" timestamp="1564481668635">
-        <mark key="[" line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Focus.js" timestamp="1565254543412">
-        <mark key="[" line="302" column="20" />
-        <mark key="]" line="363" column="16" />
-        <mark key="^" line="363" column="16" />
-        <mark key="." line="363" column="16" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1565146663013">
-        <mark key="[" line="17" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/SetFileKey.java" timestamp="1565167623178">
-        <mark key="[" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1565332085483">
+      <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1565339405139" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1565336379345">
         <mark key="[" line="2" column="91" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1565320445289">
@@ -61,104 +14,47 @@
         <mark key="]" line="77" column="66" />
         <mark key="." line="77" column="66" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FormData.java" timestamp="1565244249990">
-        <mark key="[" line="38" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1565235749431">
-        <mark key="[" line="169" column="114" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1565257301858">
-        <mark key="[" line="450" column="33" />
-        <mark key="]" line="450" column="33" />
-        <mark key="." line="450" column="33" />
-        <mark key="^" line="213" column="52" />
-      </file>
+      <file name="/user.js" timestamp="1565337207385" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/components/SiderMenu/SiderMenu.js" timestamp="1565337134095" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/FlowableApplication.java" timestamp="1565337044123" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1565332025599">
         <mark key="[" line="354" column="13" />
         <mark key="]" line="64" column="52" />
         <mark key="^" line="67" column="96" />
         <mark key="." line="64" column="52" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessFile.js" timestamp="1565259523640">
-        <mark key="'" line="162" column="12" />
-        <mark key="[" line="123" column="50" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1565338166766">
+        <mark key="[" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/scripts/app-cfg.js" timestamp="1565317574385">
-        <mark key="[" line="23" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/Dockerfile" timestamp="1564986445489">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Preview.js" timestamp="1565314064843">
-        <mark key="'" line="107" column="26" />
-        <mark key="[" line="94" column="29" />
-        <mark key="]" line="94" column="30" />
-        <mark key="." line="94" column="30" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Preview.js" timestamp="1565339334274">
+        <mark key="'" line="108" column="26" />
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="100" column="27" />
+        <mark key="." line="100" column="27" />
         <mark key="^" line="94" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1565315815607">
         <mark key="[" line="56" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1564990317590">
-        <mark key="[" line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/ProcessFileTemplateRepository.java" timestamp="1565171052931">
-        <mark key="[" line="17" column="144" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cache/CustomDeploymentCache.java" timestamp="1565245365278">
-        <mark key="[" line="64" column="57" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1565245337861">
-        <mark key="[" line="97" column="55" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/config/application-pro.properties" timestamp="1565320178311">
-        <mark key="[" line="4" column="55" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/layouts/Footer.js" timestamp="1565337187866" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1565319286411">
         <mark key="[" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1565330471852">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1565337038514">
         <mark key="[" line="209" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565334367986">
+      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565337385856">
         <mark key="[" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ActProcessType.java" timestamp="1565087101742">
-        <mark key="[" line="11" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1565318273024">
+      <file name="/Dummy.txt" timestamp="1565338148151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Path.js" timestamp="1565337256935" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/GenerateWord.java" timestamp="1565321853295">
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/react-auth/src/defaultSettings.js" timestamp="1565142014781">
-        <mark key="[" line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/SimpleGenarateWord.java" timestamp="1565227816473">
-        <mark key="[" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MybatisConfig.java" timestamp="1564564845412">
-        <mark key="[" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/user.js" timestamp="1565315781370" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/TaskController.java" timestamp="1565250542008">
-        <mark key="[" line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/FreeProcessDefinitionRepository.java" timestamp="1564626649170">
-        <mark key="[" line="15" column="160" />
-      </file>
-      <file name="/fragment.java" timestamp="1565089526498">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/DefaultGenerateWord.java" timestamp="1565260731888">
-        <mark key="a" line="73" column="58" />
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="72" column="21" />
-        <mark key="." line="72" column="21" />
-        <mark key="^" line="72" column="84" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/user.js" timestamp="1565337727342">
+        <mark key="[" line="78" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -303,7 +199,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>svg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
