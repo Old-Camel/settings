@@ -6,6 +6,11 @@
       <file name="/a.dummy" timestamp="1565580665326">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextareaWidget.js" timestamp="1565666559644">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/CustomTaskService.java" timestamp="1565658863127">
         <mark key="[" line="38" column="86" />
         <mark key="]" line="38" column="32" />
@@ -19,6 +24,9 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/models/menu.js" timestamp="1565573707418" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessType.js" timestamp="1565574714297">
         <mark key="[" line="372" column="33" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextWidget.js" timestamp="1565666191150">
+        <mark key="[" line="6" column="60" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1565336379345">
         <mark key="[" line="2" column="91" />
@@ -56,6 +64,7 @@
         <mark key="[" line="56" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1565658444136" />
+      <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/index.js" timestamp="1565666007281" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565574301332">
         <mark key="[" line="575" column="28" />
       </file>
@@ -68,14 +77,15 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1565337038514">
         <mark key="[" line="209" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565663525911">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1565666063061" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565666781301">
         <mark key="[" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessCcData.java" timestamp="1565660209482">
         <mark key="[" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/MineProcessInstanceData.java" timestamp="1565595066311" />
-      <file name="/Dummy.txt" timestamp="1565662811061">
+      <file name="/Dummy.txt" timestamp="1565666599539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Preview.less" timestamp="1565343386142">
@@ -108,6 +118,7 @@
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1565666556050" />
       <file name="/fragment.java" timestamp="1565658910834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,7 +265,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>USER_ID</text>
+        <text>InputNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
