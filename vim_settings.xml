@@ -52,7 +52,7 @@
         <mark key="[" line="2" column="91" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/mobile/widgets/MobileTextareaWidget.js" timestamp="1565690960125" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/FileWidget.js" timestamp="1565750320201" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/FileWidget.js" timestamp="1565751212114" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/editor-app/editor.html" timestamp="1565680985426" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormData.js" timestamp="1565574687875">
         <mark key="[" line="337" column="6" />
@@ -62,6 +62,12 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/RoleUserSelect.js" timestamp="1565577156248">
         <mark key="[" line="193" column="25" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/CustomTaskServiceImpl.java" timestamp="1565658995422">
+        <mark key="[" line="336" column="30" />
+        <mark key="]" line="336" column="29" />
+        <mark key="." line="336" column="29" />
+        <mark key="^" line="336" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/CcProcess.java" timestamp="1565580643565">
         <mark key="[" line="28" column="19" />
@@ -93,7 +99,12 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565574301332">
         <mark key="[" line="575" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SignatureWidget.js" timestamp="1565750333787" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SignatureWidget.js" timestamp="1565754235040">
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="10" />
+        <mark key="." line="91" column="10" />
+        <mark key="^" line="82" column="69" />
+      </file>
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityServerConfig.java" timestamp="1565599398749">
         <mark key="[" line="49" column="46" />
       </file>
@@ -103,8 +114,8 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1565337038514">
         <mark key="[" line="209" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1565745704715">
-        <mark key="[" line="78" column="12" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1565751844447">
+        <mark key="[" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565746175479">
         <mark key="[" line="19" column="15" />
@@ -133,6 +144,12 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1565687992124" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1565595001121" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/ProcessCcRepository.java" timestamp="1565591104392">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="110" />
+        <mark key="." line="10" column="110" />
+        <mark key="^" line="10" column="110" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1565745700997">
         <mark key="[" line="28" column="43" />
         <mark key="]" line="28" column="43" />
@@ -148,7 +165,7 @@
         <mark key="." line="28" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1565688319018" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565682001128" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565753520386" />
       <file name="/fragment.java" timestamp="1565658910834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,7 +312,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>imageUrl</text>
+        <text>style</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -304,38 +321,38 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IDxSYW5nZVBpY2tlcgogICAgICAgIGRlZmF1bHRWYWx1ZT17Z2V0VmFsdWUoKX0KICAgICAgICBzdHlsZT17e319CiAgICAgICAgcmVhZE9ubHk9e3JlYWRvbmx5fQogICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICBzaG93VGltZT17eyBmb3JtYXQ6ICdISDptbScgfX0KICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQgSEg6bW0iCiAgICAgICAgcGxhY2Vob2xkZXI9e1sn5byA5aeL5pe26Ze0JywgJ+e7k+adn+aXtumXtCddfQogICAgICAgIG9uT2s9e3YgPT4gewogICAgICAgICAgbGV0IHQgPSBbXTsKICAgICAgICAgIGxldCBuZXd2ID0gdmFsdWUgPyBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KHZhbHVlKSkgOiB7fTsKICAgICAgICAgIHQucHVzaCh2WzBdLnZhbHVlT2YoKSk7CiAgICAgICAgICB0LnB1c2godlsxXS52YWx1ZU9mKCkpOwogICAgICAgICAgbmV3di5kYXRlID0gdDsKICAgICAgICAgIG5ld3YubnVtID0gdlsxXS5kaWZmKHZbMF0sICdkYXknKSArIDE7CiAgICAgICAgICBwcm9wcy5vbkNoYW5nZShuZXd2KTsKICAgICAgICB9fQogICAgICAvPgogICAgICA8c3BhbiBzdHlsZT17eyBtYXJnaW5MZWZ0OiA1IH19PgogICAgICAgIOWFseiuoXsnICd9CiAgICAgICAgPElucHV0TnVtYmVyCiAgICAgICAgICByZWFkT25seT17cmVhZG9ubHl9CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICAgIG1pbj17MH0KICAgICAgICAgIHZhbHVlPXtudW12KCl9CiAgICAgICAgICBvbkNoYW5nZT17diA9PiB7CiAgICAgICAgICAgIHZhbHVlLm51bSA9IHY7CiAgICAgICAgICAgIHByb3BzLm9uQ2hhbmdlKHZhbHVlKTsKICAgICAgICAgIH19CiAgICAgICAgLz57JyAnfQogICAgICAgIOWkqQogICAgICA8L3NwYW4+</text>
+        <text encoding="base64">b25DbGljaz17KCkgPT4gewoKICAgICAgfX0+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">b25DbGljaz17KCkgPT4KICAgICAgICAgICAgICAgIHRoaXMucHJvcHMub25DaGFuZ2UoaW1hZ2VVcmwpfSBhbHQ9ImF2YXRhciIgc3R5bGU9e3t3aWR0aDogJzEwMCUnfX0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHN0YXRlID0gewogICAgbW9kYWw6IGZhbHNlCiAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IDxSYW5nZVBpY2tlcgogICAgICAgIGRlZmF1bHRWYWx1ZT17Z2V0VmFsdWUoKX0KICAgICAgICBzdHlsZT17e319CiAgICAgICAgcmVhZE9ubHk9e3JlYWRvbmx5fQogICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICBzaG93VGltZT17eyBmb3JtYXQ6ICdISDptbScgfX0KICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQgSEg6bW0iCiAgICAgICAgcGxhY2Vob2xkZXI9e1sn5byA5aeL5pe26Ze0JywgJ+e7k+adn+aXtumXtCddfQogICAgICAgIG9uT2s9e3YgPT4gewogICAgICAgICAgbGV0IHQgPSBbXTsKICAgICAgICAgIGxldCBuZXd2ID0gdmFsdWUgPyBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KHZhbHVlKSkgOiB7fTsKICAgICAgICAgIHQucHVzaCh2WzBdLnZhbHVlT2YoKSk7CiAgICAgICAgICB0LnB1c2godlsxXS52YWx1ZU9mKCkpOwogICAgICAgICAgbmV3di5kYXRlID0gdDsKICAgICAgICAgIG5ld3YubnVtID0gdlsxXS5kaWZmKHZbMF0sICdkYXknKSArIDE7CiAgICAgICAgICBwcm9wcy5vbkNoYW5nZShuZXd2KTsKICAgICAgICB9fQogICAgICAvPgogICAgICA8c3BhbiBzdHlsZT17eyBtYXJnaW5MZWZ0OiA1IH19PgogICAgICAgIOWFseiuoXsnICd9CiAgICAgICAgPElucHV0TnVtYmVyCiAgICAgICAgICByZWFkT25seT17cmVhZG9ubHl9CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICAgIG1pbj17MH0KICAgICAgICAgIHZhbHVlPXtudW12KCl9CiAgICAgICAgICBvbkNoYW5nZT17diA9PiB7CiAgICAgICAgICAgIHZhbHVlLm51bSA9IHY7CiAgICAgICAgICAgIHByb3BzLm9uQ2hhbmdlKHZhbHVlKTsKICAgICAgICAgIH19CiAgICAgICAgLz57JyAnfQogICAgICAgIOWkqQogICAgICA8L3NwYW4+</text>
+      </register>
+      <register name="5" type="4">
         <text>if (process.env.NODE_ENV !== 'production') {
   LeavePluginWidget.propTypes = {
     value: {date: [], num: 0},
   };
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsKICAgICAgICB0aXRsZTogJ+a1geeoi+aWh+S7ticsCiAgICAgICAgZGF0YWluZGV4OiAnYWN0aW9uMycsCiAgICAgICAgd2lkdGg6ICcxNTAnLAogICAgICAgIGZpeGVkOiAncmlnaHQnLAogICAgICAgIHJlbmRlcjogKHRleHQsIHJlY29yZCkgPT4gewogICAgICAgICAgaWYgKHJlY29yZC5maWxlVGVtcGxhdGVJZCkgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8VGFnIGNvbG9yPXsnIzRjYWY1MCd9IG9uQ2xpY2s9eygpID0+IHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6IHJlY29yZC5maWxlVGVtcGxhdGVOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgIHBkZk1vZGFsOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgIHBkZnVybDogUGF0aC5mbG93ICsgIi9wcm9jZXNzL3ByZXZpZXcvIiArIHJlY29yZC5wcm9jSW5zSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgZG93bmxvYWR1cmw6IFBhdGguZmxvdyArICIvcHJvY2Vzcy93b3JkLyIgKyByZWNvcmQucHJvY0luc0lkCiAgICAgICAgICAgICAgICAgICAgICAgIH0pfT4KICAgICAgICAgICAgICAgICAgICAgICAgICA8SWNvbiB0aGVtZT0idHdvVG9uZSIgdHdvVG9uZUNvbG9yPSIjMjA1QUFGIiB0eXBlPSJmaWxlLXdvcmQiLz57cmVjb3JkLmZpbGVUZW1wbGF0ZU5hbWV9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICApCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gPFRhZyBjb2xvcj0iIzk0OTI5MiI+5pyq6K6+572u5paH5Lu25qih5p2/PC9UYWc+CiAgICAgICAgICB9CgogICAgICAgIH0sCiAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZC0+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICog5pyA5ZCO5LiA5Liq5Lu75Yqh55qE5ZCN56ewCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGxhc3RUYXNrTmFtZTsKICAgIC8qKgogICAgICog5pyA5ZCO5LiA5Liq5Lu75Yqh55qE5Yqe55CG5Lq6CiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGFzc2lnbmVlTmFtZTsKLQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dSA9PiB7CiAgICAgICAgICAgIGlmKHUpewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBjYzogdSB9CiAgICAgICAgICAgICAgKQogICAgICAgICAgfSB9fQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHtwcmludCAmJgogICAgICAgICAgPFJlYWN0VG9QcmludAogICAgICAgICAgICB0cmlnZ2VyPXsoKSA9PiA8YSBocmVmPSIjIj5QcmludCB0aGlzIG91dCE8L2E+fQogICAgICAgICAgICBjb250ZW50PXsoKSA9PiB0aGlzLmNvbXBvbmVudFJlZn0KICAgICAgICAgIC8+fQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgdGV4dExheWVycy5mb3JFYWNoKGxheWVyID0+IHsKICAgICAgY29uc3Qge3N0eWxlfSA9IGxheWVyOwogICAgICBzdHlsZS5kaXNwbGF5PSdub25lJzsKICAgICAgLy8gc3R5bGUudG9wID0gIjAiOwogICAgICAvLyBzdHlsZS5sZWZ0ID0gIjAiOwogICAgICAvLyBzdHlsZS50cmFuc2Zvcm0gPSAiIjsKICAgIH0pOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCl7ewogICAgICAgICAgICBwdXQoInRpdGxlIiwgIlBvaS10bCDmqKHmnb/lvJXmk44iKTsKICAgICAgICB9fQ==</text>
+        <text encoding="base64">dSA9PiB7CiAgICAgICAgICAgIGlmKHUpewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBjYzogdSB9CiAgICAgICAgICAgICAgKQogICAgICAgICAgfSB9fQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
