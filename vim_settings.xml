@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flowable-web/Dockerfile.dev" timestamp="1565681989408">
-        <mark key="[" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-      </file>
       <file name="/a.dummy" timestamp="1565580665326">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,6 +18,12 @@
         <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/theme/bs4/utils.js" timestamp="1565677657961" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessSignature.java" timestamp="1565763881314">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="34" column="21" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1565659642355">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="44" />
@@ -78,6 +80,12 @@
         <mark key="[" line="561" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/static/editor-app/toolbar-controller.js" timestamp="1565682158334" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1565332025599">
+        <mark key="[" line="354" column="13" />
+        <mark key="]" line="64" column="52" />
+        <mark key="^" line="67" column="96" />
+        <mark key="." line="64" column="52" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessFile.js" timestamp="1565574627787">
         <mark key="[" line="472" column="28" />
         <mark key="]" line="472" column="28" />
@@ -95,6 +103,7 @@
         <mark key="[" line="56" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1565658444136" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FreeProcessDefinitionCache.java" timestamp="1565763708061" />
       <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/index.js" timestamp="1565666007281" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565574301332">
         <mark key="[" line="575" column="28" />
@@ -166,7 +175,7 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1565688319018" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565753520386" />
-      <file name="/fragment.java" timestamp="1565658910834">
+      <file name="/fragment.java" timestamp="1565762964561">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -312,7 +321,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
