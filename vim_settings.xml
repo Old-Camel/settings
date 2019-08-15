@@ -86,7 +86,7 @@
         <mark key="^" line="47" column="61" />
         <mark key="." line="145" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1565658444136" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1565852729982" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1565776182792">
         <mark key="[" line="95" column="57" />
       </file>
@@ -105,6 +105,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormPermissions.js" timestamp="1565855253917" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/MineProcessInstanceData.java" timestamp="1565595066311" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessSignatureService.java" timestamp="1565840750955">
         <mark key="[" line="19" column="0" />
@@ -142,7 +143,7 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565753520386" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565852962509" />
       <file name="/ACT_SIGNATURE_PERMISSIONS [139]" timestamp="1565839843561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,7 +166,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextWidget.js" timestamp="1565666191150">
         <mark key="[" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1565852340644">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1565854295944">
         <mark key="[" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessFileSignatureServiceImpl.java" timestamp="1565764334149">
@@ -199,7 +200,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1565852354612">
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1565854092858">
         <mark key="[" line="49" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FreeProcessDefinitionCache.java" timestamp="1565763708061" />
@@ -208,11 +209,10 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/Process.js" timestamp="1565574301332">
         <mark key="[" line="575" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SignatureWidget.js" timestamp="1565773369446">
-        <mark key="[" line="91" column="10" />
-        <mark key="]" line="91" column="10" />
-        <mark key="." line="91" column="10" />
-        <mark key="^" line="82" column="69" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SignatureWidget.js" timestamp="1565855992292">
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="8" />
+        <mark key="." line="80" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processsignature.js" timestamp="1565840019013">
         <mark key="[" line="12" column="58" />
@@ -234,7 +234,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1565751844447">
         <mark key="[" line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565746175479">
+      <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1565856501404">
         <mark key="[" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessCcData.java" timestamp="1565660209482">
@@ -244,7 +244,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1565690878396" />
-      <file name="/Dummy.txt" timestamp="1565840450792">
+      <file name="/Dummy.txt" timestamp="1565856105495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Preview.less" timestamp="1565343386142">
@@ -281,7 +281,7 @@
       <file name="/fragment.java" timestamp="1565832906354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1565839613337">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1565853883193">
         <mark key="'" line="365" column="15" />
         <mark key="[" line="283" column="18" />
         <mark key="]" line="283" column="16" />
@@ -431,7 +431,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -439,40 +439,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGFkZFBlcm1pc3Npb25zIChAIFN0cmluZyBpZCkgewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICA8Q2Fyb3VzZWwgPgogICAgICAgICAgICB7c2lnbmF0dXJlcy5tYXAoKGksaW5kZXgpPT4KICAgICAgICAgICAgICA8aW1nIGtleT17aW5kZXh9ICBzcmM9e2l9IGFsdD0iYXZhdGFyIiBzdHlsZT17e3dpZHRoOiAnMTAwJSd9fS8+CiAgICAgICAgICAgICl9CiAgICAgICAgICAgIHtzaWduYXR1cmVzLm1hcCgoaSxpbmRleCk9PgogICAgICAgICAgICAgIDxpbWcga2V5PXtpbmRleH0gIHNyYz17aX0gYWx0PSJhdmF0YXIiIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319Lz4KICAgICAgICAgICAgKX0KCiAgICAgICAgICA8L0Nhcm91c2VsPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>readonly={readonly}
+             disabled={disabled}</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICBsZXQgaW1hZ2VVcmwgPSAiaHR0cHM6Ly96b3MuYWxpcGF5b2JqZWN0cy5jb20vcm1zcG9ydGFsL2pramdrRWZ2cFVQVnlSalVJbW5pVnNsWmZXUG5KdXVaLnBuZyI7CiAgICBjb25zdCBkYXRhID0gWwogICAgICB7CiAgICAgICAgdGl0bGU6ICdUaXRsZSAxJywKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAnVGl0bGUgMicsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ1RpdGxlIDMnLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICdUaXRsZSA0JywKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAnVGl0bGUgNScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ1RpdGxlIDYnLAogICAgICB9LAogICAgXTs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBoaXN0b3J5OiBwcm9jZXNzLmhpc3RvcnksCiAgbG9hZGluZzoKICAgIGxvYWRpbmcubW9kZWxzLnByb2Nlc3Nmb3JtIHx8CiAgICBsb2FkaW5nLm1vZGVscy5wcm9jZXNzIHx8CiAgICBsb2FkaW5nLm1vZGVscy50YXNrIHx8CiAgICBsb2FkaW5nLm1vZGVscy51c2VyLAogIHBhZ2VJbml0OiB0YXNrLnBhZ2VJbml0LAogIGZvcm1EYXRhOiBwcm9jZXNzZm9ybS5mb3JtRGF0YSwKICB1aVNjaGVtYTogcHJvY2Vzc2Zvcm0udWlTY2hlbWEsCiAgYnV0dG9uczogcHJvY2Vzc2Zvcm0uYnV0dG9ucywKICBhbGxSb2xlOiB1c2VyLnJvbGVzLAogIHNjaGVtYTogcHJvY2Vzc2Zvcm0uc2NoZW1hLAogIGFzc2lnbmVlOiBwcm9jZXNzZm9ybS5hc3NpZ25lZSwKICB2YXJpYWJsZXM6IHByb2Nlc3Nmb3JtLnZhcmlhYmxlcywKICB0YXJnZXROb2RlOiBwcm9jZXNzZm9ybS50YXJnZXROb2RlLAogIGRlbGVnYXRlVXNlcjogcHJvY2Vzc2Zvcm0uZGVsZWdhdGVVc2VyLAogIGluc3RhbmNlSWQ6IHByb2Nlc3Nmb3JtLmluc3RhbmNlSWQsCiAgdGFyZ2V0Tm9kZXM6IHByb2Nlc3Nmb3JtLnRhcmdldE5vZGVzLAogIHJlamVqZWN0VHlwZTogcHJvY2Vzc2Zvcm0ucmVqZWplY3RUeXBlLAogIHJlamVjdElkOiBudWxsLAogIHBhc3NOdW06IHByb2Nlc3Nmb3JtLnBhc3NOdW0sCiAgcGVyY2VudGFnZTogcHJvY2Vzc2Zvcm0ucGVyY2VudGFnZSwKICB2b3RlQ291bnRpbmdTdHJhdGVneTogcHJvY2Vzc2Zvcm0udm90ZUNvdW50aW5nU3RyYXRlZ3ksCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxZdW56YWlSZXR1cm5FbnRpdHk+IGFkZFBlcm1pc3Npb25zIChAIFN0cmluZyBpZCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IEBRdWVyeShuYXRpdmVRdWVyeSA9IHRydWUsdmFsdWUgPSAiU0VMRUNUIFJPTEVfSUQgZnJvbSBGTE9XQUJMRS5BQ1RfU0lHTkFUVVJFX1BFUk1JU1NJT05TIHdoZXJlIHNpZ25hdHVyZV9pZD0gOmlkIGFuZCBQRVJNSVNTSU9OX1RZUEU9MiIpCiAgICBMaXN0PFN0cmluZz4gcXVlcnlSb2xlcyhAUGFyYW0oImlkIikgU3RyaW5nIGlkKTsKICAgIEBRdWVyeShuYXRpdmVRdWVyeSA9IHRydWUsdmFsdWUgPSAiU0VMRUNUIERFUFRfSUQgZnJvbSBGTE9XQUJMRS5BQ1RfU0lHTkFUVVJFX1BFUk1JU1NJT05TIHdoZXJlIHNpZ25hdHVyZV9pZD0gOmlkIGFuZCBQRVJNSVNTSU9OX1RZUEU9MyIpCiAgICBMaXN0PFN0cmluZz4gcXVlcnlEZXB0cyhAUGFyYW0oImlkIikgU3RyaW5nIGlkKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IExpc3Q8U3RyaW5nPiAgc2VsZWN0Um9sZXMoU3RyaW5nIGlkKTsKICAgIExpc3Q8U3RyaW5nPiAgc2VsZWN0RGVwdHMoU3RyaW5nIGlkKTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>this.setState({
       modalVisible: !!flag,
       modalValue: selectedRows[0],
       modalTitle: '编辑签章',
     });</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-  }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLi4ucGFyYW0sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvZHk6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
