@@ -24,10 +24,10 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/processsignature.js" timestamp="1565776844882">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/processsignature.js" timestamp="1565831057302">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1565769507101">
         <mark key="[" line="17" column="63" />
@@ -118,7 +118,11 @@
         <mark key="." line="91" column="10" />
         <mark key="^" line="82" column="69" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processsignature.js" timestamp="1565765948611" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processsignature.js" timestamp="1565830913840">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+      </file>
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityServerConfig.java" timestamp="1565599398749">
         <mark key="[" line="49" column="46" />
       </file>
@@ -147,10 +151,10 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1565687992124" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1565595001121" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessSignatureController.java" timestamp="1565765932540">
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="23" />
-        <mark key="^" line="49" column="43" />
-        <mark key="." line="72" column="23" />
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="70" column="23" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="70" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/file-center/file-core/src/main/java/com/yunzainfo/cloud/filecenter/web/FileController.java" timestamp="1565768665350" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.less" timestamp="1565773265764">
@@ -177,15 +181,15 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1565688319018" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1565753520386" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1565777255610">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
-        <mark key="^" line="16" column="11" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1565831443646">
+        <mark key="'" line="302" column="19" />
+        <mark key="[" line="646" column="24" />
+        <mark key="]" line="646" column="24" />
+        <mark key="." line="646" column="24" />
+        <mark key="^" line="335" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="671" column="27" filename="$USER_HOME$/data/code/react-auth/src/pages/Video/Me.js" />
       <jump line="149" column="34" filename="$USER_HOME$/data/code/react-auth/src/pages/Video/Me.js" />
       <jump line="172" column="52" filename="$USER_HOME$/data/code/video-library/src/main/java/com/yunzainfo/cloud/vlib/service/impl/AliyunFileServiceImpl.java" />
       <jump line="449" column="31" filename="$USER_HOME$/data/code/react-auth/src/pages/Video/Admin.js" />
@@ -285,6 +289,7 @@
       <jump line="23" column="32" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" />
       <jump line="49" column="68" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" />
       <jump line="16" column="6" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SignatureWidget.js" />
+      <jump line="302" column="19" filename="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,7 +331,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHA=</text>
+        <text>modalVisible</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -335,46 +340,52 @@
         <text encoding="base64">YyBzdGF0aWMgTGlzdDxVc2VyVGFzaz4gZ2V0Rmlyc3RVc2VyVGFza3MoUmVwb3NpdG9yeVNlcnZpY2UgcmVwb3NpdG9yeVNlcnZpY2UsIFRhc2tTZXJ2aWNlIHRhc2tTZXJ2aWNlLCBTdHJpbmcgLA==</text>
       </register>
       <register name="1" type="4">
-        <text>model.properties.process_globelsettings
-              ? model.properties.process_globelsettings[key]
-                ? model.properties.process_globelsettings[key]['users']
-                : []</text>
+        <text>this.setState({
+      modalVisible: !!flag,
+      modalValue: selectedRows[0],
+      modalTitle: '编辑签章',
+    });</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>{
+  }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLi4ucGFyYW0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJvZHk6IHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1ldGhvZDogJ1BPU1QnLGRkCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>loading: loading.models.signature,
+  pageInit: signature.pageInit,
+  data: signature.data,
+}))
+@Form.create()
+export default class ProcessSignature extends PureComponent {
+  state = {
+    PermissionsForm</text>
+      </register>
+      <register name="8" type="4">
+        <text>model.properties.process_globelsettings
+              ? model.properties.process_globelsettings[key]
+                ? model.properties.process_globelsettings[key]['users']
+                : []</text>
+      </register>
+      <register name="9" type="4">
         <text>model.properties.process_globelsettings
               ? model.properties.process_globelsettings[key]
                 ? model.properties.process_globelsettings[key]['depts']
                 : []</text>
-      </register>
-      <register name="3" type="4">
-        <text>model.properties.process_globelsettings
-              ? model.properties.process_globelsettings[key]
-                ? model.properties.process_globelsettings[key]['roles']
-                : []</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8Rm9ybUl0ZW0ga2V5PSJuYW1lIiBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTYgfX0gbGFiZWw9IuetvueroOWQjeensCI+CiAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByZWNvcmQgPyByZWNvcmQubmFtZSA6ICcnLAogICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fovpPlhaXnsbvlnovlkI3np7AnIH1dLAogICAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaXnsbvlnovlkI3np7AiIC8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiwKICAgICAgICA8Rm9ybUl0ZW0ga2V5PSJub3RlIiBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTYgfX0gbGFiZWw9IuWkh+azqCI+CiAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbm90ZScsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByZWNvcmQgPyByZWNvcmQubm90ZSA6ICcnLAogICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6ZmFsc2UsIG1lc3NhZ2U6ICfor7fovpPlhaXlpIfms6gnIH1dLAogICAgICAgICAgfSkoPElucHV0LlRleHRBcmVhIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlpIfms6giIC8+KX0KICAgICAgICA8L0Zvcm1JdGVtPiwKCiAgICAgICAgPEZvcm1JdGVtIGtleT0ic3RhdGUiIGxhYmVsQ29sPXt7IHNwYW46IDUgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5piv5ZCm5ZCv55SoIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdzdGF0ZScsIHsKICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiByZWNvcmQgPyByZWNvcmQuc3RhdGUgPT0gMSA6IGZhbHNlLAogICAgICAgICAgICB2YWx1ZVByb3BOYW1lOiAnY2hlY2tlZCcsCiAgICAgICAgICB9KSg8U3dpdGNoIGNoZWNrZWRDaGlsZHJlbj0i5pivIiB1bkNoZWNrZWRDaGlsZHJlbj0i5ZCmIiAvPil9CiAgICAgICAgPC9Gb3JtSXRlbT4sCgogICAgICAgIDxGb3JtSXRlbSBrZXk9InNpZ25hdHVyZSIgbGFiZWxDb2w9e3sgc3BhbjogNSB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE1IH19IGxhYmVsPSLnrb7nq6Dmlofku7bkuIrkvKAiPgogICAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3NpZ25hdHVyZScsIHsKICAgICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiBmYWxzZSwgbWVzc2FnZTogJ+ivt+mAieaLqeetvueroOaWh+S7ticgfV0sCiAgICAgICAgICB9KSgKICAgICAgICAgICAgPFVwbG9hZCB7Li4ucHJvcHN9PgogICAgICAgICAgICAgIHtpbWFnZVVybCA/IDxpbWcgc3JjPXtpbWFnZVVybH0gYWx0PSJhdmF0YXIiIHN0eWxlPXt7IHdpZHRoOiAyNTYsaGVpZ2h0OjIwMCB9fSAvPiA6IHVwbG9hZEJ1dHRvbn0KICAgICAgICAgICAgPC9VcGxvYWQ+CiAgICAgICAgICApfQogICAgICAgIDwvRm9ybUl0ZW0+Cgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGNvbnN0IHVwbG9hZEJ1dHRvbiA9ICgKICAgICAgICA8ZGl2PgogICAgICAgICAgPEljb24gIHN0eWxlPXt7Zm9udFNpemU6ICcyNHB4J319ICB0eXBlPXt0aGlzLnN0YXRlLmxvYWRpbmcgPyAnbG9hZGluZycgOiAncGx1cyd9IC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYW50LXVwbG9hZC10ZXh0Ij5VcGxvYWQ8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKTs=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGlmICghcmVjb3JkKSB7CiAgICAgICAgICBpZiAodGhpcy5zdGF0ZS5pbWFnZVVybCA9PSAwKSB7CiAgICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+ivt+S4iuS8oOaWh+S7ticpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxldCBmaWVsZHM7CiAgICAgICAgdmFyIHMgPSBmaWVsZHNWYWx1ZS5zdGF0ZSA/IDEgOiAwOwogICAgICAgICBmaWVsZHMgPSB7IC4uLmZpZWxkc1ZhbHVlLCBzdGF0ZTogcyB9OwogICAgICAgIGlmICghcmVjb3JkKSB7CiAgICAgICAgICBmaWVsZHMgPSB7IC4uLmZpZWxkcywgc2lnbmF0dXJlOiB0aGlzLnN0YXRlLmltYWdlVXJsIH07CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGZpZWxkcyA9IHsgLi4uZmllbGRzLCBzaWduYXR1cmU6IHRoaXMuc3RhdGUuaW1hZ2VVcmw/dGhpcy5zdGF0ZS5pbWFnZVVybDpyZWNvcmQuc2lnbmF0dXJlIH07CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNvbnN0IHByb3BzID0gewogICAgICBsaXN0VHlwZToicGljdHVyZS1jYXJkIiwKICAgICAgb25SZW1vdmU6IGZpbGUgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoc3RhdGUgPT4gewogICAgICAgICAgY29uc3QgaW5kZXggPSBzdGF0ZS5maWxlTGlzdC5pbmRleE9mKGZpbGUpOwogICAgICAgICAgY29uc3QgbmV3RmlsZUxpc3QgPSBzdGF0ZS5maWxlTGlzdC5zbGljZSgpOwogICAgICAgICAgbmV3RmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGZpbGVMaXN0OiBuZXdGaWxlTGlzdCwKICAgICAgICAgIH07CiAgICAgICAgfSk7CiAgICAgIH0sCiAgICAgIGJlZm9yZVVwbG9hZDogYmVmb3JlVXBsb2FkLAogICAgICBzaG93VXBsb2FkTGlzdDogZmFsc2UsCiAgICAgIG9uQ2hhbmdlOnRoaXMuaGFuZGxlQ2hhbmdlCiAgICAgIH07Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>state = {
-    fileList: [],
-    uploading: false,
-  };</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGhhbmRsZUNoYW5nZSA9IGluZm8gPT4gewogICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICd1cGxvYWRpbmcnKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiB0cnVlIH0pOwogICAgICByZXR1cm47CiAgICB9CiAgICBpZiAoaW5mby5maWxlLnN0YXR1cyA9PT0gJ2RvbmUnKSB7CiAgICAgIC8vIEdldCB0aGlzIHVybCBmcm9tIHJlc3BvbnNlIGluIHJlYWwgd29ybGQuCiAgICAgIGdldEJhc2U2NChpbmZvLmZpbGUub3JpZ2luRmlsZU9iaiwgaW1hZ2VVcmwgPT4KICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGltYWdlVXJsLAogICAgICAgICAgbG9hZGluZzogZmFsc2UsCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9CiAgfTs=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
