@@ -72,7 +72,7 @@
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1565924030186">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1565935413319">
         <mark key="'" line="536" column="38" />
         <mark key="[" line="580" column="72" />
         <mark key="]" line="580" column="72" />
@@ -214,6 +214,11 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1565854092858">
         <mark key="[" line="49" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/process.js" timestamp="1565935478921">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1565918087868">
         <mark key="[" line="19" column="34" />
@@ -450,7 +455,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>流程标识</text>
+        <text>suspend</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
