@@ -15,10 +15,11 @@
       <file name="/a.dummy" timestamp="1566200346927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.js" timestamp="1566206320301">
-        <mark key="[" line="233" column="49" />
-        <mark key="]" line="233" column="49" />
-        <mark key="." line="233" column="49" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.js" timestamp="1566215099780">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1565922861325">
         <mark key="[" line="41" column="58" />
@@ -206,10 +207,11 @@
       <file name="/fragment.java" timestamp="1566201049845">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1566200105274">
-        <mark key="[" line="124" column="43" />
-        <mark key="]" line="124" column="43" />
-        <mark key="." line="124" column="43" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1566215106275">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -354,7 +356,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>svg</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -363,38 +365,34 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICB7JyAnfQogICAgICAgICAgICAgIDxJY29uIHR5cGU9ImRlbGV0ZSIgdGhlbWU9InR3b1RvbmUiIC8+</text>
+        <text encoding="base64">ICBvblJlbW92ZTogZmlsZSA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZShzdGF0ZSA9PiB7CiAgICAgICAgICBjb25zdCBpbmRleCA9IHN0YXRlLmZpbGVMaXN0LmluZGV4T2YoZmlsZSk7CiAgICAgICAgICBjb25zdCBuZXdGaWxlTGlzdCA9IHN0YXRlLmZpbGVMaXN0LnNsaWNlKCk7CiAgICAgICAgICBuZXdGaWxlTGlzdC5zcGxpY2UoaW5kZXgsIDEpOwogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZmlsZUxpc3Q6IG5ld0ZpbGVMaXN0LAogICAgICAgICAgfTsKICAgICAgICB9KTsKICAgICAgfSw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGljb24uc3Vic3RyKDAsIDIpID09ICJ4LSIpewogICAgICAgICAgICAgIHJldHVybiAoPEJ1dHRvbiBrZXk9e2ljb259IHN0eWxlPXt7J3BhZGRpbmctcmlnaHQnOiAnOHB4JywncGFkZGluZy1sZWZ0JzogJzhweCcsICdtYXJnaW4nOiAnOHB4IDAgMCA4cHgnfX0gdHlwZT17dmFsdWUgPT09IGljb24gPyAncHJpbWFyeScgOiAnZGVmYXVsdCd9CiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLmhhbmRsZUNoYW5nZUFjdGlvbihpY29uKX0+CiAgICAgICAgICAgICAgICA8SWNvbkZvbnQgdHlwZT17aWNvbn0vPgogICAgICAgICAgICAgIDwvQnV0dG9uPik7CiAgICAgICAgICAgIH1lbHNlIHs=</text>
+        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UgPSBpbmZvID0+IHsKICAgIGlmIChpbmZvLmZpbGUuc3RhdHVzID09PSAndXBsb2FkaW5nJykgewogICAgICB0aGlzLnNldFN0YXRlKHsgbG9hZGluZzogdHJ1ZSB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdkb25lJykgewogICAgICAvLyBHZXQgdGhpcyB1cmwgZnJvbSByZXNwb25zZSBpbiByZWFsIHdvcmxkLgogICAgICBnZXRCYXNlNjQoaW5mby5maWxlLm9yaWdpbkZpbGVPYmosIGltYWdlVXJsID0+CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICBpbWFnZVVybCwKICAgICAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICAgIH0pCiAgICAgICk7CiAgICB9CiAgfTs=</text>
       </register>
       <register name="3" type="4">
-        <text>{
-      list: [],
-    },</text>
+        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UgPSBpbmZvID0+IHsKICAgICAgLy8gR2V0IHRoaXMgdXJsIGZyb20gcmVzcG9uc2UgaW4gcmVhbCB3b3JsZC4KCiAgfTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHBheWxvYWQ6IHsKICAgICAgICBjb3VudDogOCwKICAgICAgfSw=</text>
+        <text encoding="base64">b25SZW1vdmU6IGZpbGUgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoc3RhdGUgPT4gewogICAgICAgICAgY29uc3QgaW5kZXggPSBzdGF0ZS5maWxlTGlzdC5pbmRleE9mKGZpbGUpOwogICAgICAgICAgY29uc3QgbmV3RmlsZUxpc3QgPSBzdGF0ZS5maWxlTGlzdC5zbGljZSgpOwogICAgICAgICAgbmV3RmlsZUxpc3Quc3BsaWNlKGluZGV4LCAxKTsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGZpbGVMaXN0OiBuZXdGaWxlTGlzdCwKICAgICAgICAgIH07CiAgICAgICAgfSk7CiAgICAgIH0s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGRlc2NyaXB0aW9uPXsKICAgICAgICAgICAgICAgICAgICAgICAgPEVsbGlwc2lzIGNsYXNzTmFtZT17c3R5bGVzLml0ZW19IGxpbmVzPXszfT4KICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbS5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgICAgICAgICAgICAgPC9FbGxpcHNpcz4KICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UgPSBpbmZvID0+IHsKICAgICAgLy8gR2V0IHRoaXMgdXJsIGZyb20gcmVzcG9uc2UgaW4gcmVhbCB3b3JsZC4KCiAgfTs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgKnNldGljb25QZXJtaXNzaW9ucyh7IHBheWxvYWQsIGNhbGxiYWNrLCByZXNldEZvcm0gfSwgeyBjYWxsIH0pIHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSB5aWVsZCBjYWxsKHNldGljb25QZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHN1Y2Nlc3NBbmRSZXNldGZvcm0ocmVzcG9uc2UsIGNhbGxiYWNrLCByZXNldEZvcm0pOwogICAgfSw=</text>
+        <text encoding="base64">ICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICd1cGxvYWRpbmcnKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoeyBsb2FkaW5nOiB0cnVlIH0pOwogICAgICByZXR1cm47CiAgICB9CiAgICBpZiAoaW5mby5maWxlLnN0YXR1cyA9PT0gJ2RvbmUnKSB7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICpmZXRjaFBlcm1pc3Npb25zKHsgcGF5bG9hZCwgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQgfSkgewogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwoZmV0Y2hQZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3NhdmVQZXJtaXNzaW9ucycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgZGF0YTogcmVzcG9uc2UuZGF0YSwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgaWYgKGNhbGxiYWNrKSBjYWxsYmFjaygpOwogICAgfSw=</text>
+        <text encoding="base64">IG9uUmVtb3ZlOiBmaWxlID0+IHsKICAgICAgICB0aGlzLnNldFN0YXRlKHN0YXRlID0+IHsKICAgICAgICAgIGNvbnN0IGluZGV4ID0gc3RhdGUuZmlsZUxpc3QuaW5kZXhPZihmaWxlKTsKICAgICAgICAgIGNvbnN0IG5ld0ZpbGVMaXN0ID0gc3RhdGUuZmlsZUxpc3Quc2xpY2UoKTsKICAgICAgICAgIG5ld0ZpbGVMaXN0LnNwbGljZShpbmRleCwgMSk7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBmaWxlTGlzdDogbmV3RmlsZUxpc3QsCiAgICAgICAgICB9OwogICAgICAgIH0pOwogICAgICB9LA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgYm9keTogewogICAgICAuLi5wYXJhbSwKICAgIH0s</text>
+        <text encoding="base64">ICB7JyAnfQogICAgICAgICAgICAgIDxJY29uIHR5cGU9ImRlbGV0ZSIgdGhlbWU9InR3b1RvbmUiIC8+</text>
       </register>
       <register name="9" type="4">
-        <text>export async function getALlicon() {
-  return http(Path.flow + '/icon/all');
-}</text>
+        <text encoding="base64">aWYgKGljb24uc3Vic3RyKDAsIDIpID09ICJ4LSIpewogICAgICAgICAgICAgIHJldHVybiAoPEJ1dHRvbiBrZXk9e2ljb259IHN0eWxlPXt7J3BhZGRpbmctcmlnaHQnOiAnOHB4JywncGFkZGluZy1sZWZ0JzogJzhweCcsICdtYXJnaW4nOiAnOHB4IDAgMCA4cHgnfX0gdHlwZT17dmFsdWUgPT09IGljb24gPyAncHJpbWFyeScgOiAnZGVmYXVsdCd9CiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLmhhbmRsZUNoYW5nZUFjdGlvbihpY29uKX0+CiAgICAgICAgICAgICAgICA8SWNvbkZvbnQgdHlwZT17aWNvbn0vPgogICAgICAgICAgICAgIDwvQnV0dG9uPik7CiAgICAgICAgICAgIH1lbHNlIHs=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
