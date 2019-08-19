@@ -6,13 +6,18 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/CC.js" timestamp="1565954325863">
         <mark key="[" line="353" column="8" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/http.js" timestamp="1566202054628">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1566200346927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.js" timestamp="1566201645000">
-        <mark key="[" line="151" column="17" />
-        <mark key="]" line="107" column="7" />
-        <mark key="." line="107" column="7" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.js" timestamp="1566204621403">
+        <mark key="[" line="233" column="49" />
+        <mark key="]" line="233" column="49" />
+        <mark key="." line="233" column="49" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1565922861325">
         <mark key="[" line="41" column="58" />
@@ -48,7 +53,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1565776182792">
         <mark key="[" line="95" column="57" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/Icon.java" timestamp="1566200466193" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/Icon.java" timestamp="1566202158397">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/IconService.java" timestamp="1566200698546">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="49" />
@@ -103,8 +112,8 @@
         <mark key="]" line="83" column="67" />
         <mark key="." line="83" column="67" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.less" timestamp="1566196826676">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.less" timestamp="1566203633509">
+        <mark key="[" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/utils.js" timestamp="1566185795359" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormData.js" timestamp="1565767443267">
@@ -121,6 +130,11 @@
         <mark key="]" line="55" column="2" />
         <mark key="." line="55" column="2" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/processicon.js" timestamp="1566203513927">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1565854092858">
         <mark key="[" line="49" column="17" />
       </file>
@@ -133,10 +147,10 @@
         <mark key="[" line="19" column="34" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1566181740457" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/processsicon.js" timestamp="1566201606432">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/models/processsicon.js" timestamp="1566201829097">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1566177699640">
         <mark key="[" line="75" column="131" />
@@ -162,9 +176,9 @@
         <mark key="[" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/models/user.js" timestamp="1566198869762">
-        <mark key="[" line="99" column="7" />
-        <mark key="]" line="99" column="7" />
-        <mark key="." line="99" column="7" />
+        <mark key="[" line="98" column="7" />
+        <mark key="]" line="98" column="7" />
+        <mark key="." line="98" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/logback-spring.xml" timestamp="1566176929227">
         <mark key="[" line="12" column="51" />
@@ -320,7 +334,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>geticon</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -329,28 +343,39 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgKnNldGljb25QZXJtaXNzaW9ucyh7IHBheWxvYWQsIGNhbGxiYWNrLCByZXNldEZvcm0gfSwgeyBjYWxsIH0pIHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSB5aWVsZCBjYWxsKHNldGljb25QZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHN1Y2Nlc3NBbmRSZXNldGZvcm0ocmVzcG9uc2UsIGNhbGxiYWNrLCByZXNldEZvcm0pOwogICAgfSw=</text>
+        <text>{
+      list: [],
+    },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICpmZXRjaFBlcm1pc3Npb25zKHsgcGF5bG9hZCwgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQgfSkgewogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwoZmV0Y2hQZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3NhdmVQZXJtaXNzaW9ucycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgZGF0YTogcmVzcG9uc2UuZGF0YSwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgaWYgKGNhbGxiYWNrKSBjYWxsYmFjaygpOwogICAgfSw=</text>
+        <text encoding="base64">IHBheWxvYWQ6IHsKICAgICAgICBjb3VudDogOCwKICAgICAgfSw=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgYm9keTogewogICAgICAuLi5wYXJhbSwKICAgIH0s</text>
+        <text encoding="base64">IGRlc2NyaXB0aW9uPXsKICAgICAgICAgICAgICAgICAgICAgICAgPEVsbGlwc2lzIGNsYXNzTmFtZT17c3R5bGVzLml0ZW19IGxpbmVzPXszfT4KICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbS5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgICAgICAgICAgICAgPC9FbGxpcHNpcz4KICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgKnNldGljb25QZXJtaXNzaW9ucyh7IHBheWxvYWQsIGNhbGxiYWNrLCByZXNldEZvcm0gfSwgeyBjYWxsIH0pIHsKICAgICAgY29uc3QgcmVzcG9uc2UgPSB5aWVsZCBjYWxsKHNldGljb25QZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHN1Y2Nlc3NBbmRSZXNldGZvcm0ocmVzcG9uc2UsIGNhbGxiYWNrLCByZXNldEZvcm0pOwogICAgfSw=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICpmZXRjaFBlcm1pc3Npb25zKHsgcGF5bG9hZCwgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQgfSkgewogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwoZmV0Y2hQZXJtaXNzaW9ucywgcGF5bG9hZCk7CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3NhdmVQZXJtaXNzaW9ucycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgZGF0YTogcmVzcG9uc2UuZGF0YSwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgaWYgKGNhbGxiYWNrKSBjYWxsYmFjaygpOwogICAgfSw=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgYm9keTogewogICAgICAuLi5wYXJhbSwKICAgIH0s</text>
+      </register>
+      <register name="7" type="4">
         <text>export async function getALlicon() {
   return http(Path.flow + '/icon/all');
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>export async function fetchPermissions(param) {
   return http(Path.flow + '/icon/permissions/' + param);
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>export async function seticonPermissions(param) {
   return http(Path.flow + '/icon/permissions', {
     method: 'POST',
@@ -359,15 +384,6 @@
     },
   });
 }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBAR2V0TWFwcGluZygiL29wdGlvbnMiKQogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gZ2V0T3B0aW9ucygpIHsKICAgICAgICBMaXN0PEljb24+IGRhdGEgPSBzZXJ2aWNlLmZpbmRBbGxCeU9yZGVyQnlDcmVhdGVkRGF0ZUFzYygpOwogICAgICAgIExpc3Q8T3B0aW9uRm9yRm9ybVBlcm1pc3Npb24+IGNvbGxlY3QgPSBkYXRhLnN0cmVhbSgpLm1hcChpIC0+IG5ldyBPcHRpb25Gb3JGb3JtUGVybWlzc2lvbihpLmdldElkKCksIGkuZ2V0TmFtZSgpLCBnZXRJbmZvKGkpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLlm77moIfkuIvmi4nmlbDmja4iLCBjb2xsZWN0KTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxKU09OT2JqZWN0PiBnZXRJbmZvKEljb24gSWNvbikgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgIExpc3Q8SlNPTk9iamVjdD4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgICAgICBTdHJpbmcgc2NoZW1hID0gSWNvbi5nZXRTY2hlbWEoKTsKICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBKU09OLnBhcnNlT2JqZWN0KHNjaGVtYSwgRmVhdHVyZS5PcmRlcmVkRmllbGQpOwogICAgICAgIGlmKGpzb25PYmplY3QhPW51bGwpIHsKICAgICAgICAgICAgSlNPTk9iamVjdCBwcm9wZXJ0aWVzID0gKEpTT05PYmplY3QpIGpzb25PYmplY3QuZ2V0KCJwcm9wZXJ0aWVzIik7CiAgICAgICAgICAgIFNldDxTdHJpbmc+IHByb3BlcnRpZXNLZXkgPSBwcm9wZXJ0aWVzLmtleVNldCgpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBrZXkgOiBwcm9wZXJ0aWVzS2V5KSB7CiAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb25kYXRhID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICAgICAgICAgIGpzb25kYXRhLnB1dCgicGVybWlzc2lvbiIsICJ3cml0ZSIpOwogICAgICAgICAgICAgICAganNvbmRhdGEucHV0KCJrZXkiLCBrZXkpOwogICAgICAgICAgICAgICAganNvbmRhdGEucHV0KCJuYW1lIiwgcHJvcGVydGllcy5nZXRKU09OT2JqZWN0KGtleSkuZ2V0U3RyaW5nKCJ0aXRsZSIpKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGpzb25kYXRhKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbGlzdDsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
