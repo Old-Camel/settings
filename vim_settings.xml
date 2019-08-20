@@ -18,6 +18,7 @@
       <file name="/a.dummy" timestamp="1566271885462">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramGenerator.class" timestamp="1566288078700" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1565922861325">
         <mark key="[" line="41" column="58" />
       </file>
@@ -56,16 +57,23 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessIcon.java" timestamp="1566200378579">
         <mark key="[" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1566283620760">
-        <mark key="'" line="537" column="38" />
-        <mark key="[" line="219" column="90" />
-        <mark key="]" line="573" column="46" />
-        <mark key="." line="573" column="46" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1566289070476">
+        <mark key="'" line="541" column="38" />
+        <mark key="[" line="445" column="55" />
+        <mark key="]" line="583" column="46" />
+        <mark key="." line="583" column="46" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1566206855376">
         <mark key="[" line="268" column="83" />
         <mark key="]" line="268" column="83" />
         <mark key="." line="268" column="83" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/DesignController.java" timestamp="1566289140057">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="92" column="33" />
+        <mark key="." line="92" column="33" />
+        <mark key="^" line="90" column="0" />
+        <mark key="o" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/pom.xml" timestamp="1566269147256">
         <mark key="[" line="24" column="5" />
@@ -118,6 +126,9 @@
         <mark key="[" line="90" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Menu.js" timestamp="1566206849468" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/CustomDefaultProcessDiagramGenerator.java" timestamp="1566288833195">
+        <mark key="[" line="12" column="49" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processsicon.js" timestamp="1566201514265">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -151,13 +162,14 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextWidget.js" timestamp="1565666191150">
         <mark key="[" line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramCanvas.class" timestamp="1566287720731" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1565854295944">
         <mark key="[" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1566176230884">
-        <mark key="[" line="83" column="67" />
-        <mark key="]" line="83" column="67" />
-        <mark key="." line="83" column="67" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1566288853581">
+        <mark key="[" line="85" column="98" />
+        <mark key="]" line="84" column="67" />
+        <mark key="." line="84" column="67" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessIcon.less" timestamp="1566203633509">
         <mark key="[" line="18" column="7" />
@@ -227,7 +239,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessCcData.java" timestamp="1565660209482">
         <mark key="[" line="14" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566269308246">
+      <file name="/Dummy.txt" timestamp="1566286418733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/BaseEntity.java" timestamp="1566200835644" />
