@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1565922861325">
         <mark key="[" line="41" column="58" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/RedisUtil.java" timestamp="1566285527934" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/CustomTaskService.java" timestamp="1566268415725">
         <mark key="[" line="25" column="79" />
         <mark key="]" line="24" column="110" />
@@ -35,7 +36,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessType.js" timestamp="1565774508735">
         <mark key="[" line="372" column="33" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566284452345">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566285286066">
         <mark key="[" line="183" column="47" />
         <mark key="]" line="183" column="47" />
         <mark key="^" line="183" column="47" />
@@ -141,8 +142,8 @@
         <mark key="]" line="41" column="19" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1566284458953">
-        <mark key="[" line="215" column="13" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1566285922310">
+        <mark key="[" line="218" column="16" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
@@ -231,6 +232,12 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/BaseEntity.java" timestamp="1566200835644" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-common/6.4.1/flowable-ui-common-6.4.1.jar!/org/flowable/ui/common/service/exception/ConflictingRequestException.class" timestamp="1566270568167" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/ServiceTest.java" timestamp="1566285806715">
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="." line="71" column="16" />
+        <mark key="^" line="76" column="32" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessDefEntity.java" timestamp="1566211051892">
         <mark key="[" line="29" column="36" />
       </file>
