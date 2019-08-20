@@ -18,7 +18,7 @@
       <file name="/a.dummy" timestamp="1566271885462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramGenerator.class" timestamp="1566292625425" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/lib/flowable-image-generator-6.5.0-SNAPSHOT.jar!/org/flowable/image/impl/DefaultProcessDiagramGenerator.class" timestamp="1566296147994" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessRecord.java" timestamp="1565922861325">
         <mark key="[" line="41" column="58" />
       </file>
@@ -37,11 +37,11 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessType.js" timestamp="1565774508735">
         <mark key="[" line="372" column="33" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566285286066">
-        <mark key="[" line="183" column="47" />
-        <mark key="]" line="183" column="47" />
-        <mark key="^" line="183" column="47" />
-        <mark key="." line="183" column="47" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566297307420">
+        <mark key="[" line="657" column="9" />
+        <mark key="]" line="190" column="47" />
+        <mark key="^" line="190" column="47" />
+        <mark key="." line="190" column="47" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/config/config.js" timestamp="1566199039924">
         <mark key="[" line="33" column="23" />
@@ -57,11 +57,12 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/ProcessIcon.java" timestamp="1566200378579">
         <mark key="[" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1566289070476">
-        <mark key="'" line="541" column="38" />
-        <mark key="[" line="445" column="55" />
-        <mark key="]" line="583" column="46" />
-        <mark key="." line="583" column="46" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1566297186546">
+        <mark key="'" line="552" column="38" />
+        <mark key="[" line="378" column="68" />
+        <mark key="]" line="367" column="33" />
+        <mark key="." line="367" column="33" />
+        <mark key="^" line="367" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1566206855376">
         <mark key="[" line="268" column="83" />
@@ -128,7 +129,7 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="55" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/CustomProcessDiagramCanvas.java" timestamp="1566294458992">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/CustomProcessDiagramCanvas.java" timestamp="1566297910895">
         <mark key="[" line="114" column="27" />
         <mark key="]" line="114" column="27" />
         <mark key="." line="114" column="27" />
@@ -137,10 +138,10 @@
         <mark key="[" line="90" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/src/pages/Sys/Menu.js" timestamp="1566206849468" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/CustomDefaultProcessDiagramGenerator.java" timestamp="1566294640885">
-        <mark key="[" line="201" column="71" />
-        <mark key="]" line="201" column="71" />
-        <mark key="." line="201" column="71" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/generate/CustomDefaultProcessDiagramGenerator.java" timestamp="1566297866820">
+        <mark key="[" line="301" column="20" />
+        <mark key="]" line="301" column="20" />
+        <mark key="." line="301" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/services/system/processsicon.js" timestamp="1566201514265">
         <mark key="[" line="4" column="1" />
@@ -434,7 +435,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>GraphicInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -443,40 +444,40 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>作者：断翅绝尘
-            链接：https://www.jianshu.com/p/3f976a47114c
-            来源：简书
-            简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZW5lcmF0ZURpYWdyYW0oQnBtbk1vZGVsIGJwbW5Nb2RlbCwgU3RyaW5nIGltYWdlVHlwZSwgTGlzdDxTdHJpbmc+IGhpZ2hMaWdodGVkQWN0aXZpdGllcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGhpZ2hMaWdodGVkRmxvd3MsIFN0cmluZyBhY3Rpdml0eUZvbnROYW1lLCBTdHJpbmcgbGFiZWxGb250TmFtZSwgU3RyaW5nIGFubm90YXRpb25Gb250TmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2xhc3NMb2FkZXIgY3VzdG9tQ2xhc3NMb2FkZXIsIGRvdWJsZSBzY2FsZUZhY3RvciwgQ29sb3JbXSBjb2xvcnMsIFNldDxTdHJpbmc+IGN1cnJJZHMpIHsKICAgICAgICBDdXN0b21Qcm9jZXNzRGlhZ3JhbUNhbnZhcyBjdXN0b21Qcm9jZXNzRGlhZ3JhbUNhbnZhcyA9IGdlbmVyYXRlUHJvY2Vzc0RpYWdyYW0oYnBtbk1vZGVsLCBpbWFnZVR5cGUsIGhpZ2hMaWdodGVkQWN0aXZpdGllcywgaGlnaExpZ2h0ZWRGbG93cywKICAgICAgICAgICAgICAgIGFjdGl2aXR5Rm9udE5hbWUsIGxhYmVsRm9udE5hbWUsIGFubm90YXRpb25Gb250TmFtZSwgY3VzdG9tQ2xhc3NMb2FkZXIsIHNjYWxlRmFjdG9yLGNvbG9ycywgY3Vycklkcyk7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBidWZmZXJlZEltYWdlID0gY3VzdG9tUHJvY2Vzc0RpYWdyYW1DYW52YXMuZ2VuZXJhdGVCdWZmZXJlZEltYWdlKGltYWdlVHlwZSk7CiAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJzID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOwogICAgICAgIEltYWdlT3V0cHV0U3RyZWFtIGltT3V0OwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGltT3V0ID0gSW1hZ2VJTy5jcmVhdGVJbWFnZU91dHB1dFN0cmVhbShicyk7CiAgICAgICAgICAgIEltYWdlSU8ud3JpdGUoYnVmZmVyZWRJbWFnZSwgIlBORyIsIGltT3V0KTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICBJbnB1dFN0cmVhbSBpcyA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShicy50b0J5dGVBcnJheSgpKTsKICAgICAgICByZXR1cm4gaXM7CiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IOS9nOiAhe+8muaWree/hee7neWwmAogICAg6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC8zZjk3NmE0NzExNGMKICAgIOadpea6kO+8mueugOS5pgogICAg566A5Lmm6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ77yM5Lu75L2V5b2i5byP55qE6L2s6L296YO96K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D5bm25rOo5piO5Ye65aSE44CC</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIElucHV0U3RyZWFtIGdlbmVyYXRlRGlhZ3JhbShCcG1uTW9kZWwgYnBtbk1vZGVsLCBTdHJpbmcgaW1hZ2VUeXBlLCBMaXN0PFN0cmluZz4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gaGlnaExpZ2h0ZWRGbG93cywgU3RyaW5nIGFjdGl2aXR5Rm9udE5hbWUsIFN0cmluZyBsYWJlbEZvbnROYW1lLCBTdHJpbmcgYW5ub3RhdGlvbkZvbnROYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbGFzc0xvYWRlciBjdXN0b21DbGFzc0xvYWRlciwgZG91YmxlIHNjYWxlRmFjdG9yLCBDb2xvcltdIGNvbG9ycywgU2V0PFN0cmluZz4gY3VycklkcykgewogICAgICAgIEN1c3RvbVByb2Nlc3NEaWFncmFtQ2FudmFzIGN1c3RvbVByb2Nlc3NEaWFncmFtQ2FudmFzID0gKEN1c3RvbVByb2Nlc3NEaWFncmFtQ2FudmFzKSBnZW5lcmF0ZVByb2Nlc3NEaWFncmFtKGJwbW5Nb2RlbCwgaW1hZ2VUeXBlLCBoaWdoTGlnaHRlZEFjdGl2aXRpZXMsIGhpZ2hMaWdodGVkRmxvd3MsCiAgICAgICAgICAgICAgICBhY3Rpdml0eUZvbnROYW1lLCBsYWJlbEZvbnROYW1lLCBhbm5vdGF0aW9uRm9udE5hbWUsIGN1c3RvbUNsYXNzTG9hZGVyLCBzY2FsZUZhY3Rvcixjb2xvcnMsIGN1cnJJZHMpOwogICAgICAgIEJ1ZmZlcmVkSW1hZ2UgYnVmZmVyZWRJbWFnZSA9IGN1c3RvbVByb2Nlc3NEaWFncmFtQ2FudmFzLmdlbmVyYXRlQnVmZmVyZWRJbWFnZShpbWFnZVR5cGUpOwogICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBicyA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICBJbWFnZU91dHB1dFN0cmVhbSBpbU91dDsKICAgICAgICB0cnkgewogICAgICAgICAgICBpbU91dCA9IEltYWdlSU8uY3JlYXRlSW1hZ2VPdXRwdXRTdHJlYW0oYnMpOwogICAgICAgICAgICBJbWFnZUlPLndyaXRlKGJ1ZmZlcmVkSW1hZ2UsICJQTkciLCBpbU91dCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBJbnB1dFN0cmVhbSBpcyA9IG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShicy50b0J5dGVBcnJheSgpKTsKICAgICAgICByZXR1cm4gaXM7CiAgICB9</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBJbnB1dFN0cmVhbSBnZW5lcmF0ZURpYWdyYW0oQnBtbk1vZGVsIGJwbW5Nb2RlbCwgU3RyaW5nIGltYWdlVHlwZSwgU3RyaW5nIGFjdGl2aXR5Rm9udE5hbWUsIFN0cmluZyBsYWJlbEZvbnROYW1lLCBTdHJpbmcgYW5ub3RhdGlvbkZvbnROYW1lLCBDbGFzc0xvYWRlciBjdXN0b21DbGFzc0xvYWRlcikgewogICAgICAgIHJldHVybiBnZW5lcmF0ZURpYWdyYW0oYnBtbk1vZGVsLCBpbWFnZVR5cGUsIENvbGxlY3Rpb25zLjxTdHJpbmc+ZW1wdHlMaXN0KCksIENvbGxlY3Rpb25zLjxTdHJpbmc+ZW1wdHlMaXN0KCksCiAgICAgICAgICAgICAgICBhY3Rpdml0eUZvbnROYW1lLCBsYWJlbEZvbnROYW1lLCBhbm5vdGF0aW9uRm9udE5hbWUsIGN1c3RvbUNsYXNzTG9hZGVyLCAxLjAsIG5ldyBDb2xvcltdIHtDb2xvci5CTEFDSywgQ29sb3IuQkxBQ0t9LCBudWxsKTsKICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
+        <text>作者：断翅绝尘
+            链接：https://www.jianshu.com/p/3f976a47114c
+            来源：简书
+            简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IOS9nOiAhe+8muaWree/hee7neWwmAogICAg6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC8zZjk3NmE0NzExNGMKICAgIOadpea6kO+8mueugOS5pgogICAg566A5Lmm6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ77yM5Lu75L2V5b2i5byP55qE6L2s6L296YO96K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D5bm25rOo5piO5Ye65aSE44CC</text>
+      </register>
+      <register name="6" type="4">
         <text>作者：断翅绝尘
         链接：https://www.jianshu.com/p/3f976a47114c
         来源：简书
         简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5qeWd5dC5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+U0RLU2VydmVySmF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjc8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPmNvbS5qeWd5dC5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5TREtTZXJ2ZXJKYXZhPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMC43PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBoYW5kbGVTdGFydCA9IHJlY29yZHMgPT4gewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd0YXNrL3N0YXJ0JywKICAgICAgcGF5bG9hZDogeyBwcm9jZXNzS2V5OiByZWNvcmRzWzBdLmRlZktleSB9LAogICAgICBjYWxsYmFjazogdGhpcy5jYWxsYmFjaywKICAgIH0pOwogIH07</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBjaGFuZ2VDYXRlZ29yeSA9ICgpID0+IHsKICAgIGNvbnN0IHsgc2VsZWN0ZWRSb3dzLCBzZWxlY3RUeXBlIH0gPSB0aGlzLnN0YXRlOwogICAgaWYgKCFzZWxlY3RUeXBlKSB7CiAgICAgIG1lc3NhZ2Uud2Fybign6K+35YWI6YCJ5oup5LiA5Liq5rWB56iL57G75Z6LJyk7CiAgICB9CiAgICBzZWxlY3RlZFJvd3NbMF0gJiYKICAgICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgICAgdHlwZTogJ3Byb2Nlc3MvY2hhbmdlQ2F0ZWdvcnknLAogICAgICAgIHBheWxvYWQ6IHsgaWQ6IHNlbGVjdGVkUm93c1swXS5wcm9jZXNzSWQsIGNhdGVnb3J5OiBzZWxlY3RUeXBlIH0sCiAgICAgICAgY2FsbGJhY2s6ICgpID0+IHsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RUeXBlVmlzaWJsZTogZmFsc2UsIHNlbGVjdFR5cGU6IG51bGwgfSk7CiAgICAgICAgICB0aGlzLmNhbGxiYWNrKCk7CiAgICAgICAgfSwKICAgICAgfSk7CiAgfTs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhZ2VJbmZvPE1pbmVQcm9jZXNzSW5zdGFuY2VEYXRhPiBwcm9jZXNzSW5zdGFuY2VMaXN0KFBhZ2VhYmxlIHBhZ2VyLCBTdHJpbmcgdXNlcklkLEhhc2hNYXA8U3RyaW5nLE9iamVjdD4gbWFwKSB7CiAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZXIuZ2V0UGFnZU51bWJlcigpLCBwYWdlci5nZXRQYWdlU2l6ZSgpKTsKICAgICAgICBMaXN0PE1pbmVQcm9jZXNzSW5zdGFuY2VEYXRhPiBsaXN0ID0gdGFza01hcHBlci5wcm9jZXNzSW5zdGFuY2VMaXN0KHVzZXJJZCxtYXApOwogICAgICAgIFBhZ2VJbmZvPE1pbmVQcm9jZXNzSW5zdGFuY2VEYXRhPiBwYWdlSW5mbyA9IG5ldyBQYWdlSW5mbzxNaW5lUHJvY2Vzc0luc3RhbmNlRGF0YT4obGlzdCk7CiAgICAgICAgcmV0dXJuIHBhZ2VJbmZvOwogICAgfQogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUGFnZUluZm88TWluZVByb2Nlc3NJbnN0YW5jZURhdGE+IGZvY3VzSW5zdGFuY2VMaXN0KFBhZ2VhYmxlIHBhZ2VyLCBTdHJpbmcgdXNlcklkLEhhc2hNYXA8U3RyaW5nLE9iamVjdD4gbWFwKXsKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlci5nZXRQYWdlTnVtYmVyKCksIHBhZ2VyLmdldFBhZ2VTaXplKCkpOwogICAgICAgIExpc3Q8TWluZVByb2Nlc3NJbnN0YW5jZURhdGE+IGxpc3QgPSB0YXNrTWFwcGVyLmZvY3VzSW5zdGFuY2VMaXN0KHVzZXJJZCk7CiAgICAgICAgUGFnZUluZm88TWluZVByb2Nlc3NJbnN0YW5jZURhdGE+IHBhZ2VJbmZvID0gbmV3IFBhZ2VJbmZvPE1pbmVQcm9jZXNzSW5zdGFuY2VEYXRhPihsaXN0KTsKICAgICAgICByZXR1cm4gcGFnZUluZm87CiAgICB9Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBvblJlbW92ZTogZmlsZSA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZShzdGF0ZSA9PiB7CiAgICAgICAgICBjb25zdCBpbmRleCA9IHN0YXRlLmZpbGVMaXN0LmluZGV4T2YoZmlsZSk7CiAgICAgICAgICBjb25zdCBuZXdGaWxlTGlzdCA9IHN0YXRlLmZpbGVMaXN0LnNsaWNlKCk7CiAgICAgICAgICBuZXdGaWxlTGlzdC5zcGxpY2UoaW5kZXgsIDEpOwogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZmlsZUxpc3Q6IG5ld0ZpbGVMaXN0LAogICAgICAgICAgfTsKICAgICAgICB9KTsKICAgICAgfSw=</text>
+        <text encoding="base64">ICBoYW5kbGVTdGFydCA9IHJlY29yZHMgPT4gewogICAgdGhpcy5wcm9wcy5kaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd0YXNrL3N0YXJ0JywKICAgICAgcGF5bG9hZDogeyBwcm9jZXNzS2V5OiByZWNvcmRzWzBdLmRlZktleSB9LAogICAgICBjYWxsYmFjazogdGhpcy5jYWxsYmFjaywKICAgIH0pOwogIH07</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
