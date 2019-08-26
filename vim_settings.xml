@@ -16,6 +16,12 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessType.js" timestamp="1565774508735">
         <mark key="[" line="372" column="33" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/mapper/UserInfoMapper.java" timestamp="1566789440769">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" timestamp="1566551538640" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566782951395">
         <mark key="[" line="284" column="22" />
@@ -85,7 +91,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/mapper/TaskMapper.java" timestamp="1566267507792">
         <mark key="[" line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1566783105786">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1566787808300">
         <mark key="[" line="90" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/Template.jsx" timestamp="1566783212668">
@@ -171,7 +177,7 @@
         <mark key="[" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" timestamp="1566781625143" />
-      <file name="/fragment.java" timestamp="1566201049845">
+      <file name="/fragment.java" timestamp="1566788353492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/ProcessSignature.js" timestamp="1566524190828">
@@ -322,7 +328,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>uiSchemaJson</text>
+        <text>SELECT U.ID_ AS ID ,U.FIRST_ AS NAME FROM FLOWABLE.ACT_SIGNATURE_PERMISSIONS P LEFT JOIN  FLOWABLE.ACT_ID_USER U ON P.USER_ID=U.ID_ WHERE P.PERMISSION_TYPE=1 AND P.SIGNATURE_ID= #{id}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
