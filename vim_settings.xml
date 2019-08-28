@@ -99,11 +99,11 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/fields/SchemaField.jsx" timestamp="1566549019125" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/TaskAPIData.java" timestamp="1566783632632" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Admin/FlowAdmin.js" timestamp="1566899172464">
-        <mark key="[" line="423" column="56" />
-        <mark key="]" line="423" column="30" />
-        <mark key="." line="423" column="30" />
-        <mark key="^" line="423" column="30" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Admin/FlowAdmin.js" timestamp="1566977862755">
+        <mark key="[" line="462" column="28" />
+        <mark key="]" line="462" column="28" />
+        <mark key="." line="462" column="28" />
+        <mark key="^" line="440" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190822.004241-213.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1566802081443" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/ProcessService.java" timestamp="1566956941963">
@@ -124,7 +124,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/repository/ProcessRecordRepository.java" timestamp="1566957258379">
         <mark key="[" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1566973706142" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1566977179851" />
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" timestamp="1566873696968" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/Template.jsx" timestamp="1566783212668">
         <mark key="[" line="13" column="45" />
@@ -358,7 +358,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgYWN0aXZlUHJvY2Vzc0luc3Qoc2VsZWN0ZWRSb3dzKTs=</text>
+        <text>eye</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -367,53 +367,35 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHByb2Nlc3NEZWZpbml0aW9uSWQgPSB0YXNrLmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gbGlzdCA9IGhpc3RvcnlTZXJ2aWNlLmNyZWF0ZUhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZVF1ZXJ5KCkucHJvY2Vzc0luc3RhbmNlSWQocHJvY2Vzc0luc3RhbmNlSWQpLmxpc3QoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gc2VxdWVuY2VGbG93ID0gbGlzdC5zdHJlYW0oKS5maWx0ZXIoaSAtPiAic2VxdWVuY2VGbG93Ii5lcXVhbHMoaS5nZXRBY3Rpdml0eVR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgbGlzdC5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLmFkZChpdGVtLmdldEFjdGl2aXR5SWQoKSkpOwogICAgICAgIHNlcXVlbmNlRmxvdy5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRGbG93cy5hZGQoaXRlbS5nZXRBY3Rpdml0eUlkKCkpKTsKICAgICAgICBTZXQ8U3RyaW5nPiBjdXJySWRzID0gcnVudGltZVNlcnZpY2UuY3JlYXRlRXhlY3V0aW9uUXVlcnkoKS5wcm9jZXNzSW5zdGFuY2VJZChwcm9jZXNzSW5zdGFuY2VJZCkubGlzdCgpCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkubWFwKGUtPmUuZ2V0QWN0aXZpdHlJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgICAgQnBtbk1vZGVsIGJwbW5Nb2RlbCA9IHJlcG9zaXRvcnlTZXJ2aWNlLmdldEJwbW5Nb2RlbChwcm9jZXNzRGVmaW5pdGlvbklkKTsKICAgICAgICBQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IHByb2Nlc3NFbmdpbmUuZ2V0UHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24oKTsKICAgICAgICBDdXN0b21EZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgcHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgPSAoQ3VzdG9tRGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKXByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uLmdldFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBwcm9jZXNzRGlhZ3JhbUdlbmVyYXRvci5nZW5lcmF0ZURpYWdyYW0oYnBtbk1vZGVsLCAiUE5HIiwgaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLAogICAgICAgICAgICAgICAgaGlnaExpZ2h0ZWRGbG93cywi5a6L5L2TIiwgIuWui+S9kyIsICLlrovkvZMiLCBudWxsLAogICAgICAgICAgICAgICAgMS4wLGZhbHNlLCBuZXcgQ29sb3JbXSB7IEZsb3dDb25zdGFudHMuQ09MT1JfTk9STUFMLCBGbG93Q29uc3RhbnRzLkNPTE9SX0NVUlJFTlQgfSwgY3Vycklkcyk7CiAgIA==</text>
+        <text encoding="base64">ICBjb25zdCB7CiAgICAgIGRpc3BhdGNoLAogICAgICBtYXRjaDogeyBwYXJhbXMgfSwKICAgIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBzZWxlY3RlZFJvd3MgfSA9IHRoaXMuc3RhdGU7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2FkbWluZmxvdy92aWV3Rm9ybScsCiAgICAgIHBheWxvYWQ6IHNlbGVjdGVkUm93c1swXS5wcm9jSW5zSWQsCiAgICB9KTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHByb2Nlc3NEZWZpbml0aW9uSWQgPSB0YXNrLmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gbGlzdCA9IGhpc3RvcnlTZXJ2aWNlLmNyZWF0ZUhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZVF1ZXJ5KCkucHJvY2Vzc0luc3RhbmNlSWQocHJvY2Vzc0luc3RhbmNlSWQpLmxpc3QoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gc2VxdWVuY2VGbG93ID0gbGlzdC5zdHJlYW0oKS5maWx0ZXIoaSAtPiAic2VxdWVuY2VGbG93Ii5lcXVhbHMoaS5nZXRBY3Rpdml0eVR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgbGlzdC5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLmFkZChpdGVtLmdldEFjdGl2aXR5SWQoKSkpOwogICAgICAgIHNlcXVlbmNlRmxvdy5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRGbG93cy5hZGQoaXRlbS5nZXRBY3Rpdml0eUlkKCkpKTsKICAgICAgICBTZXQ8U3RyaW5nPiBjdXJySWRzID0gcnVudGltZVNlcnZpY2UuY3JlYXRlRXhlY3V0aW9uUXVlcnkoKS5wcm9jZXNzSW5zdGFuY2VJZChwcm9jZXNzSW5zdGFuY2VJZCkubGlzdCgpCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkubWFwKGUtPmUuZ2V0QWN0aXZpdHlJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgICAgQnBtbk1vZGVsIGJwbW5Nb2RlbCA9IHJlcG9zaXRvcnlTZXJ2aWNlLmdldEJwbW5Nb2RlbChwcm9jZXNzRGVmaW5pdGlvbklkKTsKICAgICAgICBQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IHByb2Nlc3NFbmdpbmUuZ2V0UHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24oKTsKICAgICAgICBDdXN0b21EZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgcHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgPSAoQ3VzdG9tRGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKXByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uLmdldFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBwcm9jZXNzRGlhZ3JhbUdlbmVyYXRvci5nZW5lcmF0ZURpYWdyYW0oYnBtbk1vZGVsLCAiUE5HIiwgaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLAogICAgICAgICAgICAgICAgaGlnaExpZ2h0ZWRGbG93cywi5a6L5L2TIiwgIuWui+S9kyIsICLlrovkvZMiLCBudWxsLAogICAgICAgICAgICAgICAgMS4wLGZhbHNlLCBuZXcgQ29sb3JbXSB7IEZsb3dDb25zdGFudHMuQ09MT1JfTk9STUFMLCBGbG93Q29uc3RhbnRzLkNPTE9SX0NVUlJFTlQgfSwgY3Vycklkcyk7CiAgIA==</text>
+      </register>
+      <register name="3" type="4">
         <text>nstance: this.deleteMultiInstance, //会签减签
       deleteMultiInstance: this.deleteMultiInstance, //会签减签</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBoYW5kbGVNb2RhbEFkZCA9IGZsYWcgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVGl0bGU6ICflr7zlhaXmtYHnqIsnLAogICAgICBtb2RhbFZhbHVlOiBudWxsLAogICAgICBtb2RhbFZpc2libGU6ICEhZmxhZywKICAgIH0pOwogIH07</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGhhbmRsZUFkZCA9IChmaWVsZHMsIHJlc2V0Rm9ybSkgPT4gewogICAgY29uc3QgeyBzZWxlY3RUcmVlS2V5IH0gPSB0aGlzLnN0YXRlOwoKICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goewogICAgICB0eXBlOiAncHJvY2Vzcy9hZGQnLAogICAgICBwYXlsb2FkOiB7IC4uLmZpZWxkcywgY2F0ZWdvcnk6IHNlbGVjdFRyZWVLZXkgfSwKICAgICAgY2FsbGJhY2s6IHRoaXMuY2FsbGJhY2ssCiAgICAgIHJlc2V0Rm9ybTogcmVzZXRGb3JtLAogICAgfSk7CiAgfTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGNvbnN0IGJ1dHRvbnMgPSBhbGxCdXR0b25zLmZpbHRlcihpID0+IGRhdGEuYnV0dG9ucy5pbmRleE9mKGkudmFsdWUpICE9IC0xKTsKICAgICAgY29uc3QgbmV3RGF0YSA9IHsKICAgICAgICBuYW1lOiBkYXRhLm5hbWUsCiAgICAgICAgc2NoZW1hOiBkYXRhLnNjaGVtYSwKICAgICAgICB1aVNjaGVtYTogZGF0YS51aVNjaGVtYSwKICAgICAgICBzaG93OiB0cnVlLAogICAgICAgIGJ1dHRvbnM6IGJ1dHRvbnMsCiAgICAgICAgaW5zdGFuY2VJZDogZGF0YS5pbnN0YW5jZUlkLAogICAgICAgIHZhcmlhYmxlczogZGF0YS52YXJpYWJsZXMsCiAgICAgICAgZm9ybURhdGE6IGRhdGEuZm9ybURhdGEsCiAgICAgIH07CiAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgdHlwZTogJ3Byb2Nlc3Nmb3JtL3NldFRhc2tGb3JtJywKICAgICAgICBwYXlsb2FkOiBuZXdEYXRhLAogICAgICB9KTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGlmIChkYXRhLmlkKSB7CiAgICAgICAgd2luZG93Lm9wZW4oJy9mbG93L3Byb2Nlc3Mvdmlld2Zvcm0vJyArIGRhdGEuaW5zdGFuY2VJZCAsICdfYmxhbmsnKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBtZXNzYWdlLndhcm4oJ+atpOa1geeoi+S/oeaBr+S4jeiDveafpeeciycpOwogICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBmb3JtUGVybWlzc2lvbnMuc2l6ZSgpOyBpKyspIGRkCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-                JSONObject temp = formPermissions.getJSONObject(i);
-                String k = temp.getString(&quot;key&quot;);
-                String permission = temp.getString(&quot;permission&quot;);
-
-                if (permission.equals(&quot;disabled&quot;)) {
-                    JSONObject jsonObject = properties.getJSONObject(k);
-                    jsonObject.put(permission, &quot;true&quot;);
-                } else if (permission.equals(&quot;hidden&quot;)) {
-                    JSONObject uiSchemaJsonJSONObject = uiSchemaJson.getJSONObject(k);
-                    if (uiSchemaJsonJSONObject != null) {
-                        uiSchemaJsonJSONObject.put(&quot;ui:widget&quot;, &quot;hidden&quot;);
-                    } else {
-                        JSONObject jsonObject = new JSONObject();
-                        jsonObject.put(&quot;ui:widget&quot;, &quot;hidden&quot;);
-                        uiSchemaJson.put(k, jsonObject);
-                    }
-                }
-            }</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
