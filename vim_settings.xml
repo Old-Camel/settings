@@ -35,11 +35,11 @@
         <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" timestamp="1566551538640" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566978499117">
-        <mark key="'" line="446" column="4" />
-        <mark key="[" line="228" column="71" />
-        <mark key="]" line="228" column="71" />
-        <mark key="." line="228" column="71" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1566984548450">
+        <mark key="'" line="466" column="4" />
+        <mark key="[" line="441" column="8" />
+        <mark key="]" line="441" column="8" />
+        <mark key="." line="441" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/interceptor/BpmnOverrideContextInterceptor.java" timestamp="1566529477068" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1566782719437">
@@ -114,7 +114,7 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/fields/SchemaField.jsx" timestamp="1566549019125" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/TaskAPIData.java" timestamp="1566783632632" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Admin/FlowAdmin.js" timestamp="1566982907581">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Admin/FlowAdmin.js" timestamp="1566983790677">
         <mark key="[" line="239" column="37" />
         <mark key="]" line="239" column="37" />
         <mark key="^" line="239" column="37" />
@@ -148,7 +148,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/models/design.js" timestamp="1566979498160" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Mine.js" timestamp="1566956777712" />
       <file name="$USER_HOME$/data/code/flowable-web/src/components/Ellipsis/index.js" timestamp="1566528542399" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1566982534336">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1566983641642">
         <mark key="]" line="171" column="32" />
         <mark key="." line="171" column="32" />
         <mark key="^" line="171" column="32" />
@@ -379,7 +379,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -387,7 +387,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvY2Vzc0luc3RhbmNlICE9IG51bGwpIHsKICAgICAgICAgICAgcHJvY2Vzc0RlZmluaXRpb25JZCA9IHByb2Nlc3NJbnN0YW5jZS5nZXRQcm9jZXNzRGVmaW5pdGlvbklkKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgSGlzdG9yaWNQcm9jZXNzSW5zdGFuY2UgaGlzdG9yaWNQcm9jZXNzSW5zdGFuY2UgPSBoaXN0b3J5U2VydmljZS5jcmVhdGVIaXN0b3JpY1Byb2Nlc3NJbnN0YW5jZVF1ZXJ5KCkucHJvY2Vzc0luc3RhbmNlSWQocHJvY2Vzc0luc3RhbmNlSWQpLnNpbmdsZVJlc3VsdCgpOwogICAgICAgICAgICBwcm9jZXNzRGVmaW5pdGlvbklkID0gaGlzdG9yaWNQcm9jZXNzSW5zdGFuY2UuZ2V0UHJvY2Vzc0RlZmluaXRpb25JZCgpOwogICAgICAgIH0KICAgICAgICBpZihwcm9jZXNzRGVmaW5pdGlvbklkPT1udWxsKXsKICAgICAgICAgICAgdGhyb3cgIG5ldyBDaGVja0Vycm9yRXhjZXB0aW9uKCLml6Dms5Xmib7liLDnm7jlhbMpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>if(&quot;run&quot;.equals(state)){
             map.put(&quot;run&quot;,true);
         }
@@ -395,13 +401,10 @@
             map.put(&quot;end&quot;)
         }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIGNvbnN0IHRyZWVEYXRhMiA9IFsKICAgICAgewogICAgICAgIHRpdGxlOiAnTm9kZTEnLAogICAgICAgIHZhbHVlOiAnMC0wJywKICAgICAgICBrZXk6ICcwLTAnLAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHRpdGxlOiAnQ2hpbGQgTm9kZTEnLAogICAgICAgICAgICB2YWx1ZTogJzAtMC0xJywKICAgICAgICAgICAga2V5OiAnMC0wLTEnLAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgdGl0bGU6ICdDaGlsZCBOb2RlMicsCiAgICAgICAgICAgIHZhbHVlOiAnMC0wLTInLAogICAgICAgICAgICBrZXk6ICcwLTAtMicsCiAgICAgICAgICB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ05vZGUyJywKICAgICAgICB2YWx1ZTogJzAtMScsCiAgICAgICAga2V5OiAnMC0xJywKICAgICAgfSwKICAgIF07</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>var children = response.data;
       const tree = {
         codeId: 'ROOT_TREE_KEY_',
@@ -416,26 +419,23 @@
       });
       const response2 = yield call(getALlProcessType);</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
     method: 'PUT',
   }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">WXpVc2VyIGN1cnJlbnRVc2VyRGV0YWlsID0gU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlckRldGFpbCgpOwogICAgICAgIFBhZ2VhYmxlIGJ1aWxkID0gUGFnZVV0aWwuYnVpbGQoMjApOwogICAgICAgIEpTT05PYmplY3QgcGFnZVBhcmFtID0gUGFnZVV0aWwuZ2V0UGFyYW1zKCkub3JFbHNlKG5ldyBKU09OT2JqZWN0KCkpOwogICAgICAgIFN0cmluZyBuYW1lID0gcGFnZVBhcmFtLmdldFN0cmluZygibmFtZSIpOwogICAgICAgIFN0cmluZyBjYXRlZ29yeSA9IHBhZ2VQYXJhbS5nZXRTdHJpbmcoImNhdGVnb3J5Iik7CiAgICAgICAgUHJvY2Vzc1BhcmFtIHByb2Nlc3NQYXJhbSA9IG5ldyBQcm9jZXNzUGFyYW0oKTsKICAgICAgICBwcm9jZXNzUGFyYW0uc2V0TmFtZShuYW1lKTsKICAgICAgICBwcm9jZXNzUGFyYW0uc2V0Q2F0ZWdvcnkoY2F0ZWdvcnkpOwogICAgICAgIFBhZ2VJbmZvPFByb2Nlc3NEZWZFbnRpdHk+IHBhZ2VJbmZvID0gcHJvY2Vzc1NlcnZpY2UucXVlcnlQcm9jZXNzRGVmKGJ1aWxkLCBwcm9jZXNzUGFyYW0pOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBjb25zdCB7CiAgICAgIGRpc3BhdGNoLAogICAgICBtYXRjaDogeyBwYXJhbXMgfSwKICAgIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBzZWxlY3RlZFJvd3MgfSA9IHRoaXMuc3RhdGU7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2FkbWluZmxvdy92aWV3Rm9ybScsCiAgICAgIHBheWxvYWQ6IHNlbGVjdGVkUm93c1swXS5wcm9jSW5zSWQsCiAgICB9KTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHByb2Nlc3NEZWZpbml0aW9uSWQgPSB0YXNrLmdldFByb2Nlc3NEZWZpbml0aW9uSWQoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gbGlzdCA9IGhpc3RvcnlTZXJ2aWNlLmNyZWF0ZUhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZVF1ZXJ5KCkucHJvY2Vzc0luc3RhbmNlSWQocHJvY2Vzc0luc3RhbmNlSWQpLmxpc3QoKTsKICAgICAgICBMaXN0PEhpc3RvcmljQWN0aXZpdHlJbnN0YW5jZT4gc2VxdWVuY2VGbG93ID0gbGlzdC5zdHJlYW0oKS5maWx0ZXIoaSAtPiAic2VxdWVuY2VGbG93Ii5lcXVhbHMoaS5nZXRBY3Rpdml0eVR5cGUoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgbGlzdC5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLmFkZChpdGVtLmdldEFjdGl2aXR5SWQoKSkpOwogICAgICAgIHNlcXVlbmNlRmxvdy5mb3JFYWNoKGl0ZW0gLT4gaGlnaExpZ2h0ZWRGbG93cy5hZGQoaXRlbS5nZXRBY3Rpdml0eUlkKCkpKTsKICAgICAgICBTZXQ8U3RyaW5nPiBjdXJySWRzID0gcnVudGltZVNlcnZpY2UuY3JlYXRlRXhlY3V0aW9uUXVlcnkoKS5wcm9jZXNzSW5zdGFuY2VJZChwcm9jZXNzSW5zdGFuY2VJZCkubGlzdCgpCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkubWFwKGUtPmUuZ2V0QWN0aXZpdHlJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgICAgQnBtbk1vZGVsIGJwbW5Nb2RlbCA9IHJlcG9zaXRvcnlTZXJ2aWNlLmdldEJwbW5Nb2RlbChwcm9jZXNzRGVmaW5pdGlvbklkKTsKICAgICAgICBQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IHByb2Nlc3NFbmdpbmUuZ2V0UHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24oKTsKICAgICAgICBDdXN0b21EZWZhdWx0UHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgcHJvY2Vzc0RpYWdyYW1HZW5lcmF0b3IgPSAoQ3VzdG9tRGVmYXVsdFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKXByb2Nlc3NFbmdpbmVDb25maWd1cmF0aW9uLmdldFByb2Nlc3NEaWFncmFtR2VuZXJhdG9yKCk7CiAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBwcm9jZXNzRGlhZ3JhbUdlbmVyYXRvci5nZW5lcmF0ZURpYWdyYW0oYnBtbk1vZGVsLCAiUE5HIiwgaGlnaExpZ2h0ZWRBY3Rpdml0aWVzLAogICAgICAgICAgICAgICAgaGlnaExpZ2h0ZWRGbG93cywi5a6L5L2TIiwgIuWui+S9kyIsICLlrovkvZMiLCBudWxsLAogICAgICAgICAgICAgICAgMS4wLGZhbHNlLCBuZXcgQ29sb3JbXSB7IEZsb3dDb25zdGFudHMuQ09MT1JfTk9STUFMLCBGbG93Q29uc3RhbnRzLkNPTE9SX0NVUlJFTlQgfSwgY3Vycklkcyk7CiAgIA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>nstance: this.deleteMultiInstance, //会签减签
       deleteMultiInstance: this.deleteMultiInstance, //会签减签</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBoYW5kbGVNb2RhbEFkZCA9IGZsYWcgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVGl0bGU6ICflr7zlhaXmtYHnqIsnLAogICAgICBtb2RhbFZhbHVlOiBudWxsLAogICAgICBtb2RhbFZpc2libGU6ICEhZmxhZywKICAgIH0pOwogIH07</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
