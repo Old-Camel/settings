@@ -28,8 +28,10 @@
         <mark key="[" line="41" column="58" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/config/ResourceServerConfig.java" timestamp="1568621557427" />
-      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1568701466737">
-        <mark key="[" line="15" column="25" />
+      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1568795889829">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/QuestionnairePojo.java" timestamp="1568714453359" />
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1568684194272">
@@ -221,6 +223,7 @@
       <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/timer/service/LogServiceImpl.java" timestamp="1567130356991">
         <mark key="[" line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/Todo.js" timestamp="1568796286901" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormData.js" timestamp="1568681648143">
         <mark key="[" line="337" column="6" />
       </file>
@@ -282,6 +285,10 @@
         <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Task/ProcessHistory.js" timestamp="1568702502462" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" timestamp="1568796110079">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Index.less" timestamp="1568714823834">
         <mark key="[" line="2" column="18" />
       </file>
@@ -360,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="51" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="781" column="28" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="30" column="9" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
       <jump line="28" column="56" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/RoleUserDeptServiceImpl.java" />
@@ -460,6 +466,7 @@
       <jump line="396" column="8" filename="$USER_HOME$/data/code/timer-web/src/pages/Job/Detail.js" />
       <jump line="387" column="0" filename="$USER_HOME$/data/code/timer-web/src/pages/Job/Detail.js" />
       <jump line="390" column="26" filename="$USER_HOME$/data/code/timer-web/src/pages/Job/Detail.js" />
+      <jump line="38" column="19" filename="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,7 +508,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>vm</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
