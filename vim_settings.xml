@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1567130177302">
         <mark key="[" line="95" column="57" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Answer.js" timestamp="1568714821215">
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Answer.js" timestamp="1568768623271">
         <mark key="[" line="109" column="16" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
@@ -213,11 +213,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1566978427552">
         <mark key="[" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568709322440">
-        <mark key="[" line="678" column="57" />
-        <mark key="]" line="678" column="57" />
-        <mark key="." line="678" column="57" />
-        <mark key="^" line="683" column="21" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568771935876">
+        <mark key="[" line="149" column="36" />
+        <mark key="]" line="149" column="36" />
+        <mark key="." line="149" column="36" />
+        <mark key="^" line="142" column="85" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/Editor.java" timestamp="1568629388033">
         <mark key="[" line="33" column="24" />
@@ -432,7 +432,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>otherOptionValue</text>
+        <text>this.otherOptionValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -441,15 +441,23 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBpZihwcm9wcy5kYXRhJiZwcm9wcy5kYXRhLmVkaXRvcnMpewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9cHJvcHMuZWRpdG9yczsKICAgIH1lbHNlewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9W10KICAgIH0KICB9</text>
+        <text>if(this.state.editor.options.includes(value)){
+        this.allValue=value;
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
+        <text encoding="base64">ICAgY29uc3QgewogICAgICB0eXBlLAogICAgICBvdGhlck9wdGlvbkZvcndhcmRzLAogICAgICBvdGhlck9wdGlvbkJhY2t3YXJkcywKICAgIH0gPSB0aGlzLnN0YXRlLmVkaXRvcjs=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBpZihwcm9wcy5kYXRhJiZwcm9wcy5kYXRhLmVkaXRvcnMpewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9cHJvcHMuZWRpdG9yczsKICAgIH1lbHNlewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9W10KICAgIH0KICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
     method: 'POST',
     body: {
@@ -457,73 +465,17 @@
     },
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGlmKHByb3BzLnF1ZXN0aW9ubmFpclRpdGxlKXsKICAgICAgdGhpcy5zdGF0ZS5xdWVzdGlvbm5haXJUaXRsZT1wcm9wcy5xdWVzdGlvbm5haXJUaXRsZQogICAgfWVsc2V7CiAgICAgIHRoaXMuc3RhdGUucXVlc3Rpb25uYWlyVGl0bGU9J+mXruWNt+agh+mimCcKICAgIH0KICAgIHRoaXMuZWRpdG9yc0VsID0gW107CiAgICB0aGlzLnNjYWxlSWQgPSAnJzsKICAgIHRoaXMuc2lnbiA9IGZhbHNlOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBlZGl0b3JzPSgpPT57CgogICAgdGhpcy5wcm9wcy5kYXRhLmVkaXRvcnMubWFwKChlZGl0b3IsIGluZGV4KSA9PiB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3NOYW1lPSJkcmFnLXdyYXBwZXIiCiAgICAgICAgICByZWY9e2VsID0+IHRoaXMuZWRpdG9yc0VsW2luZGV4XSA9IGVsfQogICAgICAgICAga2V5PXtlZGl0b3IucXVlc3Rpb25JZH0+CiAgICAgICAgICA8UXVlc3Rpb25uYWlyRWRpdG9yCiAgICAgICAgICAgIGluZGV4PXtpbmRleH0KICAgICAgICAgICAgY3VyTW92ZUl0ZW09e3RoaXMuc3RhdGUuY3VyTW92ZUl0ZW19CiAgICAgICAgICAgIGVkaXRvcj17ZWRpdG9yfQogICAgICAgICAgICBkcmFnPXtkcmFnfQogICAgICAgICAgICBoYW5kbGVDb25maXJtPXt0aGlzLmNvbmZpcm1FZGl0fQogICAgICAgICAgICBoYW5kbGVDYW5jZWw9e3RoaXMuY2FuY2VsRWRpdH0KICAgICAgICAgICAgaGFuZGxlRWRpdD17dGhpcy5hZ2FpbkVkaXR9CiAgICAgICAgICAgIGhhbmRsZVJlbW92ZT17dGhpcy5yZW1vdmVFZGl0fQogICAgICAgICAgICBoYW5kbGVDb3B5PXt0aGlzLmNvcHlFZGl0fQogICAgICAgICAgICBhY3RpdmVBbnN3ZXIgPSB7dHJ1ZX0KICAgICAgICAgICAgb25BbnN3ZXI9e3RoaXMub25BbnN3ZXJ9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfSk7CgoKICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHJldHVybiAoCiAgICAgIDxRdWVzdGlvbm5haXIvPgogICAgKTs=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICAgICAgIExpc3Q8UXVlc3Rpb25uYWlyZVBvam8+IGFsbCA9IHF1ZXN0aW9uTmFpcmVTZXJ2aWNlLmdldEFsbCgpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuaJgOaciemXruWNt+aVsOaNriIsYWxsKTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="4">
-        <text>export async function fetchJob(param) {
-  return http(Path.timer + '/job/queryListForPage', {
-    method: 'POST',
-    body: {
-      ...param,
-    },
-  });
-}
-export async function addJob(param) {
-  return http(Path.timer + '/cron', {
-    method: 'POST',
-    body: {
-      ...param,
-    },
-  });
-}
-export async function updateJob(param) {
-  return http(Path.timer + '/cron', {
-    method: 'PUT',
-    body: {
-      ...param,
-    },
-  });
-}
-export async function delJob(param) {
-  let pa={
-    jo
-  }
-  return http(Path.timer + '/delete', {
-    method: 'PUT',
-    body: {
-      ...param,
-    },
-  });
-}
-export async function resumeJob(param) {
-  return http(Path.timer + '/resume',{
-    method: 'POST',
-    body: {
-      ...param,
-    },}
-    );
-}
-export async function pauseJob(param) {
-  return http(Path.timer + '/form',{
-    method: 'POST',
-    body: {
-      ...param,
-    },
-  });
-}</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IDxDb2wgbWQ9ezh9IHNtPXsyNH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBrZXk9InR5cGUiIGxhYmVsPSLmjpLluo/mlrnlvI8iPgogICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignc29ydCcsIHsKICAgICAgICAgICAgICAgIGluaXRWYWx1ZTogJ21vZGlmaWVkRGVzYycsCiAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICA8U2VsZWN0IHBsYWNlaG9sZGVyPSLor7fpgInmjpLluo/mlrnlvI8iIGFsbG93Q2xlYXIgc3R5bGU9e3t3aWR0aDogJzEwMCUnfX0+CiAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Im1vZGlmaWVkRGVzYyI+5oyJ54Wn5L+u5pS55pe26Ze06ZmN5bqPPC9PcHRpb24+CiAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Im1vZGlmaWVkQXNjIj7mjInnhafkv67mlLnml7bpl7TljYfluo88L09wdGlvbj4KICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0ibmFtZUFzYyI+5oyJ54Wn5ZCN56ew5Y2H5bqPPC9PcHRpb24+CiAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Im5hbWVEZXNjIj7mjInnhaflkI3np7DpmY3luo88L09wdGlvbj4KICAgICAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgICAgICwKICAgICAgICAgIDwvQ29sPg==</text>
+        <text encoding="base64">ewogICAgICAgIExpc3Q8UXVlc3Rpb25uYWlyZVBvam8+IGFsbCA9IHF1ZXN0aW9uTmFpcmVTZXJ2aWNlLmdldEFsbCgpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuaJgOaciemXruWNt+aVsOaNriIsYWxsKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
