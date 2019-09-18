@@ -242,13 +242,15 @@
       <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/sailor/jobs/ExampleTimer.java" timestamp="1567069870436">
         <mark key="[" line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/AnswerValue.java" timestamp="1568788801728">
-        <mark key="[" line="29" column="26" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/AnswerValue.java" timestamp="1568792357103">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1568791150375">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="142" column="15" />
-        <mark key="." line="142" column="15" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1568794190665">
+        <mark key="[" line="173" column="50" />
+        <mark key="]" line="173" column="50" />
+        <mark key="." line="173" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/Question.java" timestamp="1568788330352">
         <mark key="[" line="55" column="61" />
@@ -499,7 +501,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>setQuestionId</text>
+        <text>vm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -508,43 +510,40 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>if(temp.containsKey(&quot;radio&quot;)){
-                temp.get
-            }</text>
+        <text>if(ortotherOptionValue!=null){
+                    answerValue.setOtherOptionValue((String) ortotherOptionValue);
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PyAoCiAgICAgICAgICAgICAgICA8PjwvPgogICAgICAgICAgICAgICkgOiA=</text>
+        <text>if(temp.containsKey(&quot;radio&quot;)){
+                temp.get
+            }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgPEFudEluIGtleT17dGhpcy5zdGF0ZS5lZGl0b3IucXVlc3Rpb25JZH0KICAgICAgICAgICAgICAgICAgICAgICAgIG9uS2V5UHJlc3M9e3RoaXMuZGlzYWJsZUVudGVyfSAgICAgICAgICAgICAgICAgICAgICAgICAgb25CbHVyPXt0aGlzLmhhbmRsZU90aGVyT3B0aW9uSW5wdXRDaGFuZ2V9ICAgICAgICAgICAgIGRhdGEtaW5kZXg9e2luZGV4fQogICAgICAgICAgICAgICAgICBkZWZhdWx0VmFsdWU9e2Fuc3dlciYmdGhpcy5zdGF0ZS5vdGhlck9wdGlvbklucHV0IH0KICAgICAgICAgICAgICAgICAgPjwvQW50SW4+</text>
+        <text encoding="base64">PyAoCiAgICAgICAgICAgICAgICA8PjwvPgogICAgICAgICAgICAgICkgOiA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgIG90aGVyT3B0aW9uSW5wdXQ6dGhpcy5vdGhlck9wdGlvblZhbHVl</text>
+        <text encoding="base64">ICAgICAgPEFudEluIGtleT17dGhpcy5zdGF0ZS5lZGl0b3IucXVlc3Rpb25JZH0KICAgICAgICAgICAgICAgICAgICAgICAgIG9uS2V5UHJlc3M9e3RoaXMuZGlzYWJsZUVudGVyfSAgICAgICAgICAgICAgICAgICAgICAgICAgb25CbHVyPXt0aGlzLmhhbmRsZU90aGVyT3B0aW9uSW5wdXRDaGFuZ2V9ICAgICAgICAgICAgIGRhdGEtaW5kZXg9e2luZGV4fQogICAgICAgICAgICAgICAgICBkZWZhdWx0VmFsdWU9e2Fuc3dlciYmdGhpcy5zdGF0ZS5vdGhlck9wdGlvbklucHV0IH0KICAgICAgICAgICAgICAgICAgPjwvQW50SW4+</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgIG90aGVyT3B0aW9uSW5wdXQ6dGhpcy5vdGhlck9wdGlvblZhbHVl</text>
+      </register>
+      <register name="6" type="4">
         <text>if(this.state.editor.options.includes(value)){
         this.allValue=value;
       }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgY29uc3QgewogICAgICB0eXBlLAogICAgICBvdGhlck9wdGlvbkZvcndhcmRzLAogICAgICBvdGhlck9wdGlvbkJhY2t3YXJkcywKICAgIH0gPSB0aGlzLnN0YXRlLmVkaXRvcjs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBpZihwcm9wcy5kYXRhJiZwcm9wcy5kYXRhLmVkaXRvcnMpewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9cHJvcHMuZWRpdG9yczsKICAgIH1lbHNlewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9W10KICAgIH0KICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>{
-    method: 'POST',
-    body: {
-      ...param,
-    },
-  }</text>
+        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
