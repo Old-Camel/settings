@@ -213,10 +213,10 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1566978427552">
         <mark key="[" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568771935876">
-        <mark key="[" line="149" column="36" />
-        <mark key="]" line="149" column="36" />
-        <mark key="." line="149" column="36" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568773550850">
+        <mark key="[" line="600" column="83" />
+        <mark key="]" line="600" column="83" />
+        <mark key="." line="600" column="83" />
         <mark key="^" line="142" column="85" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/Editor.java" timestamp="1568629388033">
@@ -441,23 +441,26 @@
         <text encoding="base64">ICAgICAgICBzaWduYXR1cmVQZXJtaXNzaW9uUG9qby5zZXREZXB0cyhkZXB0cyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>if(this.state.editor.options.includes(value)){
-        this.allValue=value;
-      }</text>
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgIG90aGVyT3B0aW9uSW5wdXQ6dGhpcy5vdGhlck9wdGlvblZhbHVl</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgY29uc3QgewogICAgICB0eXBlLAogICAgICBvdGhlck9wdGlvbkZvcndhcmRzLAogICAgICBvdGhlck9wdGlvbkJhY2t3YXJkcywKICAgIH0gPSB0aGlzLnN0YXRlLmVkaXRvcjs=</text>
+        <text>if(this.state.editor.options.includes(value)){
+        this.allValue=value;
+      }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBpZihwcm9wcy5kYXRhJiZwcm9wcy5kYXRhLmVkaXRvcnMpewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9cHJvcHMuZWRpdG9yczsKICAgIH1lbHNlewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9W10KICAgIH0KICB9</text>
+        <text encoding="base64">ICAgY29uc3QgewogICAgICB0eXBlLAogICAgICBvdGhlck9wdGlvbkZvcndhcmRzLAogICAgICBvdGhlck9wdGlvbkJhY2t3YXJkcywKICAgIH0gPSB0aGlzLnN0YXRlLmVkaXRvcjs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
+        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBpZihwcm9wcy5kYXRhJiZwcm9wcy5kYXRhLmVkaXRvcnMpewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9cHJvcHMuZWRpdG9yczsKICAgIH1lbHNlewogICAgICB0aGlzLnN0YXRlLmVkaXRvcnM9W10KICAgIH0KICB9</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">KGRhdGEpPT57CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZWRpdG9yczpkYXRhfSkKICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
     method: 'POST',
     body: {
@@ -465,17 +468,14 @@
     },
   }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGlmKHByb3BzLnF1ZXN0aW9ubmFpclRpdGxlKXsKICAgICAgdGhpcy5zdGF0ZS5xdWVzdGlvbm5haXJUaXRsZT1wcm9wcy5xdWVzdGlvbm5haXJUaXRsZQogICAgfWVsc2V7CiAgICAgIHRoaXMuc3RhdGUucXVlc3Rpb25uYWlyVGl0bGU9J+mXruWNt+agh+mimCcKICAgIH0KICAgIHRoaXMuZWRpdG9yc0VsID0gW107CiAgICB0aGlzLnNjYWxlSWQgPSAnJzsKICAgIHRoaXMuc2lnbiA9IGZhbHNlOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBlZGl0b3JzPSgpPT57CgogICAgdGhpcy5wcm9wcy5kYXRhLmVkaXRvcnMubWFwKChlZGl0b3IsIGluZGV4KSA9PiB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3NOYW1lPSJkcmFnLXdyYXBwZXIiCiAgICAgICAgICByZWY9e2VsID0+IHRoaXMuZWRpdG9yc0VsW2luZGV4XSA9IGVsfQogICAgICAgICAga2V5PXtlZGl0b3IucXVlc3Rpb25JZH0+CiAgICAgICAgICA8UXVlc3Rpb25uYWlyRWRpdG9yCiAgICAgICAgICAgIGluZGV4PXtpbmRleH0KICAgICAgICAgICAgY3VyTW92ZUl0ZW09e3RoaXMuc3RhdGUuY3VyTW92ZUl0ZW19CiAgICAgICAgICAgIGVkaXRvcj17ZWRpdG9yfQogICAgICAgICAgICBkcmFnPXtkcmFnfQogICAgICAgICAgICBoYW5kbGVDb25maXJtPXt0aGlzLmNvbmZpcm1FZGl0fQogICAgICAgICAgICBoYW5kbGVDYW5jZWw9e3RoaXMuY2FuY2VsRWRpdH0KICAgICAgICAgICAgaGFuZGxlRWRpdD17dGhpcy5hZ2FpbkVkaXR9CiAgICAgICAgICAgIGhhbmRsZVJlbW92ZT17dGhpcy5yZW1vdmVFZGl0fQogICAgICAgICAgICBoYW5kbGVDb3B5PXt0aGlzLmNvcHlFZGl0fQogICAgICAgICAgICBhY3RpdmVBbnN3ZXIgPSB7dHJ1ZX0KICAgICAgICAgICAgb25BbnN3ZXI9e3RoaXMub25BbnN3ZXJ9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfSk7CgoKICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHJldHVybiAoCiAgICAgIDxRdWVzdGlvbm5haXIvPgogICAgKTs=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ewogICAgICAgIExpc3Q8UXVlc3Rpb25uYWlyZVBvam8+IGFsbCA9IHF1ZXN0aW9uTmFpcmVTZXJ2aWNlLmdldEFsbCgpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuaJgOaciemXruWNt+aVsOaNriIsYWxsKTsKICAgIH0=</text>
+        <text encoding="base64">IHJldHVybiAoCiAgICAgIDxRdWVzdGlvbm5haXIvPgogICAgKTs=</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
