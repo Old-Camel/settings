@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1566782719437">
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/models/wjedit.js" timestamp="1568861393710">
-        <mark key="[" line="62" column="8" />
+      <file name="$USER_HOME$/data/code/wj-web/src/models/wjedit.js" timestamp="1568864411957">
+        <mark key="[" line="63" column="38" />
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
         <mark key="^" line="50" column="0" />
@@ -107,11 +107,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1567130177302">
         <mark key="[" line="95" column="57" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Answer.js" timestamp="1568802983137">
-        <mark key="[" line="36" column="15" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Answer.js" timestamp="1568865846632">
+        <mark key="[" line="58" column="30" />
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
-        <mark key="^" line="140" column="0" />
+        <mark key="^" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/repository/AnswerValueRepository.java" timestamp="1568788686918" />
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityServerConfig.java" timestamp="1565599398749">
@@ -270,11 +270,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1566978427552">
         <mark key="[" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568777568703">
-        <mark key="[" line="664" column="13" />
-        <mark key="]" line="664" column="13" />
-        <mark key="." line="664" column="13" />
-        <mark key="^" line="680" column="15" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1568865648344">
+        <mark key="[" line="131" column="8" />
+        <mark key="]" line="668" column="13" />
+        <mark key="." line="668" column="13" />
+        <mark key="^" line="684" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/Editor.java" timestamp="1568774957729">
         <mark key="[" line="33" column="24" />
@@ -314,8 +314,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enums/FlowConstants.java" timestamp="1566293792769">
         <mark key="[" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/Questionnair/index.js" timestamp="1568861240301">
-        <mark key="[" line="258" column="0" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/Questionnair/index.js" timestamp="1568866286494">
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="12" />
+        <mark key="." line="175" column="12" />
+        <mark key="^" line="175" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Todo.less" timestamp="1568796396513" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-ui-modeler-logic/6.4.1/flowable-ui-modeler-logic-6.4.1.jar!/org/flowable/ui/modeler/service/AppDefinitionPublishService.class" timestamp="1568802200628" />
@@ -524,7 +527,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>job</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
