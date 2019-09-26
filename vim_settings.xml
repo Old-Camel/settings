@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1569401828026">
-        <mark key="[" line="231" column="68" />
-        <mark key="^" line="478" column="30" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireService.java" timestamp="1569463986563">
+        <mark key="[" line="48" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569373106234">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1569465672257">
+        <mark key="[" line="649" column="15" />
+        <mark key="]" line="649" column="15" />
+        <mark key="^" line="477" column="30" />
+        <mark key="." line="649" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1569402329253">
         <mark key="[" line="766" column="17" />
@@ -16,17 +18,16 @@
         <mark key="^" line="764" column="28" />
         <mark key="." line="764" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/models/wjedit.js" timestamp="1569312151642">
-        <mark key="[" line="266" column="6" />
-        <mark key="]" line="300" column="8" />
-        <mark key="." line="300" column="8" />
-        <mark key="^" line="196" column="38" />
+      <file name="/a.dummy" timestamp="1569460870036">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Result.js" timestamp="1569308117585">
-        <mark key="[" line="81" column="31" />
-        <mark key="]" line="81" column="31" />
-        <mark key="^" line="47" column="6" />
-        <mark key="." line="81" column="31" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/AllResult.java" timestamp="1569461818640">
+        <mark key="[" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/Editor.java" timestamp="1569460739822">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Answer.js" timestamp="1569402443020">
         <mark key="[" line="78" column="15" />
@@ -37,27 +38,77 @@
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/InFolder.js" timestamp="1569404075737">
         <mark key="[" line="237" column="72" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultInfo.js" timestamp="1569398744194">
-        <mark key="[" line="100" column="54" />
-        <mark key="]" line="100" column="54" />
-        <mark key="." line="100" column="54" />
-        <mark key="^" line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" timestamp="1569403893394">
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" timestamp="1569468532440">
         <mark key="'" line="150" column="4" />
         <mark key="[" line="240" column="58" />
         <mark key="]" line="240" column="58" />
         <mark key="." line="240" column="58" />
         <mark key="^" line="221" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/services/system/ques.js" timestamp="1569305709825">
-        <mark key="[" line="126" column="26" />
-        <mark key="]" line="126" column="26" />
-        <mark key="." line="126" column="26" />
-        <mark key="^" line="124" column="21" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/repository/AnswerValueRepository.java" timestamp="1569462311858">
+        <mark key="[" line="18" column="49" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultSingle.js" timestamp="1569468992490">
+        <mark key="[" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Index.less" timestamp="1569396399375">
         <mark key="[" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1569465524603">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Preview.js" timestamp="1569402529010">
+        <mark key="[" line="127" column="1" />
+        <mark key="]" line="127" column="1" />
+        <mark key="." line="127" column="1" />
+        <mark key="^" line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1569464594740">
+        <mark key="[" line="173" column="24" />
+        <mark key="]" line="165" column="29" />
+        <mark key="." line="165" column="29" />
+        <mark key="^" line="99" column="1" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/document.ejs" timestamp="1569394396177">
+        <mark key="[" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/QuestionnairePojo.java" timestamp="1569468780085" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/AnswerResult.java" timestamp="1569468503457">
+        <mark key="[" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/Questionnair/index.js" timestamp="1569402736435">
+        <mark key="[" line="318" column="78" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/EditorWithAnswer.java" timestamp="1569461714722" />
+      <file name="/Dummy.txt" timestamp="1569373106234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/models/wjedit.js" timestamp="1569464776901">
+        <mark key="[" line="289" column="8" />
+        <mark key="]" line="289" column="8" />
+        <mark key="." line="289" column="8" />
+        <mark key="^" line="197" column="38" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Result.js" timestamp="1569308117585">
+        <mark key="[" line="81" column="31" />
+        <mark key="]" line="81" column="31" />
+        <mark key="^" line="47" column="6" />
+        <mark key="." line="81" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultInfo.js" timestamp="1569468997242">
+        <mark key="[" line="122" column="12" />
+        <mark key="]" line="122" column="12" />
+        <mark key="." line="122" column="12" />
+        <mark key="^" line="122" column="7" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/services/system/ques.js" timestamp="1569464654232">
+        <mark key="[" line="135" column="37" />
+        <mark key="]" line="135" column="37" />
+        <mark key="." line="135" column="37" />
+        <mark key="^" line="124" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/Result.java" timestamp="1569306919175">
         <mark key="[" line="20" column="25" />
@@ -71,29 +122,8 @@
         <mark key="." line="94" column="25" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1569400143936">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Preview.js" timestamp="1569402529010">
-        <mark key="[" line="127" column="1" />
-        <mark key="]" line="127" column="1" />
-        <mark key="." line="127" column="1" />
-        <mark key="^" line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1569381974451">
         <mark key="[" line="46" column="65" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1569295356446">
-        <mark key="[" line="166" column="5" />
-        <mark key="]" line="164" column="29" />
-        <mark key="." line="164" column="29" />
-        <mark key="^" line="98" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/document.ejs" timestamp="1569394396177">
-        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/repository/AnswerRepository.java" timestamp="1569297015458">
         <mark key="[" line="18" column="47" />
@@ -101,21 +131,8 @@
         <mark key="." line="17" column="9" />
         <mark key="^" line="16" column="103" />
       </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/Questionnair/index.js" timestamp="1569402736435">
-        <mark key="[" line="318" column="78" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.less" timestamp="1569402591412">
-        <mark key="[" line="172" column="41" />
-        <mark key="]" line="164" column="37" />
-        <mark key="." line="164" column="37" />
-      </file>
-      <file name="/fragment.java" timestamp="1569373106173">
+      <file name="/fragment.java" timestamp="1569461803360">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/utils/utils.js" timestamp="1569400161344">
-        <mark key="[" line="417" column="24" />
-        <mark key="]" line="417" column="24" />
-        <mark key="." line="417" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -260,7 +277,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>编辑</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
@@ -269,37 +286,37 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgLy8gY29uc29sZS5sb2codGhpcy5zdGF0ZS5lZGl0b3JzKTsKICAgIGlmKHRoaXMuc3RhdGUuc3VjY2Vzcyl7CiAgICAgIHJldHVybiA8UmVzdWx0CiAgICAgICAgc3RhdHVzPSJzdWNjZXNzIgogICAgICAgIHRpdGxlPXsi6Zeu5Y235bey57uP5o+Q5Lqk77yM6K+35YWz6Zet5b2T5YmN6aG16Z2iIn0KICAgICAgLz4KICAgIH0=</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjE8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjI8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjM8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjQ8L2gzPgogICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICB0aWphbyA9ICgpID0+IHsKICAgIGNvbnN0IHtlZGl0b3JzfSA9IHRoaXMuc3RhdGU7CiAgICBjb25zdCB7ZGF0YX0gPSB0aGlzLnByb3BzOwoKICAgIGxldCBib2R5ID0gW107CgogICAgZWRpdG9ycy5mb3JFYWNoKHggPT4gewogICAgICBsZXQgYW5zd2VyID0geC5hbnN3ZXI7CiAgICAgIGxldCBxdWVzdGlvbklkID0geC5xdWVzdGlvbklkOwogICAgICBpZiAoYW5zd2VyKSB7CgogICAgICAgIGxldCB2ID0gey4uLmFuc3dlciwgcXVlc3Rpb25JZH07CiAgICAgICAgYm9keS5wdXNoKHYpOwogICAgICB9IGVsc2UgewoKICAgICAgfQogICAgfSk7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3dqZWRpdC9hbnN3ZXInLAogICAgICBwYXlsb2FkOiB7ZGF0YTogYm9keSwgaWQ6IGRhdGEuaWR9LAogICAgICBjYWxsYmFjazp0aGlzLmNhbGxiYWNrCiAgICB9KQoKICB9</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2xpZGV9PgogICAgICAgICAgICAgIDxoMz4xPC9oMz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2xpZGV9PgogICAgICAgICAgICAgIDxoMz4yPC9oMz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2xpZGV9PgogICAgICAgICAgICAgIDxoMz4zPC9oMz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2xpZGV9PgogICAgICAgICAgICAgIDxoMz40PC9oMz4KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICAvLyBjb25zdCB7CiAgICAvLyAgIGRpc3BhdGNoLAogICAgLy8gICBtYXRjaDoge3BhcmFtc30sCiAgICAvLyB9ID0gdGhpcy5wcm9wczsKICAgIC8vIGRpc3BhdGNoKHsKICAgIC8vICAgdHlwZTogJ3dqZWRpdC9mZXRjaGluZm8nLAogICAgLy8gICBwYXlsb2FkOiBwYXJhbXMuaWQsCiAgICAvLyB9KTsKICB9</text>
+        <text encoding="base64">ICAgIAogICAgICAgIEFuc3dlclJlc3VsdCBhbnN3ZXJSZXN1bHQgPSBuZXcgQW5zd2VyUmVzdWx0KCk7CgogICAgICAgIEFycmF5TGlzdDxFZGl0b3JXaXRoQW5zd2VyPiBlZGl0b3JzID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgYW5zd2VyUmVzdWx0LnNldEFuc3dlcnMoZWRpdG9ycyk7CiAgICAgICAgU2V0PFF1ZXN0aW9uPiBxdWVzdGlvbnMgPSBxdWVzdGlvbm5haXJlLmdldFF1ZXN0aW9ucygpOwoKICAgICAgCgoKICAgICAgICBpZiAocXVlc3Rpb25zICE9IG51bGwgJiYgcXVlc3Rpb25zLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgZm9yIChRdWVzdGlvbiBxdWVzdGlvbiA6IHF1ZXN0aW9ucykgewogICAgICAgICAgICAgICAgRWRpdG9yV2l0aEFuc3dlciBlZGl0b3IgPSBuZXcgRWRpdG9yV2l0aEFuc3dlcigpOwogICAgICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHF1ZXN0aW9uLCBlZGl0b3IpOwogICAgICAgICAgICAgICAgZWRpdG9yLnNldFF1ZXN0aW9uSWQocXVlc3Rpb24uZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBvcHRpb25zID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgICAgICAgICBTZXQ8UXVlc3Rpb25PcHRpb24+IG9wdGlvbnMxID0gcXVlc3Rpb24uZ2V0T3B0aW9ucygpOwogICAgICAgICAgICAgICAgZm9yIChRdWVzdGlvbk9wdGlvbiBxdWVzdGlvbk9wdGlvbiA6IG9wdGlvbnMxKSB7CiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucy5hZGQocXVlc3Rpb25PcHRpb24uZ2V0VGV4dFZhbHVlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWRpdG9yLnNldE9wdGlvbnMob3B0aW9ucyk7CiAgICAgICAgICAgICAgICBlZGl0b3JzLmFkZChlZGl0b3IpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgLy8gY29uc29sZS5sb2codGhpcy5zdGF0ZS5lZGl0b3JzKTsKICAgIGlmKHRoaXMuc3RhdGUuc3VjY2Vzcyl7CiAgICAgIHJldHVybiA8UmVzdWx0CiAgICAgICAgc3RhdHVzPSJzdWNjZXNzIgogICAgICAgIHRpdGxlPXsi6Zeu5Y235bey57uP5o+Q5Lqk77yM6K+35YWz6Zet5b2T5YmN6aG16Z2iIn0KICAgICAgLz4KICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3M6ZmFsc2UK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICB0aWphbyA9ICgpID0+IHsKICAgIGNvbnN0IHtlZGl0b3JzfSA9IHRoaXMuc3RhdGU7CiAgICBjb25zdCB7ZGF0YX0gPSB0aGlzLnByb3BzOwoKICAgIGxldCBib2R5ID0gW107CgogICAgZWRpdG9ycy5mb3JFYWNoKHggPT4gewogICAgICBsZXQgYW5zd2VyID0geC5hbnN3ZXI7CiAgICAgIGxldCBxdWVzdGlvbklkID0geC5xdWVzdGlvbklkOwogICAgICBpZiAoYW5zd2VyKSB7CgogICAgICAgIGxldCB2ID0gey4uLmFuc3dlciwgcXVlc3Rpb25JZH07CiAgICAgICAgYm9keS5wdXNoKHYpOwogICAgICB9IGVsc2UgewoKICAgICAgfQogICAgfSk7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3dqZWRpdC9hbnN3ZXInLAogICAgICBwYXlsb2FkOiB7ZGF0YTogYm9keSwgaWQ6IGRhdGEuaWR9LAogICAgICBjYWxsYmFjazp0aGlzLmNhbGxiYWNrCiAgICB9KQoKICB9</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVkaXRvcnM6IFtdLAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICAvLyBjb25zdCB7CiAgICAvLyAgIGRpc3BhdGNoLAogICAgLy8gICBtYXRjaDoge3BhcmFtc30sCiAgICAvLyB9ID0gdGhpcy5wcm9wczsKICAgIC8vIGRpc3BhdGNoKHsKICAgIC8vICAgdHlwZTogJ3dqZWRpdC9mZXRjaGluZm8nLAogICAgLy8gICBwYXlsb2FkOiBwYXJhbXMuaWQsCiAgICAvLyB9KTsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0ZSA9IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QGNvbm5lY3QoKHt3amVkaXQsIGxvYWRpbmd9KSA9PiAoewogIGRhdGE6IHdqZWRpdC5kYXRhLAogIGxvYWRpbmc6IGxvYWRpbmcubW9kZWxzLndqZWRpdCwKfSkp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN1Y2Nlc3M6ZmFsc2UK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PFJlYWN0LkZyYWdtZW50PgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc3VydmV5SGVhZGVyVGl0bGV9PntkYXRhLnRpdGxlfTwvZGl2PgogICAgICAgICAge3RoaXMuZWRpdG9ycygpfQogICAgICAgIDwvUmVhY3QuRnJhZ21lbnQ+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVkaXRvcnM6IFtdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -310,7 +327,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDzlpKlcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
