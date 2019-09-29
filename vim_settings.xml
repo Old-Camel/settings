@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/data/code/wj/src/main/resources/META-INF/app.properties" timestamp="1569482612321">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/impl/DefDataInterRequestParser.java" timestamp="1569572292786" />
+      <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/impl/DefDataInterRequestParser.java" timestamp="1569720056268" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/Convert.java" timestamp="1569568498019">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
@@ -34,6 +34,9 @@
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultSingle.js" timestamp="1569468992490">
         <mark key="[" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/SecurityUser.java" timestamp="1569719524911">
+        <mark key="[" line="21" column="149" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1569480977678">
         <mark key="[" line="16" column="21" />
@@ -79,10 +82,11 @@
         <mark key="." line="135" column="37" />
         <mark key="^" line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1569719393994">
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1569720676798">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/layouts/BasicLayout.js" timestamp="1569547942362" />
+      <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/mysql/DefMySQLDataConverter.java" timestamp="1569720038349" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1569381974451">
         <mark key="[" line="46" column="65" />
       </file>
@@ -103,6 +107,7 @@
         <mark key="." line="653" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityBeanConfig.java" timestamp="1569575060347" />
+      <file name="$USER_HOME$/data/code/zifans/zifanas-api/src/main/java/com/yunzainfo/archipelago/zifanas/apis/entity/DataInterInfo.java" timestamp="1569720229761" />
       <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1569481927800">
         <mark key="[" line="683" column="20" />
         <mark key="]" line="683" column="20" />
@@ -120,6 +125,11 @@
       <file name="$USER_HOME$/data/code/conversion/src/test/java/Te.java" timestamp="1569566886392">
         <mark key="[" line="12" column="44" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsDataSource.java" timestamp="1569720648046">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="2" />
+        <mark key="." line="30" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/conversion/pom.xml" timestamp="1569575904586">
         <mark key="[" line="31" column="21" />
       </file>
@@ -129,6 +139,7 @@
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/repository/AnswerValueRepository.java" timestamp="1569462311858">
         <mark key="[" line="18" column="49" />
       </file>
+      <file name="$USER_HOME$/data/code/zifans/zifanas_single/src/main/java/com/yunzainfo/archipelago/zifanas/single/memory/SingleDataInterMemoryStore.java" timestamp="1569720305912" />
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityServerConfig.java" timestamp="1569575281377" />
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Index.less" timestamp="1569479359523">
         <mark key="[" line="97" column="2" />
@@ -136,7 +147,7 @@
         <mark key="." line="97" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/ControllerAdvice.java" timestamp="1569575728928" />
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/Application.java" timestamp="1569566566543" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/Application.java" timestamp="1569720758942" />
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/AnswerResult.java" timestamp="1569468503457">
         <mark key="[" line="16" column="3" />
       </file>
@@ -147,6 +158,7 @@
       <file name="/Dummy.txt" timestamp="1569485094760">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/AbsSqlDataConverter.java" timestamp="1569719974614" />
       <file name="$USER_HOME$/data/code/conversion/src/main/resources/application.yml" timestamp="1569576028966">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -171,8 +183,11 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/DataToJSON.java" timestamp="1569573275249">
         <mark key="[" line="24" column="54" />
       </file>
+      <file name="$USER_HOME$/data/code/zifans/zifanas-admin/src/main/java/com/yunzainfo/archipelago/zifanas/admin/pojo/TabDataSource.java" timestamp="1569720388184" />
       <file name="$USER_HOME$/data/code/wj/istio/istio-svc-dpt.yaml" timestamp="1569482270539" />
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsUserDetailsService.java" timestamp="1569719483489" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsUserDetailsService.java" timestamp="1569719498167">
+        <mark key="[" line="39" column="118" />
+      </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/config/Swagger2.java" timestamp="1569482564830">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="59" column="24" />
@@ -183,7 +198,7 @@
         <mark key="]" line="305" column="3" />
         <mark key="." line="305" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1569576464090">
+      <file name="/fragment.java" timestamp="1569720630151">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -338,6 +353,12 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChTdHJpbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREYk5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGRiTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREYk5hbWUoU3RyaW5nIGRiTmFtZSkgewogICAgICAgIHRoaXMuZGJOYW1lID0gZGJOYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGJUeXBlKCkgewogICAgICAgIHJldHVybiBkYlR5cGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGJUeXBlKFN0cmluZyBkYlR5cGUpIHsKICAgICAgICB0aGlzLmRiVHlwZSA9IGRiVHlwZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERiSXAoKSB7CiAgICAgICAgcmV0dXJuIGRiSXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGJJcChTdHJpbmcgZGJJcCkgewogICAgICAgIHRoaXMuZGJJcCA9IGRiSXA7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREYlBvcnQoKSB7CiAgICAgICAgcmV0dXJuIGRiUG9ydDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREYlBvcnQoU3RyaW5nIGRiUG9ydCkgewogICAgICAgIHRoaXMuZGJQb3J0ID0gZGJQb3J0OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGJEYk5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGRiRGJOYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERiRGJOYW1lKFN0cmluZyBkYkRiTmFtZSkgewogICAgICAgIHRoaXMuZGJEYk5hbWUgPSBkYkRiTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERiVXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGRiVXNlcm5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGJVc2VybmFtZShTdHJpbmcgZGJVc2VybmFtZSkgewogICAgICAgIHRoaXMuZGJVc2VybmFtZSA9IGRiVXNlcm5hbWU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREYlBhc3N3b3JkKCkgewogICAgICAgIHJldHVybiBkYlBhc3N3b3JkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERiUGFzc3dvcmQoU3RyaW5nIGRiUGFzc3dvcmQpIHsKICAgICAgICB0aGlzLmRiUGFzc3dvcmQgPSBkYlBhc3N3b3JkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RHNQYXJhbSgpIHsKICAgICAgICByZXR1cm4gZHNQYXJhbTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREc1BhcmFtKFN0cmluZyBkc1BhcmFtKSB7CiAgICAgICAgdGhpcy5kc1BhcmFtID0gZHNQYXJhbTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE9yZGVyXygpIHsKICAgICAgICByZXR1cm4gb3JkZXJfOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE9yZGVyXyhTdHJpbmcgb3JkZXJfKSB7CiAgICAgICAgdGhpcy5vcmRlcl8gPSBvcmRlcl87CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRDcmVhdGVyXygpIHsKICAgICAgICByZXR1cm4gY3JlYXRlcl87CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlcl8oU3RyaW5nIGNyZWF0ZXJfKSB7CiAgICAgICAgdGhpcy5jcmVhdGVyXyA9IGNyZWF0ZXJfOwogICAgfQoKICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0VGltZXJfKCkgewogICAgICAgIHJldHVybiB0aW1lcl87CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGltZXJfKFRpbWVzdGFtcCB0aW1lcl8pIHsKICAgICAgICB0aGlzLnRpbWVyXyA9IHRpbWVyXzsKICAgIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>mybatis:
   mapperLocations: classpath:mapper/*.xml
   config-location: classpath:mybatis-config.xml
@@ -347,13 +368,10 @@ pagehelper:
   supportMethodsArguments: true
   params: count=countSql</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAjICB0aHltZWxlYWY6CiAgIyAgICBzdWZmaXg6IC5odG1sCiAgIyAgICBwcmVmaXg6IGNsYXNzcGF0aDovdGVtcGxhdGVzLwogICMgICAgbW9kZTogTEVHQUNZSFRNTDUKICAjICAgIGVuYWJsZWQ6IHRydWUKICAjICAgIGVuY29kaW5nOiBVVEYtOAogICMgICAgY2hlY2stdGVtcGxhdGUtbG9jYXRpb246IHRydWUKICAjICAgIGNhY2hlOiBmYWxzZQogICMgICAgY29udGVudC10eXBlOiB0ZXh0L2h0bWw=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>#spring:
 #  datasource:
 #      url: jdbc:postgresql://localhost:5432/separate-admissions
@@ -373,26 +391,23 @@ pagehelper:
 #          temp:
 #            use_jdbc_metadata_defaults: false</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgQXJyYXlMaXN0PEpTT05PYmplY3Q+IGpzb25PYmplY3RzID0gbmV3IEFycmF5TGlzdDxKU09OT2JqZWN0PigpOwogICAgICAgICAgICAvLyDojrflj5bliJfmlbAKCiAgICAgICAgICAgIFJlc3VsdFNldE1ldGFEYXRhIG1ldGFEYXRhID0gcmVzdWx0U2V0LmdldE1ldGFEYXRhKCk7CgogICAgICAgICAgICBpbnQgY29sdW1uQ291bnQgPSBtZXRhRGF0YS5nZXRDb2x1bW5Db3VudCgpOwoKICAgICAgICAgICAgLy8g6YGN5Y6GUmVzdWx0U2V05Lit55qE5q+P5p2h5pWw5o2uCgogICAgICAgICAgICAgd2hpbGUocmVzdWx0U2V0Lm5leHQoKSkgewoKICAgICAgICAgICAgICAgIC8vIOmBjeWOhuavj+S4gOWIlwogICAgICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uT2JqID0gbmV3IEpTT05PYmplY3QoKTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvbHVtbkNvdW50OyBpKyspIHsKCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGNvbHVtbk5hbWUgPW1ldGFEYXRhLmdldENvbHVtbkxhYmVsKGkpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZSA9IHJlc3VsdFNldC5nZXRTdHJpbmcoY29sdW1uTmFtZSk7CiAgICAgICAgICAgICAgICAgICAganNvbk9iai5wdXQoY29sdW1uTmFtZSwgdmFsdWUpOwoKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBqc29uT2JqZWN0cy5hZGQoanNvbk9iaik7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEFTU0lHTkVFVVNFUiwK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNvbXBvbmVudERpZE1vdW50KCkgewogICAgY29uc3R7ZWRpdG9yc309dGhpcy5wcm9wczsKICAgIGlmKGVkaXRvcnMpewogICAgICB0aGlzLnNldFN0YXRlKHtlZGl0b3JzfSk7CiAgICB9CiB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFTU0lHTkVFVVNFUiwK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Y2FsbGJhY2sgPSAoa2V5KSA9PiB7CiAgICBjb25zb2xlLmxvZyhrZXkpOwogIH0=</text>
+        <text encoding="base64">IGNvbXBvbmVudERpZE1vdW50KCkgewogICAgY29uc3R7ZWRpdG9yc309dGhpcy5wcm9wczsKICAgIGlmKGVkaXRvcnMpewogICAgICB0aGlzLnNldFN0YXRlKHtlZGl0b3JzfSk7CiAgICB9CiB9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgICBjdXJyZW50OmkKICAgICAgIH0p</text>
+        <text encoding="base64">Y2FsbGJhY2sgPSAoa2V5KSA9PiB7CiAgICBjb25zb2xlLmxvZyhrZXkpOwogIH0=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjE8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjI8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjM8L2gzPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zbGlkZX0+CiAgICAgICAgICAgICAgPGgzPjQ8L2gzPgogICAgICAgICAgICA8L2Rpdj4=</text>
+        <text encoding="base64">IHRoaXMuc2V0U3RhdGUoewogICAgICAgICBjdXJyZW50OmkKICAgICAgIH0p</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
