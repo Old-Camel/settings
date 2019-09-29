@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/DsServiceImpl.java" timestamp="1569722104968">
+        <mark key="[" line="15" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190905.065947-220.jar!/com/yunzainfo/cloud/common/exception/CheckErrorException.class" timestamp="1569726427992" />
       <file name="/a.dummy" timestamp="1569719449914">
         <mark key="[" line="0" column="0" />
@@ -67,6 +70,7 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/data/code/react-auth的副本/src/services/myapi.js" timestamp="1569736106908" />
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190918.053038-225.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1569720938967" />
       <file name="$USER_HOME$/data/code/conversion/pom.xml" timestamp="1569726809602">
         <mark key="[" line="63" column="0" />
@@ -76,6 +80,12 @@
       <file name="$USER_HOME$/data/code/zifans/zifanas_single/src/main/java/com/yunzainfo/archipelago/zifanas/single/memory/SingleDataInterMemoryStore.java" timestamp="1569720305912" />
       <file name="$USER_HOME$/data/code/Sche/src/main/java/com/xucheng/schedule/config/SecurityServerConfig.java" timestamp="1569575281377" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/ControllerAdvice.java" timestamp="1569575728928" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairSiderbar/index.js" timestamp="1569481233709">
+        <mark key="[" line="39" column="56" />
+      </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/utils/Path.js" timestamp="1569735689040">
+        <mark key="[" line="2" column="62" />
+      </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/repository/DatasourceRepository.java" timestamp="1569721955767">
         <mark key="[" line="16" column="60" />
         <mark key="]" line="16" column="60" />
@@ -86,6 +96,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/WJController.java" timestamp="1569566843791">
+        <mark key="[" line="36" column="73" />
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/pom.xml" timestamp="1569575108877" />
       <file name="$USER_HOME$/data/code/cvs-web/src/utils/http.js" timestamp="1569729159386" />
@@ -108,12 +121,21 @@
         <mark key="." line="305" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth/config/config.js" timestamp="1569725672626" />
+      <file name="$USER_HOME$/data/code/wj-web/src/components/TopNavHeader/index.js" timestamp="1569480109039">
+        <mark key="[" line="56" column="49" />
+      </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/Convert.java" timestamp="1569568498019">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/SecurityUser.java" timestamp="1569719524911">
+        <mark key="[" line="21" column="149" />
+      </file>
       <file name="$USER_HOME$/data/code/cloud/common/pom.xml" timestamp="1569727039948" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/SqlQueryCommand.java" timestamp="1569569047072">
+        <mark key="[" line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1569464594740">
         <mark key="[" line="173" column="24" />
         <mark key="]" line="165" column="29" />
@@ -124,10 +146,16 @@
       <file name="$USER_HOME$/data/code/zifans/zifanas-admin/src/main/java/com/yunzainfo/archipelago/zifanas/admin/dao/TabUserMapper.java" timestamp="1569575526391" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/JobTimeTest.java" timestamp="1569570036832" />
       <file name="$USER_HOME$/data/code/wj-web/src/layouts/BasicLayout.js" timestamp="1569547942362" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1569381974451">
+        <mark key="[" line="46" column="65" />
+      </file>
       <file name="$USER_HOME$/data/code/wj-web/src/utils/Path.js" timestamp="1569483862500">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/defaultSettings.js" timestamp="1569735648420">
+        <mark key="[" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1569465672257">
         <mark key="[" line="653" column="15" />
@@ -153,6 +181,9 @@
         <mark key="]" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/test/java/Te.java" timestamp="1569566886392">
+        <mark key="[" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsDataSource.java" timestamp="1569720648046">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="2" />
@@ -165,9 +196,9 @@
         <mark key="." line="97" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/Application.java" timestamp="1569725336523">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth的副本 2/config/config.js" timestamp="1569727919937" />
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/EditorWithAnswer.java" timestamp="1569461714722" />
@@ -178,7 +209,13 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1569724794407">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/AbsSqlDataConverter.java" timestamp="1569719974614" />
+      <file name="$USER_HOME$/data/code/react-auth的副本 2/src/utils/Path.js" timestamp="1569724492296">
+        <mark key="[" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/data/code/react-auth/config/router.config.js" timestamp="1569727452294" />
       <file name="$USER_HOME$/data/code/wj/config/application-dev.properties" timestamp="1569482339629">
         <mark key="[" line="1" column="29" />
@@ -189,6 +226,9 @@
         <mark key="[" line="15" column="54" />
         <mark key="]" line="15" column="54" />
         <mark key="." line="15" column="54" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/DsService.java" timestamp="1569722071949">
+        <mark key="[" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/BaseService.java" timestamp="1569722488896">
         <mark key="[" line="20" column="12" />
@@ -202,7 +242,11 @@
         <mark key="]" line="69" column="55" />
         <mark key="." line="69" column="55" />
       </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/services/myapi.js" timestamp="1569736137568" />
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/WjApplication.java" timestamp="1569720799620" />
+      <file name="/fragment.java" timestamp="1569724794382">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$USER_HOME$/data/code/react-auth/src/pages/Sys/Role.js" />
