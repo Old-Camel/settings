@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/data/code/wj-web/src/defaultSettings.js" timestamp="1569483875196">
         <mark key="[" line="20" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1569576037565">
+      <file name="/a.dummy" timestamp="1569719449914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="0" />
@@ -79,7 +79,7 @@
         <mark key="." line="135" column="37" />
         <mark key="^" line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1569576054537">
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1569719393994">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/layouts/BasicLayout.js" timestamp="1569547942362" />
@@ -161,12 +161,18 @@
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/repository/UserRepository.java" timestamp="1569719404468">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+      </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/pom.xml" timestamp="1569575108877" />
       <file name="$USER_HOME$/data/code/zifans/zifanas-admin/src/main/java/com/yunzainfo/archipelago/zifanas/admin/pojo/TabUser.java" timestamp="1569576266738" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/DataToJSON.java" timestamp="1569573275249">
         <mark key="[" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/data/code/wj/istio/istio-svc-dpt.yaml" timestamp="1569482270539" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsUserDetailsService.java" timestamp="1569719483489" />
       <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/config/Swagger2.java" timestamp="1569482564830">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="59" column="24" />
@@ -177,7 +183,7 @@
         <mark key="]" line="305" column="3" />
         <mark key="." line="305" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1569572961065">
+      <file name="/fragment.java" timestamp="1569576464090">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -323,7 +329,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBsID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7</text>
+        <text>SaUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
