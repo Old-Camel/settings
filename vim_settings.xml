@@ -19,6 +19,11 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/DeptUserSelect.js" timestamp="1570504178813">
         <mark key="[" line="112" column="28" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1570505185580">
+        <mark key="[" line="102" column="10" />
+        <mark key="]" line="102" column="10" />
+        <mark key="." line="102" column="10" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessSignatureServiceImpl.java" timestamp="1570499182800">
         <mark key="[" line="140" column="53" />
         <mark key="]" line="140" column="53" />
@@ -66,6 +71,9 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/CheckboxWidget.js" timestamp="1570503159398">
         <mark key="[" line="60" column="38" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/components/GlobalHeader/RightContent.js" timestamp="1570505610227">
+        <mark key="[" line="129" column="7" />
+      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/defaultSettings.js" timestamp="1569735648420">
         <mark key="[" line="20" column="15" />
       </file>
@@ -85,7 +93,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1570502843846">
         <mark key="[" line="34" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569724794407">
+      <file name="/Dummy.txt" timestamp="1570505838528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth的副本 2/src/utils/Path.js" timestamp="1569724492296">
@@ -247,7 +255,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>roles</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlpKlcPg==</text>
