@@ -29,6 +29,12 @@
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/impl/DefDataInterRequestParser.java" timestamp="1570518247679" />
       <file name="$USER_HOME$/data/code/cvs-web/src/layouts/BasicLayout.js" timestamp="1570605305619" />
+      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1569480977678">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="24" column="25" />
+      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/index.less" timestamp="1569826316790">
         <mark key="[" line="18" column="1" />
       </file>
@@ -40,13 +46,32 @@
         <mark key="." line="61" column="73" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/index.jsx" timestamp="1570502355744" />
-      <file name="$USER_HOME$/data/code/cvs-web/config/router.config.js" timestamp="1570613878480">
-        <mark key="[" line="37" column="26" />
+      <file name="$USER_HOME$/data/code/wj-web/src/models/wjedit.js" timestamp="1569478624585">
+        <mark key="[" line="275" column="27" />
+        <mark key="]" line="289" column="8" />
+        <mark key="." line="289" column="8" />
+        <mark key="^" line="197" column="38" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultInfo.js" timestamp="1569479297054">
+        <mark key="[" line="150" column="25" />
+        <mark key="]" line="150" column="25" />
+        <mark key="." line="150" column="25" />
+        <mark key="^" line="106" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/cvs-web/config/router.config.js" timestamp="1570672800334">
+        <mark key="[" line="40" column="27" />
         <mark key="]" line="37" column="26" />
         <mark key="." line="37" column="26" />
         <mark key="^" line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/services/system/ques.js" timestamp="1569464654232">
+        <mark key="[" line="135" column="37" />
+        <mark key="]" line="135" column="37" />
+        <mark key="." line="135" column="37" />
+        <mark key="^" line="124" column="21" />
+      </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/OriginalDataHandlerImpl.java" timestamp="1570606696859" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1570670965174" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/ApiService.java" timestamp="1570523860567">
         <mark key="[" line="20" column="46" />
       </file>
@@ -118,11 +143,14 @@
         <mark key="[" line="39" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190905.065947-220.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1570498530018" />
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/impl/UserServiceImpl.java" timestamp="1570670117124">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="8" />
-        <mark key="." line="52" column="8" />
-        <mark key="^" line="52" column="5" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/impl/UserServiceImpl.java" timestamp="1570671119213">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+        <mark key="^" line="57" column="5" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/SecurityBeanConfig.java" timestamp="1570671972643">
+        <mark key="[" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/utils/Path.js" timestamp="1570619952618">
         <mark key="[" line="2" column="72" />
@@ -143,12 +171,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Api.js" timestamp="1570617691886">
-        <mark key="'" line="123" column="33" />
-        <mark key="[" line="449" column="35" />
-        <mark key="]" line="118" column="96" />
-        <mark key="." line="118" column="96" />
-        <mark key="^" line="288" column="30" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Api.js" timestamp="1570671009127">
+        <mark key="'" line="121" column="33" />
+        <mark key="[" line="447" column="35" />
+        <mark key="]" line="116" column="96" />
+        <mark key="." line="116" column="96" />
+        <mark key="^" line="286" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/ApiContorller.java" timestamp="1570523698087" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/MessageEntity.java" timestamp="1570524651512" />
@@ -161,11 +189,11 @@
         <mark key="[" line="36" column="73" />
       </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Group.js" timestamp="1570617746248">
-        <mark key="'" line="352" column="18" />
-        <mark key="[" line="287" column="24" />
-        <mark key="]" line="287" column="24" />
-        <mark key="." line="287" column="24" />
-        <mark key="^" line="83" column="85" />
+        <mark key="'" line="350" column="18" />
+        <mark key="[" line="285" column="24" />
+        <mark key="]" line="285" column="24" />
+        <mark key="." line="285" column="24" />
+        <mark key="^" line="81" column="85" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/YunzaiReturn.java" timestamp="1570524826046">
         <mark key="'" line="18" column="91" />
@@ -212,6 +240,12 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/GroupContorller.java" timestamp="1570607042642" />
       <file name="$USER_HOME$/data/code/cvs-web/src/components/SettingDrawer/index.js" timestamp="1570605293967" />
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/apimpl/DataQueryServiceImpl.java" timestamp="1570518226063" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/components/GlobalHeader/RightContent.js" timestamp="1570673194275">
+        <mark key="[" line="104" column="6" />
+        <mark key="]" line="104" column="6" />
+        <mark key="." line="104" column="6" />
+        <mark key="^" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/wj-web/src/components/TopNavHeader/index.js" timestamp="1569480109039">
         <mark key="[" line="56" column="49" />
       </file>
@@ -221,13 +255,29 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/SaAccessDeniedHandler.java" timestamp="1570586075012">
         <mark key="[" line="36" column="98" />
       </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/User.js" timestamp="1570671073622">
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="25" />
+        <mark key="." line="93" column="23" />
+        <mark key="^" line="231" column="15" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/RoleUser.js" timestamp="1570617456741" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/UserController.java" timestamp="1570670223098" />
-      <file name="$USER_HOME$/data/code/cvs-web/src/models/cvsuser.js" timestamp="1570670344745">
-        <mark key="[" line="6" column="16" />
-      </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/models/cvsuser.js" timestamp="1570670549223" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/SqlQueryCommand.java" timestamp="1569569047072">
         <mark key="[" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/impl/GroupServiceImpl.java" timestamp="1569830309432">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1569464594740">
+        <mark key="[" line="173" column="24" />
+        <mark key="]" line="165" column="29" />
+        <mark key="." line="165" column="29" />
+        <mark key="^" line="99" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-api/src/main/java/com/yunzainfo/archipelago/zifanas/apis/entity/EchartsDataQueryParam.java" timestamp="1570517674867" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/DsContext.java" timestamp="1570604861070">
@@ -235,11 +285,17 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/AbstractSessionStrategy.java" timestamp="1570619698374">
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/AbstractSessionStrategy.java" timestamp="1570672143397">
         <mark key="'" line="60" column="74" />
         <mark key="[" line="60" column="70" />
         <mark key="]" line="60" column="70" />
         <mark key="." line="60" column="70" />
+      </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/SecurityUtils.java" timestamp="1570672628607">
+        <mark key="[" line="84" column="47" />
+        <mark key="]" line="84" column="47" />
+        <mark key="." line="84" column="47" />
+        <mark key="^" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1570498831113">
         <mark key="[" line="278" column="13" />
@@ -266,8 +322,20 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/components/GlobalHeader/RightContent.js" timestamp="1570505610227">
         <mark key="[" line="129" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/cvs-web/src/defaultSettings.js" timestamp="1570618505110">
+      <file name="$USER_HOME$/data/code/cvs-web/src/defaultSettings.js" timestamp="1570671238223">
         <mark key="[" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1569465672257">
+        <mark key="[" line="653" column="15" />
+        <mark key="]" line="653" column="15" />
+        <mark key="^" line="481" column="30" />
+        <mark key="." line="653" column="15" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/question/QuestionnairEditor/index.js" timestamp="1569481927800">
+        <mark key="[" line="683" column="20" />
+        <mark key="]" line="683" column="20" />
+        <mark key="^" line="752" column="28" />
+        <mark key="." line="683" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/impl/DsServiceImpl.java" timestamp="1570612772099">
         <mark key="[" line="31" column="0" />
@@ -284,11 +352,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1570506699724">
         <mark key="[" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsApplicationRunnerImpl.java" timestamp="1570528581452">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="13" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsApplicationRunnerImpl.java" timestamp="1570671646886">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+        <mark key="^" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/mapper/ProcessAndTaskMapper.java" timestamp="1570498948965">
         <mark key="[" line="67" column="54" />
@@ -302,6 +370,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1570513054733">
         <mark key="[" line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/test/java/CvsTest.java" timestamp="1570671635708" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1570502843846">
         <mark key="[" line="34" column="28" />
       </file>
@@ -309,6 +378,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/AbsSqlDataConverter.java" timestamp="1570523273415" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/services/system/cvsuser.js" timestamp="1570670385859" />
       <file name="$USER_HOME$/data/code/zifans/zifanas-web/src/main/java/com/yunzainfo/archipelago/zifanas/web/controller/ZifanaeDataInterController.java" timestamp="1570517468357" />
       <file name="$USER_HOME$/data/code/react-auth的副本 2/src/utils/Path.js" timestamp="1569724492296">
         <mark key="[" line="4" column="3" />
@@ -328,14 +398,19 @@
         <mark key="." line="57" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/oracle/DefOracleDataConverter.java" timestamp="1570523178676" />
-      <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Ds.js" timestamp="1570617733237">
-        <mark key="[" line="307" column="19" />
-        <mark key="]" line="114" column="31" />
-        <mark key="^" line="77" column="31" />
-        <mark key="." line="114" column="31" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Ds.js" timestamp="1570671377982">
+        <mark key="[" line="305" column="19" />
+        <mark key="]" line="112" column="31" />
+        <mark key="^" line="75" column="31" />
+        <mark key="." line="112" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/cvs-web/src/services/myapi.js" timestamp="1570619918030">
-        <mark key="[" line="113" column="26" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/models/user.js" timestamp="1570672975128">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="25" />
+        <mark key="." line="81" column="25" />
+      </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/services/myapi.js" timestamp="1570671710893">
+        <mark key="[" line="113" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessHistoryMapper.xml" timestamp="1570498927167">
         <mark key="[" line="24" column="41" />
@@ -353,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="19" filename="$USER_HOME$/data/code/react-auth/src/pages/Base/Panel.js" />
       <jump line="79" column="16" filename="$USER_HOME$/data/code/react-auth/src/layouts/LoadingPage.js" />
       <jump line="238" column="25" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
       <jump line="154" column="19" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" />
@@ -453,6 +527,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/SqlServerQueryCommand.java" />
       <jump line="133" column="33" filename="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Api.js" />
       <jump line="60" column="74" filename="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/AbstractSessionStrategy.java" />
+      <jump line="247" column="4" filename="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/User.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,7 +569,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>DatasourceRepository</text>
+        <text>menu</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -503,46 +578,45 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICB7Lyo8SGVhZGVyU2VhcmNoKi99CiAgICAgICAgey8qICBjbGFzc05hbWU9e2Ake3N0eWxlcy5hY3Rpb259ICR7c3R5bGVzLnNlYXJjaH1gfSovfQogICAgICAgIHsvKiAgcGxhY2Vob2xkZXI9e2Zvcm1hdE1lc3NhZ2UoeyBpZDogJ2NvbXBvbmVudC5nbG9iYWxIZWFkZXIuc2VhcmNoJyB9KX0qL30KICAgICAgICB7LyogIGRhdGFTb3VyY2U9e1sqL30KICAgICAgICB7LyogICAgZm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lmdsb2JhbEhlYWRlci5zZWFyY2guZXhhbXBsZTEnIH0pLCovfQogICAgICAgIHsvKiAgICBmb3JtYXRNZXNzYWdlKHsgaWQ6ICdjb21wb25lbnQuZ2xvYmFsSGVhZGVyLnNlYXJjaC5leGFtcGxlMicgfSksKi99CiAgICAgICAgey8qICAgIGZvcm1hdE1lc3NhZ2UoeyBpZDogJ2NvbXBvbmVudC5nbG9iYWxIZWFkZXIuc2VhcmNoLmV4YW1wbGUzJyB9KSwqL30KICAgICAgICB7LyogIF19Ki99CiAgICAgICAgey8qICBvblNlYXJjaD17dmFsdWUgPT4geyovfQogICAgICAgIHsvKiAgICBjb25zb2xlLmxvZygnaW5wdXQnLCB2YWx1ZSk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUqL30KICAgICAgICB7LyogIH19Ki99CiAgICAgICAgey8qICBvblByZXNzRW50ZXI9e3ZhbHVlID0+IHsqL30KICAgICAgICB7LyogICAgY29uc29sZS5sb2coJ2VudGVyJywgdmFsdWUpOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lKi99CiAgICAgICAgey8qICB9fSovfQogICAgICAgIHsvKi8+Ki99CiAgICAgICAgey8qICA8VG9vbHRpcCB0aXRsZT17Zm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lmdsb2JhbEhlYWRlci5oZWxwJyB9KX0+CiAgICAgICAgICA8YQogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9wcm8uYW50LmRlc2lnbi9kb2NzL2dldHRpbmctc3RhcnRlZCIKICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICBjbGFzc05hbWU9e3N0eWxlcy5hY3Rpb259CiAgICAgICAgICA+CiAgICAgICAgICAgIDxJY29uIHR5cGU9InF1ZXN0aW9uLWNpcmNsZS1vIiAvPgogICAgICAgICAgPC9hPgogICAgICAgIDwvVG9vbHRpcD4qL30KICAgICAgICB7Lyo8Tm90aWNlSWNvbiovfQogICAgICAgIHsvKiAgY2xhc3NOYW1lPXtzdHlsZXMuYWN0aW9ufSovfQogICAgICAgIHsvKiAgY291bnQ9e2N1cnJlbnRVc2VyLnVucmVhZENvdW50fSovfQogICAgICAgIHsvKiAgb25JdGVtQ2xpY2s9eyhpdGVtLCB0YWJQcm9wcykgPT4geyovfQogICAgICAgIHsvKiAgICB0aGlzLmNoYW5nZVJlYWRTdGF0ZShpdGVtLCB0YWJQcm9wcyk7Ki99CiAgICAgICAgey8qICB9fSovfQogICAgICAgIHsvKiAgbG9hZGluZz17ZmV0Y2hpbmdOb3RpY2VzfSovfQogICAgICAgIHsvKiAgbG9jYWxlPXt7Ki99CiAgICAgICAgey8qICAgIGVtcHR5VGV4dDogZm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lm5vdGljZUljb24uZW1wdHknIH0pLCovfQogICAgICAgIHsvKiAgICBjbGVhcjogZm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lm5vdGljZUljb24uY2xlYXInIH0pLCovfQogICAgICAgIHsvKiAgICB2aWV3TW9yZTogZm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lm5vdGljZUljb24udmlldy1tb3JlJyB9KSwqL30KICAgICAgICB7LyogICAgbm90aWZpY2F0aW9uOiBmb3JtYXRNZXNzYWdlKHsgaWQ6ICdjb21wb25lbnQuZ2xvYmFsSGVhZGVyLm5vdGlmaWNhdGlvbicgfSksKi99CiAgICAgICAgey8qICAgIG1lc3NhZ2U6IGZvcm1hdE1lc3NhZ2UoeyBpZDogJ2NvbXBvbmVudC5nbG9iYWxIZWFkZXIubWVzc2FnZScgfSksKi99CiAgICAgICAgey8qICAgIGV2ZW50OiBmb3JtYXRNZXNzYWdlKHsgaWQ6ICdjb21wb25lbnQuZ2xvYmFsSGVhZGVyLmV2ZW50JyB9KSwqL30KICAgICAgICB7LyogIH19Ki99CiAgICAgICAgey8qICBvbkNsZWFyPXtvbk5vdGljZUNsZWFyfSovfQogICAgICAgIHsvKiAgb25Qb3B1cFZpc2libGVDaGFuZ2U9e29uTm90aWNlVmlzaWJsZUNoYW5nZX0qL30KICAgICAgICB7LyogIG9uVmlld01vcmU9eygpID0+IG1lc3NhZ2UuaW5mbygnQ2xpY2sgb24gdmlldyBtb3JlJyl9Ki99CiAgICAgICAgey8qICBjbGVhckNsb3NlKi99CiAgICAgICAgey8qPiovfQogICAgICAgIHsvKiAgPE5vdGljZUljb24uVGFiKi99CiAgICAgICAgey8qICAgIC8qICBjb3VudD17dW5yZWFkTXNnLm5vdGlmaWNhdGlvbn0qL30KICAgICAgICB7LyogICAgbGlzdD17bm90aWNlRGF0YS5ub3RpZmljYXRpb259Ki8qL30KICAgICAgICB7LyogICAgdGl0bGU9Im5vdGlmaWNhdGlvbiIqL30KICAgICAgICB7LyogICAgZW1wdHlUZXh0PXtmb3JtYXRNZXNzYWdlKHsgaWQ6ICdjb21wb25lbnQuZ2xvYmFsSGVhZGVyLm5vdGlmaWNhdGlvbi5lbXB0eScgfSl9Ki99CiAgICAgICAgey8qICAgIGVtcHR5SW1hZ2U9Imh0dHBzOi8vZ3cuYWxpcGF5b2JqZWN0cy5jb20vem9zL3Jtc3BvcnRhbC93QWh5SUNoT0R6c29LSU9CSGNCay5zdmciKi99CiAgICAgICAgey8qICAgIHNob3dWaWV3TW9yZSovfQogICAgICAgIHsvKiAgLz4qL30KICAgICAgICB7LyogIDxOb3RpY2VJY29uLlRhYiovfQogICAgICAgIHsvKiAgICAvKiAgY291bnQ9e3VucmVhZE1zZy5tZXNzYWdlfSovfQogICAgICAgIHsvKiAgICBsaXN0PXtub3RpY2VEYXRhLm1lc3NhZ2V9Ki8qL30KICAgICAgICB7LyogICAgdGl0bGU9Im1lc3NhZ2UiKi99CiAgICAgICAgey8qICAgIGVtcHR5VGV4dD17Zm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lmdsb2JhbEhlYWRlci5tZXNzYWdlLmVtcHR5JyB9KX0qL30KICAgICAgICB7LyogICAgZW1wdHlJbWFnZT0iaHR0cHM6Ly9ndy5hbGlwYXlvYmplY3RzLmNvbS96b3Mvcm1zcG9ydGFsL3NBdUplSnpTS2JVbUhmQlFSem1aLnN2ZyIqL30KICAgICAgICB7LyogICAgc2hvd1ZpZXdNb3JlKi99CiAgICAgICAgey8qICAvPiovfQogICAgICAgIHsvKiAgPE5vdGljZUljb24uVGFiKi99CiAgICAgICAgey8qICAgIC8qICAgY291bnQ9e3VucmVhZE1zZy5ldmVudH0qL30KICAgICAgICB7LyogICAgbGlzdD17bm90aWNlRGF0YS5ldmVudH0qLyovfQogICAgICAgIHsvKiAgICB0aXRsZT0iZXZlbnQiKi99CiAgICAgICAgey8qICAgIGVtcHR5VGV4dD17Zm9ybWF0TWVzc2FnZSh7IGlkOiAnY29tcG9uZW50Lmdsb2JhbEhlYWRlci5ldmVudC5lbXB0eScgfSl9Ki99CiAgICAgICAgey8qICAgIGVtcHR5SW1hZ2U9Imh0dHBzOi8vZ3cuYWxpcGF5b2JqZWN0cy5jb20vem9zL3Jtc3BvcnRhbC9Ic0lzeE1aaVdLck5VYXZRVVhxeC5zdmciKi99CiAgICAgICAgey8qICAgIHNob3dWaWV3TW9yZSovfQogICAgICAgIHsvKiAgLz4qL30KICAgICAgICB7Lyo8L05vdGljZUljb24+Ki99</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PEF2YXRhcgogICAgICAgICAgICAgICAgc2l6ZT0ic21hbGwiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e3N0eWxlcy5hdmF0YXJ9CiAgICAgICAgICAgICAgICBzcmM9e1BhdGguZmlsZSArICcvZmlsZS8nICsgY3VycmVudFVzZXIucHJpbmNpcGFsLmF2YXRhcklkfQogICAgICAgICAgICAgICAgYWx0PSJhdmF0YXIiCiAgICAgICAgICAgICAgLz4=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBleHBhbmRlZFJvd1JlbmRlciA9IHJlY29yZCA9PiA7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgcmV0dXJuICgKICAgICAgPERlc2NyaXB0aW9ucyBib3JkZXJlZD4KICAgICAgICA8RGVzY3JpcHRpb25zLkl0ZW0gbGFiZWw9IuaPj+i/sCI+CiAgICAgICAgICB7JyAnfQogICAgICAgICAgPEVsbGlwc2lzIHRvb2x0aXAgbGluZXM9ezJ9PgogICAgICAgICAgICB7cmVjb3JkLmRlc2NyaXB0aW9ufQogICAgICAgICAgPC9FbGxpcHNpcz4KICAgICAgICA8L0Rlc2NyaXB0aW9ucy5JdGVtPgogICAgICAgIDxEZXNjcmlwdGlvbnMuSXRlbSBsYWJlbD0i5byA5aeL5pe26Ze0Ij4KICAgICAgICAgIHtyZWNvcmQuc3RhcnRUaW1lID8gKAogICAgICAgICAgICA8c3Bhbj57bW9tZW50KHJlY29yZC5zdGFydFRpbWUpLmZvcm1hdCgnWVlZWS1NTS1ERCBISDptbTpzcycpfTwvc3Bhbj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICfml6AnCiAgICAgICAgICApfQogICAgICAgIDwvRGVzY3JpcHRpb25zLkl0ZW0+CiAgICAgICAgPERlc2NyaXB0aW9ucy5JdGVtIGxhYmVsPSLkuIrmrKHmiafooYzml7bpl7QiPgogICAgICAgICAge3JlY29yZC5wZXJ2VGltZSAmJiByZWNvcmQucGVydlRpbWUgPT0gMCA/ICgKICAgICAgICAgICAgPHNwYW4+e21vbWVudChyZWNvcmQucGVydlRpbWUpLmZvcm1hdCgnWVlZWS1NTS1ERCBISDptbTpzcycpfTwvc3Bhbj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICfml6AnCiAgICAgICAgICApfQogICAgICAgIDwvRGVzY3JpcHRpb25zLkl0ZW0+CiAgICAgICAgPERlc2NyaXB0aW9ucy5JdGVtIGxhYmVsPSLkuIvmrKHmiafooYzml7bpl7QiPgogICAgICAgICAge3JlY29yZC5uZXh0VGltZSA/ICgKICAgICAgICAgICAgPHNwYW4+e21vbWVudChyZWNvcmQubmV4dFRpbWUpLmZvcm1hdCgnWVlZWS1NTS1ERCBISDptbTpzcycpfTwvc3Bhbj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICfml6AnCiAgICAgICAgICApfQogICAgICAgIDwvRGVzY3JpcHRpb25zLkl0ZW0+CiAgICAgICAge3JlY29yZC5jcm9uU2NoZWR1bGUgPyAoCiAgICAgICAgICA8RGVzY3JpcHRpb25zLkl0ZW0gbGFiZWw9ImNyb27ooajovr7lvI8iPntyZWNvcmQuY3JvblNjaGVkdWxlfTwvRGVzY3JpcHRpb25zLkl0ZW0+CiAgICAgICAgKSA6ICgKICAgICAgICAgIDxEZXNjcmlwdGlvbnMuSXRlbSBsYWJlbD0i5a6a5pe26K6+572uIj4KICAgICAgICAgICAgPFRhZyBjb2xvcj0idm9sY2FubyI+5ZGo5pyfOntyZWNvcmQucmVwZWF0SW50ZXJ2YWwgLyAxMDAwfeenkjwvVGFnPgogICAgICAgICAgICA8VGFnIGNvbG9yPSJ2b2xjYW5vIj7ph43lpI3mrKHmlbA6e3JlY29yZC5yZXBlYXRDb3VudH08L1RhZz4KICAgICAgICAgICAgPFRhZyBjb2xvcj0idm9sY2FubyI+5omn6KGM5qyh5pWwOntyZWNvcmQudGdpZ2dlcmVkfTwvVGFnPgogICAgICAgICAgPC9EZXNjcmlwdGlvbnMuSXRlbT4KICAgICAgICApfQogICAgICAgIDxEZXNjcmlwdGlvbnMuSXRlbSBsYWJlbD0i6K6/6ZeuVXJsIj57cmVjb3JkLnVybH08L0Rlc2NyaXB0aW9ucy5JdGVtPgogICAgICAgIDxEZXNjcmlwdGlvbnMuSXRlbSBsYWJlbD0i5Y+C5pWw6K6+572uIj57SlNPTi5zdHJpbmdpZnkocmVjb3JkLmJvZHkpfTwvRGVzY3JpcHRpb25zLkl0ZW0+CiAgICAgIDwvRGVzY3JpcHRpb25zPgogICAgKTsKICB9</text>
+      </register>
+      <register name="5" type="4">
         <text>try {
             DsContext.delete(id);
         } catch (Exception e) {
             throw new CheckErrorException(&quot;连接断开失败，请稍后再试&quot;);
         }</text>
       </register>
-      <register name="q" type="4">
+      <register name="u" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>try {
             DSUtil.putDs(dataSource);
         } catch (Exception e) {
             throw new CheckErrorException(&quot;数据库连接失败，请检查连接参数是否正确&quot;);
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIERTVXRpbC5wdXREcyhkYXRhU291cmNlKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgQ2hlY2tFcnJvckV4Y2VwdGlvbigi5pWw5o2u5bqT6L+e5o6l5aSx6LSl77yM6K+35qOA5p+l6L+e5o6l5Y+C5pWw5piv5ZCm5q2j56GuIik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICB7CiAgICAgICJzcmMiOiAiaWNvbnMvaWNvbi01MTJ4NTEyLnBuZyIsCiAgICAgICJzaXplcyI6ICI1MTJ4NTEyIgogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgInNyYyI6ICJpY29ucy9pY29uLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiCiAgICB9LA==</text>
-      </register>
-      <register name="u" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICJzZXNzaW9u5bey5aSx5pWIIjsKICAgICAgICAgICAgaWYoaXNDb25jdXJyZW5jeSgpKXsKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlICsgIu+8jOacieWPr+iDveaYr+W5tuWPkeeZu+W9leWvvOiHtOeahCI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobmV3IEJhc2VSZXNwb25zZShtZXNzYWdlKSkpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text>thymeleaf:
-    prefix: classpath:static/</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHB1YmxpYyBIdHRwUXVlcnlDb21tYW5kKEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCkgewogICAgICAgIHRoaXMubWFwID0gbWFwOwogICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVsYXN0aWNzZWFyY2guY2xpZW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoLXJlc3QtaGlnaC1sZXZlbC1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">IHsKICAgICAgInNyYyI6ICJpY29ucy9pY29uLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
