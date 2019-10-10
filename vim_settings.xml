@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/DsServiceImpl.java" timestamp="1569722104968">
         <mark key="[" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/cvs-web/src/manifest.json" timestamp="1570669354602">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+      </file>
       <file name="/a.dummy" timestamp="1570613559658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -470,7 +476,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>targetUrl</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -479,92 +485,38 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICJzZXNzaW9u5bey5aSx5pWIIjsKICAgICAgICAgICAgaWYoaXNDb25jdXJyZW5jeSgpKXsKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlICsgIu+8jOacieWPr+iDveaYr+W5tuWPkeeZu+W9leWvvOiHtOeahCI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobmV3IEJhc2VSZXNwb25zZShtZXNzYWdlKSkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICB7CiAgICAgICJzcmMiOiAiaWNvbnMvaWNvbi01MTJ4NTEyLnBuZyIsCiAgICAgICJzaXplcyI6ICI1MTJ4NTEyIgogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHsKICAgICAgInNyYyI6ICJpY29ucy9pY29uLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiCiAgICB9LA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICJzZXNzaW9u5bey5aSx5pWIIjsKICAgICAgICAgICAgaWYoaXNDb25jdXJyZW5jeSgpKXsKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlICsgIu+8jOacieWPr+iDveaYr+W5tuWPkeeZu+W9leWvvOiHtOeahCI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobmV3IEJhc2VSZXNwb25zZShtZXNzYWdlKSkpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text>thymeleaf:
     prefix: classpath:static/</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHB1YmxpYyBIdHRwUXVlcnlDb21tYW5kKEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCkgewogICAgICAgIHRoaXMubWFwID0gbWFwOwogICAgfQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVsYXN0aWNzZWFyY2guY2xpZW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoLXJlc3QtaGlnaC1sZXZlbC1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IGlmICh0aGlzLmluZGV4RXhpc3QoSU5ERVhfTkFNRSkpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">IHB1YmxpYyBIdHRwUXVlcnlDb21tYW5kKEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCkgewogICAgICAgIHRoaXMubWFwID0gbWFwOwogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IOS9nOiAhe+8mkZsZXlYCiAgICAgICAg6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81ZDNmZTZhMWYyNjVkYTAzZTgzYjQ3ZjAKICAgICAgICDmnaXmupDvvJrmjpjph5E=</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVsYXN0aWNzZWFyY2guY2xpZW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoLXJlc3QtaGlnaC1sZXZlbC1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBQdXREcyhDdnNEYXRhU291cmNlIGRhdGFTb3VyY2UpIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmICh0aGlzLmluZGV4RXhpc3QoSU5ERVhfTkFNRSkpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="4">
-        <text>{
-        TYPES types = TYPES.valueOf(dataSource.getDbType());
-        switch (types) {
-            case MYSQL: {
-                String jdbcUrl = DsContext.MYSQL_DBPARAM_PREFIX.replace(&quot;${dbIp}&quot;, dataSource.getDbIp())
-                        .replace(&quot;${dbPort}&quot;, dataSource.getDbPort())
-                        .replace(&quot;${dbName}&quot;, dataSource.getDbDbName())
-                        + DsContext.MYSQL_DBPARAM_SUBFIX;
-                HikariDataSource ds;
-                HikariConfig config = new HikariConfig();
-                config.setJdbcUrl(jdbcUrl);
-                config.setUsername(dataSource.getDbUsername());
-                config.setPassword(dataSource.getDbPassword());
-                config.setMaximumPoolSize(1024);
-                config.setDriverClassName(DsContext.MYSQL_DRIVER);
-                ds = new HikariDataSource(config);
-                DsContext.put(dataSource.getId(), ds);
-                break;
-            }
-            case ORACLE: {
-                String jdbcUrl = DsContext.ORACLE_DBPARM_PREFIX.replace(&quot;${dbIp}&quot;, dataSource.getDbIp())
-                        .replace(&quot;${dbPort}&quot;, dataSource.getDbPort())
-                        .replace(&quot;${dbName}&quot;, dataSource.getDbDbName());
-                HikariDataSource ds;
-                HikariConfig config = new HikariConfig();
-                config.setJdbcUrl(jdbcUrl);
-                config.setUsername(dataSource.getDbUsername());
-                config.setPassword(dataSource.getDbPassword());
-                config.setMaximumPoolSize(1024);
-                config.setDriverClassName(DsContext.ORACLE_DRIVER);
-                ds = new HikariDataSource(config);
-                DsContext.put(dataSource.getId(), ds);
-                break;
-            }
-            case SQLSERVER: {
-
-            }
-            case ELASTICSEARCH: {
-
-            } default:{
-                
-            }
-        }
-    }</text>
+        <text encoding="base64">IOS9nOiAhe+8mkZsZXlYCiAgICAgICAg6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81ZDNmZTZhMWYyNjVkYTAzZTgzYjQ3ZjAKICAgICAgICDmnaXmupDvvJrmjpjph5E=</text>
       </register>
-      <register name="9" type="4">
-        <text>String jdbcUrl = DsContext.ORACLE_DBPARM_PREFIX.replace(&quot;${dbIp}&quot;, dataSource.getDbIp())
-                .replace(&quot;${dbPort}&quot;, dataSource.getDbPort())
-                .replace(&quot;${dbName}&quot;, dataSource.getDbDbName());
-        HikariDataSource ds;
-        HikariConfig config = new HikariConfig();
-        config.setJdbcUrl(jdbcUrl);
-        config.setUsername(dataSource.getDbUsername());
-        config.setPassword(dataSource.getDbPassword());
-        config.setDriverClassName(DsContext.ORACLE_DRIVER);
-        ds = new HikariDataSource(config);
-        
-        DsContext.put(dataSource.getId(), ds);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBQdXREcyhDdnNEYXRhU291cmNlIGRhdGFTb3VyY2UpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
