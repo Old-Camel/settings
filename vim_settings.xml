@@ -63,6 +63,11 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/pojo/TestPost.java" timestamp="1570613567926">
         <mark key="[" line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/DsContorller.java" timestamp="1570670147266">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="46" />
+      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/components/GlobalHeader/index.js" timestamp="1570614657207">
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="22" />
@@ -113,6 +118,12 @@
         <mark key="[" line="39" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20190905.065947-220.jar!/com/yunzainfo/cloud/auth/security/SecurityUtils.class" timestamp="1570498530018" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/impl/UserServiceImpl.java" timestamp="1570670117124">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
+        <mark key="^" line="52" column="5" />
+      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/utils/Path.js" timestamp="1570619952618">
         <mark key="[" line="2" column="72" />
       </file>
@@ -162,6 +173,9 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/service/UserService.java" timestamp="1570669989655">
+        <mark key="[" line="14" column="62" />
+      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/components/PageHeaderWrapper/index.js" timestamp="1570615719604" />
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsApi.java" timestamp="1570609612760">
         <mark key="[" line="39" column="28" />
@@ -208,6 +222,10 @@
         <mark key="[" line="36" column="98" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/RoleUser.js" timestamp="1570617456741" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/UserController.java" timestamp="1570670223098" />
+      <file name="$USER_HOME$/data/code/cvs-web/src/models/cvsuser.js" timestamp="1570670344745">
+        <mark key="[" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/query/SqlQueryCommand.java" timestamp="1569569047072">
         <mark key="[" line="12" column="30" />
       </file>
@@ -330,7 +348,7 @@
         <mark key="]" line="254" column="33" />
         <mark key="." line="254" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1570613596246">
+      <file name="/fragment.java" timestamp="1570670020387">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -476,7 +494,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>DatasourceRepository</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -485,38 +503,46 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICB7CiAgICAgICJzcmMiOiAiaWNvbnMvaWNvbi01MTJ4NTEyLnBuZyIsCiAgICAgICJzaXplcyI6ICI1MTJ4NTEyIgogICAgfQ==</text>
+        <text>try {
+            DsContext.delete(id);
+        } catch (Exception e) {
+            throw new CheckErrorException(&quot;连接断开失败，请稍后再试&quot;);
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgInNyYyI6ICJpY29ucy9pY29uLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiCiAgICB9LA==</text>
+        <text>try {
+            DSUtil.putDs(dataSource);
+        } catch (Exception e) {
+            throw new CheckErrorException(&quot;数据库连接失败，请检查连接参数是否正确&quot;);
+        }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICJzZXNzaW9u5bey5aSx5pWIIjsKICAgICAgICAgICAgaWYoaXNDb25jdXJyZW5jeSgpKXsKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlICsgIu+8jOacieWPr+iDveaYr+W5tuWPkeeZu+W9leWvvOiHtOeahCI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobmV3IEJhc2VSZXNwb25zZShtZXNzYWdlKSkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIERTVXRpbC5wdXREcyhkYXRhU291cmNlKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgQ2hlY2tFcnJvckV4Y2VwdGlvbigi5pWw5o2u5bqT6L+e5o6l5aSx6LSl77yM6K+35qOA5p+l6L+e5o6l5Y+C5pWw5piv5ZCm5q2j56GuIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>thymeleaf:
-    prefix: classpath:static/</text>
+        <text encoding="base64">ICB7CiAgICAgICJzcmMiOiAiaWNvbnMvaWNvbi01MTJ4NTEyLnBuZyIsCiAgICAgICJzaXplcyI6ICI1MTJ4NTEyIgogICAgfQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHB1YmxpYyBIdHRwUXVlcnlDb21tYW5kKEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCkgewogICAgICAgIHRoaXMubWFwID0gbWFwOwogICAgfQ==</text>
+        <text encoding="base64">IHsKICAgICAgInNyYyI6ICJpY29ucy9pY29uLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiCiAgICB9LA==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVsYXN0aWNzZWFyY2guY2xpZW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoLXJlc3QtaGlnaC1sZXZlbC1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICJzZXNzaW9u5bey5aSx5pWIIjsKICAgICAgICAgICAgaWYoaXNDb25jdXJyZW5jeSgpKXsKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlICsgIu+8jOacieWPr+iDveaYr+W5tuWPkeeZu+W9leWvvOiHtOeahCI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04Iik7CiAgICAgICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobmV3IEJhc2VSZXNwb25zZShtZXNzYWdlKSkpOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlmICh0aGlzLmluZGV4RXhpc3QoSU5ERVhfTkFNRSkpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+        <text>thymeleaf:
+    prefix: classpath:static/</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IOS9nOiAhe+8mkZsZXlYCiAgICAgICAg6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81ZDNmZTZhMWYyNjVkYTAzZTgzYjQ3ZjAKICAgICAgICDmnaXmupDvvJrmjpjph5E=</text>
+        <text encoding="base64">IHB1YmxpYyBIdHRwUXVlcnlDb21tYW5kKEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCkgewogICAgICAgIHRoaXMubWFwID0gbWFwOwogICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBQdXREcyhDdnNEYXRhU291cmNlIGRhdGFTb3VyY2UpIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVsYXN0aWNzZWFyY2guY2xpZW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoLXJlc3QtaGlnaC1sZXZlbC1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
