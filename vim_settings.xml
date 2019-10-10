@@ -112,6 +112,7 @@
         <mark key="]" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1570678543359" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessSignatureServiceImpl.java" timestamp="1570499182800">
         <mark key="[" line="140" column="53" />
         <mark key="]" line="140" column="53" />
@@ -169,11 +170,11 @@
         <mark key="]" line="62" column="35" />
         <mark key="." line="62" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/resources/application.yml" timestamp="1570619280915">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/resources/application.yml" timestamp="1570678550685">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="10" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="38" column="10" />
       </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Api.js" timestamp="1570671009127">
         <mark key="'" line="121" column="33" />
@@ -357,11 +358,16 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/config/application-pro.properties" timestamp="1570506673012">
         <mark key="[" line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/Application.java" timestamp="1570679900089">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/CheckboxesWidget.js" timestamp="1570501931470" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1570506699724">
         <mark key="[" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsApplicationRunnerImpl.java" timestamp="1570671646886">
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsApplicationRunnerImpl.java" timestamp="1570678738489">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="52" column="41" />
         <mark key="." line="52" column="41" />
@@ -379,7 +385,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1570513054733">
         <mark key="[" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/conversion/src/test/java/CvsTest.java" timestamp="1570671635708" />
+      <file name="$USER_HOME$/data/code/conversion/src/test/java/CvsTest.java" timestamp="1570678748519" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1570502843846">
         <mark key="[" line="34" column="28" />
       </file>
@@ -402,10 +408,10 @@
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/elastic/DefElasticDataConverter.java" timestamp="1570606528398" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/Form.jsx" timestamp="1570502835634" />
-      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/DataToJSON.java" timestamp="1570610792895">
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="57" column="29" />
-        <mark key="." line="57" column="29" />
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/util/DataToJSON.java" timestamp="1570680084644">
+        <mark key="[" line="64" column="29" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/zifans/zifanas-echopt/src/main/java/com/yunzainfo/archipelago/zifanas/echopt/services/converters/sqlconverters/oracle/DefOracleDataConverter.java" timestamp="1570523178676" />
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/Ds.js" timestamp="1570671377982">
@@ -422,6 +428,7 @@
       <file name="$USER_HOME$/data/code/cvs-web/src/services/myapi.js" timestamp="1570677504414">
         <mark key="[" line="113" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/CvsUserDetailsService.java" timestamp="1570678830183" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessHistoryMapper.xml" timestamp="1570498927167">
         <mark key="[" line="24" column="41" />
       </file>
@@ -579,7 +586,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>projectInfo</text>
+        <text>StringUtils</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
