@@ -13,11 +13,9 @@
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/index.less" timestamp="1569826316790">
         <mark key="[" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTask.java" timestamp="1571966202470">
-        <mark key="[" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DeptUser.js" timestamp="1571904174332">
-        <mark key="[" line="348" column="31" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTask.java" timestamp="1571997158631">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="48" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/entity/CvsUser.java" timestamp="1570683212751">
         <mark key="[" line="25" column="40" />
@@ -34,9 +32,6 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1571900002912" />
       <file name="$USER_HOME$/data/code/datafill-web/src/services/system/formdata.js" timestamp="1571897678676" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDef.java" timestamp="1571966721216">
-        <mark key="[" line="48" column="30" />
-      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/components/TopNavHeader/index.less" timestamp="1570616585929">
         <mark key="[" line="3" column="15" />
       </file>
@@ -82,28 +77,18 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/CheckboxesWidget.js" timestamp="1570503200487">
         <mark key="[" line="16" column="69" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/FormData.java" timestamp="1571965612675">
-        <mark key="[" line="22" column="50" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1570500190694">
         <mark key="[" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DfTaskPojo.java" timestamp="1571990568858">
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DfTaskPojo.java" timestamp="1571993374705">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/RoleUser.js" timestamp="1571904180540">
-        <mark key="[" line="203" column="30" />
-      </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/StaticController.java" timestamp="1570618874608">
         <mark key="[" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1571988048753">
-        <mark key="[" line="87" column="26" />
-        <mark key="]" line="87" column="26" />
-        <mark key="." line="87" column="26" />
-      </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1571997281404" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskDefController.java" timestamp="1571970486889">
         <mark key="[" line="88" column="1" />
         <mark key="]" line="88" column="1" />
@@ -131,11 +116,11 @@
         <mark key="[" line="16" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" timestamp="1571897383736" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1571991145307">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="96" column="0" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1571996876944">
+        <mark key="[" line="94" column="15" />
+        <mark key="]" line="94" column="15" />
+        <mark key="." line="94" column="15" />
+        <mark key="^" line="145" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1570498831113">
         <mark key="[" line="278" column="13" />
@@ -164,9 +149,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/components/GlobalHeader/RightContent.js" timestamp="1570505610227">
         <mark key="[" line="129" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/FormDataController.java" timestamp="1571970458878">
-        <mark key="[" line="90" column="13" />
-      </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/defaultSettings.js" timestamp="1570677539942">
         <mark key="[" line="20" column="15" />
       </file>
@@ -180,7 +162,8 @@
       <file name="$USER_HOME$/data/code/conversion/src/test/java/Te.java" timestamp="1570683010024">
         <mark key="[" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" timestamp="1571888413614" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/repository/DfTaskConfigRepository.java" timestamp="1571996596167" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" timestamp="1571993223420" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1571990454297">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="31" />
@@ -189,7 +172,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/config/application-pro.properties" timestamp="1570506673012">
         <mark key="[" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/models/dftask.js" timestamp="1571985637066">
+      <file name="$USER_HOME$/data/code/datafill-web/src/models/dftask.js" timestamp="1571995713076">
         <mark key="[" line="39" column="10" />
         <mark key="]" line="39" column="10" />
         <mark key="." line="39" column="10" />
@@ -210,14 +193,15 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1570502843846">
         <mark key="[" line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Task/ProcessHistory.js" timestamp="1571997042102" />
       <file name="/Dummy.txt" timestamp="1570858577143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/models/design.js" timestamp="1571973977004" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1571988725494">
-        <mark key="[" line="62" column="77" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1571993353292">
+        <mark key="[" line="87" column="3" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/react-auth的副本 2/src/utils/Path.js" timestamp="1569724492296">
         <mark key="[" line="4" column="3" />
@@ -249,15 +233,16 @@
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/document.ejs" timestamp="1570614528492">
         <mark key="[" line="10" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1571990182671">
+      <file name="/fragment.java" timestamp="1571996569955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserConfig.java" timestamp="1571990966161">
-        <mark key="[" line="32" column="16" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserConfig.java" timestamp="1571996583853">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="25" filename="$USER_HOME$/data/code/react-auth/src/pages/Istio/Panel.js" />
       <jump line="154" column="19" filename="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseRoleServiceImpl.java" />
       <jump line="48" column="23" filename="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" />
       <jump line="43" column="24" filename="$USER_HOME$/data/code/react-auth/src/pages/Task/CardList.js" />
@@ -357,6 +342,7 @@
       <jump line="60" column="74" filename="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/config/AbstractSessionStrategy.java" />
       <jump line="247" column="4" filename="$USER_HOME$/data/code/cvs-web/src/pages/Cvs/User.js" />
       <jump line="47" column="30" filename="$USER_HOME$/data/code/cvs-web/config/router.config.js" />
+      <jump line="47" column="25" filename="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +384,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>rollbackOn</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
@@ -407,42 +393,42 @@
         <text encoding="base64">ICAgICAgICBRdWVzdGlvbm5haXJlIHF1ZXN0aW9ubmFpcmUgPSBxdWVzdGlvbk5haXJlUmVwb3NpdG9yeS5maW5kQnlJZChpZCkub3JFbHNlVGhyb3coKCkgLT4gbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOebuOWFs+aVsOaNriIpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBEZlRhc2tQb2pvIGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgcmV0dXJuIHJlcG9zaXRvcnkuZmluZEJ5SWQoaWQpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBDaGVja0Vycm9yRXhjZXB0aW9uKCLml6Dms5Xmib7liLDkuLvplK7kuLoiICsgaWQgKyAi55qE6KGo5Y2VIikpOwogICAgfQ==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5aGr5oql5Lu75YqhCiAgICAgKi8=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERmVGFzaz4gZmluZEFsbEJ5T3JkZXJCeUNyZWF0ZWREYXRlQXNjKCkgewogICAgICAgIExpc3Q8RGZUYXNrPiBkYXRhID0gcmVwb3NpdG9yeS5maW5kQWxsQnlPcmRlckJ5Q3JlYXRlZERhdGVBc2MoKTsKICAgICAgICByZXR1cm4gZGF0YTsKICAgIH0=</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUKICAgIEBKb2luQ29sdW1uKG5hbWU9InRhc2tfaWQiKQogICAgRGZUYXNrIGRmVGFzazs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U2VydmljZQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IExpc3Q8RGZUYXNrPiBjb250ZW50ID0gYWxsLmdldENvbnRlbnQoKTsKICAgICAgICAvL3JldHVybiByZXBvc2l0b3J5LmZpbmRBbGwoc3BlYywgcGFnZWFibGUpOw==</text>
       </register>
       <register name="4" type="4">
-        <text>model.properties.process_globelsettings
-              ? model.properties.process_globelsettings[key]
-                ? model.properties.process_globelsettings[key]['roles']
-                : []</text>
+        <text encoding="base64">IEBHZXRNYXBwaW5nKCIvb3B0aW9ucyIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBnZXRPcHRpb25zKCkgewogICAgICAgIExpc3Q8RGZUYXNrRGVmPiBkYXRhID0gc2VydmljZS5maW5kQWxsQnlPcmRlckJ5Q3JlYXRlZERhdGVBc2MoKTsKICAgICAgICBMaXN0PE9wdGlvbj4gY29sbGVjdCA9IGRhdGEuc3RyZWFtKCkubWFwKGkgLT4gbmV3IE9wdGlvbihpLmdldElkKCksIGkuZ2V0TmFtZSgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLooajljZXkuIvmi4nmlbDmja4iLCBjb2xsZWN0KTsKICAgIH0=</text>
       </register>
       <register name="5" type="4">
-        <text>export async function fetchflow() {
-  return http(Path.flow + '/process/option/datafill/1');
-}</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBEZlRhc2tQb2pvIGZpbmRPbmUoU3RyaW5nIGlkKSB7CiAgICAgICAgcmV0dXJuIHJlcG9zaXRvcnkuZmluZEJ5SWQoaWQpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBDaGVja0Vycm9yRXhjZXB0aW9uKCLml6Dms5Xmib7liLDkuLvplK7kuLoiICsgaWQgKyAi55qE6KGo5Y2VIikpOwogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgICB0aXRsZTogJ+mDqOmXqOWuoeaguOinkuiJsicsCiAgICAgICAgZGF0YUluZGV4OiAnZGVwdEF1ZGl0Um9sZScsCiAgICAgICAgcmVuZGVyOiB2YWwgPT4gewogICAgICAgICAgaWYgKHZhbCkgewogICAgICAgICAgICBsZXQgcm9sZSA9IHJvbGVzLmZpbHRlcih4ID0+IHguaWQgPT0gdmFsKTsKICAgICAgICAgICAgaWYgKHJvbGUgJiYgcm9sZS5sZW5ndGggPT0gMSkgewogICAgICAgICAgICAgIHJldHVybiByb2xlWzBdLnJvbGVOYW1lOwogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gJ+acquiuvue9ricKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ+Whq+aKpeWGheWuueihqOWNlScsCiAgICAgICAgZGF0YUluZGV4OiAnZm9ybUlkJywKICAgICAgICByZW5kZXI6IHZhbCA9PiB7CiAgICAgICAgICBpZiAodmFsKSB7CiAgICAgICAgICAgIGxldCBmb3JtPSBmb3Jtcy5maWx0ZXIoeCA9PiB4LnZhbHVlID09IHZhbCk7CiAgICAgICAgICAgIGlmIChmb3JtICYmIGZvcm0ubGVuZ3RoID09IDEpIHsKICAgICAgICAgICAgICByZXR1cm4gZm9ybVswXS5uYW1lOwogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gJ+acquiuvue9ricKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ+axh+aAu+S6uicsCiAgICAgICAgZGF0YUluZGV4OiAnc3VtbWFyeVVzZXJOYW1lJywKCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aXRsZTogJ+mDqOmXqOWkjeWuoea1geeoiycsCiAgICAgICAgZGF0YUluZGV4OiAncmV2aWV3RmxvdycsCiAgICAgICAgcmVuZGVyOiB2YWwgPT4gewogICAgICAgICAgaWYgKHZhbCkgewogICAgICAgICAgICBsZXQgZmxvdz0gZmxvd3MuZmlsdGVyKHggPT4geC52YWx1ZSA9PSB2YWwpOwogICAgICAgICAgICBpZiAoZmxvdyAmJiBmbG93Lmxlbmd0aCA9PSAxKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGZsb3dbMF0ubmFtZTsKICAgICAgICAgICAgfQogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuICfmnKrorr7nva4nCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICfmgLvkvZPlrqHmoLjmtYHnqIsnLAogICAgICAgIGRhdGFJbmRleDogJ292ZXJhbGxBdWRpdEZsb3cnLAogICAgICAgIHJlbmRlcjogdmFsID0+IHsKICAgICAgICAgIGlmICh2YWwpIHsKICAgICAgICAgICAgbGV0IGZsb3c9IGZsb3dzLmZpbHRlcih4ID0+IHgudmFsdWUgPT0gdmFsKTsKICAgICAgICAgICAgaWYgKGZsb3cgJiYgZmxvdy5sZW5ndGggPT0gMSkgewogICAgICAgICAgICAgIHJldHVybiBmbG93WzBdLm5hbWU7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAn5pyq6K6+572uJwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSw=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PERmVGFzaz4gZmluZEFsbEJ5T3JkZXJCeUNyZWF0ZWREYXRlQXNjKCkgewogICAgICAgIExpc3Q8RGZUYXNrPiBkYXRhID0gcmVwb3NpdG9yeS5maW5kQWxsQnlPcmRlckJ5Q3JlYXRlZERhdGVBc2MoKTsKICAgICAgICByZXR1cm4gZGF0YTsKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEpTT05BcnJheSBqc29uQXJyYXk9bmV3IEpTT05BcnJheSgpOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">U2VydmljZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZXNpZ25Gb3JtID0gcmVjb3JkcyA9PiB7Cg==</text>
+      <register name="8" type="4">
+        <text>model.properties.process_globelsettings
+              ? model.properties.process_globelsettings[key]
+                ? model.properties.process_globelsettings[key]['roles']
+                : []</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGxldCBhZGQgPSB1c2Vycy5maWx0ZXIoaSA9PiAhdmFsdWUuZmluZCh4ID0+IHguaWQgPT0gaS5pZCkpOwogICAgICBpZiAoYWRkICYmIGFkZC5sZW5ndGggPiAwKSB7CiAgICAgICAgbGV0IG5ld1ZhbHVlID0gdmFsdWUuY29uY2F0KGFkZCk7CiAgICAgICAgb25DaGFuZ2UodXNlcnMpOwogICAgICB9</text>
+        <text>export async function fetchflow() {
+  return http(Path.flow + '/process/option/datafill/1');
+}</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
