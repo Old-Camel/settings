@@ -223,7 +223,11 @@
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/web/StaticController.java" timestamp="1570618874608">
         <mark key="[" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1571997281404" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1572234077716">
+        <mark key="[" line="454" column="53" />
+        <mark key="]" line="454" column="53" />
+        <mark key="." line="454" column="53" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskDefController.java" timestamp="1571970486889">
         <mark key="[" line="88" column="1" />
         <mark key="]" line="88" column="1" />
@@ -268,7 +272,7 @@
         <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" timestamp="1571897383736" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1572231872477">
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1572234432520">
         <mark key="[" line="160" column="7" />
         <mark key="]" line="105" column="15" />
         <mark key="." line="105" column="15" />
@@ -364,9 +368,9 @@
         <mark key="[" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/models/dftask.js" timestamp="1572233218348">
-        <mark key="[" line="98" column="46" />
-        <mark key="]" line="98" column="46" />
-        <mark key="." line="98" column="46" />
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="96" column="46" />
+        <mark key="." line="96" column="46" />
         <mark key="^" line="90" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/main/java/com/yunzainfo/cloud/conversion/Application.java" timestamp="1570679900089">
@@ -613,7 +617,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>resetForm</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
