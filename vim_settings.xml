@@ -29,11 +29,8 @@
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/JobMapper.java" timestamp="1572231197537">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserAudit.js" timestamp="1572514766608">
-        <mark key="[" line="407" column="20" />
-        <mark key="]" line="407" column="22" />
-        <mark key="^" line="407" column="22" />
-        <mark key="." line="407" column="22" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserAudit.js" timestamp="1572571804180">
+        <mark key="^" line="421" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTask.java" timestamp="1572505117431">
         <mark key="[" line="66" column="7" />
@@ -77,11 +74,11 @@
       <file name="$USER_HOME$/data/code/cvs-web/src/components/TopNavHeader/index.less" timestamp="1570616585929">
         <mark key="[" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1572508897155">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1572571135005">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/resources/application-local.yml" timestamp="1572406321674">
         <mark key="[" line="60" column="19" />
@@ -166,8 +163,10 @@
       <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1572406359960">
         <mark key="[" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DeptTaskAuditUser.java" timestamp="1572503931761">
-        <mark key="[" line="18" column="32" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DeptTaskAuditUser.java" timestamp="1572570842821">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/components/TopNavHeader/index.js" timestamp="1569480109039">
         <mark key="[" line="56" column="49" />
@@ -189,7 +188,7 @@
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/services/system/dept.js" timestamp="1572505089587" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ProcessForm.java" timestamp="1572417902307" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1572509661256" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1572570078796" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/Process.less" timestamp="1572511683286" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/FormBuilder/views/DataFillFormView.jsx" timestamp="1572416886433">
         <mark key="[" line="13" column="21" />
@@ -231,8 +230,8 @@
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserData.java" timestamp="1572337878316">
-        <mark key="[" line="53" column="25" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserData.java" timestamp="1572570823714">
+        <mark key="[" line="57" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/conversion/src/test/java/Te.java" timestamp="1570683010024">
         <mark key="[" line="16" column="44" />
@@ -290,6 +289,13 @@
       </file>
       <file name="$USER_HOME$/data/code/cvs-web/src/pages/document.ejs" timestamp="1570614528492">
         <mark key="[" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserTask.js" timestamp="1572570913449">
+        <mark key="'" line="118" column="27" />
+        <mark key="[" line="384" column="15" />
+        <mark key="]" line="384" column="15" />
+        <mark key="." line="384" column="15" />
+        <mark key="^" line="384" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1572504201334">
         <mark key="[" line="0" column="0" />
@@ -437,7 +443,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
