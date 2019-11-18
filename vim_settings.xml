@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/processform.js" timestamp="1573813245313" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/StartProcessPojo.java" timestamp="1573811310450">
         <mark key="[" line="35" column="0" />
       </file>
@@ -21,14 +20,13 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1573806492744" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/BusinessInfoPojo.java" timestamp="1573812548053">
         <mark key="[" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/OfficialDocument.js" timestamp="1573813280260">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="71" column="49" />
-        <mark key="." line="71" column="49" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/OfficialDocument.js" timestamp="1574039951790">
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="70" column="49" />
+        <mark key="." line="70" column="49" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1573812754701">
         <mark key="[" line="365" column="12" />
@@ -36,7 +34,6 @@
         <mark key="." line="365" column="12" />
         <mark key="^" line="368" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/FormBusinessServiceImpl.java" timestamp="1573804336808" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormBusiness.js" timestamp="1573803077652">
         <mark key="[" line="397" column="30" />
         <mark key="]" line="402" column="11" />
@@ -45,7 +42,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1573804223264">
         <mark key="[" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/StartProcessResult.java" timestamp="1573812899090" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -62,7 +58,7 @@
         <text encoding="base64">IDxTdGFuZGFyZFRhYmxlCiAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzPXtzZWxlY3RlZFJvd3N9CiAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICBkYXRhPXtkYXRhfQogICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgICAgc2l6ZT0ic21hbGwiCiAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgcm93S2V5PSJpZCIKICAgICAgICAgICAgICBvblNlbGVjdFJvdz17dGhpcy5oYW5kbGVTZWxlY3RSb3dzfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVN0YW5kYXJkVGFibGVDaGFuZ2V9CiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="-" type="4">
-        <text>currentNodeId</text>
+        <text>readonly</text>
       </register>
     </registers>
     <search>
