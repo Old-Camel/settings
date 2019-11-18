@@ -73,14 +73,16 @@
         <mark key="." line="365" column="12" />
         <mark key="^" line="368" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/FormBusinessServiceImpl.java" timestamp="1574045421896">
-        <mark key="[" line="26" column="54" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/FormBusinessServiceImpl.java" timestamp="1574059738859">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="." line="56" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormBusiness.js" timestamp="1574056898423">
-        <mark key="[" line="442" column="31" />
-        <mark key="]" line="442" column="31" />
-        <mark key="." line="442" column="31" />
-        <mark key="^" line="71" column="14" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormBusiness.js" timestamp="1574059565952">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="66" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowDesign.js" timestamp="1574046755458" />
     </filemarks>
@@ -89,30 +91,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICBvbkNoYW5nZT17dmFsID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RUeXBlOiB2YWwgfSk7CiAgICAgICAgICAgICAgfX0=</text>
+        <text>if (form.getFieldValue('enabled')) {
+          panelValue = {...panelValue, enabled: 1};
+        } else {
+          panelValue = {...panelValue, enabled: 0};
+        }</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBvbkNoYW5nZT17dmFsID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RUeXBlOiB2YWwgfSk7CiAgICAgICAgICAgICAgfX0=</text>
+      </register>
+      <register name="3" type="4">
         <text>{
       list: [],
     },</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>export async function getFormData() {
   return http(Path.flow + '/formbusiness/options');
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>private String table;
         private String idField;
         private String idValue;
         private String updateKey;
         private String businessUrl;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDxTdGFuZGFyZFRhYmxlCiAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzPXtzZWxlY3RlZFJvd3N9CiAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICBkYXRhPXtkYXRhfQogICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgICAgc2l6ZT0ic21hbGwiCiAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgcm93S2V5PSJpZCIKICAgICAgICAgICAgICBvblNlbGVjdFJvdz17dGhpcy5oYW5kbGVTZWxlY3RSb3dzfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVN0YW5kYXJkVGFibGVDaGFuZ2V9CiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
