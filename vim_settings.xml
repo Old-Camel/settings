@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/StartProcessPojo.java" timestamp="1573811310450">
         <mark key="[" line="35" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-spring/6.4.1/flowable-spring-6.4.1.jar!/org/flowable/spring/SpringProcessEngineConfiguration.class" timestamp="1574056481015" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormBusinessController.java" timestamp="1574061727089">
         <mark key="[" line="86" column="5" />
       </file>
@@ -32,8 +31,6 @@
         <mark key="]" line="23" column="52" />
         <mark key="." line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/FormDataController.java" timestamp="1574062903521" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/services/system/option.js" timestamp="1574046566638" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/Option.java" timestamp="1574062958304">
         <mark key="[" line="18" column="19" />
       </file>
@@ -46,10 +43,11 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/entity/FormBusiness.java" timestamp="1574060673363">
         <mark key="[" line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/cmd/FreeProcessAddNodeCommand.java" timestamp="1574129571725" />
       <file name="/Dummy.txt" timestamp="1574041061586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ColumnsAndFormitems.java" timestamp="1574061611702">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ColumnsAndFormitems.java" timestamp="1574130620590">
         <mark key="[" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1574070820424">
@@ -64,6 +62,7 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/BusinessInfoPojo.java" timestamp="1573812548053">
         <mark key="[" line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Money.js" timestamp="1574130044383" />
       <file name="$USER_HOME$/data/code/flowable-web/src/services/system/formbusiness.js" timestamp="1574125561569">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="36" column="41" />
@@ -80,7 +79,6 @@
         <mark key="]" line="70" column="49" />
         <mark key="." line="70" column="49" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1574127661697" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/HistoryTest.java" timestamp="1574070328312">
         <mark key="[" line="50" column="38" />
         <mark key="]" line="50" column="38" />
@@ -91,51 +89,55 @@
         <mark key="]" line="97" column="37" />
         <mark key="." line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormBusiness.js" timestamp="1574127128037">
-        <mark key="[" line="115" column="25" />
-        <mark key="]" line="115" column="25" />
-        <mark key="." line="115" column="25" />
-        <mark key="^" line="330" column="15" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FormBusiness.js" timestamp="1574130983445">
+        <mark key="[" line="509" column="56" />
+        <mark key="]" line="509" column="56" />
+        <mark key="." line="509" column="56" />
+        <mark key="^" line="501" column="76" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1574068219733" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowDesign.js" timestamp="1574046755458" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
+        <text encoding="base64">IDxPcHRpb24gdmFsdWU9Imx1Y3kiPkx1Y3k8L09wdGlvbj4KICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImRpc2FibGVkIiBkaXNhYmxlZD4KICAgICAgICAgICAgICAgICAgRGlzYWJsZWQKICAgICAgICAgICAgICAgIDwvT3B0aW9uPgogICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0iWWltaW5naGUiPnlpbWluZ2hlPC9PcHRpb24+</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IDxDb2wgc3Bhbj17MTh9PgogICAgICAgICAgICAgICAgPElucHV0IHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319IHJlYWRPbmx5PXt0cnVlfSB2YWx1ZT17Y29udmVydEN1cnJlbmN5KHZhbHVlID8gdmFsdWUgOiAwKX0vPgogICAgICAgICAgICAgIDwvQ29sPg==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (form.getFieldValue('enabled')) {
           panelValue = {...panelValue, enabled: 1};
         } else {
           panelValue = {...panelValue, enabled: 0};
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBvbkNoYW5nZT17dmFsID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RUeXBlOiB2YWwgfSk7CiAgICAgICAgICAgICAgfX0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{
       list: [],
     },</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>export async function getFormData() {
   return http(Path.flow + '/formbusiness/options');
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>private String table;
         private String idField;
         private String idValue;
         private String updateKey;
         private String businessUrl;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDxTdGFuZGFyZFRhYmxlCiAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzPXtzZWxlY3RlZFJvd3N9CiAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICBkYXRhPXtkYXRhfQogICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgICAgc2l6ZT0ic21hbGwiCiAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgcm93S2V5PSJpZCIKICAgICAgICAgICAgICBvblNlbGVjdFJvdz17dGhpcy5oYW5kbGVTZWxlY3RSb3dzfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVN0YW5kYXJkVGFibGVDaGFuZ2V9CiAgICAgICAgICAgIC8+</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
