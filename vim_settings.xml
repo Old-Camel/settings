@@ -102,8 +102,10 @@
         <mark key="." line="354" column="0" />
         <mark key="^" line="528" column="10" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1574221206927">
-        <mark key="[" line="830" column="35" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1574229672926">
+        <mark key="[" line="586" column="54" />
+        <mark key="]" line="586" column="54" />
+        <mark key="." line="586" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/persistence/deploy/DeploymentManager.java" timestamp="1574213869102" />
       <file name="/fragment.java" timestamp="1574132064269">
@@ -150,7 +152,7 @@
     },</text>
       </register>
       <register name="-" type="4">
-        <text>delete(id)</text>
+        <text>请输入文件模板构建名</text>
       </register>
     </registers>
     <search>
