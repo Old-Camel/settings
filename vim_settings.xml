@@ -23,10 +23,11 @@
         <mark key="]" line="34" column="27" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1574316924151">
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1574318424163">
         <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="43" />
-        <mark key="." line="48" column="43" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/ColumnsAndFormitems.java" timestamp="1574130620590">
         <mark key="[" line="14" column="3" />
@@ -168,7 +169,7 @@
             }</text>
       </register>
       <register name="-" type="4">
-        <text>processType</text>
+        <text>taskType</text>
       </register>
     </registers>
     <search>
