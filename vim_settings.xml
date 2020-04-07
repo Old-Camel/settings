@@ -9,10 +9,39 @@
         <mark key="." line="75" column="44" />
         <mark key="^" line="75" column="44" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1585902551500">
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDefAuthConfig.java" timestamp="1586223568557" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1586224729425">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1585909754572">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="508" column="32" />
+        <mark key="." line="508" column="32" />
+        <mark key="^" line="508" column="32" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DistributionTaskController.java" timestamp="1586224987807">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="176" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-lwj/flowable-manager-ui/src/pages/leave/leaveList.tsx" timestamp="1574336348672">
+        <mark key="[" line="42" column="90" />
+        <mark key="]" line="42" column="89" />
+        <mark key="." line="42" column="89" />
+        <mark key="^" line="42" column="89" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" timestamp="1585907288605">
+        <mark key="'" line="115" column="13" />
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="115" column="13" />
+        <mark key="." line="115" column="13" />
+        <mark key="^" line="115" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1586225001895">
+        <mark key="[" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DefConfigModal.js" timestamp="1585906888030">
         <mark key="[" line="2" column="33" />
@@ -20,7 +49,9 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1585901815184" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1586225583797">
+        <mark key="[" line="441" column="62" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1574318903028">
         <mark key="[" line="48" column="43" />
         <mark key="]" line="48" column="50" />
@@ -38,6 +69,11 @@
         <mark key="." line="1326" column="12" />
         <mark key="^" line="1305" column="56" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/TaskInfoMapper.java" timestamp="1586225143015">
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="65" column="51" />
+        <mark key="." line="65" column="51" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1574306487227">
         <mark key="[" line="180" column="30" />
         <mark key="]" line="180" column="30" />
@@ -50,41 +86,25 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/TaskInfo.xml" timestamp="1586225561560">
+        <mark key="[" line="105" column="51" />
+        <mark key="]" line="105" column="51" />
+        <mark key="." line="105" column="51" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDef.java" timestamp="1585903085116">
         <mark key="[" line="42" column="7" />
         <mark key="]" line="67" column="14" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/Cron.js" timestamp="1585902757835" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDefAuthConfig.java" timestamp="1585906792097" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1585906460718">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-lwj/flowable-manager-ui/src/pages/leave/leaveList.tsx" timestamp="1574336348672">
-        <mark key="[" line="42" column="90" />
-        <mark key="]" line="42" column="89" />
-        <mark key="." line="42" column="89" />
-        <mark key="^" line="42" column="89" />
-      </file>
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" timestamp="1585905097467" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" timestamp="1585907288605">
-        <mark key="'" line="115" column="13" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="115" column="13" />
-        <mark key="." line="115" column="13" />
-        <mark key="^" line="115" column="13" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/Ellipsis/index.d.ts" timestamp="1585903898484" />
       <file name="$USER_HOME$/data/code/datafill-web/src/services/system/dfdef.js" timestamp="1585906201568">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1585904114133" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DefAuthPojo.java" timestamp="1585906876139" />
+      <file name="/fragment.java" timestamp="1586221842109">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -95,43 +115,43 @@
       <jump line="100" column="13" filename="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
+      <register name="0" type="4">
+        <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBhbGxTdHVkZW50RGlzYWJsZWQgPSAoKSA9PiB7CiAgICBjb25zdCB7Zm9ybX0gPSB0aGlzLnByb3BzOwogICAgbGV0IGdyYWRlID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdncmFkZVN0dUxpc3QnKTsKICAgIGxldCBkZXB0ID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdkZXB0U3R1TGlzdCcpOwogICAgdmFyIGcgPSBncmFkZSA/IGdyYWRlLmxlbmd0aCA6IDA7CiAgICB2YXIgZCA9IGRlcHQgPyBkZXB0Lmxlbmd0aCA6IDA7CiAgICByZXR1cm4gKGcgKyBkKSA+IDA7CiAgfQogIHN0dWRlbnREaXNhYmxlZCA9ICgpID0+IHsKICAgIGNvbnN0IHtmb3JtfSA9IHRoaXMucHJvcHM7CiAgICB2YXIgcGZrID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdhbGxTdHVkZW50Jyk7CiAgICByZXR1cm4gcGZrOwogIH0KICBjb25maWdEaXNhYmxlZD0oKT0+ewogICAgY29uc3Qge2Zvcm19ID0gdGhpcy5wcm9wczsKICAgIGxldCBzPWZvcm0uZ2V0RmllbGRWYWx1ZSgnY29uZmlnU3RhdGUnKTsKICAgIGxldCBwZmsgPSBzPDN8fHM9PScnOwogICAgcmV0dXJuIHBmazsKICB9</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5Yig6Zmk5aGr5oql5Lu75YqhIikKICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiaWQiLCB2YWx1ZSA9ICLnlKjmiLdpZCIsIHJlcXVpcmVkID0gdHJ1ZSwgcGFyYW1UeXBlID0gInBhdGgiLCBkYXRhVHlwZSA9ICJTdHJpbmciKSwKICAgIH0pCiAgICBARGVsZXRlTWFwcGluZyh2YWx1ZSA9ICIve2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBkZWxldGUoQFBhdGhWYXJpYWJsZSBTdHJpbmcgaWQpIHsKICAgICAgICBzZXJ2aWNlLmRlbGV0ZShpZCk7CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi5Yig6Zmk5oiQ5YqfIik7CgogICAgfQ==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLmt7vliqDloavmiqXku7vliqEiKQogICAgQFBvc3RNYXBwaW5nCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBpbnNlcnQoQFJlcXVlc3RCb2R5IERmVGFza1Bvam8gZGF0YSkgewogICAgICAgIHNlcnZpY2UuaW5zZXJ0KGRhdGEpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIua3u+WKoOaIkOWKnyIpOwogICAgfQoKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5byA5aeL5aGr5oql5Lu75YqhIikKICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9ICIvc3RhcnQve2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBzdGFydFRhc2trKEBQYXRoVmFyaWFibGUgU3RyaW5nIGlkKSB7CiAgICAgICAgLy9zZXJ2aWNlLmluc2VydChmb3JtRGF0YSk7CiAgICAgICAgLy9zZXJ2aWNlLmluc2VydChkYXRhKTsKICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigxKTsKICAgICAgICBzZXJ2aWNlLnN0YXJ0KGlkKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLlkK/liqjlrozmiJAiKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIuS/ruaUueWhq+aKpeS7u+WKoSIpCiAgICBAUHV0TWFwcGluZwogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gdXBkYXRlKEBSZXF1ZXN0Qm9keSBEZlRhc2tQb2pvIGZvcm1EYXRhKSB7CiAgICAgICAgc2VydmljZS51cGRhdGUoZm9ybURhdGEpOwogICAgICAgIHJldHVybiBZdW56YWlSZXR1cm4uYnVpbGQodHJ1ZSwgIuS/ruaUueaIkOWKnyIpOwogICAgfQogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLlvLrliLbnu5PmnZ8iKQogICAgQFB1dE1hcHBpbmcodmFsdWUgPSAiL3N0b3Ave2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBzdG9wKEBQYXRoVmFyaWFibGUgU3RyaW5nIGlkKSB7CiAgICAgICAgc2VydmljZS5zdG9wKGlkKTsKICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKHRydWUsICLmk43kvZzmiJDlip8iKTsKCiAgICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBhbGxTdHVkZW50RGlzYWJsZWQgPSAoKSA9PiB7CiAgICBjb25zdCB7Zm9ybX0gPSB0aGlzLnByb3BzOwogICAgbGV0IGdyYWRlID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdncmFkZVN0dUxpc3QnKTsKICAgIGxldCBkZXB0ID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdkZXB0U3R1TGlzdCcpOwogICAgdmFyIGcgPSBncmFkZSA/IGdyYWRlLmxlbmd0aCA6IDA7CiAgICB2YXIgZCA9IGRlcHQgPyBkZXB0Lmxlbmd0aCA6IDA7CiAgICByZXR1cm4gKGcgKyBkKSA+IDA7CiAgfQogIHN0dWRlbnREaXNhYmxlZCA9ICgpID0+IHsKICAgIGNvbnN0IHtmb3JtfSA9IHRoaXMucHJvcHM7CiAgICB2YXIgcGZrID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdhbGxTdHVkZW50Jyk7CiAgICByZXR1cm4gcGZrOwogIH0KICBjb25maWdEaXNhYmxlZD0oKT0+ewogICAgY29uc3Qge2Zvcm19ID0gdGhpcy5wcm9wczsKICAgIGxldCBzPWZvcm0uZ2V0RmllbGRWYWx1ZSgnY29uZmlnU3RhdGUnKTsKICAgIGxldCBwZmsgPSBzPDN8fHM9PScnOwogICAgcmV0dXJuIHBmazsKICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>,
             rules: [{required: false, message: '选择用户'}],</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,
             rules: [{required: false, message: '角色'}],</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChyZWNvcmQuc3RhdGUgPT0gMCkgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgPEZvcm0uSXRlbSBsYWJlbD0iRGF0ZVBpY2tlciI+CiAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignZGF0ZS1waWNrZXInLCBjb25maWcpKDxEYXRlUGlja2VyIC8+KX0KICAgICAgICAgIDwvRm9ybS5JdGVtPg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgPFN0YW5kYXJkVGFibGUKICAgICAgICAgICAgICBzZWxlY3RlZFJvd3M9e3NlbGVjdGVkUm93c30KICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgIGRhdGE9e2RhdGF9CiAgICAgICAgICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICB0eXBlPSJyYWRpbyIKICAgICAgICAgICAgICByb3dLZXk9ImlkIgogICAgICAgICAgICAgIG9uU2VsZWN0Um93PXt0aGlzLmhhbmRsZVNlbGVjdFJvd3N9CiAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlU3RhbmRhcmRUYWJsZUNoYW5nZX0KICAgICAgICAgICAgLz4=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBpZiAoIWV4ZWN1dGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuWumuWItua1geeoi+abtOaWsOWksei0pSzor7fogZTns7vnrqHnkIbkurrlkZgiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBjb25zdCBmcmVlUHJvY2Vzc0FnZ3JlZ2F0aW9uVXNlclRhZyA9IHRoaXMuc3RhdGUuZmVuZmFVc2VycyA/ICgKICAgICAgICA8VGFnCiAgICAgICAgICBjbG9zYWJsZQogICAgICAgICAgY29sb3I9IiMxMDhlZTkiCiAgICAgICAgICBvbkNsb3NlPXtlID0+IHsKICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgZmVuZmFVc2VyczogbnVsbCB9KTsKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgeycgJ30KICAgICAgICAgIDxJY29uIHR5cGU9eyd1c2VyJ30gc3R5bGU9e3sgbWFyZ2luTGVmdDogJzRweCcgfX0gLz57JyAnfQogICAgICAgICAge3RoaXMuc3RhdGUuZmVuZmFVc2Vycy5uYW1lfQogICAgICAgIDwvVGFnPgogICAgICApIDogKAogICAgICAgICcnCiAgICAgICk7</text>
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text>Design</text>
+        <text>ON b.def_id = c.id</text>
       </register>
     </registers>
     <search>
