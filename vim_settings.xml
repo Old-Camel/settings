@@ -19,13 +19,13 @@
         <mark key="]" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DistributionTaskController.java" timestamp="1586249508409">
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DistributionTaskController.java" timestamp="1586250871097">
         <mark key="[" line="91" column="17" />
         <mark key="]" line="91" column="17" />
         <mark key="^" line="66" column="0" />
         <mark key="." line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DistributionDataFillTask.js" timestamp="1586243690697">
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DistributionDataFillTask.js" timestamp="1586250924112">
         <mark key="[" line="765" column="9" />
         <mark key="]" line="765" column="9" />
         <mark key="." line="765" column="9" />
@@ -35,24 +35,24 @@
         <mark key="[" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/util/DfUtil.java" timestamp="1586226479260" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/models/dftask.js" timestamp="1586238825169">
+      <file name="$USER_HOME$/data/code/datafill-web/src/models/dftask.js" timestamp="1586250919453">
         <mark key="[" line="175" column="10" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/utils/Path.js" timestamp="1586241926943">
         <mark key="[" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1586248244450" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1586230947461">
-        <mark key="[" line="504" column="8" />
-        <mark key="]" line="504" column="8" />
-        <mark key="." line="504" column="8" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1586250586721">
+        <mark key="[" line="507" column="35" />
+        <mark key="]" line="507" column="35" />
+        <mark key="." line="507" column="35" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/UserMapper.java" timestamp="1586227857744">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/UserMapper.java" timestamp="1586250635463">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586246184215">
+      <file name="/Dummy.txt" timestamp="1586250663091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1586228787807">
@@ -60,12 +60,12 @@
         <mark key="]" line="225" column="49" />
         <mark key="." line="225" column="49" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/TaskInfoMapper.java" timestamp="1586244746956">
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/TaskInfoMapper.java" timestamp="1586250643574">
         <mark key="[" line="66" column="51" />
         <mark key="]" line="66" column="51" />
         <mark key="." line="66" column="51" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/services/system/dftask.js" timestamp="1586238800936">
+      <file name="$USER_HOME$/data/code/datafill-web/src/services/system/dftask.js" timestamp="1586250877376">
         <mark key="[" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/pom.xml" timestamp="1586244536246" />
@@ -78,14 +78,14 @@
       <file name="$USER_HOME$/data/code/datafill-web/config/router.config.js" timestamp="1586243660848">
         <mark key="[" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/TaskInfo.xml" timestamp="1586249275484">
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/TaskInfo.xml" timestamp="1586250630986">
         <mark key="'" line="109" column="7" />
         <mark key="[" line="280" column="38" />
         <mark key="]" line="280" column="38" />
         <mark key="." line="280" column="38" />
         <mark key="^" line="109" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1586238594371" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1586250738454" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1586245139953" />
       <file name="/fragment.java" timestamp="1586221842109">
         <mark key="[" line="0" column="0" />
@@ -135,7 +135,7 @@
         <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text>gt</text>
+        <text>userMapper</text>
       </register>
     </registers>
     <search>
