@@ -39,6 +39,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill-web/node_modules/react-jsonschema-form/lib/types.js" timestamp="1586336552869" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/test/java/com/yunzainfo/cloud/flowable/test/FormServiceTest.java" timestamp="1586333120224">
         <mark key="[" line="42" column="106" />
         <mark key="]" line="41" column="22" />
@@ -49,6 +50,10 @@
         <mark key="[" line="46" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1586333147569" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/TaskInfo.js" timestamp="1586336444895" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/FormBuilder/views/DataFillFormView.jsx" timestamp="1586336620246">
+        <mark key="[" line="26" column="44" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill-web/config/router.config.js" timestamp="1586243660848">
         <mark key="[" line="28" column="27" />
       </file>
@@ -91,6 +96,9 @@
         <mark key="[" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1586248244450" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserTaskFormModal.js" timestamp="1586336608525">
+        <mark key="[" line="56" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586328697162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,6 +146,11 @@
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DataFillTask.js" timestamp="1586250738454" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1586245139953" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/util/ExcelUtil.java" timestamp="1586258694591" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserTask.js" timestamp="1586336561294">
+        <mark key="[" line="641" column="8" />
+        <mark key="]" line="641" column="8" />
+        <mark key="." line="641" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1586313669241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,37 +170,37 @@
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PERlcHRVc2VyVGFza0F1ZGl0TW9kYWwKICAgICAgICAgIGxvYWRpbmc9e3RoaXMucHJvcHMubG9hZGluZ30KICAgICAgICAgIG1vZGFsVmlzaWJsZT17dGhpcy5zdGF0ZS5tb2RhbFZpc2libGV9CiAgICAgICAgICBoYW5kbGVNb2RhbFZpc2libGU9e3RoaXMuaGFuZGxlTW9kYWxWaXNpYmxlfQogICAgICAgICAgdHlwZT17NH0KICAgICAgICAgIHRpdGxlPXt0aGlzLnN0YXRlLmF1ZGl0VGl0bGV9CiAgICAgICAgLz4=</text>
+      </register>
+      <register name="2" type="4">
         <text>if(!objects.contains((String)xm)){
                 
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">YmVhbkxpc3Quc3RyZWFtKCkuc29ydGVkKChvMSwgbzIpIC0+IHsKICAgICAgICAgICAgU3RyaW5nIGtleSA9KChTdHJpbmcpIG8xLmdldEtleSgpKS5yZXBsYWNlKCLmmagiLCIiKS5yZXBsYWNlKCLljYgiLCIiKTsKICAgICAgICAgICAgU3RyaW5nIGtleTEgPSgoU3RyaW5nKSBvMi5nZXRLZXkoKSkucmVwbGFjZSgi5pmoIiwiIikucmVwbGFjZSgi5Y2IIiwiIik7CgogICAgICAgICAgICByZXR1cm4ga2V5LmNvbXBhcmVUbyhrZXkxKTsKICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>for (File temp : files) {
           
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgbmV3IEZpbGUoIi9Vc2Vycy94dWNoZW5nL0Rvd25sb2Fkcy82MDEvMTTnj63lrabnlJ/kuIDkurrkuIDmoaMv5a6J5a2Q546JLnhsc3giKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if (originKey.equals(&quot;客户类型&quot;)) {
             return &quot;type&quot;;
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzY8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjExLjIuMC4xLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzY8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjExLjIuMC4xLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jbi5hZnRlcnR1cm48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmVhc3lwb2ktd2ViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgPFRhYlBhbmUKICAgICAgICAgICAgICB0YWI9ewogICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICDlvoXlj5HluIMge2RhdGEwICYmIGRhdGEwLmxlbmd0aCA/IDxUYWcgY29sb3I9IiM2Yjc2NzkiPntkYXRhMC5sZW5ndGh9PC9UYWc+IDogJyd9CiAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBrZXk9IjEiCiAgICAgICAgICAgID4KCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy50YWJsZUxpc3R9IHN0eWxlPXt7aGVpZ2h0OiAnMTAwJSd9fT4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnRhYmxlTGlzdE9wZXJhdG9yfT4KICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgaWNvbj0icGx1cy1jaXJjbGUiCiAgICAgICAgICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlTW9kYWxBZGQodHJ1ZSl9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIOaWsOW7ugogICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICB7c2VsZWN0ZWRSb3dzLmxlbmd0aCA9PSAxID8gKAogICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICBpY29uPSJlZGl0IgogICAgICAgICAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlTW9kYWxFZGl0KHRydWUsIHNlbGVjdGVkUm93cyl9CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAg57yW6L6RCiAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgaWNvbj0iY2xvdWQtdXBsb2FkIgogICAgICAgICAgICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30KICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFkZWxTdGFydChzZWxlY3RlZFJvd3MpfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIOWPkeW4gwogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICAgIGljb249ImNsb3NlLWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9CiAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJkYW5nZXIiCiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PgogICAgICAgICAgICAgICAgICAgICAgICBNb2RhbC5jb25maXJtKHsKICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50OiAn56Gu6K6k5Yig6ZmkJyArIHNlbGVjdGVkUm93c1swXS5uYW1lICsgJ+S5iO+8nycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuY2VsVGV4dDogJ+WPlua2iCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgb2tUZXh0OiAn56Gu6K6kJywKICAgICAgICAgICAgICAgICAgICAgICAgICBvbk9rKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlRGVsKHNlbGVjdGVkUm93cyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICDliKDpmaQKICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgJycKICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPFRhYmxlCiAgICAgICAgICAgICAgICAgIHNpemU9eydzbWFsbCd9CiAgICAgICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgICAgICAgIGxvYWRpbmc9e2xvYWRpbmd9CiAgICAgICAgICAgICAgICAgIGRhdGFTb3VyY2U9e2RhdGEwfQogICAgICAgICAgICAgICAgICBzY3JvbGw9e3t4OjE3MDB9fQoKICAgICAgICAgICAgICAgICAgcm93S2V5PSJpZCIKICAgICAgICAgICAgICAgICAgcm93U2VsZWN0aW9uPXt0YWJsZVNlbGVjdGlvbn0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8L1RhYlBhbmU+</text>
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jbi5hZnRlcnR1cm48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmVhc3lwb2ktd2ViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
