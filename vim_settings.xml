@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/models/task.js" timestamp="1586315397345" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserAudit.js" timestamp="1586312331162" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/服务任务.bpmn20.xml" timestamp="1586328275760" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1586342248324" />
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1586315385322" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1586329438435">
         <mark key="[" line="507" column="35" />
@@ -54,6 +55,7 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1586333147569" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/TaskInfo.js" timestamp="1586336444895" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptauditSummaryController.java" timestamp="1586342295425" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/FormBuilder/views/DataFillFormView.jsx" timestamp="1586336620246">
         <mark key="[" line="26" column="44" />
       </file>
@@ -61,8 +63,10 @@
         <mark key="[" line="28" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/ProcessEngineConfiguration.java" timestamp="1586333063854" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1586338263462">
-        <mark key="[" line="24" column="62" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1586342488052">
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="63" />
+        <mark key="." line="24" column="63" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" timestamp="1586332735428">
         <mark key="[" line="11" column="45" />
@@ -136,6 +140,13 @@
         <mark key="^" line="52" column="27" />
         <mark key="." line="52" column="27" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/TaskInfo.xml" timestamp="1586342556738">
+        <mark key="'" line="109" column="7" />
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="276" column="16" />
+        <mark key="." line="276" column="16" />
+        <mark key="^" line="109" column="7" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/test/java/Exc.java" timestamp="1586254215749">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="23" column="39" />
@@ -207,7 +218,7 @@
         <text>action Find</text>
       </register>
       <register name="-" type="4">
-        <text>getAsyncExecutorActivate</text>
+        <text>jdbcType=&quot;CLOB&quot; javaType = &quot;java.lang.String&quot;</text>
       </register>
     </registers>
     <search>
