@@ -19,6 +19,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="91" column="17" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/OverAllFlowController.java" timestamp="1586417685597">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DistributionDataFillTask.js" timestamp="1586394768920">
         <mark key="[" line="387" column="49" />
         <mark key="]" line="766" column="9" />
@@ -57,6 +62,9 @@
         <mark key="[" line="28" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/ProcessEngineConfiguration.java" timestamp="1586333063854" />
+      <file name="$USER_HOME$/data/code/datafill/src/test/java/Test.java" timestamp="1586418017328">
+        <mark key="[" line="3315" column="27" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1586404469765">
         <mark key="[" line="24" column="63" />
         <mark key="]" line="24" column="63" />
@@ -94,7 +102,7 @@
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserTaskFormModal.js" timestamp="1586336608525">
         <mark key="[" line="56" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586414333876">
+      <file name="/Dummy.txt" timestamp="1586415116119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1586258542201">
@@ -164,37 +172,35 @@
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhbmQgdXNlcl9pZCBpbiAoc2VsZWN0IHVzZXJfaWQgYXMgaWQgZnJvbSBzcGF1dGgudl90ZWFjaGVyX2Jhc2UgdW5pb24gKCBzZWxlY3Qgc3R1ZGVudF9pZCBhcyBpZCBmcm9tCiAgICAgICAgc3BhdXRoLnZfc3R1ZGVudF9iYXNlKSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PERlcHRVc2VyVGFza0F1ZGl0TW9kYWwKICAgICAgICAgIGxvYWRpbmc9e3RoaXMucHJvcHMubG9hZGluZ30KICAgICAgICAgIG1vZGFsVmlzaWJsZT17dGhpcy5zdGF0ZS5tb2RhbFZpc2libGV9CiAgICAgICAgICBoYW5kbGVNb2RhbFZpc2libGU9e3RoaXMuaGFuZGxlTW9kYWxWaXNpYmxlfQogICAgICAgICAgdHlwZT17NH0KICAgICAgICAgIHRpdGxlPXt0aGlzLnN0YXRlLmF1ZGl0VGl0bGV9CiAgICAgICAgLz4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if(!objects.contains((String)xm)){
                 
             }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">YmVhbkxpc3Quc3RyZWFtKCkuc29ydGVkKChvMSwgbzIpIC0+IHsKICAgICAgICAgICAgU3RyaW5nIGtleSA9KChTdHJpbmcpIG8xLmdldEtleSgpKS5yZXBsYWNlKCLmmagiLCIiKS5yZXBsYWNlKCLljYgiLCIiKTsKICAgICAgICAgICAgU3RyaW5nIGtleTEgPSgoU3RyaW5nKSBvMi5nZXRLZXkoKSkucmVwbGFjZSgi5pmoIiwiIikucmVwbGFjZSgi5Y2IIiwiIik7CgogICAgICAgICAgICByZXR1cm4ga2V5LmNvbXBhcmVUbyhrZXkxKTsKICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>for (File temp : files) {
           
         }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgbmV3IEZpbGUoIi9Vc2Vycy94dWNoZW5nL0Rvd25sb2Fkcy82MDEvMTTnj63lrabnlJ/kuIDkurrkuIDmoaMv5a6J5a2Q546JLnhsc3giKQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>if (originKey.equals(&quot;客户类型&quot;)) {
-            return &quot;type&quot;;
-        }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgbmV3IEZpbGUoIi9Vc2Vycy94dWNoZW5nL0Rvd25sb2Fkcy82MDEvMTTnj63lrabnlJ/kuIDkurrkuIDmoaMv5a6J5a2Q546JLnhsc3giKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
