@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskDefController.java" timestamp="1585901930482">
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="75" column="44" />
+        <mark key="." line="75" column="44" />
+        <mark key="^" line="75" column="44" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1586740983064">
         <mark key="[" line="17" column="54" />
         <mark key="]" line="9" column="14" />
@@ -34,6 +40,12 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/models/task.js" timestamp="1586315397345" />
       <file name="$USER_HOME$/data/code/datafill-web/src/components/Panel/TablePanel.js" timestamp="1586509338043" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserAudit.js" timestamp="1586509972238" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DefConfigModal.js" timestamp="1585906888030">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/服务任务.bpmn20.xml" timestamp="1586328275760" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/AllDataFillTask.js" timestamp="1586414039108" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1586342248324" />
@@ -44,6 +56,12 @@
         <mark key="[" line="24" column="23" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1574318903028">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1586499698912">
         <mark key="[" line="1120" column="57" />
@@ -71,15 +89,27 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1586333147569" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/TaskInfo.js" timestamp="1586336444895" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptauditSummaryController.java" timestamp="1586342295425" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/repository/DfTaskAuthConfigRepository.java" timestamp="1585907276580">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/FormBuilder/views/DataFillFormView.jsx" timestamp="1586336620246">
         <mark key="[" line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/config/router.config.js" timestamp="1586243660848">
+      <file name="$USER_HOME$/data/code/datafill-web/config/router.config.js" timestamp="1586744023991">
         <mark key="[" line="28" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/ProcessEngineConfiguration.java" timestamp="1586333063854" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1586498783585">
         <mark key="[" line="496" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDef.java" timestamp="1585903085116">
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/test/java/Test.java" timestamp="1586508346254">
         <mark key="[" line="16" column="0" />
@@ -97,6 +127,12 @@
         <mark key="." line="24" column="63" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDefAuthConfig.java" timestamp="1586223568557" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1585909754572">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="508" column="32" />
+        <mark key="." line="508" column="32" />
+        <mark key="^" line="508" column="32" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DeptUserPojo.java" timestamp="1586226370898">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="19" />
@@ -110,6 +146,12 @@
         <mark key="^" line="156" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine-common/6.4.1/flowable-engine-common-6.4.1.jar!/org/flowable/common/engine/impl/persistence/deploy/DefaultDeploymentCache.class" timestamp="1586307812838" />
+      <file name="$USER_HOME$/data/code/flowable-lwj/flowable-manager-ui/src/pages/leave/leaveList.tsx" timestamp="1574336348672">
+        <mark key="[" line="42" column="90" />
+        <mark key="]" line="42" column="89" />
+        <mark key="." line="42" column="89" />
+        <mark key="^" line="42" column="89" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1586328652260">
         <mark key="[" line="33" column="43" />
       </file>
@@ -126,6 +168,12 @@
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/cfg/ProcessEngineConfigurationImpl.java" timestamp="1586333031233" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1586499454080">
         <mark key="[" line="40" column="24" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/Path.js" timestamp="1586743765353">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/data/code/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseMenuServiceImpl.java" timestamp="1586248244450" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserTaskFormModal.js" timestamp="1586336608525">
@@ -230,7 +278,7 @@
             }</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text>SecurityUtils.getCurrentUserId()</text>
@@ -244,6 +292,8 @@
       <history-search />
       <history-cmd>
         <entry>action Find</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
