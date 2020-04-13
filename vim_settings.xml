@@ -47,7 +47,7 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/服务任务.bpmn20.xml" timestamp="1586328275760" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/AllDataFillTask.js" timestamp="1586414039108" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/AllDataFillTask.js" timestamp="1586745474107" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1586342248324" />
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-20200331.051551-50.jar!/com/yunzainfo/cloud/common/config/CORSConfiguration.class" timestamp="1586420213302" />
       <file name="$USER_HOME$/data/code/flowable-web/config/router.config.js" timestamp="1586315385322" />
@@ -87,7 +87,12 @@
         <mark key="^" line="243" column="37" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/ProcessEngineConfig.java" timestamp="1586333147569" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/TaskInfo.js" timestamp="1586336444895" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/TaskInfo.js" timestamp="1586745597241">
+        <mark key="[" line="254" column="14" />
+        <mark key="]" line="268" column="44" />
+        <mark key="." line="268" column="44" />
+        <mark key="^" line="268" column="44" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptauditSummaryController.java" timestamp="1586342295425" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/repository/DfTaskAuthConfigRepository.java" timestamp="1585907276580">
         <mark key="[" line="18" column="27" />
@@ -281,7 +286,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>SecurityUtils.getCurrentUserId()</text>
+        <text>{getFieldDecorator('name')(</text>
       </register>
     </registers>
     <search>
