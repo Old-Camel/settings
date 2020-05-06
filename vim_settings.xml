@@ -46,32 +46,27 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Panel.jsx" timestamp="1588754801366">
         <mark key="[" line="74" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/CustomFormats.js" timestamp="1588733416028" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588731382356">
-        <mark key="[" line="141" column="3" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/IdentityServiceImpl.java" timestamp="1588758314938" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1588752902351">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1588731756478">
-        <mark key="[" line="203" column="9" />
-        <mark key="]" line="195" column="4" />
-        <mark key="." line="195" column="4" />
-        <mark key="^" line="196" column="7" />
-      </file>
-      <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/test/StringField_test.js" timestamp="1588731839516" />
       <file name="$USER_HOME$/data/code/datafill/src/test/java/Te.java" timestamp="1588747164385" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588754649071">
-        <mark key="[" line="387" column="121" />
-        <mark key="]" line="387" column="121" />
-        <mark key="." line="387" column="121" />
-        <mark key="^" line="384" column="1" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588756853722">
+        <mark key="[" line="364" column="20" />
+        <mark key="]" line="364" column="9" />
+        <mark key="." line="364" column="9" />
+        <mark key="^" line="364" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/src/validate.js" timestamp="1588744545365" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1588735023051">
         <mark key="[" line="177" column="61" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateTimeWidget.js" timestamp="1588758480472">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1588755445187">
         <mark key="'" line="280" column="7" />
@@ -79,6 +74,10 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="242" column="10" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/MacroText.js" timestamp="1588756840647" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1588758141617">
+        <mark key="[" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588755074022">
         <mark key="[" line="36" column="28" />
@@ -113,46 +112,47 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>string</text>
+        <text>.subtract(1, &quot;days&quot;).endOf('day')</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>.subtract(1, &quot;days&quot;).endOf('day')</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>let me = this;
+    const startValue = this.state.currentTime;
+    if (!endValue || !startValue) {
+      return false;
+    }</text>
+      </register>
+      <register name="2" type="2">
         <text>export function GetFlowForm() {
   return FlowForm;
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHJlZj17Zm9ybSA9PiB7CiAgICAgICAgICBGbG93Rm9ybSA9IGZvcm07CiAgICAgICAgfX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIEdldEZvcm1SZWYoKSB7CiAgcmV0dXJuIEZvcm1SZWY7Cn0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cmVmPXsoZm9ybSkgPT4gewogICAgICAgICAgICBGb3JtUmVmID0gZm9ybTsKICAgICAgICAgIH19</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICogVVBEQVRFX1NVQk1JVERBVEEoe3BheWxvYWR9LCB7cHV0fSkgewogICAgICB5aWVsZCBwdXQoewogICAgICAgIHR5cGU6ICd1cGRhdGVTdWJtaXREYXRhJywKICAgICAgICBwYXlsb2FkOiBwYXlsb2FkLAogICAgICB9KTsKICAgIH0s</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICB1cGRhdGVTdWJtaXREYXRhKHN0YXRlLCB7cGF5bG9hZH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzdWJtaXREYXRhOiBwYXlsb2FkCiAgICAgICAgfQogICAgICB9LA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>console.log('submit++++++++')
             debugger;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9uU3VibWl0ID0gKHtmb3JtRGF0YX0pID0+IGNvbnNvbGUubG9nKCJEYXRhIHN1Ym1pdHRlZDogIiwgIGZvcm1EYXRhKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-          future: [],
-          past: [],
-          present: [payload]</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
