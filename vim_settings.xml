@@ -35,8 +35,8 @@
         <mark key="]" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1586920387465">
-        <mark key="[" line="195" column="4" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Template/connectors.jsx" timestamp="1588731756478">
+        <mark key="[" line="203" column="9" />
         <mark key="]" line="195" column="4" />
         <mark key="." line="195" column="4" />
         <mark key="^" line="196" column="7" />
@@ -46,18 +46,20 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/test/StringField_test.js" timestamp="1588731839516" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1586853953522">
         <mark key="[" line="387" column="121" />
         <mark key="]" line="387" column="121" />
         <mark key="." line="387" column="121" />
         <mark key="^" line="384" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1586929945311">
-        <mark key="'" line="235" column="7" />
-        <mark key="[" line="194" column="6" />
-        <mark key="]" line="197" column="10" />
-        <mark key="." line="197" column="10" />
-        <mark key="^" line="197" column="10" />
+      <file name="$USER_HOME$/data/code/flowable-web/node_modules/reactstrap/src/index.js" timestamp="1588731208184" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1588733794455">
+        <mark key="'" line="262" column="7" />
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="224" column="10" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/index.jsx" timestamp="1586851621013">
         <mark key="[" line="21" column="37" />
@@ -88,12 +90,15 @@
         <mark key="." line="69" column="21" />
         <mark key="^" line="69" column="24" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1586850950054">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/CustomFormats.js" timestamp="1588733416028" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588731382356">
         <mark key="[" line="141" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/node_modules/reactstrap/src/FormFeedback.js" timestamp="1588731253391" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" timestamp="1586834634017">
         <mark key="[" line="74" column="30" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/theme/bs4/components/fields/SchemaField.js" timestamp="1588731315697" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -118,10 +123,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>192.168.102.225</text>
+        <text>else if(error.params.)</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.102.225</text>
+        <text>else if(error.params.)</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
