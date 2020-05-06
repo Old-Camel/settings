@@ -35,10 +35,16 @@
         <mark key="]" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/node_modules/reactstrap/src/index.js" timestamp="1588731208184" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1588754832377">
+        <mark key="[" line="48" column="33" />
+      </file>
       <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/src/components/Form.js" timestamp="1588744680019" />
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/formstate.js" timestamp="1588745131909">
         <mark key="[" line="110" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/index.js" timestamp="1588754682996" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Panel.jsx" timestamp="1588754801366">
+        <mark key="[" line="74" column="36" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/CustomFormats.js" timestamp="1588733416028" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588731382356">
@@ -57,28 +63,31 @@
       </file>
       <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/test/StringField_test.js" timestamp="1588731839516" />
       <file name="$USER_HOME$/data/code/datafill/src/test/java/Te.java" timestamp="1588747164385" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588754649071">
+        <mark key="[" line="387" column="121" />
+        <mark key="]" line="387" column="121" />
+        <mark key="." line="387" column="121" />
+        <mark key="^" line="384" column="1" />
+      </file>
       <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/src/validate.js" timestamp="1588744545365" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1588735023051">
         <mark key="[" line="177" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1588752834896">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1588755445187">
         <mark key="'" line="280" column="7" />
-        <mark key="[" line="165" column="0" />
+        <mark key="[" line="18" column="35" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="242" column="10" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/Path.js" timestamp="1588730104184">
-        <mark key="[" line="2" column="58" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588755074022">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588735656690">
-        <mark key="[" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/node_modules/reactstrap/src/FormFeedback.js" timestamp="1588731253391" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1588752117479">
         <mark key="[" line="2633" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/theme/bs4/components/fields/SchemaField.js" timestamp="1588731315697" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/theme/bs4/components/ErrorList.js" timestamp="1588752282194" />
     </filemarks>
     <jumps>
@@ -104,10 +113,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>null</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>string</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
