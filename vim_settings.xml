@@ -38,15 +38,25 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1588754832377">
         <mark key="[" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/src/components/Form.js" timestamp="1588744680019" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/formstate.js" timestamp="1588745131909">
-        <mark key="[" line="110" column="13" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588833457134">
+        <mark key="[" line="21" column="45" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1588833228494">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="21" />
+        <mark key="^" line="80" column="21" />
+        <mark key="." line="80" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/index.js" timestamp="1588754682996" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Panel.jsx" timestamp="1588754801366">
         <mark key="[" line="74" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/IdentityServiceImpl.java" timestamp="1588758314938" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588833566201">
+        <mark key="[" line="126" column="15" />
+        <mark key="]" line="126" column="15" />
+        <mark key="." line="126" column="15" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1588752902351">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="19" />
@@ -58,10 +68,6 @@
         <mark key="]" line="364" column="9" />
         <mark key="." line="364" column="9" />
         <mark key="^" line="364" column="18" />
-      </file>
-      <file name="$USER_HOME$/Downloads/react-jsonschema-form-master/packages/core/src/validate.js" timestamp="1588744545365" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1588735023051">
-        <mark key="[" line="177" column="61" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateTimeWidget.js" timestamp="1588758480472">
         <mark key="[" line="39" column="36" />
@@ -79,10 +85,12 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1588758141617">
         <mark key="[" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588755074022">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588833028405">
+        <mark key="[" line="50" column="58" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="61" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/ProcessForm.jsx" timestamp="1588752117479">
         <mark key="[" line="2633" column="37" />
@@ -112,10 +120,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>.subtract(1, &quot;days&quot;).endOf('day')</text>
+        <text>TelePhoneWidget</text>
       </register>
       <register name="-" type="4">
-        <text>.subtract(1, &quot;days&quot;).endOf('day')</text>
+        <text>TelePhoneWidget</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
