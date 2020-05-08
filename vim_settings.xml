@@ -30,19 +30,17 @@
         <mark key="^" line="80" column="11" />
         <mark key="." line="370" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/models/formbuilder.js" timestamp="1588747227748">
-        <mark key="[" line="334" column="62" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1588754832377">
         <mark key="[" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588845282428">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
+        <mark key="[" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588901864898">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1588833228494">
         <mark key="[" line="80" column="21" />
@@ -127,10 +125,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">ewogICAgICBzaG93VG9vbGJhcjogdHJ1ZSwKICAgICAgdmlldzogewogICAgICAgIGhlaWdodDooKT0+NTAwLAogICAgICAgIHdpZHRoOiAoKSA9PiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieC1zcHJlYWRzaGVldCIpLmNsaWVudFdpZHRoCiAgICAgIH0sCiAgICAgIHNob3dHcmlkOiB0cnVlCiAgICB9</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZyZWV6ZTogJ0IzJyw=</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
