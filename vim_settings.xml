@@ -30,11 +30,11 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
         <mark key="[" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588919813726">
-        <mark key="[" line="155" column="4" />
-        <mark key="]" line="175" column="4" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588920424388">
+        <mark key="[" line="190" column="23" />
+        <mark key="]" line="190" column="23" />
         <mark key="^" line="86" column="15" />
-        <mark key="." line="175" column="4" />
+        <mark key="." line="190" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1588833228494">
         <mark key="[" line="80" column="21" />
@@ -120,10 +120,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>const</text>
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>state</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
