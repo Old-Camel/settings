@@ -24,27 +24,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/Menu.jsx" timestamp="1588754832377">
-        <mark key="[" line="48" column="33" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
         <mark key="[" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588920424388">
-        <mark key="[" line="190" column="23" />
-        <mark key="]" line="190" column="23" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextareaWidget.js" timestamp="1588923197249" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/SheetTemplate.js" timestamp="1588927654224">
+        <mark key="[" line="201" column="25" />
+        <mark key="]" line="198" column="11" />
+        <mark key="." line="198" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588926735150">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="41" />
         <mark key="^" line="86" column="15" />
-        <mark key="." line="190" column="23" />
+        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1588833228494">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="21" />
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/node_modules/react-jsonschema-form/lib/components/widgets/index.js" timestamp="1588754682996" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Panel.jsx" timestamp="1588754801366">
-        <mark key="[" line="74" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/IdentityServiceImpl.java" timestamp="1588758314938" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SelectWidget.js" timestamp="1588908837646" />
@@ -58,11 +57,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588909690352">
-        <mark key="[" line="661" column="57" />
-        <mark key="]" line="364" column="9" />
-        <mark key="." line="364" column="9" />
-        <mark key="^" line="364" column="18" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588927630046">
+        <mark key="[" line="177" column="68" />
+        <mark key="]" line="177" column="8" />
+        <mark key="." line="177" column="8" />
+        <mark key="^" line="381" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1588908828634">
         <mark key="[" line="177" column="61" />
@@ -80,7 +79,7 @@
         <mark key="^" line="242" column="10" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/MacroText.js" timestamp="1588756840647" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DeptTree.js" timestamp="1588909822045">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DeptTree.js" timestamp="1588923200262">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
@@ -89,13 +88,14 @@
         <mark key="[" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588833028405">
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/UserMapper.xml" timestamp="1588925879517" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588923490973">
         <mark key="[" line="50" column="58" />
         <mark key="]" line="50" column="58" />
         <mark key="." line="50" column="58" />
         <mark key="^" line="50" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1588909846163" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1588923176115" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -120,56 +120,44 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>state</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">e2lzU3VwcG9ydEZ1bGwmJjxCdXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmhhbmRDbGlja30KICAgICAgICAgICAgICBzaGFwZT0iY2lyY2xlIgogICAgICAgICAgICAgIGljb249e3RoaXMuc3RhdGUuaXNGdWxsID8gInNocmluayIgOiAiYXJyb3dzLWFsdCJ9CiAgICAgICAgICAgID48L0J1dHRvbj59</text>
+        <text encoding="base64">PFRleHRBcmVhCiAgICAgICAgICB7Li4ucmVzdH0KICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy5vbkNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBvbkJsdXI9e3RoaXMub25CbHVyfQogICAgICAgIC8+</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDxwPkNhcmQgY29udGVudDwvcD4KICAgICAgICAgIDxwPkNhcmQgY29udGVudDwvcD4KICAgICAgICAgIDxwPkNhcmQgY29udGVudDwvcD4=</text>
+        <text encoding="base64">IGZ1bGw9KCk9PnsKICAgIGZ1bGxTY3JlZW4oKTsKICAgIHRoaXMuc2V0U2hlZXQoKTsKICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ewogICAgICBzaG93VG9vbGJhcjogdHJ1ZSwKICAgICAgdmlldzogewogICAgICAgIGhlaWdodDooKT0+NTAwLAogICAgICAgIHdpZHRoOiAoKSA9PiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgieC1zcHJlYWRzaGVldCIpLmNsaWVudFdpZHRoCiAgICAgIH0sCiAgICAgIHNob3dHcmlkOiB0cnVlCiAgICB9</text>
+        <text encoding="base64">IGlmIChkaXNhYmxlZCkgewogICAgICBsZXQgcmVzZXQgPSB7CiAgICAgICAgbW9kZTogJ3JlYWQnLAogICAgICAgIHNob3dUb29sYmFyOiBmYWxzZSwvL+W3peWFt+agjwogICAgICAgIHNob3dDb250ZXh0bWVudTogZmFsc2UsLy/lj7PplK7oj5zljZUKICAgICAgfQogICAgICBzaGVldE9wdGlvbnMgPSB7Li4ub3B0aW9ucywgcmVzZXR9OwoKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICByb3dzOiB7CiAgICAgICAgMTogewogICAgICAgICAgY2VsbHM6IHsKICAgICAgICAgICAgMDogeyB0ZXh0OiAndGVzdGluZ3Rlc3R0ZXN0ZXRzdCcgfSwKICAgICAgICAgICAgMjogeyB0ZXh0OiAndGVzdGluZycgfSwKICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICAyOiB7CiAgICAgICAgICBjZWxsczogewogICAgICAgICAgICAwOiB7IHRleHQ6ICdyZW5kZXInLCBzdHlsZTogMCB9LAogICAgICAgICAgICAxOiB7IHRleHQ6ICdIZWxsbycgfSwKICAgICAgICAgICAgMjogeyB0ZXh0OiAnaGFoYSd9LAogICAgICAgICAgfQogICAgICAgIH0sCgogICAgICB9LA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwoKICB9</text>
       </register>
       <register name="5" type="4">
-        <text>styles: [
-
-      ],
-      merges: [
-      ],</text>
+        <text encoding="base64">PElucHV0CiAgICAgICAgICBzdHlsZT17e21hcmdpblRvcDogOH19CiAgICAgICAgICBkZWZhdWx0VmFsdWU9e2FwaX0KICAgICAgICAgIGFkZG9uQmVmb3JlPSLmjqXlj6MiCiAgICAgICAgICBvbkNoYW5nZT17ZSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gZS50YXJnZXQudmFsdWU7CiAgICAgICAgICAgIGlmICh2YWx1ZSAmJiB2YWx1ZS50cmltKCkpIHsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHthcGk6IHZhbHVlLnRyaW0oKX0pCiAgICAgICAgICAgIH0KICAgICAgICAgIH19Lz4KICAgICAgICA8SW5wdXQKICAgICAgICAgIHN0eWxlPXt7bWFyZ2luVG9wOiA4fX0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17dmFsdWV9CiAgICAgICAgICBhZGRvbkJlZm9yZT0i5YC85bGe5oCnIgogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gewogICAgICAgICAgICBjb25zdCB2YWx1ZSA9IGUudGFyZ2V0LnZhbHVlOwoKICAgICAgICAgICAgaWYgKHZhbHVlICYmIHZhbHVlLnRyaW0oKSkgewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiB2YWx1ZS50cmltKCl9KQogICAgICAgICAgICB9CiAgICAgICAgICB9fS8+CiAgICAgICAgPElucHV0CiAgICAgICAgICBzdHlsZT17e21hcmdpblRvcDogOH19CiAgICAgICAgICBkZWZhdWx0VmFsdWU9e25hbWV9CiAgICAgICAgICBhZGRvbkJlZm9yZT0i5ZCN56ew5bGe5oCnIgogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gewogICAgICAgICAgICBjb25zdCB2YWx1ZSA9IGUudGFyZ2V0LnZhbHVlOwoKICAgICAgICAgICAgaWYgKHZhbHVlICYmIHZhbHVlLnRyaW0oKSkgewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe25hbWU6IHZhbHVlLnRyaW0oKX0pCiAgICAgICAgICAgIH0KICAgICAgICAgIH19Lz4KICAgICAgICA8QnV0dG9uIGJsb2NrIHR5cGU9eydwcmltYXJ5J30gc3R5bGU9e3ttYXJnaW5Ub3A6IDh9fSBpY29uPXsnc3luYyd9IG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgIGlmIChhcGkgIT0gdW5kZWZpbmVkICYmIHZhbHVlICE9IHVuZGVmaW5lZCAmJiBuYW1lICE9IHVuZGVmaW5lZCkgewogICAgICAgICAgICBhcGlFbnVtcyh7YXBpLCB2YWx1ZSwgbmFtZX0pOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbWVzc2FnZS53YXJuKCfkv6Hmga/loavlhpnkuI3lhagnKTsKICAgICAgICAgIH0KICAgICAgICB9fT7nlJ/miJA8L0J1dHRvbj4=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGNvbXBvbmVudFdpbGxNb3VudCA9ICgpID0+IHsKICAgIE5Qcm9ncmVzcy5zdGFydCgpOwogIH07</text>
+        <text>this.state = {
+      api: value.api ? value.api : '',
+      value: value.value ? value.value : '',
+      name: value.name ? value.name : '',
+    };</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBtZXJnZXM6IFsKICAgICAgICAnQzM6RDQnLAogICAgICBdLA==</text>
+        <text encoding="base64">ICAgPFRpbWVUaHJvdHRsZVRleHRBcmVhCiAgICAgICAga2V5PXtrZXl9CiAgICAgICAgdGl0bGU9e3RpdGxlfQogICAgICAgIHZhbHVlPXt2YWx1ZX0KICAgICAgICBvbkNoYW5nZT17dmFsdWUgPT4gdXBkYXRlKHtba2V5XTogdmFsdWUgfHwgdW5kZWZpbmVkfSl9CiAgICAgICAgYXV0b3NpemUKICAgICAgLz4s</text>
       </register>
-      <register name="8" type="4">
-        <text>styles: [
-        {
-          bgcolor: '#f4f5f8',
-          textwrap: true,
-          color: '#900b09',
-          border: {
-            top: ['thin', '#0366d6'],
-            bottom: ['thin', '#0366d6'],
-            right: ['thin', '#0366d6'],
-            left: ['thin', '#0366d6'],
-          },
-        },
-      ],</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTaGVldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFNwcmVhZHNoZWV0LmxvY2FsZSgnemgtY24nLCB6aENOKTsKICAgIC8vIGNvbnNvbGUubG9nKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ4LXNwcmVhZHNoZWV0LWRlbW8iKSk7CiAgICAvLyBuZXcgU3ByZWFkc2hlZXQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIngtc3ByZWFkc2hlZXQtZGVtbyIpKQogICAgLy8gICAubG9hZERhdGEoe30pIC8vIGxvYWQgZGF0YQogICAgLy8gICAuY2hhbmdlKGRhdGEgPT4gewogICAgLy8gICAgY29uc29sZS5sb2coZGF0YSk7CiAgICAvLyB9KTs=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTaGVldCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
