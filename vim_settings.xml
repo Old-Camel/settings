@@ -33,12 +33,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/App.jsx" timestamp="1588992908303">
         <mark key="[" line="150" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/package.json" timestamp="1588833228494">
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="21" />
-        <mark key="^" line="80" column="21" />
-        <mark key="." line="80" column="21" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589004945145">
         <mark key="'" line="383" column="4" />
         <mark key="[" line="1131" column="19" />
@@ -46,21 +40,26 @@
         <mark key="." line="384" column="3" />
         <mark key="^" line="384" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" timestamp="1589005931835">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" timestamp="1589007354917">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1589006089339">
         <mark key="[" line="177" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1589008427181" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/utils.js" timestamp="1589008027298">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1589006112976" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
         <mark key="[" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588992671375">
-        <mark key="[" line="225" column="117" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1589008466744">
+        <mark key="[" line="146" column="73" />
         <mark key="]" line="139" column="4" />
         <mark key="." line="139" column="4" />
       </file>
@@ -74,11 +73,6 @@
         <mark key="[" line="128" column="16" />
         <mark key="]" line="127" column="15" />
         <mark key="." line="127" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588845990988">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DeptTree.js" timestamp="1588990313856">
         <mark key="[" line="23" column="6" />
@@ -94,6 +88,9 @@
         <mark key="]" line="50" column="60" />
         <mark key="." line="50" column="60" />
         <mark key="^" line="49" column="61" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/enums/CustomFormType.java" timestamp="1589008878537">
+        <mark key="[" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1588990337842" />
     </filemarks>
@@ -121,44 +118,44 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
+        <text>isDay</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>isDay</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
+        <text encoding="base64">IHZhciBzZWNvbmQgPSBwYXJzZUludChob3VyKSAlIDYwOwogICAgdmFyIG1pbiA9IHBhcnNlSW50KGhvdXIgLyA2MCk7CiAgICB0aW1lID0gbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKCiAgICBpZiAobWluID4gNjApIHsKICAgICAgbWluID0gcGFyc2VJbnQoaG91ciAvIDYwKSAlIDYwOwogICAgICB2YXIgaG91ciA9IHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCk7CiAgICAgIHRpbWUgPSBob3VyICsgJ+Wwj+aXticgKyBtaW4gKyAn5YiGJyArIHNlY29uZCArICfnp5InOwoKICAgICAgaWYgKGhvdXIgPiAyNCkgewogICAgICAgIGhvdXIgPSBwYXJzZUludChwYXJzZUludChob3VyIC8gNjApIC8gNjApICUgMjQ7CiAgICAgICAgdmFyIGRheSA9IHBhcnNlSW50KHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCkgLyAyNCk7CiAgICAgICAgdGltZSA9IGRheSArICflpKknICsgaG91ciArICflsI/ml7YnICsgbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICB7JyAnfQogICAgICAgIOWkqQ==</text>
+        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PElucHV0TnVtYmVyCiAgICAgICAgICByZWFkT25seT17cmVhZG9ubHl9CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICAgIG1pbj17MH0KICAgICAgICAgIHZhbHVlPXtudW12KCl9CiAgICAgICAgICBvbkNoYW5nZT17diA9PiB7CiAgICAgICAgICAgIHZhbHVlLm51bSA9IHY7CiAgICAgICAgICAgIHByb3BzLm9uQ2hhbmdlKHZhbHVlKTsKICAgICAgICAgIH19CiAgICAgICAgLz4=</text>
+        <text encoding="base64">ICB7JyAnfQogICAgICAgIOWkqQ==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PElucHV0TnVtYmVyCiAgICAgICAgICByZWFkT25seT17cmVhZG9ubHl9CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICAgIG1pbj17MH0KICAgICAgICAgIHZhbHVlPXtudW12KCl9CiAgICAgICAgICBvbkNoYW5nZT17diA9PiB7CiAgICAgICAgICAgIHZhbHVlLm51bSA9IHY7CiAgICAgICAgICAgIHByb3BzLm9uQ2hhbmdlKHZhbHVlKTsKICAgICAgICAgIH19CiAgICAgICAgLz4=</text>
+      </register>
+      <register name="5" type="4">
         <text>else if(timeRangeType=='h'){
             newv.num = v[1].diff(v[0], 'hour') ;
           }else if(timeRangeType=='m'){
             newv.num = v[1].diff(v[0], 'minute') ;
           }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">c3VibWl0Q29udGVudCA9IGFzeW5jICgpID0+IHsKICAgIC8vIFByZXNzaW5nIGN0cmwgKyBzIHdoZW4gdGhlIGVkaXRvciBoYXMgZm9jdXMgd2lsbCBleGVjdXRlIHRoaXMgbWV0aG9kCiAgICAvLyBCZWZvcmUgdGhlIGVkaXRvciBjb250ZW50IGlzIHN1Ym1pdHRlZCB0byB0aGUgc2VydmVyLCB5b3UgY2FuIGRpcmVjdGx5IGNhbGwgZWRpdG9yU3RhdGUudG9IVE1MICgpIHRvIGdldCB0aGUgSFRNTCBjb250ZW50CiAgICBjb25zdCBodG1sQ29udGVudCA9IHRoaXMuc3RhdGUuZWRpdG9yU3RhdGUudG9IVE1MKCkKICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHN0YXRlID0gewogICAgZWRpdG9yU3RhdGU6IG51bGwKICB9CgogIGFzeW5jIGNvbXBvbmVudERpZE1vdW50ICgpIHsKICAgIC8vIEFzc3VtZSBoZXJlIHRvIGdldCB0aGUgZWRpdG9yIGNvbnRlbnQgaW4gaHRtbCBmb3JtYXQgZnJvbSB0aGUgc2VydmVyCiAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0c2hlZXQtY2FyZCIpPT1udWxsKXsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInQtc3ByZWFkc2hlZXQiKT09bnVsbCl7CiAgICAgIHJldHVybjsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PFRleHRBcmVhCiAgICAgICAgICB7Li4ucmVzdH0KICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy5vbkNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBvbkJsdXI9e3RoaXMub25CbHVyfQogICAgICAgIC8+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IGZ1bGw9KCk9PnsKICAgIGZ1bGxTY3JlZW4oKTsKICAgIHRoaXMuc2V0U2hlZXQoKTsKICB9</text>
+        <text encoding="base64">PFRleHRBcmVhCiAgICAgICAgICB7Li4ucmVzdH0KICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy5vbkNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBvbkJsdXI9e3RoaXMub25CbHVyfQogICAgICAgIC8+</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
