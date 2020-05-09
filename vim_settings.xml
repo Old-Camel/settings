@@ -24,19 +24,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
-        <mark key="[" line="9" column="23" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/TextareaWidget.js" timestamp="1588923197249" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/SheetTemplate.js" timestamp="1588933973065">
         <mark key="[" line="72" column="5" />
         <mark key="]" line="140" column="3" />
         <mark key="." line="140" column="3" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588992671375">
-        <mark key="[" line="225" column="117" />
-        <mark key="]" line="139" column="4" />
-        <mark key="." line="139" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/App.jsx" timestamp="1588992908303">
         <mark key="[" line="150" column="20" />
@@ -47,12 +39,36 @@
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589004945145">
+        <mark key="'" line="383" column="4" />
+        <mark key="[" line="1131" column="19" />
+        <mark key="]" line="384" column="4" />
+        <mark key="." line="384" column="3" />
+        <mark key="^" line="384" column="4" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/LeavePluginWidget.js" timestamp="1589005931835">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1589006089339">
+        <mark key="[" line="177" column="61" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1589006112976" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/document.ejs" timestamp="1588901554837">
+        <mark key="[" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1588992671375">
+        <mark key="[" line="225" column="117" />
+        <mark key="]" line="139" column="4" />
+        <mark key="." line="139" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Editor.js" timestamp="1588992295331">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/IdentityServiceImpl.java" timestamp="1588758314938" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SelectWidget.js" timestamp="1588908837646" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588988260344">
         <mark key="[" line="128" column="16" />
@@ -64,20 +80,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1588927630046">
-        <mark key="[" line="177" column="68" />
-        <mark key="]" line="177" column="8" />
-        <mark key="." line="177" column="8" />
-        <mark key="^" line="381" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1588908828634">
-        <mark key="[" line="177" column="61" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateTimeWidget.js" timestamp="1588758480472">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DeptTree.js" timestamp="1588990313856">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="6" />
@@ -86,10 +88,9 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Toolbar.jsx" timestamp="1588992869158">
         <mark key="[" line="121" column="27" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
       <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/UserMapper.xml" timestamp="1588925879517" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588995467485">
-        <mark key="[" line="36" column="48" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1589004176596">
+        <mark key="[" line="36" column="59" />
         <mark key="]" line="50" column="60" />
         <mark key="." line="50" column="60" />
         <mark key="^" line="49" column="61" />
@@ -114,49 +115,50 @@
       <jump line="41" column="54" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" />
       <jump line="12" column="22" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" />
       <jump line="16" column="30" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" />
+      <jump line="383" column="4" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">c3VibWl0Q29udGVudCA9IGFzeW5jICgpID0+IHsKICAgIC8vIFByZXNzaW5nIGN0cmwgKyBzIHdoZW4gdGhlIGVkaXRvciBoYXMgZm9jdXMgd2lsbCBleGVjdXRlIHRoaXMgbWV0aG9kCiAgICAvLyBCZWZvcmUgdGhlIGVkaXRvciBjb250ZW50IGlzIHN1Ym1pdHRlZCB0byB0aGUgc2VydmVyLCB5b3UgY2FuIGRpcmVjdGx5IGNhbGwgZWRpdG9yU3RhdGUudG9IVE1MICgpIHRvIGdldCB0aGUgSFRNTCBjb250ZW50CiAgICBjb25zdCBodG1sQ29udGVudCA9IHRoaXMuc3RhdGUuZWRpdG9yU3RhdGUudG9IVE1MKCkKICB9</text>
+        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>editorState</text>
+        <text>value</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">c3VibWl0Q29udGVudCA9IGFzeW5jICgpID0+IHsKICAgIC8vIFByZXNzaW5nIGN0cmwgKyBzIHdoZW4gdGhlIGVkaXRvciBoYXMgZm9jdXMgd2lsbCBleGVjdXRlIHRoaXMgbWV0aG9kCiAgICAvLyBCZWZvcmUgdGhlIGVkaXRvciBjb250ZW50IGlzIHN1Ym1pdHRlZCB0byB0aGUgc2VydmVyLCB5b3UgY2FuIGRpcmVjdGx5IGNhbGwgZWRpdG9yU3RhdGUudG9IVE1MICgpIHRvIGdldCB0aGUgSFRNTCBjb250ZW50CiAgICBjb25zdCBodG1sQ29udGVudCA9IHRoaXMuc3RhdGUuZWRpdG9yU3RhdGUudG9IVE1MKCkKICB9</text>
+        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHN0YXRlID0gewogICAgZWRpdG9yU3RhdGU6IG51bGwKICB9CgogIGFzeW5jIGNvbXBvbmVudERpZE1vdW50ICgpIHsKICAgIC8vIEFzc3VtZSBoZXJlIHRvIGdldCB0aGUgZWRpdG9yIGNvbnRlbnQgaW4gaHRtbCBmb3JtYXQgZnJvbSB0aGUgc2VydmVyCiAgfQ==</text>
+        <text encoding="base64">ICB7JyAnfQogICAgICAgIOWkqQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGlmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0c2hlZXQtY2FyZCIpPT1udWxsKXsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInQtc3ByZWFkc2hlZXQiKT09bnVsbCl7CiAgICAgIHJldHVybjsKICAgIH0=</text>
+        <text encoding="base64">PElucHV0TnVtYmVyCiAgICAgICAgICByZWFkT25seT17cmVhZG9ubHl9CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBhdXRvRm9jdXM9e2F1dG9mb2N1c30KICAgICAgICAgIG1pbj17MH0KICAgICAgICAgIHZhbHVlPXtudW12KCl9CiAgICAgICAgICBvbkNoYW5nZT17diA9PiB7CiAgICAgICAgICAgIHZhbHVlLm51bSA9IHY7CiAgICAgICAgICAgIHByb3BzLm9uQ2hhbmdlKHZhbHVlKTsKICAgICAgICAgIH19CiAgICAgICAgLz4=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PFRleHRBcmVhCiAgICAgICAgICB7Li4ucmVzdH0KICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy5vbkNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBvbkJsdXI9e3RoaXMub25CbHVyfQogICAgICAgIC8+</text>
+        <text>else if(timeRangeType=='h'){
+            newv.num = v[1].diff(v[0], 'hour') ;
+          }else if(timeRangeType=='m'){
+            newv.num = v[1].diff(v[0], 'minute') ;
+          }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGZ1bGw9KCk9PnsKICAgIGZ1bGxTY3JlZW4oKTsKICAgIHRoaXMuc2V0U2hlZXQoKTsKICB9</text>
+        <text encoding="base64">c3VibWl0Q29udGVudCA9IGFzeW5jICgpID0+IHsKICAgIC8vIFByZXNzaW5nIGN0cmwgKyBzIHdoZW4gdGhlIGVkaXRvciBoYXMgZm9jdXMgd2lsbCBleGVjdXRlIHRoaXMgbWV0aG9kCiAgICAvLyBCZWZvcmUgdGhlIGVkaXRvciBjb250ZW50IGlzIHN1Ym1pdHRlZCB0byB0aGUgc2VydmVyLCB5b3UgY2FuIGRpcmVjdGx5IGNhbGwgZWRpdG9yU3RhdGUudG9IVE1MICgpIHRvIGdldCB0aGUgSFRNTCBjb250ZW50CiAgICBjb25zdCBodG1sQ29udGVudCA9IHRoaXMuc3RhdGUuZWRpdG9yU3RhdGUudG9IVE1MKCkKICB9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGlmIChkaXNhYmxlZCkgewogICAgICBsZXQgcmVzZXQgPSB7CiAgICAgICAgbW9kZTogJ3JlYWQnLAogICAgICAgIHNob3dUb29sYmFyOiBmYWxzZSwvL+W3peWFt+agjwogICAgICAgIHNob3dDb250ZXh0bWVudTogZmFsc2UsLy/lj7PplK7oj5zljZUKICAgICAgfQogICAgICBzaGVldE9wdGlvbnMgPSB7Li4ub3B0aW9ucywgcmVzZXR9OwoKICAgIH0=</text>
+        <text encoding="base64">IHN0YXRlID0gewogICAgZWRpdG9yU3RhdGU6IG51bGwKICB9CgogIGFzeW5jIGNvbXBvbmVudERpZE1vdW50ICgpIHsKICAgIC8vIEFzc3VtZSBoZXJlIHRvIGdldCB0aGUgZWRpdG9yIGNvbnRlbnQgaW4gaHRtbCBmb3JtYXQgZnJvbSB0aGUgc2VydmVyCiAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwoKICB9</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0c2hlZXQtY2FyZCIpPT1udWxsKXsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInQtc3ByZWFkc2hlZXQiKT09bnVsbCl7CiAgICAgIHJldHVybjsKICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PElucHV0CiAgICAgICAgICBzdHlsZT17e21hcmdpblRvcDogOH19CiAgICAgICAgICBkZWZhdWx0VmFsdWU9e2FwaX0KICAgICAgICAgIGFkZG9uQmVmb3JlPSLmjqXlj6MiCiAgICAgICAgICBvbkNoYW5nZT17ZSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gZS50YXJnZXQudmFsdWU7CiAgICAgICAgICAgIGlmICh2YWx1ZSAmJiB2YWx1ZS50cmltKCkpIHsKICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHthcGk6IHZhbHVlLnRyaW0oKX0pCiAgICAgICAgICAgIH0KICAgICAgICAgIH19Lz4KICAgICAgICA8SW5wdXQKICAgICAgICAgIHN0eWxlPXt7bWFyZ2luVG9wOiA4fX0KICAgICAgICAgIGRlZmF1bHRWYWx1ZT17dmFsdWV9CiAgICAgICAgICBhZGRvbkJlZm9yZT0i5YC85bGe5oCnIgogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gewogICAgICAgICAgICBjb25zdCB2YWx1ZSA9IGUudGFyZ2V0LnZhbHVlOwoKICAgICAgICAgICAgaWYgKHZhbHVlICYmIHZhbHVlLnRyaW0oKSkgewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiB2YWx1ZS50cmltKCl9KQogICAgICAgICAgICB9CiAgICAgICAgICB9fS8+CiAgICAgICAgPElucHV0CiAgICAgICAgICBzdHlsZT17e21hcmdpblRvcDogOH19CiAgICAgICAgICBkZWZhdWx0VmFsdWU9e25hbWV9CiAgICAgICAgICBhZGRvbkJlZm9yZT0i5ZCN56ew5bGe5oCnIgogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gewogICAgICAgICAgICBjb25zdCB2YWx1ZSA9IGUudGFyZ2V0LnZhbHVlOwoKICAgICAgICAgICAgaWYgKHZhbHVlICYmIHZhbHVlLnRyaW0oKSkgewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe25hbWU6IHZhbHVlLnRyaW0oKX0pCiAgICAgICAgICAgIH0KICAgICAgICAgIH19Lz4KICAgICAgICA8QnV0dG9uIGJsb2NrIHR5cGU9eydwcmltYXJ5J30gc3R5bGU9e3ttYXJnaW5Ub3A6IDh9fSBpY29uPXsnc3luYyd9IG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgIGlmIChhcGkgIT0gdW5kZWZpbmVkICYmIHZhbHVlICE9IHVuZGVmaW5lZCAmJiBuYW1lICE9IHVuZGVmaW5lZCkgewogICAgICAgICAgICBhcGlFbnVtcyh7YXBpLCB2YWx1ZSwgbmFtZX0pOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbWVzc2FnZS53YXJuKCfkv6Hmga/loavlhpnkuI3lhagnKTsKICAgICAgICAgIH0KICAgICAgICB9fT7nlJ/miJA8L0J1dHRvbj4=</text>
+        <text encoding="base64">PFRleHRBcmVhCiAgICAgICAgICB7Li4ucmVzdH0KICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnZhbHVlfQogICAgICAgICAgb25DaGFuZ2U9e2UgPT4gdGhpcy5vbkNoYW5nZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBvbkJsdXI9e3RoaXMub25CbHVyfQogICAgICAgIC8+</text>
       </register>
       <register name="9" type="4">
-        <text>this.state = {
-      api: value.api ? value.api : '',
-      value: value.value ? value.value : '',
-      name: value.name ? value.name : '',
-    };</text>
+        <text encoding="base64">IGZ1bGw9KCk9PnsKICAgIGZ1bGxTY3JlZW4oKTsKICAgIHRoaXMuc2V0U2hlZXQoKTsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
