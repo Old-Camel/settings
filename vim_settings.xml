@@ -57,9 +57,10 @@
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/node_modules/x-data-spreadsheet/src/index.js" timestamp="1589011179036" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/util/FlowUtils.java" timestamp="1589006112976" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1589013269702">
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="23" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Sheet.js" timestamp="1589014288107">
+        <mark key="[" line="115" column="34" />
+        <mark key="]" line="115" column="39" />
+        <mark key="." line="115" column="39" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Editor.js" timestamp="1589010230038">
         <mark key="[" line="26" column="25" />
@@ -114,14 +115,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>console.log(   document.getElementById(id+&quot;-sheet-card&quot;).clientHeight,
- document.getElementById(id+&quot;-sheet-card&quot;).clientWidth,
-   window.screen.height,
-  window.screen.width);</text>
+      <register name="*" type="4">
+        <text>card</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text>card</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
