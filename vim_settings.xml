@@ -45,12 +45,15 @@
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Editor.js" timestamp="1588988207332">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-engine/6.4.1/flowable-engine-6.4.1-sources.jar!/org/flowable/engine/impl/IdentityServiceImpl.java" timestamp="1588758314938" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SelectWidget.js" timestamp="1588908837646" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588833566201">
-        <mark key="[" line="126" column="15" />
-        <mark key="]" line="126" column="15" />
-        <mark key="." line="126" column="15" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1588988260344">
+        <mark key="[" line="128" column="16" />
+        <mark key="]" line="127" column="15" />
+        <mark key="." line="127" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1588845990988">
         <mark key="[" line="0" column="13" />
@@ -76,19 +79,16 @@
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/DateWidget.js" timestamp="1588758141617">
-        <mark key="[" line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Toolbar.jsx" timestamp="1588933265372">
         <mark key="[" line="130" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/Reimbursement.js" timestamp="1588833453942" />
       <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/UserMapper.xml" timestamp="1588925879517" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588923490973">
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="58" />
-        <mark key="." line="50" column="58" />
-        <mark key="^" line="50" column="61" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/utils/menu.js" timestamp="1588988240728">
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="60" />
+        <mark key="." line="50" column="60" />
+        <mark key="^" line="49" column="61" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/BaseInput.js" timestamp="1588923176115" />
     </filemarks>
@@ -115,10 +115,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IGlmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0c2hlZXQtY2FyZCIpPT1udWxsKXsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInQtc3ByZWFkc2hlZXQiKT09bnVsbCl7CiAgICAgIHJldHVybjsKICAgIH0=</text>
+        <text>表格</text>
       </register>
       <register name="-" type="4">
-        <text>tsheet-card</text>
+        <text>表格</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
