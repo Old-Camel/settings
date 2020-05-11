@@ -31,7 +31,7 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/pitcher-piano/src/main/resources/application.properties" timestamp="1589186556586">
+      <file name="$USER_HOME$/data/code/pitcher-piano/src/main/resources/application.properties" timestamp="1589186709274">
         <mark key="[" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/utils.js" timestamp="1589176777529">
@@ -53,7 +53,6 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/FormView.jsx" timestamp="1589178621383">
         <mark key="[" line="153" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/MacroText.js" timestamp="1589175786457" />
       <file name="$USER_HOME$/data/code/flowable-web/src/components/SiderMenu/BaseMenu.js" timestamp="1589181106021" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Tree/TreeNodeTitle.jsx" timestamp="1589185520303">
         <mark key="[" line="58" column="28" />
@@ -63,6 +62,11 @@
         <mark key="[" line="71" column="21" />
         <mark key="]" line="71" column="21" />
         <mark key="." line="71" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1589187000300">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="220" column="37" />
+        <mark key="." line="220" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -89,10 +93,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">PHNwYW4+</text>
+        <text>istio</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNwYW4+</text>
+        <text>istio</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
