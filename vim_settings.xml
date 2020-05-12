@@ -24,26 +24,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/datafill-web/src/utils/陕西交通path/Path.js" timestamp="1589248877131">
-        <mark key="[" line="7" column="67" />
-      </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/DeptUserAudit.js" timestamp="1589251907547">
         <mark key="[" line="332" column="80" />
         <mark key="]" line="97" column="19" />
         <mark key="." line="97" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/陕西交通部署覆盖文件/src/utils/Path.js" timestamp="1589253832431" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589272277828">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589273219749">
         <mark key="'" line="383" column="4" />
-        <mark key="[" line="936" column="22" />
-        <mark key="]" line="955" column="29" />
-        <mark key="." line="955" column="29" />
+        <mark key="[" line="993" column="0" />
+        <mark key="]" line="994" column="0" />
         <mark key="^" line="384" column="4" />
+        <mark key="." line="992" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1589252028451">
         <mark key="[" line="177" column="61" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Monitor/DeptInfo.jsx" timestamp="1589249114701" />
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/Flow/FlowSetting.js" timestamp="1589273053599">
+        <mark key="[" line="759" column="19" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/TaskCreateListener.java" timestamp="1589267455433" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserData.java" timestamp="1589267623279" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/rjsf-patch/widgets/SelectWidget.js" timestamp="1589271200036">
@@ -102,8 +102,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>true</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y29uc3QgW2VudW1LZXksIGVudW1OYW1lXSA9IFtbJ2VudW0nLCAn5LiL5ouJ6YCJ6aG5J10sIFsnZW51bU5hbWVzJywgJ+S4i+aLiemAiemhueWQjeensCddXS5tYXAoCiAgKFtrZXksIHRpdGxlXSkgPT4gKHtub2RlOiB7c2NoZW1hfSwgdXBkYXRlU2NoZW1hOiB1cGRhdGV9KSA9PiB7CiAgICBpZiAoIVsnZHJvcGRvd24nLCAnY2hlY2tib3hlc0l0ZW1zJ10uaW5jbHVkZXMoc2NoZW1hLmN1c3RvbVR5cGUpKSByZXR1cm4gW107CiAgICBsZXQgdj1zY2hlbWFba2V5XT9zY2hlbWFba2V5XTpbXTsKICAgIGRlYnVnZ2VyOwogICAgaWYgKHNjaGVtYVtrZXldID09PSB1bmRlZmluZWQpIHsKICAgICAgcmV0dXJuIFsKICAgICAgICA8TWVudS5JdGVtIGtleT17a2V5fSBvbkNsaWNrPXsoKSA9PiB1cGRhdGUoe1trZXldOiBbXX0pfT4KICAgICAgICAgIHt0aXRsZX0KICAgICAgICA8L01lbnUuSXRlbT4sCiAgICAgIF07CiAgICB9IGVsc2UgewogICAgICByZXR1cm4gWwogICAgICAgIG51bGwsCiAgICAgICAgPEZvcm1JdGVtVGVtcGxhdGUga2V5PXtrZXl9IHRpdGxlPXt0aXRsZX0gcmVtb3ZlPXsoKSA9PiB1cGRhdGUoe1trZXldOiB1bmRlZmluZWR9KX0+CiAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgIG1vZGU9InRhZ3MiCiAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319CiAgICAgICAgICAgIG9uQ2hhbmdlPXt2YWx1ZXMgPT4gdXBkYXRlKHtba2V5XTogdmFsdWVzfSl9CiAgICAgICAgICAgIHZhbHVlPXt2fQogICAgICAgICAgPgogICAgICAgICAgICB7di5tYXAoKGEsaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiBrZXk9e2luZGV4fSB2YWx1ZT17YX0+e2F9PC9TZWxlY3QuT3B0aW9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgIDwvRm9ybUl0ZW1UZW1wbGF0ZT4sCiAgICAgIF07CiAgICB9CiAgfQopOw==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -111,35 +111,35 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGRlcHRDb2x1bW4uZm9yRWFjaChjID0+IHsKICAgICAgICB2W2MuZmllbGRUZXh0XSA9IGQucGVyc29ucy5maWx0ZXIocCA9PiBwLmZpZWxkTmFtZSA9PT0gYy5maWVsZE5hbWUpWzBdLmFjY29yZC5sZW5ndGg7CiAgICAgIH0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgW2VudW1LZXksIGVudW1OYW1lXSA9IFtbJ2VudW0nLCAn5LiL5ouJ6YCJ6aG5J10sIFsnZW51bU5hbWVzJywgJ+S4i+aLiemAiemhueWQjeensCddXS5tYXAoCiAgKFtrZXksIHRpdGxlXSkgPT4gKHtub2RlOiB7c2NoZW1hfSwgdXBkYXRlU2NoZW1hOiB1cGRhdGV9KSA9PiB7CiAgICBpZiAoIVsnZHJvcGRvd24nLCAnY2hlY2tib3hlc0l0ZW1zJ10uaW5jbHVkZXMoc2NoZW1hLmN1c3RvbVR5cGUpKSByZXR1cm4gW107CiAgICBsZXQgdj1zY2hlbWFba2V5XT9zY2hlbWFba2V5XTpbXTsKICAgIGRlYnVnZ2VyOwogICAgaWYgKHNjaGVtYVtrZXldID09PSB1bmRlZmluZWQpIHsKICAgICAgcmV0dXJuIFsKICAgICAgICA8TWVudS5JdGVtIGtleT17a2V5fSBvbkNsaWNrPXsoKSA9PiB1cGRhdGUoe1trZXldOiBbXX0pfT4KICAgICAgICAgIHt0aXRsZX0KICAgICAgICA8L01lbnUuSXRlbT4sCiAgICAgIF07CiAgICB9IGVsc2UgewogICAgICByZXR1cm4gWwogICAgICAgIG51bGwsCiAgICAgICAgPEZvcm1JdGVtVGVtcGxhdGUga2V5PXtrZXl9IHRpdGxlPXt0aXRsZX0gcmVtb3ZlPXsoKSA9PiB1cGRhdGUoe1trZXldOiB1bmRlZmluZWR9KX0+CiAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgIG1vZGU9InRhZ3MiCiAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319CiAgICAgICAgICAgIG9uQ2hhbmdlPXt2YWx1ZXMgPT4gdXBkYXRlKHtba2V5XTogdmFsdWVzfSl9CiAgICAgICAgICAgIHZhbHVlPXt2fQogICAgICAgICAgPgogICAgICAgICAgICB7di5tYXAoKGEsaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiBrZXk9e2luZGV4fSB2YWx1ZT17YX0+e2F9PC9TZWxlY3QuT3B0aW9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgIDwvRm9ybUl0ZW1UZW1wbGF0ZT4sCiAgICAgIF07CiAgICB9CiAgfQopOw==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGRlcHRDb2x1bW4uZm9yRWFjaChjID0+IHsKICAgICAgICB2W2MuZmllbGRUZXh0XSA9IGQucGVyc29ucy5maWx0ZXIocCA9PiBwLmZpZWxkTmFtZSA9PT0gYy5maWVsZE5hbWUpWzBdLmFjY29yZC5sZW5ndGg7CiAgICAgIH0pOw==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IGQuYWxsQ29tbWl0ZWQuZm9yRWFjaChhdSA9PiB7CiAgICAgICAgaWYgKCFkLmNvbW1pdGVkLmZpbmQoY3UgPT4gY3UuVVNFUl9JRCA9PT0gYXUuVVNFUl9JRCkpIHsKICAgICAgICAgIHVuQ29tbWl0VXNlcnMucHVzaChhdSk7CiAgICAgICAgfQogICAgICB9KTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text>feat(表单修改):表单设计 完成</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ly8gb25DaGFuZ2U9e3ZhbCA9PiB7CiAgICAgICAgICAvLyAgIHRoaXMuc2V0U3RhdGUoeyBkYXlzOiB2YWwgfSwgdGhpcy5zdWJtaXQpOwogICAgICAgICAgLy8gfQogICAgICAgICAgLy8KICAgICAgICAgIC8vIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgdGhhdD10aGlzOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>console.log(   document.getElementById(id+&quot;-sheet-card&quot;).clientHeight,
  document.getElementById(id+&quot;-sheet-card&quot;).clientWidth,
    window.screen.height,
   window.screen.width);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmICgKICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQrIi1zaGVldC1jYXJkIikuY2xpZW50SGVpZ2h0ID09PSB3aW5kb3cuc2NyZWVuLmhlaWdodCB8fAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCsiLXNoZWV0LWNhcmQiKS5jbGllbnRXaWR0aCA9PT0gd2luZG93LnNjcmVlbi53aWR0aAogICAgKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoe2lzRnVsbDogdHJ1ZX0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7aXNGdWxsOiBmYWxzZX0pOwoKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHZhciBzZWNvbmQgPSBwYXJzZUludChob3VyKSAlIDYwOwogICAgdmFyIG1pbiA9IHBhcnNlSW50KGhvdXIgLyA2MCk7CiAgICB0aW1lID0gbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKCiAgICBpZiAobWluID4gNjApIHsKICAgICAgbWluID0gcGFyc2VJbnQoaG91ciAvIDYwKSAlIDYwOwogICAgICB2YXIgaG91ciA9IHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCk7CiAgICAgIHRpbWUgPSBob3VyICsgJ+Wwj+aXticgKyBtaW4gKyAn5YiGJyArIHNlY29uZCArICfnp5InOwoKICAgICAgaWYgKGhvdXIgPiAyNCkgewogICAgICAgIGhvdXIgPSBwYXJzZUludChwYXJzZUludChob3VyIC8gNjApIC8gNjApICUgMjQ7CiAgICAgICAgdmFyIGRheSA9IHBhcnNlSW50KHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCkgLyAyNCk7CiAgICAgICAgdGltZSA9IGRheSArICflpKknICsgaG91ciArICflsI/ml7YnICsgbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKICAgICAgfQogICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKHZhbHVlICYmIHZhbHVlLm51bSkgewogICAgICByZXR1cm4gdmFsdWUubnVtOwogICAgfQ==</text>
+        <text encoding="base64">IHZhciBzZWNvbmQgPSBwYXJzZUludChob3VyKSAlIDYwOwogICAgdmFyIG1pbiA9IHBhcnNlSW50KGhvdXIgLyA2MCk7CiAgICB0aW1lID0gbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKCiAgICBpZiAobWluID4gNjApIHsKICAgICAgbWluID0gcGFyc2VJbnQoaG91ciAvIDYwKSAlIDYwOwogICAgICB2YXIgaG91ciA9IHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCk7CiAgICAgIHRpbWUgPSBob3VyICsgJ+Wwj+aXticgKyBtaW4gKyAn5YiGJyArIHNlY29uZCArICfnp5InOwoKICAgICAgaWYgKGhvdXIgPiAyNCkgewogICAgICAgIGhvdXIgPSBwYXJzZUludChwYXJzZUludChob3VyIC8gNjApIC8gNjApICUgMjQ7CiAgICAgICAgdmFyIGRheSA9IHBhcnNlSW50KHBhcnNlSW50KHBhcnNlSW50KGhvdXIgLyA2MCkgLyA2MCkgLyAyNCk7CiAgICAgICAgdGltZSA9IGRheSArICflpKknICsgaG91ciArICflsI/ml7YnICsgbWluICsgJ+WIhicgKyBzZWNvbmQgKyAn56eSJzsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
