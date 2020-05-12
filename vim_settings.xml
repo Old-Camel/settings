@@ -35,9 +35,9 @@
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Collect/AllDataFillTask.js" timestamp="1589247886767" />
       <file name="$USER_HOME$/data/code/wj-web/陕西交通部署覆盖文件/src/utils/Path.js" timestamp="1589253832431" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/TaskDao.xml" timestamp="1589248661576" />
-      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589269395189">
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" timestamp="1589270376481">
         <mark key="'" line="383" column="4" />
-        <mark key="[" line="952" column="30" />
+        <mark key="[" line="1005" column="50" />
         <mark key="]" line="955" column="29" />
         <mark key="." line="955" column="29" />
         <mark key="^" line="384" column="4" />
@@ -54,6 +54,11 @@
       <file name="$USER_HOME$/data/code/flowable-web/src/defaultSettings.js" timestamp="1589267827949" />
       <file name="$USER_HOME$/data/code/datafill-web/src/utils/Path.js" timestamp="1589250421978">
         <mark key="[" line="2" column="99" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/views/ProcessFormView.jsx" timestamp="1589269854813">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1589267683738">
         <mark key="[" line="0" column="14" />
@@ -94,10 +99,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>key</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
