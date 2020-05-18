@@ -24,24 +24,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1589768428031">
-        <mark key="[" line="809" column="32" />
-        <mark key="]" line="809" column="32" />
-        <mark key="." line="809" column="32" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1589780403136">
+        <mark key="[" line="809" column="52" />
+        <mark key="]" line="809" column="52" />
+        <mark key="." line="809" column="52" />
       </file>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/UserInfo.java" timestamp="1589771558575">
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/UserInfo.java" timestamp="1589780389237">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1589768116380" />
       <file name="$USER_HOME$/data/code/console/src/pages/clusters/components/Cards/Monitoring/UsageRank/index.jsx" timestamp="1589538486142" />
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1589769020393">
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/web/WJController.java" timestamp="1589780400222">
         <mark key="[" line="244" column="33" />
         <mark key="]" line="237" column="17" />
         <mark key="." line="237" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589769036079">
+      <file name="/Dummy.txt" timestamp="1589771578057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -50,6 +50,7 @@
         <mark key="[" line="51" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/sailor/src/main/java/com/yunzainfo/cloud/sailor/prometheus/builder/QueryBuilderType.java" timestamp="1589535837400" />
+      <file name="$USER_HOME$/data/code/console/src/stores/monitoring/base.js" timestamp="1589774064509" />
       <file name="$USER_HOME$/data/code/flowable-web/src/utils/utils.js" timestamp="1589768822472" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1589448786669" />
       <file name="$USER_HOME$/data/code/console/src/locales/zh/ranking.js" timestamp="1589538414083" />
@@ -88,10 +89,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>deptName</text>
+        <text>getDeptName</text>
       </register>
       <register name="-" type="4">
-        <text>deptName</text>
+        <text>getDeptName</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
