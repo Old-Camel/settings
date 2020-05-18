@@ -24,7 +24,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1589780403136">
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1589782014693">
         <mark key="[" line="809" column="52" />
         <mark key="]" line="809" column="52" />
         <mark key="." line="809" column="52" />
@@ -41,7 +41,7 @@
         <mark key="]" line="237" column="17" />
         <mark key="." line="237" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589780416607">
+      <file name="/Dummy.txt" timestamp="1589781232171">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -55,8 +55,10 @@
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/FlowableListenerConfig.java" timestamp="1589448786669" />
       <file name="$USER_HOME$/data/code/console/src/locales/zh/ranking.js" timestamp="1589538414083" />
       <file name="$USER_HOME$/data/code/console/src/pages/clusters/components/Cards/Monitoring/ClusterResource/index.jsx" timestamp="1589538529865" />
-      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultPage.js" timestamp="1589781073731">
-        <mark key="[" line="86" column="17" />
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/ResultPage.js" timestamp="1589782088677">
+        <mark key="[" line="102" column="6" />
+        <mark key="]" line="102" column="6" />
+        <mark key="." line="102" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1589532133679" />
       <file name="$USER_HOME$/data/code/console/src/pages/clusters/containers/Dashboard/Admin/ResourceUsage/index.jsx" timestamp="1589538672771" />
@@ -89,10 +91,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>getDeptName</text>
+        <text>if(x.title)</text>
       </register>
       <register name="-" type="4">
-        <text>getDeptName</text>
+        <text>if(x.title)</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
