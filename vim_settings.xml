@@ -33,16 +33,19 @@
         <mark key="." line="129" column="2" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Mine.js" timestamp="1590375328019" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590374337191">
-        <mark key="[" line="221" column="42" />
-        <mark key="]" line="278" column="22" />
-        <mark key="." line="278" column="22" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590376536016">
+        <mark key="[" line="281" column="27" />
+        <mark key="]" line="281" column="28" />
+        <mark key="." line="281" column="27" />
+        <mark key="^" line="281" column="28" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor-web/node_modules/antd/lib/icon/index.d.ts" timestamp="1590376468348" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/object.mapper.js" timestamp="1590138666318">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Index.less" timestamp="1590376420759" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/workload.js" timestamp="1590138427642">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="20" />
@@ -52,7 +55,6 @@
       <file name="$USER_HOME$/data/code/console/src/stores/base.js" timestamp="1590139492474" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/SiderMenu/BaseMenu.js" timestamp="1590374304653" />
       <file name="$USER_HOME$/data/code/console/src/core/index.js" timestamp="1590135964382" />
-      <file name="$USER_HOME$/data/code/console/package.json" timestamp="1590135407160" />
       <file name="$USER_HOME$/data/code/sailor-web/src/defaultSettings.js" timestamp="1590374174004" />
       <file name="/Dummy.txt" timestamp="1590368803825">
         <mark key="[" line="0" column="0" />
@@ -71,7 +73,6 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/TaskCreateListener.java" timestamp="1590135655940" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -97,10 +98,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">ICA8U3RhbmRhcmRUYWJsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzPXtzZWxlY3RlZFJvd3N9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YT17ZGF0YX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93S2V5PSJ1aWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvblNlbGVjdFJvdz17dGhpcy5oYW5kbGVTZWxlY3RSb3dzfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlU3RhbmRhcmRUYWJsZUNoYW5nZX0KICAgICAgICAgICAgICAgICAgICAgICAgLz4=</text>
+        <text>design</text>
       </register>
       <register name="-" type="4">
-        <text>utils</text>
+        <text>design</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
