@@ -46,11 +46,6 @@
         <mark key="." line="30" column="47" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/pages/Wj/Index.less" timestamp="1590376420759" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/utils/workload.js" timestamp="1590138427642">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-      </file>
       <file name="$USER_HOME$/data/code/console/src/stores/base.js" timestamp="1590139492474" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/SiderMenu/BaseMenu.js" timestamp="1590374304653" />
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Globel.less" timestamp="1590386508138">
@@ -59,10 +54,15 @@
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/utils.js" timestamp="1590386231989" />
       <file name="$USER_HOME$/data/code/flowable-web/src/pages/Admin/FlowAdmin.js" timestamp="1590386933139" />
       <file name="$USER_HOME$/data/code/sailor-web/src/defaultSettings.js" timestamp="1590374174004" />
-      <file name="/Dummy.txt" timestamp="1590368803825">
+      <file name="/Dummy.txt" timestamp="1590387907497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/services/system/resources.js" timestamp="1590392260538">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/IconConfig.js" timestamp="1590374249086" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/Path.js" timestamp="1590385556671">
@@ -104,11 +104,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZVNlbGVjdFJvd3MgPSByb3dzID0+IHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2VsZWN0ZWRSb3dzOiByb3dzLAogICAgICAgICAgICBzZWFyY2hVc2VyVGV4dDogJycsCiAgICAgICAgICAgIHNlYXJjaERlcHRUZXh0OiAnJywKICAgICAgICB9KTsKICAgIH07</text>
+      <register name="*" type="4">
+        <text>cloud</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>cloud</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
