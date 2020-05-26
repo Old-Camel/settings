@@ -46,19 +46,19 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/services/system/resources.js" timestamp="1590475876250">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/services/system/resources.js" timestamp="1590480867168">
+        <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590460426371" />
-      <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590476038988" />
+      <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590480935990" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/Path.js" timestamp="1590385556671">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590473467953">
+      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590480750854">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
@@ -66,11 +66,10 @@
       <file name="$USER_HOME$/data/code/console/src/utils/index.js" timestamp="1590462660076" />
       <file name="$USER_HOME$/data/code/sailor-web/src/services/system/menu.js" timestamp="1590473686968" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/http.js" timestamp="1590473911886" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590476148864">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="24" column="87" />
-        <mark key="." line="24" column="87" />
-        <mark key="^" line="23" column="86" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590481096381">
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -97,10 +96,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>0</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
