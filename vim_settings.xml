@@ -24,6 +24,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/mapper/ProcessDefDao.xml" timestamp="1590561161547">
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590559518252">
         <mark key="[" line="188" column="14" />
         <mark key="]" line="202" column="124" />
@@ -56,17 +61,16 @@
       </file>
       <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590460426371" />
       <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590481130554" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/utils/Path.js" timestamp="1590385556671">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1590560574221" />
       <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590480750854">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/utils/index.js" timestamp="1590462660076" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1590561092291">
+        <mark key="[" line="458" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/services/system/menu.js" timestamp="1590473686968" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/http.js" timestamp="1590473911886" />
       <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590559435916">
@@ -99,10 +103,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>val</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>and</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
