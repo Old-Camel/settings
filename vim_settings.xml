@@ -24,11 +24,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590484233820">
-        <mark key="[" line="171" column="4" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="170" column="6" />
-        <mark key="^" line="281" column="28" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590559518252">
+        <mark key="[" line="188" column="14" />
+        <mark key="]" line="202" column="124" />
+        <mark key="." line="202" column="124" />
+        <mark key="^" line="287" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/object.mapper.js" timestamp="1590461251304" />
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1590487157453">
@@ -69,7 +69,7 @@
       <file name="$USER_HOME$/data/code/console/src/utils/index.js" timestamp="1590462660076" />
       <file name="$USER_HOME$/data/code/sailor-web/src/services/system/menu.js" timestamp="1590473686968" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/http.js" timestamp="1590473911886" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590483132379">
+      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590559435916">
         <mark key="[" line="30" column="98" />
         <mark key="]" line="30" column="62" />
         <mark key="." line="30" column="62" />
@@ -99,10 +99,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>payload</text>
+        <text>val</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>val</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
