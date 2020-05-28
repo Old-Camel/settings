@@ -24,47 +24,67 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" timestamp="1590658260723">
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" timestamp="1590660035241">
+        <mark key="[" line="11" column="22" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/index.js" timestamp="1590656012707" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/BtnGroup/index.scss" timestamp="1590655563116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590658986396">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="47" />
+        <mark key="^" line="191" column="63" />
+        <mark key="." line="191" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590658492665">
-        <mark key="^" line="292" column="28" />
-      </file>
-      <file name="$USER_HOME$/data/code/console/src/scss/variables.scss" timestamp="1590656511542" />
+      <file name="$USER_HOME$/data/code/console/src/scss/variables.scss" timestamp="1590659568465" />
       <file name="$USER_HOME$/data/code/console/src/components/Base/index.js" timestamp="1590657124885" />
       <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590657490355">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1590658619708">
-        <mark key="[" line="27" column="80" />
+      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1590659122526">
+        <mark key="[" line="27" column="79" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/index.less" timestamp="1590660399187">
+        <mark key="[" line="29" column="118" />
+        <mark key="]" line="29" column="118" />
+        <mark key="." line="29" column="118" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/NotFound/index.scss" timestamp="1590656473544" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/BtnGroup/index.jsx" timestamp="1590660158108">
+        <mark key="[" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1590658603829">
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/core/index.js" timestamp="1590656786117" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/index.jsx" timestamp="1590660124700">
+        <mark key="[" line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590657509836" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/index.scss" timestamp="1590655626707" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/item.jsx" timestamp="1590655673898" />
+      <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/BaseInfo/index.scss" timestamp="1590659559846" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/item.jsx" timestamp="1590660237086">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/NotFound/index.jsx" timestamp="1590656811698">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/scss/mixins.scss" timestamp="1590656231823" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/attributes.jsx" timestamp="1590660149773">
+        <mark key="[" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/data/code/console/src/locales/zh/base.js" timestamp="1590656886036" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Label/index.jsx" timestamp="1590660328194">
+        <mark key="[" line="6" column="29" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -90,15 +110,36 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>user</text>
+        <text>宋体</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>宋体</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ci5jYXJkIHsKICBib3JkZXItcmFkaXVzOiA0cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICBib3gtc2hhZG93OiAwIDRweCA4cHggMCByZ2JhKDM2LCA0NiwgNjYsIDAuMDYpOwp9Ci5jYXJkIC5iYXNlLAouY2FyZCAuZXh0cmEgewogIHBhZGRpbmc6IDIwcHg7Cn0KCgoKLm5hbWUgewogIG1hcmdpbi1ib3R0b206IDRweDsKICBmb250LXNpemU6IDIwcHg7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBsaW5lLWhlaWdodDogMzJweDsKICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKICB3aGl0ZS1zcGFjZTogbm93cmFwOwogIHdvcmQtd3JhcDogbm9ybWFsOwogIG92ZXJmbG93OiBoaWRkZW47CiAgZm9udC1zaXplOiAyMHB4OwogIGxpbmUtaGVpZ2h0OiAxLjQ7CiAgZm9udC1mYW1pbHk6IFJvYm90bywgIlBpbmdGYW5nIFNDIiwgIkxhbnRpbmdoZWkgU0MiLCAiSGVsdmV0aWNhIE5ldWUiLCBIZWx2ZXRpY2EsIEFyaWFsLCAiTWljcm9zb2Z0IFlhSGVpIiwg5b6u6L2v6ZuF6buRLCBTVEhlaXRpU0MtTGlnaHQsIHNpbXN1biwg5a6L5L2TLCAiV2VuUXVhbllpIFplbiBIZWkiLCAiV2VuUXVhbllpIE1pY3JvIEhlaSIsIHNhbnMtc2VyaWY7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtc3RyZXRjaDogbm9ybWFsOwogIGxldHRlci1zcGFjaW5nOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBjb2xvcjogIzM2NDM1YzsKfQoubmFtZSA6Z2xvYmFsIC5pY29uIHsKICBtYXJnaW46IC00cHggOHB4IDAgMDsKfQoubmFtZSA6Z2xvYmFsIGltZyB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgd2lkdGg6IDMycHg7CiAgaGVpZ2h0OiAzMnB4OwogIG1hcmdpbjogMCAxMnB4IDAgMDsKfQoubmFtZSA6Z2xvYmFsIHNwYW4gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBwb3NpdGlvbjogc3RhdGljOwogIG1hcmdpbi1yaWdodDogOHB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMCk7Cn0KCi5kZXNjIHsKICBtYXJnaW4tYm90dG9tOiAxMnB4OwogIGZvbnQtZmFtaWx5OiBSb2JvdG8sICJQaW5nRmFuZyBTQyIsICJMYW50aW5naGVpIFNDIiwgIkhlbHZldGljYSBOZXVlIiwgSGVsdmV0aWNhLCBBcmlhbCwgIk1pY3Jvc29mdCBZYUhlaSIsIOW+rui9r+mbhem7kSwgU1RIZWl0aVNDLUxpZ2h0LCBzaW1zdW4sIOWui+S9kywgIldlblF1YW5ZaSBaZW4gSGVpIiwgIldlblF1YW5ZaSBNaWNybyBIZWkiLCBzYW5zLXNlcmlmOwogIGZvbnQtc2l6ZTogMTJweDsKICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXN0cmV0Y2g6IG5vcm1hbDsKICBsaW5lLWhlaWdodDogMS42NzsKICBsZXR0ZXItc3BhY2luZzogbm9ybWFsOwogIGNvbG9yOiAjNzk4NzljOwogIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQoKLmxhYmVscyB7CiAgbWFyZ2luLWJvdHRvbTogMTRweDsKfQoubGFiZWxzIDpnbG9iYWwoLmg2KSB7CiAgbWFyZ2luLWJvdHRvbTogOHB4Owp9Ci5sYWJlbHMgLmxhYmVsTGlzdCB7CiAgbWFyZ2luOiAwIC03cHg7Cn0KCi5hdHRycyA6Z2xvYmFsKC5oNikgewogIG1hcmdpbi1ib3R0b206IDEycHg7Cn0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LmNhcmQgLmJhc2UgewogIGJhY2tncm91bmQtY29sb3I6ICNmOWZiZmQ7CiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCIvYXNzZXRzL2RldGFpbC1pbmZvLnN2ZyIpOwogIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CiAgYmFja2dyb3VuZC1zaXplOiAxMDAlIGF1dG87CiAgYm9yZGVyLXJhZGl1czogOHB4IDhweCAwIDA7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>.card .base {
+  background-color: #f9fbfd;
+  background-image: url(&quot;/assets/detail-info.svg&quot;);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  border-radius: 8px 8px 0 0;
+}</text>
+      </register>
+      <register name="4" type="4">
+        <text>this.props.dispatch({
+            type:'service/detail',
+            payload:record.name
+        })</text>
+      </register>
+      <register name="5" type="4">
         <text>render() {
         const {loading, data} = this.props;
         const {name,selectedRows, selectedRowKeys, modalVisible, modalTitle, modalValue} = this.state;
@@ -106,33 +147,17 @@
       return 'aa'
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgZ2V0IGlzTG9hZGluZygpIHsKICAgIHJldHVybiB0aGlzLnN0b3JlLmlzTG9hZGluZwogIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBpbml0KCkgewogICAgdGhpcy5zdG9yZSA9IHsKICAgICAgZGV0YWlsOiB7fSwKICAgICAgaXNMb2FkaW5nOiB0cnVlLAogICAgfQogIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">QGltcG9ydCAnfnNjc3MvdmFyaWFibGVzJzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ci5ncm91cCB7CiAgbWFyZ2luOiAtNnB4Owo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>* detail({payload}, {put, call}) {
-            const response = yield call(NameSpaceResources,payload);
-            let data= mapper(payload.type)(response)
-            yield put({type: &quot;Save&quot;, payload: {detail: data}})
-        }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vZmV0Y2jor7fmsYIgIAogICAgZmV0Y2godXJsLHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgfSkKICAgICAgICAudGhlbigocmVzcG9uc2UpID0+IHt9KS5jYXRjaCgoZXJyb3IpID0+IHsKICAgICAgICBhbGVydChlcnJvcikKICAgIH0p</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ii9yZXNvdXJjZXMvIitwYXJhbS5uYW1lc3BhY2UrIi8iK3BhcmFtLnR5cGUrIj9jb25kaXRpb25zPSIrcGFyYW0uY29uZGl0aW9uKyImb3JkZXJCeT1zdGFydFRpbWUmcmV2ZXJzZT10cnVlIiwge21ldGhvZDogJ0dFVCd9KTsKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
