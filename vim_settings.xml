@@ -30,15 +30,13 @@
         <mark key="]" line="139" column="0" />
         <mark key="^" line="186" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/utils/constants.js" timestamp="1590719098399" />
       <file name="$USER_HOME$/data/code/sailor-web/src/global.js" timestamp="1590722643818">
         <mark key="[" line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1590719172465">
-        <mark key="[" line="191" column="47" />
-        <mark key="]" line="191" column="47" />
-        <mark key="^" line="191" column="63" />
-        <mark key="." line="191" column="47" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/workspace.js" timestamp="1590724912837">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="3" />
+        <mark key="." line="78" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/locales/index.js" timestamp="1590722199206" />
       <file name="$USER_HOME$/data/code/console/src/core/i18n.js" timestamp="1590722355881" />
@@ -47,30 +45,27 @@
         <mark key="]" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/i18n.js" timestamp="1590722584364">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/i18n.js" timestamp="1590724587178">
+        <mark key="[" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/models/role.js" timestamp="1590722220652" />
       <file name="$USER_HOME$/data/code/console/src/core/index.js" timestamp="1590722721692" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/index.jsx" timestamp="1590719246275">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-      </file>
-      <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590718999504" />
+      <file name="$USER_HOME$/data/code/sailor-web/package.json" timestamp="1590724292807" />
       <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590721917215" />
+      <file name="$USER_HOME$/data/code/sailor-web/node_modules/umi-plugin-locale/index.d.ts" timestamp="1590724559620" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/alerting.js" timestamp="1590724791140">
+        <mark key="[" line="151" column="2" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/models/role.js" timestamp="1590720629250" />
-      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590723808498">
+      <file name="$USER_HOME$/data/code/sailor-web/config/config.js" timestamp="1590724444802">
+        <mark key="[" line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590723969619">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/ResourceStatus/index.jsx" timestamp="1590718971729" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/utils/index.js" timestamp="1590719268564">
-        <mark key="[" line="308" column="39" />
-      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/models/menu_old.js" timestamp="1590723944111" />
       <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590721549415">
         <mark key="[" line="42" column="15" />
         <mark key="]" line="42" column="15" />
@@ -104,10 +99,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>toJS(</text>
+        <text encoding="base64">ICfnoa7lrprliKDpmaTkvIHkuJrnqbrpl7QgPHN0cm9uZz57cmVzb3VyY2V9PC9zdHJvbmc+ID8g5Yig6Zmk5ZCO5bCG5peg5rOV5oGi5aSNLCDkvIHkuJrnqbrpl7TkuIvnmoTotYTmupDkuZ/lkIzml7bkvJrooqvplIDmr4HjgIInLA==</text>
       </register>
       <register name="-" type="4">
-        <text>toJS(</text>
+        <text encoding="base64">ICfnoa7lrprliKDpmaTkvIHkuJrnqbrpl7QgPHN0cm9uZz57cmVzb3VyY2V9PC9zdHJvbmc+ID8g5Yig6Zmk5ZCO5bCG5peg5rOV5oGi5aSNLCDkvIHkuJrnqbrpl7TkuIvnmoTotYTmupDkuZ/lkIzml7bkvJrooqvplIDmr4HjgIInLA==</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
