@@ -24,54 +24,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/component.js" timestamp="1590734439335" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/devops.js" timestamp="1590734272396" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/ranking.js" timestamp="1590732758828">
         <mark key="[" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/secret.js" timestamp="1590732442943">
-        <mark key="[" line="19" column="2" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/workspace.js" timestamp="1590724912837">
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="3" />
-        <mark key="." line="78" column="3" />
-      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/configmap.js" timestamp="1590734388031" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/role.js" timestamp="1590732741304" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/i18n.js" timestamp="1590724587178">
-        <mark key="[" line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/terminal.js" timestamp="1590732220653">
-        <mark key="[" line="74" column="4" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/version.js" timestamp="1590731931593">
-        <mark key="[" line="19" column="18" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/logging.js" timestamp="1590733846368">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="86" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/s2i.js" timestamp="1590732679302">
         <mark key="[" line="130" column="16" />
         <mark key="]" line="88" column="42" />
         <mark key="." line="88" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/workload.js" timestamp="1590731679898">
-        <mark key="[" line="480" column="4" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/ingress.js" timestamp="1590734016192">
+        <mark key="[" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/storage.js" timestamp="1590732334086">
-        <mark key="[" line="124" column="97" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/base.js" timestamp="1590734945224">
+        <mark key="[" line="218" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/monitoring.js" timestamp="1590733473337" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/cicd.js" timestamp="1590734654667">
+        <mark key="[" line="381" column="60" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/grayrelease.js" timestamp="1590734188982">
+        <mark key="[" line="117" column="0" />
+        <mark key="." line="117" column="38" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/monitoring.js" timestamp="1590733510767" />
+      <file name="$USER_HOME$/data/code/console/src/locales/zh/logging.js" timestamp="1590733779171" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/nodes.js" timestamp="1590733404126" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/user.js" timestamp="1590732078346">
-        <mark key="[" line="63" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/node_modules/umi-plugin-locale/index.d.ts" timestamp="1590724559620" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/alerting.js" timestamp="1590724791140">
-        <mark key="[" line="151" column="2" />
-      </file>
-      <file name="$USER_HOME$/data/code/console/src/locales/zh/terminal.js" timestamp="1590732612670" />
       <file name="$USER_HOME$/data/code/console/src/locales/zh/s2i.js" timestamp="1590732846708" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/project.js" timestamp="1590732854200" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/service.js" timestamp="1590732431431">
-        <mark key="[" line="149" column="13" />
+      <file name="$USER_HOME$/data/code/console/src/locales/zh/project.js" timestamp="1590733775795" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/mail.js" timestamp="1590733552205" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh/dashboard.js" timestamp="1590734352885">
+        <mark key="[" line="80" column="2" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/locales/zh/project.js" timestamp="1590732849626" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -98,8 +90,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">PGEgaHJlZj17bGlua30gdGFyZ2V0PSJfYmxhbmsiPg==</text>
+      <register name="*" type="2">
+        <text>'Port protocol is not HTTP, cannot publish policy by request content':
+'端口协议非 HTTP, 不能发布按内容分配的策略',
+
+': '未开启应用治理的应用无法使用灰度发布',</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGEgaHJlZj17bGlua30gdGFyZ2V0PSJfYmxhbmsiPg==</text>
@@ -107,46 +102,35 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHdvcmtsb2Fkc2RhdGEucHVzaChkZXBsb3ltZW50cyk7CiAgICAgICAgICAgICAgICB3b3JrbG9hZHNkYXRhLnB1c2goZGFlbW9uc2V0cyk7CiAgICAgICAgICAgICAgICB3b3JrbG9hZHNkYXRhLnB1c2goc3RhdGVmdWxzZXRzKTs=</text>
+      <register name="1" type="2">
+        <text>'Port protocol is not HTTP, cannot publish policy by request content':
+'端口协议非 HTTP, 不能发布按内容分配的策略',
+
+': '未开启应用治理的应用无法使用灰度发布',</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuZmV0Y2hEYXRhKCkKICB9</text>
+        <text encoding="base64">J+aCqOW3suWwhnt2ZXJzaW9ufeeJiOacrOeahOebruagh+a1gemHj+mFjeavlOiwg+aVtOiHsyB7cmF0aW99JScsIOaCqOS5n+WPr+S7pee7p+e7reiwg+aVtOebruagh+a1gemHj+mFjeavlO+8jOaIluiAheS9v+Wug+eri+WNs+eUn+aViOOAgicsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGZldGNoRGF0YSA9ICgpID0+IHsKICAgIGlmICh0aGlzLnByb3BzLmZldGNoRGV0YWlsKSB7CiAgICAgIHRoaXMucHJvcHMuZmV0Y2hEZXRhaWwodGhpcy5wYXJhbXMsIHBhcmFtcykuY2F0Y2godGhpcy5jYXRjaCkKICAgIH0KICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">J1VOQUJMRV9UT19BQ0NFU1NfVElQJzoKJ+KXjyDor7fnoa7kv53mgqjorr7nva7nmoTln5/lkI3lj6/ku6Xop6PmnpDliLDorr/pl67lhaXlj6PnmoQgSVAg5Zyw5Z2AOzxici8+4pePIOWmguaenOWcqOengeacieS6keeOr+Wig+S4re+8jOivt+S/ruaUueacrOWcsOeahCBob3N0IOaWh+S7tu+8jOW5tumAmui/hyDln5/lkI0r6IqC54K556uv5Y+jIOeahOaWueW8j+adpeiuv+mXrjs8YnIvPuKXjyDpgJrov4fpgJrphY0gRE5TIOiuv+mXru+8jOWwhuWfn+WQjeS/ruaUueS4uiBob3N0bmFtZSArIOe9keWFs+WcsOWdgCArIG5pcC5pb++8jOeEtuWQjuWPr+S7pemAmui/hyBob3N0bmFtZS7nvZHlhbPlnLDlnYAubmlwLmlvJzroioLngrnnq6/lj6Mg55qE5b2i5byP5p2l6K6/6Zeu5pyN5YqhOzxici8+4pePIOWmguaenOmAmui/h+Wfn+WQjeiuv+mXruiiq+aLpuaIqu+8jOivt+ehruiupOaCqOeahOWfn+WQjeaYr+ecn+WunuiAjOS4lOW3sue7j+Wkh+ahiOOAgicsCgonTk9fSU5URVJORVRfQUNDRVNTX1RJUCc6CiflvZPliY3pobnnm67kuK3msqHmnInmib7liLDlj6/nlKjnmoTnvZHlhbPlnLDlnYDvvIzlm6DmraTmgqjml6Dms5Xorr7nva7lupTnlKjot6/nlLHjgILor7fogZTns7vmgqjnmoTpobnnm67nrqHnkIblkZjlnKggPHN0cm9uZz7pq5jnuqforr7nva48L3N0cm9uZz4g5Lit6K6+572u5aSW572R6K6/6Zeu5pa55byPJywKJ1VOQUJMRV9DUkVBVEVfUk9VVEVfVElQJzogJ+W9k+WJjemhueebruS4reayoeacieaJvuWIsOWPr+eUqOeahOe9keWFs+WcsOWdgO+8jOaXoOazleWIm+W7uuW6lOeUqOi3r+eUsScsCgonUlVMRV9TRVRUSU5HX01PREVfQVVUTyc6CifpgJrov4fpgJrphY0gRE5TIOiuv+mXru+8jOWwhuWfn+WQjeS/ruaUueS4uiBob3N0bmFtZSArIOe9keWFs+WcsOWdgCArIG5pcC5pb++8jOeEtuWQjuWPr+S7pemAmui/hyBob3N0bmFtZS7nvZHlhbPlnLDlnYAubmlwLmlvJzroioLngrnnq6/lj6Mg55qE5b2i5byP5p2l6K6/6Zeu5pyN5YqhOzxici8+6K+356Gu5L+d5omA5Zyo572R57uc546v5aKD5Y+v5Lul5q2j5bi46K6/6Zeu572R5YWz5Zyw5Z2A44CCJywKJ1JVTEVfU0VUVElOR19NT0RFX1NQRUNJRlknOgon6K+356Gu5L+d5oKo6K6+572u55qE5Z+f5ZCN5Y+v5Lul6Kej5p6Q5Yiw6K6/6Zeu5YWl5Y+j55qEIElQIOWcsOWdgDs8YnIvPuWmguaenOWcqOengeacieS6keeOr+Wig+S4re+8jOivt+S/ruaUueacrOWcsOeahCBob3N0IOaWh+S7tu+8jOW5tumAmui/hyDln5/lkI0r6IqC54K556uv5Y+jIOeahOaWueW8j+adpeiuv+mXricsCgonR0FURVdBWV9TRVJWSUNFX01FU0hfU1RBVFVTX09OJzogJ+W3suW8gOWQrycsCidHQVRFV0FZX1NFUlZJQ0VfTUVTSF9TVEFUVVNfT0ZGJzogJ+acquW8gOWQrycs</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZmV0Y2hEYXRhID0gcGFyYW1zID0+IHsKICAgIGlmICh0aGlzLnByb3BzLmZldGNoRGV0YWlsKSB7CiAgICAgIHRoaXMucHJvcHMuZmV0Y2hEZXRhaWwodGhpcy5wYXJhbXMsIHBhcmFtcykuY2F0Y2godGhpcy5jYXRjaCkKICAgIH0KICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">J+S7iuaXpeaAu+WFseaUtuW9leS6hiA8c3BhbiBjbGFzcz17Y2xhc3NOYW1lfT57Y29udGFpbmVyc308L3NwYW4+IOS4quWuueWZqDxici8+IDxzcGFuIGNsYXNzPXtjbGFzc05hbWV9PiB7bG9nc30gPC9zcGFuPiDmnaHml6Xlv5fkv6Hmga8nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5jYXJkIHsKICBib3JkZXItcmFkaXVzOiA0cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICBib3gtc2hhZG93OiAwIDRweCA4cHggMCByZ2JhKDM2LCA0NiwgNjYsIDAuMDYpOwp9Ci5jYXJkIC5iYXNlLAouY2FyZCAuZXh0cmEgewogIHBhZGRpbmc6IDIwcHg7Cn0KCgoKLm5hbWUgewogIG1hcmdpbi1ib3R0b206IDRweDsKICBmb250LXNpemU6IDIwcHg7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBsaW5lLWhlaWdodDogMzJweDsKICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKICB3aGl0ZS1zcGFjZTogbm93cmFwOwogIHdvcmQtd3JhcDogbm9ybWFsOwogIG92ZXJmbG93OiBoaWRkZW47CiAgZm9udC1zaXplOiAyMHB4OwogIGxpbmUtaGVpZ2h0OiAxLjQ7CiAgZm9udC1mYW1pbHk6IFJvYm90bywgIlBpbmdGYW5nIFNDIiwgIkxhbnRpbmdoZWkgU0MiLCAiSGVsdmV0aWNhIE5ldWUiLCBIZWx2ZXRpY2EsIEFyaWFsLCAiTWljcm9zb2Z0IFlhSGVpIiwg5b6u6L2v6ZuF6buRLCBTVEhlaXRpU0MtTGlnaHQsIHNpbXN1biwg5a6L5L2TLCAiV2VuUXVhbllpIFplbiBIZWkiLCAiV2VuUXVhbllpIE1pY3JvIEhlaSIsIHNhbnMtc2VyaWY7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtc3RyZXRjaDogbm9ybWFsOwogIGxldHRlci1zcGFjaW5nOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBjb2xvcjogIzM2NDM1YzsKfQoubmFtZSA6Z2xvYmFsIC5pY29uIHsKICBtYXJnaW46IC00cHggOHB4IDAgMDsKfQoubmFtZSA6Z2xvYmFsIGltZyB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgd2lkdGg6IDMycHg7CiAgaGVpZ2h0OiAzMnB4OwogIG1hcmdpbjogMCAxMnB4IDAgMDsKfQoubmFtZSA6Z2xvYmFsIHNwYW4gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBwb3NpdGlvbjogc3RhdGljOwogIG1hcmdpbi1yaWdodDogOHB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMCk7Cn0KCi5kZXNjIHsKICBtYXJnaW4tYm90dG9tOiAxMnB4OwogIGZvbnQtZmFtaWx5OiBSb2JvdG8sICJQaW5nRmFuZyBTQyIsICJMYW50aW5naGVpIFNDIiwgIkhlbHZldGljYSBOZXVlIiwgSGVsdmV0aWNhLCBBcmlhbCwgIk1pY3Jvc29mdCBZYUhlaSIsIOW+rui9r+mbhem7kSwgU1RIZWl0aVNDLUxpZ2h0LCBzaW1zdW4sIOWui+S9kywgIldlblF1YW5ZaSBaZW4gSGVpIiwgIldlblF1YW5ZaSBNaWNybyBIZWkiLCBzYW5zLXNlcmlmOwogIGZvbnQtc2l6ZTogMTJweDsKICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXN0cmV0Y2g6IG5vcm1hbDsKICBsaW5lLWhlaWdodDogMS42NzsKICBsZXR0ZXItc3BhY2luZzogbm9ybWFsOwogIGNvbG9yOiAjNzk4NzljOwogIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQoKLmxhYmVscyB7CiAgbWFyZ2luLWJvdHRvbTogMTRweDsKfQoubGFiZWxzIDpnbG9iYWwoLmg2KSB7CiAgbWFyZ2luLWJvdHRvbTogOHB4Owp9Ci5sYWJlbHMgLmxhYmVsTGlzdCB7CiAgbWFyZ2luOiAwIC03cHg7Cn0KCi5hdHRycyA6Z2xvYmFsKC5oNikgewogIG1hcmdpbi1ib3R0b206IDEycHg7Cn0=</text>
+        <text encoding="base64">J+aAu+WFseaUtuW9leS6hiA8c3BhbiBjbGFzcz17Y2xhc3NOYW1lfT57Y29udGFpbmVyc308L3NwYW4+IOS4quWuueWZqDxici8+IDxzcGFuIGNsYXNzPXtjbGFzc05hbWV9PiB7bG9nc30gPC9zcGFuPiDmnaHml6Xlv5fkv6Hmga8nLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LmNhcmQgLmJhc2UgewogIGJhY2tncm91bmQtY29sb3I6ICNmOWZiZmQ7CiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCIvYXNzZXRzL2RldGFpbC1pbmZvLnN2ZyIpOwogIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CiAgYmFja2dyb3VuZC1zaXplOiAxMDAlIGF1dG87CiAgYm9yZGVyLXJhZGl1czogOHB4IDhweCAwIDA7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHdvcmtsb2Fkc2RhdGEucHVzaChkZXBsb3ltZW50cyk7CiAgICAgICAgICAgICAgICB3b3JrbG9hZHNkYXRhLnB1c2goZGFlbW9uc2V0cyk7CiAgICAgICAgICAgICAgICB3b3JrbG9hZHNkYXRhLnB1c2goc3RhdGVmdWxzZXRzKTs=</text>
       </register>
       <register name="7" type="2">
-        <text>.card .base {
-  background-color: #f9fbfd;
-  background-image: url(&quot;/assets/detail-info.svg&quot;);
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  border-radius: 8px 8px 0 0;
-}</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuZmV0Y2hEYXRhKCkKICB9</text>
       </register>
       <register name="8" type="4">
-        <text>this.props.dispatch({
-            type:'service/detail',
-            payload:record.name
-        })</text>
+        <text encoding="base64">IGZldGNoRGF0YSA9ICgpID0+IHsKICAgIGlmICh0aGlzLnByb3BzLmZldGNoRGV0YWlsKSB7CiAgICAgIHRoaXMucHJvcHMuZmV0Y2hEZXRhaWwodGhpcy5wYXJhbXMsIHBhcmFtcykuY2F0Y2godGhpcy5jYXRjaCkKICAgIH0KICB9</text>
       </register>
       <register name="9" type="4">
-        <text>render() {
-        const {loading, data} = this.props;
-        const {name,selectedRows, selectedRowKeys, modalVisible, modalTitle, modalValue} = this.state;
-        console.log(data);
-      return 'aa'
-    }</text>
+        <text encoding="base64">ZmV0Y2hEYXRhID0gcGFyYW1zID0+IHsKICAgIGlmICh0aGlzLnByb3BzLmZldGNoRGV0YWlsKSB7CiAgICAgIHRoaXMucHJvcHMuZmV0Y2hEZXRhaWwodGhpcy5wYXJhbXMsIHBhcmFtcykuY2F0Y2godGhpcy5jYXRjaCkKICAgIH0KICB9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
