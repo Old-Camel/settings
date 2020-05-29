@@ -42,10 +42,10 @@
       </file>
       <file name="$USER_HOME$/data/code/console/src/locales/index.js" timestamp="1590722199206" />
       <file name="$USER_HOME$/data/code/console/src/core/i18n.js" timestamp="1590722355881" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1590721961531">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1590723741994">
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/i18n.js" timestamp="1590722584364">
         <mark key="[" line="26" column="22" />
@@ -62,7 +62,7 @@
       <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590718999504" />
       <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590721917215" />
       <file name="$USER_HOME$/data/code/sailor-web/src/models/role.js" timestamp="1590720629250" />
-      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590722018484">
+      <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/index.jsx" timestamp="1590723808498">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="39" />
@@ -70,11 +70,6 @@
       <file name="$USER_HOME$/data/code/console/src/pages/projects/containers/Services/Detail/ResourceStatus/index.jsx" timestamp="1590718971729" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/index.js" timestamp="1590719268564">
         <mark key="[" line="308" column="39" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1590717865327">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590721549415">
         <mark key="[" line="42" column="15" />
@@ -103,15 +98,16 @@
       <jump line="16" column="30" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/resources/application-local.properties" />
       <jump line="383" column="4" filename="$USER_HOME$/data/code/flowable-web/src/pages/FormBuilder/Editor/BasicEditor.jsx" />
       <jump line="194" column="13" filename="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" />
+      <jump line="89" column="13" filename="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>get(globals.user, 'lang')</text>
+        <text>toJS(</text>
       </register>
       <register name="-" type="4">
-        <text>get(globals.user, 'lang')</text>
+        <text>toJS(</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
