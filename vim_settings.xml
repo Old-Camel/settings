@@ -24,14 +24,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1591003937518">
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1591006903530">
         <mark key="[" line="191" column="77" />
         <mark key="]" line="191" column="47" />
         <mark key="^" line="191" column="63" />
         <mark key="." line="191" column="47" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/index.jsx" timestamp="1590999887346">
-        <mark key="[" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/defaultSettings.js" timestamp="1591003387406" />
       <file name="$USER_HOME$/data/code/flowable-lwj/docs/sql/flowable.sql" timestamp="1591000832473" />
@@ -40,28 +37,29 @@
         <mark key="]" line="27" column="26" />
         <mark key="." line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591000479661">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1591006975952">
+        <mark key="[" line="132" column="43" />
+        <mark key="]" line="132" column="43" />
+        <mark key="." line="132" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591001904139">
-        <mark key="[" line="147" column="37" />
-        <mark key="]" line="147" column="37" />
-        <mark key="." line="147" column="37" />
-        <mark key="^" line="126" column="31" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591007419596">
+        <mark key="[" line="141" column="13" />
+        <mark key="]" line="141" column="13" />
+        <mark key="." line="141" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591007252007">
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="258" column="28" />
+        <mark key="." line="258" column="28" />
+        <mark key="^" line="128" column="31" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/index.less" timestamp="1591000208346">
         <mark key="[" line="79" column="110" />
         <mark key="]" line="79" column="110" />
         <mark key="." line="79" column="110" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/EnvVariables/index.jsx" timestamp="1591000152494">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/console/src/scss/main.scss" timestamp="1591003735760" />
+      <file name="$USER_HOME$/data/code/console/src/scss/main.scss" timestamp="1591006306399" />
+      <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1591007151287" />
       <file name="$USER_HOME$/data/code/console/src/components/Cards/Pods/index.jsx" timestamp="1591001589572" />
       <file name="$USER_HOME$/data/code/console/node_modules/@pitrix/lego-ui/package.json" timestamp="1591002326254" />
       <file name="$USER_HOME$/data/code/console/src/components/Charts/Pie/SimpleCircle/index.jsx" timestamp="1591001210508" />
@@ -74,14 +72,16 @@
       <file name="$USER_HOME$/data/code/sailor-web/src/global.less" timestamp="1591003748166">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/EnvVariables/index.scss" timestamp="1591000134237" />
+      <file name="/Dummy.txt" timestamp="1591004713719">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/List/Item.jsx" timestamp="1591000300452">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="46" />
         <mark key="." line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1591001743853">
-        <mark key="[" line="16" column="14" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1591006050412">
+        <mark key="[" line="41" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/ResourceStatus/index.less" timestamp="1591003619683">
         <mark key="[" line="22" column="13" />
@@ -115,21 +115,29 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>margin-right</text>
+        <text>nodePermission</text>
       </register>
       <register name="-" type="4">
-        <text>margin-right</text>
+        <text>nodePermission</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgLy8gc3VwZXIocHJvcHMpCiAgICAvLwogICAgLy8gdGhpcy5zdG9yZSA9IG5ldyBQb2RTdG9yZSgpCiAgICAvLyB0aGlzLm1vbml0b3JTdG9yZSA9IG5ldyBQb2RNb25pdG9yU3RvcmUoKQogICAgLy8KICAgIC8vIHRoaXMucGFyYW1zID0gdGhpcy5nZXRQYXJhbXMocHJvcHMpCiAgICAvLyB0aGlzLmZldGNoRGF0YSgpCiAgICAvLwogICAgLy8gdGhpcy53ZWJzb2NrZXQgPSBwcm9wcy5yb290U3RvcmUud2Vic29ja2V0CiAgICAvLyB0aGlzLmluaXRXZWJzb2NrZXQoKQogICAgLy8KICAgIC8vIHRoaXMuc3RhdGUgPSB7CiAgICAvLyAgIGV4cGFuZEl0ZW06ICcnLAogICAgLy8gfQogIH0=</text>
+      <register name="1" type="4">
+        <text>: (
+          text
+      )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnfnNjc3MvdmFyaWFibGVzJzsKQGltcG9ydCAnfnNjc3MvbWl4aW5zJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGAkey5uYW1lfS4ke3NlcnZpY2UubmFtZXNwYWNlfWAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgLy8gc3VwZXIocHJvcHMpCiAgICAvLwogICAgLy8gdGhpcy5zdG9yZSA9IG5ldyBQb2RTdG9yZSgpCiAgICAvLyB0aGlzLm1vbml0b3JTdG9yZSA9IG5ldyBQb2RNb25pdG9yU3RvcmUoKQogICAgLy8KICAgIC8vIHRoaXMucGFyYW1zID0gdGhpcy5nZXRQYXJhbXMocHJvcHMpCiAgICAvLyB0aGlzLmZldGNoRGF0YSgpCiAgICAvLwogICAgLy8gdGhpcy53ZWJzb2NrZXQgPSBwcm9wcy5yb290U3RvcmUud2Vic29ja2V0CiAgICAvLyB0aGlzLmluaXRXZWJzb2NrZXQoKQogICAgLy8KICAgIC8vIHRoaXMuc3RhdGUgPSB7CiAgICAvLyAgIGV4cGFuZEl0ZW06ICcnLAogICAgLy8gfQogIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGltcG9ydCAnfnNjc3MvdmFyaWFibGVzJzsKQGltcG9ydCAnfnNjc3MvbWl4aW5zJzsK</text>
+      </register>
+      <register name="5" type="2">
         <text>import {
   Level,
   LevelLeft,
@@ -138,23 +146,17 @@
   Loading,
 } from '@pitrix/lego-ui'</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgeyByb3V0ZXMgPSBbXSB9ID0gdGhpcy5wcm9wcy5yb3V0ZQogICAgICBjb25zb2xlLmxvZyhyb3V0ZXMpOwogICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgbmFtZTogdCgnQ3JlYXRvcicpLAogICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMuY3JlYXRvciwKICAgICAgICAgICAgfSw=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKG9wdGlvbnMgJiYgb3B0aW9ucy5kZWZhdWx0VmFsdWUgJiYgdmFsdWUgPT09IGtleSkgewogICAgdmFsdWUgPSBvcHRpb25zLmRlZmF1bHRWYWx1ZQogIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwoKaW1wb3J0IHpoTW9kdWxlcyBmcm9tICcuL3poLUNOJwovLyBpbXBvcnQgZW5Nb2R1bGVzIGZyb20gJy4vZW4n</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvY2FsZXMgZnJvbSAnQC9sb2NhbGUnCgpjb25zdCBpbml0ID0gKCkgPT4gewogIGNvbnN0IGRlZmF1bHRMYW5nID0gJ3poLUNOJwogIGlmIChkZWZhdWx0TGFuZyAmJiBjb29raWUoJ2xhbmcnKSAhPT0gZGVmYXVsdExhbmcpIHsKICAgIGNvb2tpZSgnbGFuZycsIGRlZmF1bHRMYW5nKQogIH0KCiAgbGV0IGxhbmcgPSBjb29raWUoJ2xhbmcnKSB8fCBnZXRCcm93c2VyTGFuZygpCgogIGlmICghbG9jYWxlc1tsYW5nXSkgewogICAgbGFuZyA9ICd6aCcKICAgIGNvb2tpZSgnbGFuZycsIGxhbmcpCiAgfQoKICBpZiAobGFuZyA9PT0gJ3poJykgewogICAgbW9tZW50LmxvY2FsZSgnemgnLCB7CiAgICAgIHJlbGF0aXZlVGltZTogewogICAgICAgIHM6ICcx56eSJywKICAgICAgICBzczogJyVk56eSJywKICAgICAgICBtOiAnMeWIhumSnycsCiAgICAgICAgbW06ICclZOWIhumSnycsCiAgICAgICAgaDogJzHlsI/ml7YnLAogICAgICAgIGhoOiAnJWTlsI/ml7YnLAogICAgICAgIGQ6ICcx5aSpJywKICAgICAgICBkZDogJyVk5aSpJywKICAgICAgICBNOiAnMeS4quaciCcsCiAgICAgICAgTU06ICclZOS4quaciCcsCiAgICAgICAgeTogJzHlubQnLAogICAgICAgIHl5OiAnJWTlubQnLAogICAgICAgIHBhc3Q6ICclc+WJjScsCiAgICAgICAgZnV0dXJlOiAn5ZyoJXPlkI4nLAogICAgICB9LAogICAgfSkKICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBkZWZhdWx0TGFuZyA9ICd6aC1DTicKICBpZiAoZGVmYXVsdExhbmcgJiYgY29va2llKCdsYW5nJykgIT09IGRlZmF1bHRMYW5nKSB7CiAgICBjb29raWUoJ2xhbmcnLCBkZWZhdWx0TGFuZykKICB9CgogIGxldCBsYW5nID0gY29va2llKCdsYW5nJykgfHwgZ2V0QnJvd3NlckxhbmcoKQoKICBpZiAoIWxvY2FsZXNbbGFuZ10pIHsKICAgIGxhbmcgPSAnemgnCiAgICBjb29raWUoJ2xhbmcnLCBsYW5nKQogIH0=</text>
+        <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwoKaW1wb3J0IHpoTW9kdWxlcyBmcm9tICcuL3poLUNOJwovLyBpbXBvcnQgZW5Nb2R1bGVzIGZyb20gJy4vZW4n</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
