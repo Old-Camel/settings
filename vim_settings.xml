@@ -24,61 +24,68 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" timestamp="1590994843228">
-        <mark key="'" line="184" column="13" />
-        <mark key="[" line="318" column="27" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="184" column="14" />
-        <mark key="." line="308" column="12" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1590999863560">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/stores/service.js" timestamp="1590744797886" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/workload.js" timestamp="1590993982491">
-        <mark key="[" line="316" column="12" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/index.jsx" timestamp="1590999887346">
+        <mark key="[" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/base.js" timestamp="1590994084503" />
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1590993622612">
-        <mark key="[" line="29" column="67" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Tag/index.jsx" timestamp="1590999458103">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/index.less" timestamp="1590745245007">
-        <mark key="[" line="0" column="17" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Text/index.scss" timestamp="1590999067182" />
+      <file name="$USER_HOME$/data/code/flowable-lwj/docs/sql/flowable.sql" timestamp="1591000832473" />
+      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1590998828273">
+        <mark key="[" line="30" column="124" />
+        <mark key="]" line="30" column="124" />
+        <mark key="." line="30" column="124" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1590995935888">
-        <mark key="[" line="119" column="9" />
-        <mark key="]" line="119" column="9" />
-        <mark key="." line="119" column="9" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/StatusReason/index.less" timestamp="1590998712319" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Ports/index.jsx" timestamp="1590999300298">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/ResourceStatus/index.jsx" timestamp="1590995970167" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/pom.xml" timestamp="1590992583267" />
-      <file name="$USER_HOME$/data/code/console/src/core/index.js" timestamp="1590994108180" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/index.jsx" timestamp="1590744697427">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591000479661">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/core/containers/Base/Detail/index.jsx" timestamp="1590994540001" />
-      <file name="/Dummy.txt" timestamp="1590746686560">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Ports/index.scss" timestamp="1590999289498" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/index.less" timestamp="1591000208346">
+        <mark key="[" line="79" column="110" />
+        <mark key="]" line="79" column="110" />
+        <mark key="." line="79" column="110" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.less" timestamp="1590993379136" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/item.jsx" timestamp="1590745059391">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="31" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/EnvVariables/index.jsx" timestamp="1591000152494">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/index.css" timestamp="1590744744547" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Attributes/attributes.jsx" timestamp="1590744994858">
-        <mark key="[" line="6" column="29" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Workloads/index.jsx" timestamp="1590998929168">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/Label/index.jsx" timestamp="1590745020919">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Tag/index.scss" timestamp="1590999446343" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Text/index.jsx" timestamp="1590999117513">
+        <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1590744173812">
-        <mark key="[" line="16" column="14" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/index.scss" timestamp="1590999323553" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/index.js" timestamp="1590999477223">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/EnvVariables/index.scss" timestamp="1591000134237" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/List/Item.jsx" timestamp="1591000300452">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -106,44 +113,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyByb3V0ZXMgPSBbXSB9ID0gdGhpcy5wcm9wcy5yb3V0ZQogICAgICBjb25zb2xlLmxvZyhyb3V0ZXMpOwogICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTs=</text>
+      <register name="*" type="4">
+        <text>Charts</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>Charts</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">QGltcG9ydCAnfnNjc3MvdmFyaWFibGVzJzsKQGltcG9ydCAnfnNjc3MvbWl4aW5zJzsK</text>
+      </register>
+      <register name="2" type="2">
+        <text>import {
+  Level,
+  LevelLeft,
+  LevelRight,
+  Pagination,
+  Loading,
+} from '@pitrix/lego-ui'</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgeyByb3V0ZXMgPSBbXSB9ID0gdGhpcy5wcm9wcy5yb3V0ZQogICAgICBjb25zb2xlLmxvZyhyb3V0ZXMpOwogICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTs=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgbmFtZTogdCgnQ3JlYXRvcicpLAogICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMuY3JlYXRvciwKICAgICAgICAgICAgfSw=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKG9wdGlvbnMgJiYgb3B0aW9ucy5kZWZhdWx0VmFsdWUgJiYgdmFsdWUgPT09IGtleSkgewogICAgdmFsdWUgPSBvcHRpb25zLmRlZmF1bHRWYWx1ZQogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLwoKaW1wb3J0IHpoTW9kdWxlcyBmcm9tICcuL3poLUNOJwovLyBpbXBvcnQgZW5Nb2R1bGVzIGZyb20gJy4vZW4n</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGxvY2FsZXMgZnJvbSAnQC9sb2NhbGUnCgpjb25zdCBpbml0ID0gKCkgPT4gewogIGNvbnN0IGRlZmF1bHRMYW5nID0gJ3poLUNOJwogIGlmIChkZWZhdWx0TGFuZyAmJiBjb29raWUoJ2xhbmcnKSAhPT0gZGVmYXVsdExhbmcpIHsKICAgIGNvb2tpZSgnbGFuZycsIGRlZmF1bHRMYW5nKQogIH0KCiAgbGV0IGxhbmcgPSBjb29raWUoJ2xhbmcnKSB8fCBnZXRCcm93c2VyTGFuZygpCgogIGlmICghbG9jYWxlc1tsYW5nXSkgewogICAgbGFuZyA9ICd6aCcKICAgIGNvb2tpZSgnbGFuZycsIGxhbmcpCiAgfQoKICBpZiAobGFuZyA9PT0gJ3poJykgewogICAgbW9tZW50LmxvY2FsZSgnemgnLCB7CiAgICAgIHJlbGF0aXZlVGltZTogewogICAgICAgIHM6ICcx56eSJywKICAgICAgICBzczogJyVk56eSJywKICAgICAgICBtOiAnMeWIhumSnycsCiAgICAgICAgbW06ICclZOWIhumSnycsCiAgICAgICAgaDogJzHlsI/ml7YnLAogICAgICAgIGhoOiAnJWTlsI/ml7YnLAogICAgICAgIGQ6ICcx5aSpJywKICAgICAgICBkZDogJyVk5aSpJywKICAgICAgICBNOiAnMeS4quaciCcsCiAgICAgICAgTU06ICclZOS4quaciCcsCiAgICAgICAgeTogJzHlubQnLAogICAgICAgIHl5OiAnJWTlubQnLAogICAgICAgIHBhc3Q6ICclc+WJjScsCiAgICAgICAgZnV0dXJlOiAn5ZyoJXPlkI4nLAogICAgICB9LAogICAgfSkKICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zdCBkZWZhdWx0TGFuZyA9ICd6aC1DTicKICBpZiAoZGVmYXVsdExhbmcgJiYgY29va2llKCdsYW5nJykgIT09IGRlZmF1bHRMYW5nKSB7CiAgICBjb29raWUoJ2xhbmcnLCBkZWZhdWx0TGFuZykKICB9CgogIGxldCBsYW5nID0gY29va2llKCdsYW5nJykgfHwgZ2V0QnJvd3NlckxhbmcoKQoKICBpZiAoIWxvY2FsZXNbbGFuZ10pIHsKICAgIGxhbmcgPSAnemgnCiAgICBjb29raWUoJ2xhbmcnLCBsYW5nKQogIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text>'Port protocol is not HTTP, cannot publish policy by request content':
 '端口协议非 HTTP, 不能发布按内容分配的策略',
 
 ': '未开启应用治理的应用无法使用灰度发布',</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">J+aCqOW3suWwhnt2ZXJzaW9ufeeJiOacrOeahOebruagh+a1gemHj+mFjeavlOiwg+aVtOiHsyB7cmF0aW99JScsIOaCqOS5n+WPr+S7pee7p+e7reiwg+aVtOebruagh+a1gemHj+mFjeavlO+8jOaIluiAheS9v+Wug+eri+WNs+eUn+aViOOAgicsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">J1VOQUJMRV9UT19BQ0NFU1NfVElQJzoKJ+KXjyDor7fnoa7kv53mgqjorr7nva7nmoTln5/lkI3lj6/ku6Xop6PmnpDliLDorr/pl67lhaXlj6PnmoQgSVAg5Zyw5Z2AOzxici8+4pePIOWmguaenOWcqOengeacieS6keeOr+Wig+S4re+8jOivt+S/ruaUueacrOWcsOeahCBob3N0IOaWh+S7tu+8jOW5tumAmui/hyDln5/lkI0r6IqC54K556uv5Y+jIOeahOaWueW8j+adpeiuv+mXrjs8YnIvPuKXjyDpgJrov4fpgJrphY0gRE5TIOiuv+mXru+8jOWwhuWfn+WQjeS/ruaUueS4uiBob3N0bmFtZSArIOe9keWFs+WcsOWdgCArIG5pcC5pb++8jOeEtuWQjuWPr+S7pemAmui/hyBob3N0bmFtZS7nvZHlhbPlnLDlnYAubmlwLmlvJzroioLngrnnq6/lj6Mg55qE5b2i5byP5p2l6K6/6Zeu5pyN5YqhOzxici8+4pePIOWmguaenOmAmui/h+Wfn+WQjeiuv+mXruiiq+aLpuaIqu+8jOivt+ehruiupOaCqOeahOWfn+WQjeaYr+ecn+WunuiAjOS4lOW3sue7j+Wkh+ahiOOAgicsCgonTk9fSU5URVJORVRfQUNDRVNTX1RJUCc6CiflvZPliY3pobnnm67kuK3msqHmnInmib7liLDlj6/nlKjnmoTnvZHlhbPlnLDlnYDvvIzlm6DmraTmgqjml6Dms5Xorr7nva7lupTnlKjot6/nlLHjgILor7fogZTns7vmgqjnmoTpobnnm67nrqHnkIblkZjlnKggPHN0cm9uZz7pq5jnuqforr7nva48L3N0cm9uZz4g5Lit6K6+572u5aSW572R6K6/6Zeu5pa55byPJywKJ1VOQUJMRV9DUkVBVEVfUk9VVEVfVElQJzogJ+W9k+WJjemhueebruS4reayoeacieaJvuWIsOWPr+eUqOeahOe9keWFs+WcsOWdgO+8jOaXoOazleWIm+W7uuW6lOeUqOi3r+eUsScsCgonUlVMRV9TRVRUSU5HX01PREVfQVVUTyc6CifpgJrov4fpgJrphY0gRE5TIOiuv+mXru+8jOWwhuWfn+WQjeS/ruaUueS4uiBob3N0bmFtZSArIOe9keWFs+WcsOWdgCArIG5pcC5pb++8jOeEtuWQjuWPr+S7pemAmui/hyBob3N0bmFtZS7nvZHlhbPlnLDlnYAubmlwLmlvJzroioLngrnnq6/lj6Mg55qE5b2i5byP5p2l6K6/6Zeu5pyN5YqhOzxici8+6K+356Gu5L+d5omA5Zyo572R57uc546v5aKD5Y+v5Lul5q2j5bi46K6/6Zeu572R5YWz5Zyw5Z2A44CCJywKJ1JVTEVfU0VUVElOR19NT0RFX1NQRUNJRlknOgon6K+356Gu5L+d5oKo6K6+572u55qE5Z+f5ZCN5Y+v5Lul6Kej5p6Q5Yiw6K6/6Zeu5YWl5Y+j55qEIElQIOWcsOWdgDs8YnIvPuWmguaenOWcqOengeacieS6keeOr+Wig+S4re+8jOivt+S/ruaUueacrOWcsOeahCBob3N0IOaWh+S7tu+8jOW5tumAmui/hyDln5/lkI0r6IqC54K556uv5Y+jIOeahOaWueW8j+adpeiuv+mXricsCgonR0FURVdBWV9TRVJWSUNFX01FU0hfU1RBVFVTX09OJzogJ+W3suW8gOWQrycsCidHQVRFV0FZX1NFUlZJQ0VfTUVTSF9TVEFUVVNfT0ZGJzogJ+acquW8gOWQrycs</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
