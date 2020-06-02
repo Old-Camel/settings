@@ -46,10 +46,10 @@
       <file name="$USER_HOME$/data/code/sailor-web/src/components/StatusReason/index.jsx" timestamp="1591063612986">
         <mark key="[" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591066073062">
-        <mark key="[" line="240" column="29" />
-        <mark key="]" line="248" column="20" />
-        <mark key="." line="248" column="20" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591067481202">
+        <mark key="[" line="240" column="35" />
+        <mark key="]" line="240" column="35" />
+        <mark key="." line="240" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/components/Cards/Pods/Item.jsx" timestamp="1591065522202" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591063507095">
@@ -113,10 +113,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>isExpand</text>
+        <text>down</text>
       </register>
       <register name="-" type="4">
-        <text>isExpand</text>
+        <text>down</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
