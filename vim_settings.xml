@@ -24,7 +24,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/utils/constants.js" timestamp="1591063014637" />
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1591094917783">
         <mark key="[" line="191" column="47" />
         <mark key="]" line="191" column="47" />
@@ -46,6 +45,11 @@
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/StatusReason/index.jsx" timestamp="1591063612986">
         <mark key="[" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/utils/http.js" timestamp="1591098222907">
+        <mark key="[" line="88" column="28" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591068641920">
         <mark key="[" line="240" column="35" />
@@ -108,10 +112,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>default</text>
+        <text>/oauth/logout</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>/oauth/logout</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
