@@ -36,15 +36,16 @@
         <mark key="]" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" timestamp="1591066469582" />
-      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1591089649525" />
+      <file name="$USER_HOME$/data/code/datafill/istio/istio-gateway.yaml" timestamp="1591145539258" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/mapper/DeptAuditMapper.xml" timestamp="1591149172785">
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Workloads/Item.jsx" timestamp="1591068673510">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="27" column="26" />
         <mark key="." line="27" column="26" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/StatusReason/index.jsx" timestamp="1591063612986">
-        <mark key="[" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/http.js" timestamp="1591098222907">
         <mark key="[" line="88" column="28" />
@@ -65,12 +66,15 @@
       </file>
       <file name="$USER_HOME$/data/code/console/src/components/Cards/Pods/index.jsx" timestamp="1591078193743" />
       <file name="$USER_HOME$/data/code/datafill/istio/istio-svc-dpt.yaml" timestamp="1591090008151" />
+      <file name="$USER_HOME$/data/code/sailor-web/.gitignore" timestamp="1591149727920">
+        <mark key="[" line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/ResourceStatus/index.jsx" timestamp="1591096062936">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="117" column="66" />
         <mark key="." line="117" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591090678728">
+      <file name="/Dummy.txt" timestamp="1591149231795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/config/config.js" timestamp="1591091150097">
@@ -112,32 +116,35 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>/oauth/logout</text>
+        <text>143</text>
       </register>
       <register name="-" type="4">
-        <text>/oauth/logout</text>
+        <text>143</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExFRlQgSk9JTiBzcGF1dGguUk9MRVVTRVJfREVQVCBlIE9OIGQuZGVwdGlkID0gZS5kZXB0X2lkIGFuZCBpbnN0cihjLmRlcHRfYXVkaXRfcm9sZSwgZS5yb2xlX2lkKSA+IDAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICByZXR1cm4gICAgICAgPFRvb2x0aXAgcGxhY2VtZW50PSJ0b3AiIHRpdGxlPXsnYXNkZmEnfT4KICAgICAgPEJ1dHRvbj5Ub3A8L0J1dHRvbj4KICA8L1Rvb2x0aXA+</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>: (
           text
       )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGAkey5uYW1lfS4ke3NlcnZpY2UubmFtZXNwYWNlfWAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgLy8gc3VwZXIocHJvcHMpCiAgICAvLwogICAgLy8gdGhpcy5zdG9yZSA9IG5ldyBQb2RTdG9yZSgpCiAgICAvLyB0aGlzLm1vbml0b3JTdG9yZSA9IG5ldyBQb2RNb25pdG9yU3RvcmUoKQogICAgLy8KICAgIC8vIHRoaXMucGFyYW1zID0gdGhpcy5nZXRQYXJhbXMocHJvcHMpCiAgICAvLyB0aGlzLmZldGNoRGF0YSgpCiAgICAvLwogICAgLy8gdGhpcy53ZWJzb2NrZXQgPSBwcm9wcy5yb290U3RvcmUud2Vic29ja2V0CiAgICAvLyB0aGlzLmluaXRXZWJzb2NrZXQoKQogICAgLy8KICAgIC8vIHRoaXMuc3RhdGUgPSB7CiAgICAvLyAgIGV4cGFuZEl0ZW06ICcnLAogICAgLy8gfQogIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QGltcG9ydCAnfnNjc3MvdmFyaWFibGVzJzsKQGltcG9ydCAnfnNjc3MvbWl4aW5zJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>import {
   Level,
   LevelLeft,
@@ -146,14 +153,11 @@
   Loading,
 } from '@pitrix/lego-ui'</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgeyByb3V0ZXMgPSBbXSB9ID0gdGhpcy5wcm9wcy5yb3V0ZQogICAgICBjb25zb2xlLmxvZyhyb3V0ZXMpOwogICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgbmFtZTogdCgnQ3JlYXRvcicpLAogICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMuY3JlYXRvciwKICAgICAgICAgICAgfSw=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKG9wdGlvbnMgJiYgb3B0aW9ucy5kZWZhdWx0VmFsdWUgJiYgdmFsdWUgPT09IGtleSkgewogICAgdmFsdWUgPSBvcHRpb25zLmRlZmF1bHRWYWx1ZQogIH0=</text>
+        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgbmFtZTogdCgnQ3JlYXRvcicpLAogICAgICAgICAgICAgICAgdmFsdWU6IHRoaXMuY3JlYXRvciwKICAgICAgICAgICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
