@@ -29,18 +29,14 @@
         <mark key="]" line="145" column="20" />
         <mark key="." line="145" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591252861607">
-        <mark key="[" line="312" column="15" />
-        <mark key="]" line="312" column="15" />
-        <mark key="." line="312" column="15" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591264709222">
+        <mark key="[" line="114" column="31" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
         <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/locales/zh-CN.js" timestamp="1591260798278" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/modal.jsx" timestamp="1591250027336">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-      </file>
+      <file name="$USER_HOME$/data/code/wj-web/config/router.config.js" timestamp="1591263510531" />
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/utils.js" timestamp="1591261392459">
         <mark key="[" line="424" column="3" />
       </file>
@@ -60,25 +56,33 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/components/Cards/Containers/Item.jsx" timestamp="1591251513235" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/base.js" timestamp="1591252853096" />
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591252736809">
-        <mark key="[" line="27" column="105" />
-        <mark key="]" line="27" column="105" />
-        <mark key="." line="27" column="105" />
+      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591263435844">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/components/Modals/ContainerLog/index.jsx" timestamp="1591242642182" />
-      <file name="$USER_HOME$/data/code/console/src/components/Terminal/index.jsx" timestamp="1591251561944" />
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN.js" timestamp="1591254325869">
         <mark key="[" line="43" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContainerLog/index.jsx" timestamp="1591249448875">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="7" />
-        <mark key="^" line="75" column="8" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1591264677257">
+        <mark key="'" line="43" column="3" />
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="80" column="29" />
+        <mark key="." line="80" column="29" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/ResourceStatus/index.jsx" timestamp="1591264251520">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="117" column="66" />
+        <mark key="." line="117" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/wj-web/src/locales/zh-CN/component.js" timestamp="1591254314350" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Terminal/TerminalIndex.jsx" timestamp="1591263645999">
+        <mark key="[" line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/models/service.js" timestamp="1591264757458">
+        <mark key="[" line="19" column="17" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/component.js" timestamp="1591254295770">
         <mark key="[" line="18" column="16" />
       </file>
@@ -110,42 +114,44 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>t('NOT_AVAILABLE', { resource: t('Pod') }</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>t('NOT_AVAILABLE', { resource: t('Pod') }</text>
+        <text>params</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
+      <register name="1" type="4">
+        <text>}else{
+            result.namespace=props.namespace
+        }</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpCgoKCgogICAgICAgIC8vIHRoaXMud2Vic29ja2V0ID0gcHJvcHMucm9vdFN0b3JlLndlYnNvY2tldAogICAgICAgIC8vIHRoaXMuaW5pdFdlYnNvY2tldCgpCgogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgICAgIGV4cGFuZEl0ZW06ICcnLAogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
                     primary: '#ffffff',
                     secondary: '#ea4641'}</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PEljb25Gb250CiAgICAgICAgICAgICAgICAgdHlwZT0iaW5mb3JtYXRpb24iCiAgICAgICAgICAgICAgICAgY29sb3I9e3sKICAgICAgICAgICAgICAgICAgICAgcHJpbWFyeTogJyNmZmZmZmYnLAogICAgICAgICAgICAgICAgICAgICBzZWNvbmRhcnk6IHN0YXR1cyA9PT0gJ2Vycm9yJyA/ICcjYWIyZjI5JyA6ICcjZjVhNjIzJywKICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgLz4=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ey8qIDxUb29sdGlwIHBsYWNlbWVudD0icmlnaHQiIGNvbnRlbnQ9e2NvbmRpdGlvbnN9PgogICAgICAgIDxJY29uCiAgICAgICAgICBuYW1lPSJpbmZvcm1hdGlvbiIKICAgICAgICAgIGNvbG9yPXt7CiAgICAgICAgICAgIHByaW1hcnk6ICcjZmZmZmZmJywKICAgICAgICAgICAgc2Vjb25kYXJ5OiBzdGF0dXMgPT09ICdlcnJvcicgPyAnI2FiMmYyOScgOiAnI2Y1YTYyMycsCiAgICAgICAgICB9fQogICAgICAgIC8+CiAgICAgIDwvVG9vbHRpcD4qL30=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zdGF0dXNUaXB9PgogICAgICAgICAgICAgICAgPHN0cm9uZz57bmFtZX08L3N0cm9uZz4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIHt0KCdSZWFkeScpfToge3JlYWR5Q291bnR9L3t0b3RhbH0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIHt0KCdTdGF0dXMnKX06IHt0KHN0YXR1c1N0cil9CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">KCk9PnsKCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgLyogdGhpcy5tb25pdG9yU3RvcmUuZmV0Y2hNZXRyaWNzKHsKICAgICAgc3RlcDogJzFtJywKICAgICAgdGltZXM6IDMwLAogICAgICByZXNvdXJjZXM6IGRhdGEubWFwKGl0ZW0gPT4gaXRlbS5uYW1lKSwKICAgICAgbWV0cmljczogT2JqZWN0LnZhbHVlcyhNZXRyaWNUeXBlcyksCiAgICAgIC4uLnRoaXMucGFyYW1zLAogICAgICAuLi5wYXJhbXMsCiAgICB9KSo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgLyphd2FpdCB0aGlzLnN0b3JlLmZldGNoTGlzdCh7CiAgICAgIGxpbWl0LAogICAgICAuLi50aGlzLnBhcmFtcywKICAgICAgLi4ucGFyYW1zLAogICAgfSkKICAgIHRoaXMuc3RvcmUubGlzdC5zaWxlbnQgPSBmYWxzZQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICBjb25zdCB7IG9uU2VhcmNoLCBvblJlZnJlc2ggfSA9IHRoaXMucHJvcHMKICAgICAgaXNFbXB0eShwYXJhbXMpID8gb25SZWZyZXNoKCkgOiBvblNlYXJjaCh0aGlzLnNlYXJjaFZhbHVlKQogICAgfSk=</text>
+        <text encoding="base64">ICAgLyogdGhpcy5tb25pdG9yU3RvcmUuZmV0Y2hNZXRyaWNzKHsKICAgICAgc3RlcDogJzFtJywKICAgICAgdGltZXM6IDMwLAogICAgICByZXNvdXJjZXM6IGRhdGEubWFwKGl0ZW0gPT4gaXRlbS5uYW1lKSwKICAgICAgbWV0cmljczogT2JqZWN0LnZhbHVlcyhNZXRyaWNUeXBlcyksCiAgICAgIC4uLnRoaXMucGFyYW1zLAogICAgICAuLi5wYXJhbXMsCiAgICB9KSo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
