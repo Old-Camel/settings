@@ -24,8 +24,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1591251876719">
-        <mark key="[" line="54" column="83" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1591253292769">
+        <mark key="[" line="54" column="25" />
         <mark key="]" line="145" column="20" />
         <mark key="." line="145" column="20" />
       </file>
@@ -34,13 +34,17 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContainerLog/index.scss" timestamp="1591241250371" />
       <file name="$USER_HOME$/data/code/console/src/components/Terminal/index.jsx" timestamp="1591251561944" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/index.scss" timestamp="1591241331730" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/form.jsx" timestamp="1591241395677">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/index.jsx" timestamp="1591252861607">
+        <mark key="[" line="312" column="15" />
+        <mark key="]" line="312" column="15" />
+        <mark key="." line="312" column="15" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContainerLog/index.jsx" timestamp="1591249448875">
         <mark key="[" line="21" column="20" />
@@ -58,12 +62,16 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/scss/variables.scss" timestamp="1591241212122" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/scss/mixins.scss" timestamp="1591241201112" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/EnvVariables/index.jsx" timestamp="1591252909731">
+        <mark key="[" line="106" column="15" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Form/Group.jsx" timestamp="1591241702304">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="28" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Workloads/index.jsx" timestamp="1591252947187">
+        <mark key="[" line="48" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Form/index.scss" timestamp="1591241555168" />
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Terminal/index.jsx" timestamp="1591251845936">
@@ -72,8 +80,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/console/src/components/Cards/Containers/Item.jsx" timestamp="1591251513235" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/base.js" timestamp="1591252853096" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Image/index.scss" timestamp="1591241799349" />
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591251939953">
+      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591252736809">
         <mark key="[" line="27" column="105" />
         <mark key="]" line="27" column="105" />
         <mark key="." line="27" column="105" />
@@ -117,10 +126,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Service</text>
+        <text>t('NOT_AVAILABLE', { resource: t('Pod') }</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>t('NOT_AVAILABLE', { resource: t('Pod') }</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
