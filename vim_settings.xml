@@ -25,11 +25,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.scss" timestamp="1591327659538" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1591343186053">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="145" column="20" />
+        <mark key="." line="145" column="20" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1591326518910">
         <mark key="[" line="195" column="21" />
         <mark key="]" line="195" column="21" />
         <mark key="^" line="197" column="63" />
         <mark key="." line="195" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/modal.jsx" timestamp="1591343371189">
+        <mark key="[" line="112" column="33" />
+        <mark key="]" line="181" column="28" />
+        <mark key="." line="181" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Terminal/index.jsx" timestamp="1591327014313">
         <mark key="[" line="17" column="27" />
@@ -38,11 +48,6 @@
       </file>
       <file name="$USER_HOME$/data/code/console/src/stores/base.js" timestamp="1591326174171" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.test.js" timestamp="1591327414478" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/FullscreenModal/index.jsx" timestamp="1591324989932">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.jsx" timestamp="1591327697234">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -51,17 +56,17 @@
       <file name="$USER_HOME$/data/code/sailor-web/src/services/system/resources.js" timestamp="1591341212614">
         <mark key="[" line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContianerTerminal/index.scss" timestamp="1591324390790" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Containers/ContainerTerminal/index.jsx" timestamp="1591324342142">
+      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Containers/ContainerTerminal/index.jsx" timestamp="1591343189585">
         <mark key="[" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/locales/zh-CN/base.js" timestamp="1591342503124" />
       <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591341974215">
         <mark key="[" line="23" column="96" />
         <mark key="]" line="29" column="17" />
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591341994008">
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591342838839">
         <mark key="[" line="60" column="35" />
         <mark key="]" line="60" column="35" />
         <mark key="." line="60" column="35" />
@@ -76,8 +81,8 @@
         <mark key="]" line="32" column="61" />
         <mark key="." line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/console/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591326870314" />
-      <file name="$USER_HOME$/data/code/console/src/stores/pod.js" timestamp="1591325659387" />
+      <file name="$USER_HOME$/data/code/console/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591342808436" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/BaseInfo/index.jsx" timestamp="1591343270442" />
       <file name="/Dummy.txt" timestamp="1591328709001">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,10 +120,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>containerName</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>containerName</text>
+        <text>name</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
