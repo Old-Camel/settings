@@ -24,34 +24,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Pods/Item.jsx" timestamp="1591344885447">
+        <mark key="[" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.scss" timestamp="1591327659538" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1591343186053">
         <mark key="[" line="54" column="25" />
         <mark key="]" line="145" column="20" />
         <mark key="." line="145" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Service.js" timestamp="1591326518910">
-        <mark key="[" line="195" column="21" />
-        <mark key="]" line="195" column="21" />
-        <mark key="^" line="197" column="63" />
-        <mark key="." line="195" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/modal.jsx" timestamp="1591343371189">
-        <mark key="[" line="112" column="33" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/modal.jsx" timestamp="1591344452777">
+        <mark key="[" line="112" column="72" />
         <mark key="]" line="181" column="28" />
         <mark key="." line="181" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Terminal/index.jsx" timestamp="1591327014313">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/console/src/stores/base.js" timestamp="1591326174171" />
       <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.test.js" timestamp="1591327414478" />
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.jsx" timestamp="1591327697234">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/TypeSelect/index.jsx" timestamp="1591344912177">
+        <mark key="[" line="170" column="59" />
+        <mark key="]" line="170" column="59" />
+        <mark key="." line="170" column="59" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/services/system/resources.js" timestamp="1591341212614">
         <mark key="[" line="21" column="41" />
@@ -66,8 +57,8 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591342838839">
-        <mark key="[" line="60" column="35" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Modals/ContianerTerminal/index.jsx" timestamp="1591344790187">
+        <mark key="[" line="138" column="19" />
         <mark key="]" line="60" column="35" />
         <mark key="." line="60" column="35" />
       </file>
@@ -91,6 +82,10 @@
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="2" />
         <mark key="." line="11" column="2" />
+      </file>
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/List/Item.jsx" timestamp="1591343949530" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Modal/index.less" timestamp="1591344350786">
+        <mark key="[" line="108" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -120,10 +115,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>name</text>
+        <text>style={{color:color}}</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>style={{color:color}}</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
