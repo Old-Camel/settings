@@ -32,6 +32,7 @@
       <file name="$USER_HOME$/data/code/242/cloud/common/pom.xml" timestamp="1591601845704">
         <mark key="[" line="247" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1591607231603" />
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591601097230">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="4" column="12" />
@@ -45,9 +46,10 @@
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/Swagger2.java" timestamp="1591602110087" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/generated/swagger-ui/swagger.json" timestamp="1591603288653" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591607042470">
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591608809392">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591601107414">
         <mark key="[" line="10" column="3" />
@@ -106,10 +108,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>&quot;http://localhost&quot;</text>
+        <text>none</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://localhost&quot;</text>
+        <text>none</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
