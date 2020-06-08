@@ -24,6 +24,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591604489551">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+      </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/pom.xml" timestamp="1591601845704">
         <mark key="[" line="247" column="0" />
       </file>
@@ -45,13 +50,14 @@
         <mark key="." line="56" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/generated/swagger-ui/swagger.json" timestamp="1591603288653" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591604008134">
-        <mark key="[" line="17" column="26" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591604664904">
+        <mark key="[" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591601107414">
         <mark key="[" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseRole.java" timestamp="1591600811528" />
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/BatchTaskDataSourceInitializer.java" timestamp="1591604342243" />
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/Return.java" timestamp="1591600247455">
         <mark key="[" line="15" column="99" />
       </file>
@@ -101,11 +107,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5naXRodWIua29uZ2NoZW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zd2FnZ2VyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS40PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFwaVNvdXJjZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcGlTb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ByaW5nbXZjPnRydWU8L3NwcmluZ212Yz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsb2NhdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxvY2F0aW9uPmNvbS55dW56YWluZm8uY2xvdWQuYXV0aC53ZWI8L2xvY2F0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9sb2NhdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lPmh0dHA8L3NjaGVtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lPmh0dHBzPC9zY2hlbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NjaGVtZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YmFzZVBhdGg+L2F1dGg8L2Jhc2VQYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluZm8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRpdGxlPuS6keWcqOiupOivgeS4reW/gzwvdGl0bGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+djE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDorqTor4HkuK3lv4NTd2FnZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kZXNjcmlwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5mbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzd2FnZ2VyRGlyZWN0b3J5PiR7YmFzZWRpcn0vc3JjL21haW4vZ2VuZXJhdGVkL3N3YWdnZXItdWk8L3N3YWdnZXJEaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYXBpU291cmNlPgogICAgICAgICAgICAgICAgICAgIDwvYXBpU291cmNlcz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5jb21waWxlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Z2VuZXJhdGU8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
+      <register name="*" type="4">
+        <text>PutFilter</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text>PutFilter</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
