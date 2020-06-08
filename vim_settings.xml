@@ -44,18 +44,16 @@
         <mark key="." line="22" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/Swagger2.java" timestamp="1591602110087" />
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseMenuController.java" timestamp="1591598502563">
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="45" />
-        <mark key="." line="56" column="45" />
-      </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/generated/swagger-ui/swagger.json" timestamp="1591603288653" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591604664904">
-        <mark key="[" line="28" column="16" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591605416262">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591601107414">
         <mark key="[" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseDepartMentController.java" timestamp="1591604854525" />
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseRole.java" timestamp="1591600811528" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/BatchTaskDataSourceInitializer.java" timestamp="1591604342243" />
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/Return.java" timestamp="1591600247455">
@@ -64,7 +62,6 @@
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1591599713450">
         <mark key="'" line="108" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1591588048098" />
       <file name="/Dummy.txt" timestamp="1591602463268">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,6 +73,8 @@
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="17" />
       </file>
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/RestTemplateConfig.java" timestamp="1591605311699" />
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/util/ThirdPartyUtil.java" timestamp="1591605345590" />
       <file name="/fragment.java" timestamp="1591598591085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,10 +107,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>PutFilter</text>
+        <text>&quot;http://localhost&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>PutFilter</text>
+        <text>&quot;http://localhost&quot;</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
