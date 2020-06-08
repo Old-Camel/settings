@@ -24,32 +24,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Cards/Containers/Item.jsx" timestamp="1591347255808">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="145" column="20" />
-        <mark key="." line="145" column="20" />
-      </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/Return.java" timestamp="1591600247455">
-        <mark key="[" line="15" column="99" />
-      </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591598286377">
-        <mark key="[" line="4" column="12" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591601097230">
+        <mark key="[" line="14" column="8" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1591599713450">
-        <mark key="'" line="108" column="13" />
-      </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/ReturnEntity.java" timestamp="1591596615220">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/ReturnEntity.java" timestamp="1591601028468">
+        <mark key="e" line="20" column="43" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" timestamp="1591348684675">
         <mark key="'" line="43" column="3" />
         <mark key="[" line="80" column="29" />
         <mark key="]" line="80" column="29" />
         <mark key="." line="80" column="29" />
+      </file>
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseMenuController.java" timestamp="1591598502563">
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="45" />
+        <mark key="." line="56" column="45" />
+      </file>
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591601107414">
+        <mark key="[" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseRole.java" timestamp="1591600811528" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/Return.java" timestamp="1591600247455">
+        <mark key="[" line="15" column="99" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1591599713450">
+        <mark key="'" line="108" column="13" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseUserController.java" timestamp="1591588048098" />
       <file name="/Dummy.txt" timestamp="1591598591143">
@@ -59,15 +64,9 @@
         <mark key="[" line="98" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/pom.xml" timestamp="1591600304967" />
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseMenuController.java" timestamp="1591598502563">
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="45" />
-        <mark key="." line="56" column="45" />
-      </file>
       <file name="/fragment.java" timestamp="1591598591085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591598536316" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -97,10 +96,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Object</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text />
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
