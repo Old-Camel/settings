@@ -82,9 +82,13 @@
           <option name="url" value="http://222.30.192.242/yunzai-research/research-k8s/sailor-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://222.30.192.242/pitcher-platform-basic/platform-basic-portal/cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/data/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/data/code/242" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
