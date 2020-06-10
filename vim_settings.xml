@@ -24,44 +24,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591604489551">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="17" />
-        <mark key="." line="60" column="17" />
+      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" timestamp="1591755384792" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591768205194">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="17" />
+        <mark key="." line="68" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/pom.xml" timestamp="1591601845704">
-        <mark key="[" line="247" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1591607231603" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1591697081525" />
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591690876547">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/ReturnEntity.java" timestamp="1591601028468">
-        <mark key="e" line="20" column="43" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
+      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591755550095">
+        <mark key="[" line="23" column="96" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/Swagger2.java" timestamp="1591602110087" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DeptTaskServiceImpl.java" timestamp="1591697222529" />
       <file name="$USER_HOME$/data/code/datafill/pom.xml" timestamp="1591692268388" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/generated/swagger-ui/swagger.json" timestamp="1591603288653" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591690779719">
-        <mark key="[" line="62" column="43" />
-        <mark key="]" line="86" column="12" />
-        <mark key="." line="86" column="12" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591768240997">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
         <mark key="^" line="81" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591690865331">
         <mark key="[" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/web/BaseDepartMentController.java" timestamp="1591604854525" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/entity/core/BaseRole.java" timestamp="1591600811528" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/BatchTaskDataSourceInitializer.java" timestamp="1591604342243" />
-      <file name="$USER_HOME$/data/code/242/cloud/config-center/src/main/resources/application.yml" timestamp="1591696072822" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/Return.java" timestamp="1591600247455">
-        <mark key="[" line="15" column="99" />
+      <file name="$USER_HOME$/data/code/242/cloud/config-center/src/main/resources/application.yml" timestamp="1591768026554" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RestTemplate.java" timestamp="1591768216952">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1591691532427">
         <mark key="[" line="0" column="9" />
@@ -71,8 +70,11 @@
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/RestTemplateConfig.java" timestamp="1591605311699" />
+      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/RestTemplateConfig.java" timestamp="1591768114701" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/util/ThirdPartyUtil.java" timestamp="1591605345590" />
+      <file name="/fragment.java" timestamp="1591768103646">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/config/Swagger2.java" timestamp="1591691379386">
         <mark key="[" line="59" column="24" />
       </file>
@@ -105,10 +107,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">Ym9vbGVhbiBleGVjdXRlID0g</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbGVhbiBleGVjdXRlID0g</text>
+        <text>e</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
