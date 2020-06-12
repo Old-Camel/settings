@@ -24,18 +24,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/sailor-web/src/components/Base/Detail/index.jsx" timestamp="1591755384792" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591768205194">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
+      <file name="/Dummy.txt" timestamp="1591768810933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/oplatform/src/main/resources/application.properties" timestamp="1591776368249" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1591697081525" />
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RestTemplate.java" timestamp="1591768216952">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+      </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591690876547">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591768631996">
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="81" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591768205194">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="17" />
+        <mark key="." line="68" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591755550095">
         <mark key="[" line="23" column="96" />
@@ -43,33 +56,9 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DeptTaskServiceImpl.java" timestamp="1591697222529" />
-      <file name="$USER_HOME$/data/code/datafill/pom.xml" timestamp="1591692268388" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591768631996">
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="81" column="12" />
-      </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591690865331">
         <mark key="[" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/config-center/src/main/resources/application.yml" timestamp="1591768026554" />
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RestTemplate.java" timestamp="1591768216952">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-      </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/MultiInstanceCompleteListener.java" timestamp="1591845398438" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MultiInstanceCompleteTask.java" timestamp="1591845763229" />
-      <file name="$USER_HOME$/data/code/oplatform/src/main/java/com/yunzainfo/oplatform/controller/UserController.java" timestamp="1591776384262" />
-      <file name="/Dummy.txt" timestamp="1591768810933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/RestTemplateConfig.java" timestamp="1591768114701" />
-      <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/util/ThirdPartyUtil.java" timestamp="1591605345590" />
       <file name="/fragment.java" timestamp="1591768103646">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,7 +139,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
