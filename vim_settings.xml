@@ -24,13 +24,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592183250960">
+      <file name="/Dummy.txt" timestamp="1592183992045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1592183052266">
         <mark key="[" line="50" column="39" />
+      </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1592189903299">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1592189519754">
+        <mark key="'" line="290" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentController.java" timestamp="1592182915518">
         <mark key="[" line="81" column="3" />
@@ -42,15 +50,10 @@
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/istio/istio-svc-dpt.yaml" timestamp="1592183962068">
+      <file name="$USER_HOME$/data/code/datafill/istio/istio-svc-dpt.yaml" timestamp="1592185227682">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
-      </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturnEntity.java" timestamp="1591690876547">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SwaggerRunner.java" timestamp="1591768631996">
         <mark key="[" line="58" column="25" />
@@ -63,7 +66,7 @@
         <mark key="]" line="68" column="17" />
         <mark key="." line="68" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/cloud-demo/istio/istio-svc-dpt.yaml" timestamp="1592183225592">
+      <file name="$USER_HOME$/data/code/cloud-demo/istio/istio-svc-dpt.yaml" timestamp="1592184861100">
         <mark key="[" line="18" column="8" />
         <mark key="." line="18" column="29" />
       </file>
@@ -74,15 +77,14 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/response/YunzaiReturn.java" timestamp="1591690865331">
-        <mark key="[" line="9" column="26" />
-      </file>
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/Dockerfile" timestamp="1592189259987" />
       <file name="/fragment.java" timestamp="1591768103646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/config/Swagger2.java" timestamp="1591691379386">
         <mark key="[" line="59" column="24" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1592189869421" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -107,12 +109,14 @@
       <jump line="89" column="13" filename="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" />
       <jump line="42" column="3" filename="$USER_HOME$/data/code/sailor-web/src/pages/Sailor/Service/Detail/Detail.js" />
       <jump line="108" column="13" filename="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" />
+      <jump line="290" column="16" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICB2b2x1bWVzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBlbXB0eURpcjoge30KICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgICBuYW1lOiBkYXRhZmlsbC1maWxlYmVhdC1jb25maWcKICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
+      <register name="*" type="2">
+        <text>a='leavePluginV23'
+b='dropdown'</text>
       </register>
       <register name="-" type="4">
         <text>feat</text>
@@ -120,13 +124,17 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICB2b2x1bWVzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBlbXB0eURpcjoge30KICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgICBuYW1lOiBkYXRhZmlsbC1maWxlYmVhdC1jb25maWcKICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
+      <register name="1" type="2">
+        <text>a='leavePluginV23'
+b='dropdown'</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICB2b2x1bWVzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBlbXB0eURpcjoge30KICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgICBuYW1lOiBkYXRhZmlsbC1maWxlYmVhdC1jb25maWcKICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAtIGltYWdlOiBkb2NrZXIuZWxhc3RpYy5jby9iZWF0cy9maWxlYmVhdDo2LjUuMQogICAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICAgIHJlc291cmNlczoKICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgbWVtb3J5OiAiMTI4TWkiCiAgICAgICAgICAgIGxpbWl0czoKICAgICAgICAgICAgICBtZW1vcnk6ICI1MTJNaSIKICAgICAgICAgIGFyZ3M6IFsKICAgICAgICAgICAgIi1jIiwgIi9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnL2ZpbGViZWF0LnltbCIsCiAgICAgICAgICAgICItZSIsCiAgICAgICAgICBdCiAgICAgICAgICBlbnY6CiAgICAgICAgICAgIC0gbmFtZTogUE9EX0lQCiAgICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgICAgZmllbGRSZWY6CiAgICAgICAgICAgICAgICAgIGFwaVZlcnNpb246IHYxCiAgICAgICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgICAgIC0gbmFtZTogcG9kX25hbWUKICAgICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogdjEKICAgICAgICAgICAgICAgICAgZmllbGRQYXRoOiBtZXRhZGF0YS5uYW1lCiAgICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgICAgIG1vdW50UGF0aDogL2V0Yy9maWxlYmVhdC9maWxlYmVhdC1jb25maWcv</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text>apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -149,16 +157,16 @@ data:
     index: &quot;datafill-%{+yyyy.MM.dd}&quot;
 ---</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3M=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICB2b2x1bWVzOgogICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgIGVtcHR5RGlyOiB7fQogICAgICAtIG5hbWU6IG15YmF0aXNkZW1vLWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogbXliYXRpc2RlbW8tZmlsZWJlYXQtY29uZmlnCiAgICAgICAgIGl0ZW1zOgogICAgICAgICAtIGtleTogZmlsZWJlYXQueW1sCiAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC0gaW1hZ2U6IGRvY2tlci5lbGFzdGljLmNvL2JlYXRzL2ZpbGViZWF0OjYuNS4xCiAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICBhcmdzOiBbCiAgICAgICAgICAgICAgICAgICItYyIsICIvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy9maWxlYmVhdC55bWwiLAogICAgICAgICAgICAgICAgICAiLWUiLAogICAgICAgICAgICAgICAgXQogICAgICAgIGVudjoKICAgICAgICAtIG5hbWU6IFBPRF9JUAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgLSBuYW1lOiBwb2RfbmFtZQogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubmFtZQogICAgICAgIHZvbHVtZU1vdW50czoKICAgICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgIC0gbmFtZTogbXliYXRpc2RlbW8tZmlsZWJlYXQtY29uZmlnCiAgICAgICAgICBtb3VudFBhdGg6IC9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnLw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -181,22 +189,8 @@ data:
     index: &quot;mybatisdemo-%{+yyyy.MM.dd}&quot;
 ---</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIEJhc2VVc2VyQ2xpZW50IGNsaWVudDsKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5rWL6K+V6LCD55So5YW25LuW5pyN5Yqh6I635Y+W55So5oi35L+h5oGvIikKICAgIEBHZXRNYXBwaW5nKCIvdXNlciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBnZXRVc2VyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gYWRtaW4gPSBjbGllbnQucXVlcnlVc2VyQnlVc2VyQ29kZSgiMTAwMTQzIik7CiAgICAgICAgICAgIFl1bnphaVJldHVybkVudGl0eSBib2R5ID0gYWRtaW4uZ2V0Qm9keSgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9keSk7CiAgICAgICAgICAgIGlmIChib2R5LmdldERhdGEoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBCYXNlVXNlciB1c2VyID0gSlNPTi5wYXJzZU9iamVjdChKU09OLnRvSlNPTihib2R5LmdldERhdGEoKSkudG9TdHJpbmcoKSwgQmFzZVVzZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi55So5oi35L+h5oGvIiwgdXNlcik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKGZhbHNlLCAi6LCD55So5aSx6LSlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuiwg+eUqOWksei0pSIpOwoKICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text>volumeMounts:
-        - name: logdir
-          mountPath: /logs
-      volumes:
-      - name: logdir
-        emptyDir: {}
-      - name: jpademo-filebeat-config
-        configMap:
-         name: jpademo-filebeat-config
-         items:
-         - key: filebeat.yml
-           path: filebeat.yml</text>
+        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIEJhc2VVc2VyQ2xpZW50IGNsaWVudDsKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5rWL6K+V6LCD55So5YW25LuW5pyN5Yqh6I635Y+W55So5oi35L+h5oGvIikKICAgIEBHZXRNYXBwaW5nKCIvdXNlciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBnZXRVc2VyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gYWRtaW4gPSBjbGllbnQucXVlcnlVc2VyQnlVc2VyQ29kZSgiMTAwMTQzIik7CiAgICAgICAgICAgIFl1bnphaVJldHVybkVudGl0eSBib2R5ID0gYWRtaW4uZ2V0Qm9keSgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9keSk7CiAgICAgICAgICAgIGlmIChib2R5LmdldERhdGEoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBCYXNlVXNlciB1c2VyID0gSlNPTi5wYXJzZU9iamVjdChKU09OLnRvSlNPTihib2R5LmdldERhdGEoKSkudG9TdHJpbmcoKSwgQmFzZVVzZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi55So5oi35L+h5oGvIiwgdXNlcik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKGZhbHNlLCAi6LCD55So5aSx6LSlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuiwg+eUqOWksei0pSIpOwoKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
