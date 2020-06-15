@@ -24,10 +24,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591768810933">
+      <file name="/Dummy.txt" timestamp="1592182950219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1592183052266">
+        <mark key="[" line="50" column="39" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentController.java" timestamp="1592182915518">
+        <mark key="[" line="81" column="3" />
+        <mark key="]" line="81" column="3" />
+        <mark key="." line="81" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/RestTemplate.java" timestamp="1591768216952">
         <mark key="[" line="15" column="55" />
@@ -49,6 +57,10 @@
         <mark key="[" line="68" column="17" />
         <mark key="]" line="68" column="17" />
         <mark key="." line="68" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud-demo/istio/istio-svc-dpt.yaml" timestamp="1592183225592">
+        <mark key="[" line="18" column="8" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591755550095">
         <mark key="[" line="23" column="96" />
@@ -93,8 +105,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>feat</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3M=</text>
       </register>
       <register name="-" type="4">
         <text>feat</text>
@@ -102,34 +114,63 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGlmKCFleGVjdXRlKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5bu66KGo5aSx6LSlIik7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3M=</text>
       </register>
       <register name="2" type="4">
-        <text>if(!execute){
-                throw new RuntimeException(&quot;更新失败&quot;);
-            }</text>
+        <text encoding="base64">ICB2b2x1bWVzOgogICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgIGVtcHR5RGlyOiB7fQogICAgICAtIG5hbWU6IG15YmF0aXNkZW1vLWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogbXliYXRpc2RlbW8tZmlsZWJlYXQtY29uZmlnCiAgICAgICAgIGl0ZW1zOgogICAgICAgICAtIGtleTogZmlsZWJlYXQueW1sCiAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIlRBQkxFU1BBQ0UgXCJJTkZPXCJcbiIgKwogICAgICAgICAgICAiTE9HR0lOR1xuIiArCiAgICAgICAgICAgICJOT0NPTVBSRVNTXG4iICsKICAgICAgICAgICAgIlBDVEZSRUUgMTBcbiIgKwogICAgICAgICAgICAiSU5JVFJBTlMgMVxuIiArCiAgICAgICAgICAgICJTVE9SQUdFIChcbiIgKwogICAgICAgICAgICAiICBCVUZGRVJfUE9PTCBERUZBVUxUXG4iICsKICAgICAgICAgICAgIilcbiIgKwogICAgICAgICAgICAiUEFSQUxMRUwgMVxuIiArCiAgICAgICAgICAgICJOT0NBQ0hFXG4iICsKICAgICAgICAgICAgIkRJU0FCTEUgUk9XIE1PVkVNRU5UO1xuIiArCiAgICAgICAgICAgICJcbiIgKw==</text>
+        <text encoding="base64">IC0gaW1hZ2U6IGRvY2tlci5lbGFzdGljLmNvL2JlYXRzL2ZpbGViZWF0OjYuNS4xCiAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICBhcmdzOiBbCiAgICAgICAgICAgICAgICAgICItYyIsICIvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy9maWxlYmVhdC55bWwiLAogICAgICAgICAgICAgICAgICAiLWUiLAogICAgICAgICAgICAgICAgXQogICAgICAgIGVudjoKICAgICAgICAtIG5hbWU6IFBPRF9JUAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgLSBuYW1lOiBwb2RfbmFtZQogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubmFtZQogICAgICAgIHZvbHVtZU1vdW50czoKICAgICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgIC0gbmFtZTogbXliYXRpc2RlbW8tZmlsZWJlYXQtY29uZmlnCiAgICAgICAgICBtb3VudFBhdGg6IC9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnLw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xvYiBjbG9iID0gY29ubmVjdGlvbi5jcmVhdGVDbG9iKCk7CiAgICAgICAgICAgIHBzZC5zZXRTdHJpbmcoMSxwYXRoKTsK</text>
+        <text>apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mybatisdemo-filebeat-config
+  namespace: cloud
+  labels:
+    k8s-app: filebeat
+data:
+  filebeat.yml: |
+    filebeat.prospectors:
+    - type: log
+      paths:
+        - /logs/*/*
+      tail_files: true
+      fields:
+        pod_name: '${pod_name}'
+        POD_IP: '${POD_IP}'
+    output.elasticsearch:
+      hosts: [&quot;http://elasticsearch.logging:9200&quot;]
+    index: &quot;mybatisdemo-%{+yyyy.MM.dd}&quot;
+---</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNhY3Rpb24gPSB0cmFuc2FjdGlvbkZhY3RvcnkubmV3VHJhbnNhY3Rpb24oZGF0YVNvdXJjZSwgbnVsbCwgZmFsc2UpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIEJhc2VVc2VyQ2xpZW50IGNsaWVudDsKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5rWL6K+V6LCD55So5YW25LuW5pyN5Yqh6I635Y+W55So5oi35L+h5oGvIikKICAgIEBHZXRNYXBwaW5nKCIvdXNlciIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8WXVuemFpUmV0dXJuRW50aXR5PiBnZXRVc2VyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFJlc3BvbnNlRW50aXR5PFl1bnphaVJldHVybkVudGl0eT4gYWRtaW4gPSBjbGllbnQucXVlcnlVc2VyQnlVc2VyQ29kZSgiMTAwMTQzIik7CiAgICAgICAgICAgIFl1bnphaVJldHVybkVudGl0eSBib2R5ID0gYWRtaW4uZ2V0Qm9keSgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9keSk7CiAgICAgICAgICAgIGlmIChib2R5LmdldERhdGEoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBCYXNlVXNlciB1c2VyID0gSlNPTi5wYXJzZU9iamVjdChKU09OLnRvSlNPTihib2R5LmdldERhdGEoKSkudG9TdHJpbmcoKSwgQmFzZVVzZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZCh0cnVlLCAi55So5oi35L+h5oGvIiwgdXNlcik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gWXVuemFpUmV0dXJuLmJ1aWxkKGZhbHNlLCAi6LCD55So5aSx6LSlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChmYWxzZSwgIuiwg+eUqOWksei0pSIpOwoKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5naXRodWIua29uZ2NoZW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zd2FnZ2VyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS40PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFwaVNvdXJjZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcGlTb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ByaW5nbXZjPnRydWU8L3NwcmluZ212Yz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsb2NhdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxvY2F0aW9uPmNvbS55dW56YWluZm8uY2xvdWQuYXV0aC53ZWI8L2xvY2F0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9sb2NhdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lPmh0dHA8L3NjaGVtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2NoZW1lPmh0dHBzPC9zY2hlbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NjaGVtZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YmFzZVBhdGg+L2F1dGg8L2Jhc2VQYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluZm8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRpdGxlPuS6keWcqOiupOivgeS4reW/gzwvdGl0bGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+djE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDorqTor4HkuK3lv4NTd2FnZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kZXNjcmlwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5mbz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzd2FnZ2VyRGlyZWN0b3J5PiR7YmFzZWRpcn0vc3JjL21haW4vZ2VuZXJhdGVkL3N3YWdnZXItdWk8L3N3YWdnZXJEaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYXBpU291cmNlPgogICAgICAgICAgICAgICAgICAgIDwvYXBpU291cmNlcz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5jb21waWxlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Z2VuZXJhdGU8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
+      <register name="6" type="4">
+        <text>volumeMounts:
+        - name: logdir
+          mountPath: /logs
+      volumes:
+      - name: logdir
+        emptyDir: {}
+      - name: jpademo-filebeat-config
+        configMap:
+         name: jpademo-filebeat-config
+         items:
+         - key: filebeat.yml
+           path: filebeat.yml</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICA8dGVybXNPZlNlcnZpY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly93d3cuZ2l0aHViLmNvbS9rb25nY2hlbi9zd2FnZ2VyLW1hdmVuLXBsdWdpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGVybXNPZlNlcnZpY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGljZW5zZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVybD5odHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAuaHRtbDwvdXJsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bmFtZT5BcGFjaGUgMi4wPC9uYW1lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGljZW5zZT4=</text>
+        <text encoding="base64">IC0gaW1hZ2U6IGRvY2tlci5lbGFzdGljLmNvL2JlYXRzL2ZpbGViZWF0OjYuNS4xCiAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICByZXF1ZXN0czoKICAgICAgICAgICAgbWVtb3J5OiAiMTI4TWkiCiAgICAgICAgICBsaW1pdHM6CiAgICAgICAgICAgIG1lbW9yeTogIjUxMk1pIgogICAgICAgIGFyZ3M6IFsKICAgICAgICAgICAgICAgICAgIi1jIiwgIi9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnL2ZpbGViZWF0LnltbCIsCiAgICAgICAgICAgICAgICAgICItZSIsCiAgICAgICAgICAgICAgICBdCiAgICAgICAgZW52OgogICAgICAgIC0gbmFtZTogUE9EX0lQCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGZpZWxkUmVmOgogICAgICAgICAgICAgIGFwaVZlcnNpb246IHYxCiAgICAgICAgICAgICAgZmllbGRQYXRoOiBzdGF0dXMucG9kSVAKICAgICAgICAtIG5hbWU6IHBvZF9uYW1lCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGZpZWxkUmVmOgogICAgICAgICAgICAgIGFwaVZlcnNpb246IHYxCiAgICAgICAgICAgICAgZmllbGRQYXRoOiBtZXRhZGF0YS5uYW1lCiAgICAgICAgdm9sdW1lTW91bnRzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBtb3VudFBhdGg6IC9sb2dzCiAgICAgICAgLSBuYW1lOiBqcGFkZW1vLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgbW91bnRQYXRoOiAvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy8=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxjb250YWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZW1haWw+eHh4PC9lbWFpbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG5hbWU+eHh4PC9uYW1lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dXJsPnh4eDwvdXJsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvY29udGFjdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoKICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgS3ViZVNwaGVyZSBDb25zb2xlLgogKiBDb3B5cmlnaHQgKEMpIDIwMTkgVGhlIEt1YmVTcGhlcmUgQ29uc29sZSBBdXRob3JzLgogKgogKiBLdWJlU3BoZXJlIENvbnNvbGUgaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQogKiBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkKICogdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKICogKGF0IHlvdXIgb3B0aW9uKSBhbnkgbGF0ZXIgdmVyc2lvbi4KICoKICogS3ViZVNwaGVyZSBDb25zb2xlIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEFmZmVybyBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIGZvciBtb3JlIGRldGFpbHMuCiAqCiAqIFlvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBhIGNvcHkgb2YgdGhlIEdOVSBBZmZlcm8gR2VuZXJhbCBQdWJsaWMgTGljZW5zZQogKiBhbG9uZyB3aXRoIEt1YmVTcGhlcmUgQ29uc29sZS4gIElmIG5vdCwgc2VlIDxodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCiAqLw==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmKCFleGVjdXRlKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5bu66KGo5aSx6LSlIik7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -139,7 +180,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
