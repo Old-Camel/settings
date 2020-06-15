@@ -24,11 +24,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592183992045">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/java/com/yunzainfo/cloud/student/web/StudentMbController.java" timestamp="1592183052266">
         <mark key="[" line="50" column="39" />
       </file>
@@ -37,6 +32,19 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/dss/DataSphereStudio/dss-server/src/main/java/com/webank/wedatasphere/dss/DSSSpringApplication.java" timestamp="1592203550180" />
+      <file name="$USER_HOME$/data/code/cloud-demo/istio/istio-svc-dpt.yaml" timestamp="1592184861100">
+        <mark key="[" line="18" column="8" />
+        <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/resources/META-INF/app.properties" timestamp="1592183418182" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1592189869421" />
+      <file name="/Dummy.txt" timestamp="1592183992045">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/dss/DataSphereStudio/dss-appjoint-core/src/main/java/com/webank/wedatasphere/dss/appjoint/AppJoint.java" timestamp="1592202708164" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" timestamp="1592189519754">
         <mark key="'" line="290" column="16" />
       </file>
@@ -61,30 +69,9 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="81" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/242/cloud/common/src/main/java/com/yunzainfo/cloud/common/config/SystemConfiguration.java" timestamp="1591768205194">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud-demo/istio/istio-svc-dpt.yaml" timestamp="1592184861100">
-        <mark key="[" line="18" column="8" />
-        <mark key="." line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/data/code/cloud-demo/jpa-core/src/main/resources/META-INF/app.properties" timestamp="1592183418182" />
-      <file name="$USER_HOME$/data/code/sailor-web/config/router.config.js" timestamp="1591755550095">
-        <mark key="[" line="23" column="96" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="17" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapProperties.class" timestamp="1592203496523" />
+      <file name="$USER_HOME$/data/code/dss/DataSphereStudio/visualis-appjoint/appjoint/src/main/java/com/webank/wedatasphere/dss/appjoint/visualis/VisualisAppJoint.java" timestamp="1592203194256" />
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/Dockerfile" timestamp="1592189259987" />
-      <file name="/fragment.java" timestamp="1591768103646">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/config/Swagger2.java" timestamp="1591691379386">
-        <mark key="[" line="59" column="24" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1592189869421" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
