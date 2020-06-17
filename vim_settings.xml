@@ -28,14 +28,17 @@
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/service/impl/BaseUserServiceImpl.java" timestamp="1592386439772" />
       <file name="$USER_HOME$/data/code/word-count-beam/counts-00000-of-00003" timestamp="1592295985044" />
       <file name="$MAVEN_REPOSITORY$/org/flowable/flowable-task-service/6.4.1/flowable-task-service-6.4.1-sources.jar!/org/flowable/task/service/impl/TaskQueryImpl.java" timestamp="1592291498672" />
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1592387495583">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/data/code/flowable-engine/flowable/istio/istio-svc-dpt.yaml" timestamp="1592390785846">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/sailor-web/src/utils/utils.js" timestamp="1592290814760" />
       <file name="$USER_HOME$/data/code/242/cloud/auth-center/src/main/java/com/yunzainfo/cloud/auth/config/YunzaiPasswordEncoderImpl.java" timestamp="1592386185589" />
       <file name="$USER_HOME$/data/code/word-count-beam/src/main/java/org/apache/beam/examples/MinimalWordCount.java" timestamp="1592302213867" />
+      <file name="/Dummy.txt" timestamp="1592390861066">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/service/impl/ProcessServiceImpl.java" timestamp="1592366028835">
         <mark key="'" line="1691" column="41" />
       </file>
@@ -81,8 +84,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgbW91bnRQYXRoOiAvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy8K</text>
+      <register name="*" type="4">
+        <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3MKICAgICAgdm9sdW1lczoKICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICBlbXB0eURpcjoge30KICAgICAgLSBuYW1lOiBmbG93LWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogZmxvdy1maWxlYmVhdC1jb25maWcKICAgICAgICAgaXRlbXM6CiAgICAgICAgIC0ga2V5OiBmaWxlYmVhdC55bWwKICAgICAgICAgICBwYXRoOiBmaWxlYmVhdC55bWw=</text>
       </register>
       <register name="-" type="4">
         <text>func</text>
@@ -90,26 +93,29 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3MKICAgICAgdm9sdW1lczoKICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICBlbXB0eURpcjoge30KICAgICAgLSBuYW1lOiBmbG93LWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogZmxvdy1maWxlYmVhdC1jb25maWcKICAgICAgICAgaXRlbXM6CiAgICAgICAgIC0ga2V5OiBmaWxlYmVhdC55bWwKICAgICAgICAgICBwYXRoOiBmaWxlYmVhdC55bWw=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgbW91bnRQYXRoOiAvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy8K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgLSBpbWFnZTogZG9ja2VyLmVsYXN0aWMuY28vYmVhdHMvZmlsZWJlYXQ6Ni41LjEKICAgICAgICBuYW1lOiBmaWxlYmVhdAogICAgICAgIHJlc291cmNlczoKICAgICAgICAgIHJlcXVlc3RzOgogICAgICAgICAgICBtZW1vcnk6ICI2NE1pIgogICAgICAgICAgbGltaXRzOgogICAgICAgICAgICBtZW1vcnk6ICIyNTZNaSIKICAgICAgICBhcmdzOiBbCiAgICAgICAgICAgICAgICAgICItYyIsICIvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy9maWxlYmVhdC55bWwiLAogICAgICAgICAgICAgICAgICAiLWUiLAogICAgICAgICAgICAgICAgXQogICAgICAgIGVudjoKICAgICAgICAtIG5hbWU6IFBPRF9JUAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgLSBuYW1lOiBwb2RfbmFtZQogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubmFtZQogICAgICAgIHZvbHVtZU1vdW50czoKICAgICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgIC0gbmFtZTogZmxvdy1maWxlYmVhdC1jb25maWcKIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text>a='leavePluginV23'
 b='dropdown'</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICB2b2x1bWVzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBlbXB0eURpcjoge30KICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgICBuYW1lOiBkYXRhZmlsbC1maWxlYmVhdC1jb25maWcKICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAtIGltYWdlOiBkb2NrZXIuZWxhc3RpYy5jby9iZWF0cy9maWxlYmVhdDo2LjUuMQogICAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICAgIHJlc291cmNlczoKICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgbWVtb3J5OiAiMTI4TWkiCiAgICAgICAgICAgIGxpbWl0czoKICAgICAgICAgICAgICBtZW1vcnk6ICI1MTJNaSIKICAgICAgICAgIGFyZ3M6IFsKICAgICAgICAgICAgIi1jIiwgIi9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnL2ZpbGViZWF0LnltbCIsCiAgICAgICAgICAgICItZSIsCiAgICAgICAgICBdCiAgICAgICAgICBlbnY6CiAgICAgICAgICAgIC0gbmFtZTogUE9EX0lQCiAgICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgICAgZmllbGRSZWY6CiAgICAgICAgICAgICAgICAgIGFwaVZlcnNpb246IHYxCiAgICAgICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgICAgIC0gbmFtZTogcG9kX25hbWUKICAgICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogdjEKICAgICAgICAgICAgICAgICAgZmllbGRQYXRoOiBtZXRhZGF0YS5uYW1lCiAgICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgICAgIG1vdW50UGF0aDogL2V0Yy9maWxlYmVhdC9maWxlYmVhdC1jb25maWcv</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -132,11 +138,8 @@ data:
     index: &quot;datafill-%{+yyyy.MM.dd}&quot;
 ---</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3M=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB2b2x1bWVzOgogICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgIGVtcHR5RGlyOiB7fQogICAgICAtIG5hbWU6IG15YmF0aXNkZW1vLWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogbXliYXRpc2RlbW8tZmlsZWJlYXQtY29uZmlnCiAgICAgICAgIGl0ZW1zOgogICAgICAgICAtIGtleTogZmlsZWJlYXQueW1sCiAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
