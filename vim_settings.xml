@@ -50,10 +50,10 @@
         <mark key="^" line="11" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/word-count-beam/src/main/java/org/apache/beam/examples/WordCount.java" timestamp="1592296125899" />
-      <file name="$USER_HOME$/data/code/word-count-beam/pom.xml" timestamp="1592449498911">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/data/code/word-count-beam/pom.xml" timestamp="1592450664682">
+        <mark key="[" line="369" column="5" />
+        <mark key="]" line="369" column="5" />
+        <mark key="." line="369" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1592293699976">
         <mark key="[" line="0" column="0" />
@@ -89,8 +89,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICA+Cg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5iZWFtPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+YmVhbS1ydW5uZXJzLWFwZXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4ke2JlYW0udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="-" type="4">
         <text>func</text>
@@ -98,53 +98,33 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5iZWFtPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+YmVhbS1ydW5uZXJzLWFwZXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4ke2JlYW0udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICA+Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICAgIG1vdW50UGF0aDogL2xvZ3MKICAgICAgdm9sdW1lczoKICAgICAgLSBuYW1lOiBsb2dkaXIKICAgICAgICBlbXB0eURpcjoge30KICAgICAgLSBuYW1lOiBmbG93LWZpbGViZWF0LWNvbmZpZwogICAgICAgIGNvbmZpZ01hcDoKICAgICAgICAgbmFtZTogZmxvdy1maWxlYmVhdC1jb25maWcKICAgICAgICAgaXRlbXM6CiAgICAgICAgIC0ga2V5OiBmaWxlYmVhdC55bWwKICAgICAgICAgICBwYXRoOiBmaWxlYmVhdC55bWw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgbW91bnRQYXRoOiAvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgLSBpbWFnZTogZG9ja2VyLmVsYXN0aWMuY28vYmVhdHMvZmlsZWJlYXQ6Ni41LjEKICAgICAgICBuYW1lOiBmaWxlYmVhdAogICAgICAgIHJlc291cmNlczoKICAgICAgICAgIHJlcXVlc3RzOgogICAgICAgICAgICBtZW1vcnk6ICI2NE1pIgogICAgICAgICAgbGltaXRzOgogICAgICAgICAgICBtZW1vcnk6ICIyNTZNaSIKICAgICAgICBhcmdzOiBbCiAgICAgICAgICAgICAgICAgICItYyIsICIvZXRjL2ZpbGViZWF0L2ZpbGViZWF0LWNvbmZpZy9maWxlYmVhdC55bWwiLAogICAgICAgICAgICAgICAgICAiLWUiLAogICAgICAgICAgICAgICAgXQogICAgICAgIGVudjoKICAgICAgICAtIG5hbWU6IFBPRF9JUAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgLSBuYW1lOiBwb2RfbmFtZQogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICBhcGlWZXJzaW9uOiB2MQogICAgICAgICAgICAgIGZpZWxkUGF0aDogbWV0YWRhdGEubmFtZQogICAgICAgIHZvbHVtZU1vdW50czoKICAgICAgICAtIG5hbWU6IGxvZ2RpcgogICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgIC0gbmFtZTogZmxvdy1maWxlYmVhdC1jb25maWcKIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>a='leavePluginV23'
 b='dropdown'</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICB2b2x1bWVzOgogICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICBlbXB0eURpcjoge30KICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgICBuYW1lOiBkYXRhZmlsbC1maWxlYmVhdC1jb25maWcKICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgLSBrZXk6IGZpbGViZWF0LnltbAogICAgICAgICAgICAgICAgcGF0aDogZmlsZWJlYXQueW1s</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAtIGltYWdlOiBkb2NrZXIuZWxhc3RpYy5jby9iZWF0cy9maWxlYmVhdDo2LjUuMQogICAgICAgICAgbmFtZTogZmlsZWJlYXQKICAgICAgICAgIHJlc291cmNlczoKICAgICAgICAgICAgcmVxdWVzdHM6CiAgICAgICAgICAgICAgbWVtb3J5OiAiMTI4TWkiCiAgICAgICAgICAgIGxpbWl0czoKICAgICAgICAgICAgICBtZW1vcnk6ICI1MTJNaSIKICAgICAgICAgIGFyZ3M6IFsKICAgICAgICAgICAgIi1jIiwgIi9ldGMvZmlsZWJlYXQvZmlsZWJlYXQtY29uZmlnL2ZpbGViZWF0LnltbCIsCiAgICAgICAgICAgICItZSIsCiAgICAgICAgICBdCiAgICAgICAgICBlbnY6CiAgICAgICAgICAgIC0gbmFtZTogUE9EX0lQCiAgICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgICAgZmllbGRSZWY6CiAgICAgICAgICAgICAgICAgIGFwaVZlcnNpb246IHYxCiAgICAgICAgICAgICAgICAgIGZpZWxkUGF0aDogc3RhdHVzLnBvZElQCiAgICAgICAgICAgIC0gbmFtZTogcG9kX25hbWUKICAgICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgICBmaWVsZFJlZjoKICAgICAgICAgICAgICAgICAgYXBpVmVyc2lvbjogdjEKICAgICAgICAgICAgICAgICAgZmllbGRQYXRoOiBtZXRhZGF0YS5uYW1lCiAgICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgICAgIC0gbmFtZTogbG9nZGlyCiAgICAgICAgICAgICAgbW91bnRQYXRoOiAvbG9ncwogICAgICAgICAgICAtIG5hbWU6IGRhdGFmaWxsLWZpbGViZWF0LWNvbmZpZwogICAgICAgICAgICAgIG1vdW50UGF0aDogL2V0Yy9maWxlYmVhdC9maWxlYmVhdC1jb25maWcv</text>
-      </register>
-      <register name="9" type="2">
-        <text>apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: datafill-filebeat-config
-  namespace: cloud
-  labels:
-    k8s-app: filebeat
-data:
-  filebeat.yml: |
-    filebeat.prospectors:
-    - type: log
-      paths:
-        - /logs/*/*
-      tail_files: true
-      fields:
-        pod_name: '${pod_name}'
-        POD_IP: '${POD_IP}'
-    output.elasticsearch:
-      hosts: [&quot;http://elasticsearch.logging:9200&quot;]
-    index: &quot;datafill-%{+yyyy.MM.dd}&quot;
----</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
