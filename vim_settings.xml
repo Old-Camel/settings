@@ -61,10 +61,10 @@
         <mark key="." line="372" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/TaskCreateListener.java" timestamp="1592466380437" />
-      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/oragin/JDBCToJDBCSampleOrigin.java" timestamp="1592465619009">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="74" />
+      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/oragin/JDBCToJDBCSampleOrigin.java" timestamp="1592468196605">
+        <mark key="[" line="49" column="92" />
+        <mark key="]" line="49" column="92" />
+        <mark key="." line="49" column="92" />
       </file>
       <file name="/fragment.java" timestamp="1592293699976">
         <mark key="[" line="0" column="0" />
@@ -101,29 +101,19 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>/**
- * private String id;
- *     private String ip;
- *     private String realName;
- *     private String className;
- *     private String methodName;
- *     private String args;
- *     private String requestUrl;
- *     private String methodDesc;
- *     private Integer status;
- *     private String requestType;
- *     private String errorInfo;
- *     private Long runTime;
- */</text>
+      <register name="*" type="4">
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR_INFO</text>
+        <text>default</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IEpkYmNJTy48U3RhZmZWTz53cml0ZSgpLndpdGhEYXRhU291cmNlQ29uZmlndXJhdGlvbihjb25maWcyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoU3RhdGVtZW50KFN0cmluZy5mb3JtYXQoImluc2VydCBpbnRvIFdGX1NUQUZGKFNUQUZGSUQgLFNUQUZGTkFNRSkgdmFsdWVzKD8sPykiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aEJhdGNoU2l6ZSgxMDAwKS53aXRoUmV0cnlTdHJhdGVneSgoSmRiY0lPLlJldHJ5U3RyYXRlZ3kpIGUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlhKMjA4Ii5lcXVhbHMoZS5nZXRTUUxTdGF0ZSgpKTsgLy8gd2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZha2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRlYWRsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB3aXRoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBoZXJlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkud2l0aFByZXBhcmVkU3RhdGVtZW50U2V0dGVyKChlbGVtZW50LCBzdGF0ZW1lbnQpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gU3lzdGVtLm91dC5wcmludGxuKChTdHJpbmcpZWxlbWVudC5nZXQoIlNUQUZGSUQiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyArIiwiKyAoU3RyaW5nKWVsZW1lbnQuZ2V0KCJTVEFGRk5BTUUiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlbWVudC5zZXRTdHJpbmcoMSwgKFN0cmluZykgZWxlbWVudC5nZXRTdGFmZmlkKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZW1lbnQuc2V0U3RyaW5nKDIsIChTdHJpbmcpIGVsZW1lbnQuZ2V0U3RhZmZuYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0p</text>
+      </register>
+      <register name="2" type="2">
         <text>/**
  * private String id;
  *     private String ip;
@@ -139,31 +129,28 @@
  *     private Long runTime;
  */</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSBzdGFmZmlkIHRoZSBzdGFmZmlkIHRvIHNldAogICAgICovCiAgICBwdWJsaWMgdm9pZCBzZXRTdGFmZmlkKFN0cmluZyBzdGFmZmlkKSB7CiAgICAgICAgdGhpcy5zdGFmZmlkID0gc3RhZmZpZDsKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBzdGFmZmlkOwogICAgcHJpdmF0ZSBTdHJpbmcgc3RhZmZuYW1lOwoKICAgIC8qKgogICAgICogQHJldHVybiB0aGUgc3RhZmZpZAogICAgICovCiAgICBwdWJsaWMgU3RyaW5nIGdldFN0YWZmaWQoKSB7CiAgICAgICAgcmV0dXJuIHN0YWZmaWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHRoZSBzdGFmZm5hbWUKICAgICAqLwogICAgcHVibGljIFN0cmluZyBnZXRTdGFmZm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIHN0YWZmbmFtZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdGFmZm5hbWUgdGhlIHN0YWZmbmFtZSB0byBzZXQKICAgICAqLwogICAgcHVibGljIHZvaWQgc2V0U3RhZmZuYW1lKFN0cmluZyBzdGFmZm5hbWUpIHsKICAgICAgICB0aGlzLnN0YWZmbmFtZSA9IHN0YWZmbmFtZTsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBKZGJjSU8uRGF0YVNvdXJjZUNvbmZpZ3VyYXRpb24gY29uZmlnMiA9IEpkYmNJTy5EYXRhU291cmNlQ29uZmlndXJhdGlvbgogICAgICAgICAgICAgICAgLmNyZWF0ZSgiY29tLm15c3FsLmpkYmMuRHJpdmVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgImpkYmM6bXlzcWw6Ly8xMC4xMTAuMzUuMTc1OjMzMDYvYmlhcHA/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0Zi04IikKICAgICAgICAgICAgICAgIC53aXRoVXNlcm5hbWUoInh4eHh4Iikud2l0aFBhc3N3b3JkKCJ4eHh4eHgiKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuYmVhbS5zZGsuaW8uamRiYy5KZGJjSU87Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>import com.beametl.sample.DataRow;
 import com.beametl.sample.DataRowUtil;
 import com.beametl.sample.entity.StaffVO</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PCEtLSBQbGVhc2Ugc2VlIHRoZSBGbGluayBSdW5uZXIgcGFnZSBmb3IgYW4gdXAtdG8tZGF0ZSBsaXN0CiAgICAgICAgICAgICBvZiBzdXBwb3J0ZWQgRmxpbmsgdmVyc2lvbnMgYW5kIHRoZWlyIGFydGlmYWN0IG5hbWVzOgogICAgICAgICAgICAgaHR0cHM6Ly9iZWFtLmFwYWNoZS5vcmcvZG9jdW1lbnRhdGlvbi9ydW5uZXJzL2ZsaW5rLyAtLT4=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuYmVhbS5ydW5uZXJzLmZsaW5rLkZsaW5rUnVubmVyOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5iZWFtPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+YmVhbS1ydW5uZXJzLWFwZXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4ke2JlYW0udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
