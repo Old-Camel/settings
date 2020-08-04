@@ -49,12 +49,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/jdbc.java" timestamp="1592470704457">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="27" />
-      </file>
       <file name="$USER_HOME$/data/code/hop/ui/pom.xml" timestamp="1596505071457">
         <mark key="[" line="141" column="17" />
       </file>
@@ -63,6 +57,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="2" column="42" />
       </file>
+      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/sql/sqltest.java" timestamp="1596524310339" />
       <file name="$USER_HOME$/data/code/frauddetection/src/main/java/spendreport/FraudDetector.java" timestamp="1596076558991">
         <mark key="[" line="89" column="7" />
         <mark key="]" line="89" column="8" />
@@ -86,11 +81,6 @@
       </file>
       <file name="$USER_HOME$/data/code/flink-playgrounds/table-walkthrough/Dockerfile" timestamp="1596099725720">
         <mark key="[" line="20" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/oragin/JDBCToJDBCSampleOrigin.java" timestamp="1592474325795">
-        <mark key="[" line="73" column="121" />
-        <mark key="]" line="73" column="121" />
-        <mark key="." line="73" column="121" />
       </file>
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1595823317045">
         <mark key="'" line="78" column="5" />
@@ -183,7 +173,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="true" />
