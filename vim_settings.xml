@@ -38,8 +38,19 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/BeamLearnProject/beam-clickhouse/src/main/java/com/fd/bigdata/beam/clickhouse/BeamClickhouseDemo1.java" timestamp="1592474467784">
-        <mark key="'" line="64" column="60" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/QuestionNaireServiceImpl.java" timestamp="1597824292325">
+        <mark key="[" line="550" column="139" />
+        <mark key="]" line="550" column="139" />
+        <mark key="." line="550" column="139" />
+        <mark key="^" line="363" column="8" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/pojo/TodoItem.java" timestamp="1597820437373">
+        <mark key="^" line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/resources/application-local.properties" timestamp="1597825224514">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/hop/pom.xml" timestamp="1596504589114">
         <mark key="[" line="837" column="13" />
@@ -57,7 +68,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/sql/sqltest.java" timestamp="1596524310339" />
       <file name="$USER_HOME$/data/code/frauddetection/src/main/java/spendreport/FraudDetector.java" timestamp="1596076558991">
         <mark key="[" line="89" column="7" />
         <mark key="]" line="89" column="8" />
@@ -69,9 +79,17 @@
         <mark key="]" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flowable-engine/flowable/sql/init.sql" timestamp="1596510823544" />
-      <file name="$USER_HOME$/data/code/pitcher-piano/src/test/java/test/tes.java" timestamp="1595816025492">
-        <mark key="[" line="20" column="78" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/TodoGrpcImpl.java" timestamp="1597820517945">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+      </file>
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/entity/Answer.java" timestamp="1597818850133" />
+      <file name="$USER_HOME$/data/code/wj/src/main/java/com/yunzainfo/cloud/wj/service/TodoGrpc.java" timestamp="1597818934636">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/hop/rap/pom.xml" timestamp="1596505441368">
         <mark key="[" line="49" column="37" />
@@ -81,6 +99,9 @@
       </file>
       <file name="$USER_HOME$/data/code/flink-playgrounds/table-walkthrough/Dockerfile" timestamp="1596099725720">
         <mark key="[" line="20" column="27" />
+      </file>
+      <file name="/fragment.java" timestamp="1597818962631">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1595823317045">
         <mark key="'" line="78" column="5" />
@@ -123,43 +144,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>super.onTimer(timestamp, ctx, out);</text>
+        <text>222.30.194.61</text>
       </register>
       <register name="-" type="4">
-        <text>super.onTimer(timestamp, ctx, out);</text>
+        <text>222.30.194.61</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vcGVuKHBhcmFtZXRlcnMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAgdm9pZCBhZGRUb2RvKFN0cmluZyB1c2VySWQsU3RyaW5nIHRpdGxlLFN0cmluZyBjb250ZW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2xvZ2luIikuYW5vbnltb3VzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vcGVuKHBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2xvZ2luIikuYW5vbnltb3VzKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2Nvcm5FZGl0b3IubGVzcyc7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>File tgile = new File(this.tags + &quot;/&quot; + project + &quot;/&quot; + tag + &quot;.zip&quot;);
                         File tgiledir = new File(this.tags + &quot;/&quot; + project + &quot;/&quot; + tag );</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBGaWxlIHRhZ2ZpbGUgPSBuZXcgRmlsZSh0aGlzLnRhZ3MrIi8iK3Byb2plY3QrIi8iK3RhZyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmKHRhZ2ZpbGUuZXhpc3RzKCkpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZVV0aWwuZGVsKHRhZ2ZpbGUpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if(tagfile.exists()){
                             FileUtil.del(tagfile);
                         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGZsYWc9ZmFsc2U7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEpkYmNJTy5EYXRhU291cmNlQ29uZmlndXJhdGlvbiBjb25maWcyID0gSmRiY0lPLkRhdGFTb3VyY2VDb25maWd1cmF0aW9uCiAgICAgICAgICAgICAgICAuY3JlYXRlKCJjb20ubXlzcWwuamRiYy5Ecml2ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAiamRiYzpteXNxbDovLzEwLjExMC4zNS4xNzU6MzMwNi9iaWFwcD91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgiKQogICAgICAgICAgICAgICAgLndpdGhVc2VybmFtZSgieHh4eHgiKS53aXRoUGFzc3dvcmQoInh4eHh4eCIpOwo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IEpkYmNJTy48U3RhZmZWTz53cml0ZSgpLndpdGhEYXRhU291cmNlQ29uZmlndXJhdGlvbihjb25maWcyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoU3RhdGVtZW50KFN0cmluZy5mb3JtYXQoImluc2VydCBpbnRvIFdGX1NUQUZGKFNUQUZGSUQgLFNUQUZGTkFNRSkgdmFsdWVzKD8sPykiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aEJhdGNoU2l6ZSgxMDAwKS53aXRoUmV0cnlTdHJhdGVneSgoSmRiY0lPLlJldHJ5U3RyYXRlZ3kpIGUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlhKMjA4Ii5lcXVhbHMoZS5nZXRTUUxTdGF0ZSgpKTsgLy8gd2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZha2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRlYWRsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB3aXRoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBoZXJlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkud2l0aFByZXBhcmVkU3RhdGVtZW50U2V0dGVyKChlbGVtZW50LCBzdGF0ZW1lbnQpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gU3lzdGVtLm91dC5wcmludGxuKChTdHJpbmcpZWxlbWVudC5nZXQoIlNUQUZGSUQiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyArIiwiKyAoU3RyaW5nKWVsZW1lbnQuZ2V0KCJTVEFGRk5BTUUiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlbWVudC5zZXRTdHJpbmcoMSwgKFN0cmluZykgZWxlbWVudC5nZXRTdGFmZmlkKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZW1lbnQuc2V0U3RyaW5nKDIsIChTdHJpbmcpIGVsZW1lbnQuZ2V0U3RhZmZuYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">ICAgIEpkYmNJTy5EYXRhU291cmNlQ29uZmlndXJhdGlvbiBjb25maWcyID0gSmRiY0lPLkRhdGFTb3VyY2VDb25maWd1cmF0aW9uCiAgICAgICAgICAgICAgICAuY3JlYXRlKCJjb20ubXlzcWwuamRiYy5Ecml2ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAiamRiYzpteXNxbDovLzEwLjExMC4zNS4xNzU6MzMwNi9iaWFwcD91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgiKQogICAgICAgICAgICAgICAgLndpdGhVc2VybmFtZSgieHh4eHgiKS53aXRoUGFzc3dvcmQoInh4eHh4eCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -173,7 +194,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="true" />
