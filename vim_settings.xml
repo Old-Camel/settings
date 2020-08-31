@@ -30,21 +30,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/datafill-web/src/services/system/depttask.js" timestamp="1598608774911">
-        <mark key="[" line="75" column="46" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskAuditServiceImpl.java" timestamp="1598839163473">
-        <mark key="[" line="229" column="113" />
-        <mark key="]" line="147" column="74" />
-        <mark key="." line="147" column="73" />
-        <mark key="^" line="147" column="74" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/resources/application-local.properties" timestamp="1598860559926" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskAuditServiceImpl.java" timestamp="1598860572656">
+        <mark key="[" line="226" column="113" />
+        <mark key="]" line="144" column="74" />
+        <mark key="." line="144" column="73" />
+        <mark key="^" line="144" column="74" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/DeptAuditMapper.java" timestamp="1598618374316">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/config/ApplicationRunnerImpl.java" timestamp="1598839172622" />
+      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/config/ApplicationRunnerImpl.java" timestamp="1598860063217" />
       <file name="$USER_HOME$/data/code/datafill/Dockerfile" timestamp="1598839273666">
         <mark key="[" line="0" column="19" />
       </file>
@@ -55,18 +53,18 @@
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1598839845886">
         <mark key="[" line="79" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/RolesAndDeptPojo.java" timestamp="1598607129416">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/Path.js" timestamp="1598860215051">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598839853819">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1598839994425">
+        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/FLowInfo.java" timestamp="1598615637896">
         <mark key="[" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/pom.xml" timestamp="1598839238094">
+      <file name="$USER_HOME$/data/code/datafill/pom.xml" timestamp="1598860074781">
         <mark key="[" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/datafill/istio/istio-svc-dpt.yaml" timestamp="1598839799573">
@@ -123,10 +121,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>getAge</text>
+        <text>222.30.194.61/backstage</text>
       </register>
       <register name="-" type="4">
-        <text>getAge</text>
+        <text>222.30.194.61/backstage</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
