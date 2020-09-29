@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/timer/config/ApiConfig.java" timestamp="1601350814957">
         <mark key="[" line="43" column="24" />
       </file>
+      <file name="$USER_HOME$/data/code/LarkMidTable/bin/db/flinkx_web.sql" timestamp="1601371386953" />
       <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/timer/service/JobServiceImpl.java" timestamp="1601350839242">
         <mark key="[" line="56" column="1" />
         <mark key="]" line="56" column="1" />
@@ -47,10 +48,13 @@
         <mark key="[" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/resources/mapper/zentao/ZentaoProductMapper.xml" timestamp="1601349594691" />
-      <file name="$USER_HOME$/data/code/incubator-dolphinscheduler/dolphinscheduler-api/src/main/java/org/apache/dolphinscheduler/api/service/ResourcesService.java" timestamp="1600940471796" />
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT-sources.jar!/com/yunzainfo/cloud/common/config/CORSConfiguration.java" timestamp="1601262778927" />
-      <file name="$USER_HOME$/data/code/incubator-dolphinscheduler/dolphinscheduler-api/src/main/java/org/apache/dolphinscheduler/api/enums/Status.java" timestamp="1600941212152" />
       <file name="$USER_HOME$/data/code/datafill/Dockerfile" timestamp="1601262713924" />
+      <file name="$USER_HOME$/data/code/LarkMidTable/flinkx-admin/src/main/resources/application.yml" timestamp="1601370912139">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/config/MultiInstanceCompleteTask.java" timestamp="1601004779092" />
       <file name="$USER_HOME$/data/code/pitcher-piano/src/test/java/test/tes.java" timestamp="1601348987962">
         <mark key="[" line="46" column="0" />
@@ -66,7 +70,6 @@
       <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/timer/jobs/HttpTimer.java" timestamp="1601347217194">
         <mark key="[" line="43" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/incubator-dolphinscheduler/dolphinscheduler-common/src/main/java/org/apache/dolphinscheduler/common/utils/PropertyUtils.java" timestamp="1600939488497" />
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/controller/ProductController.java" timestamp="1601349296484" />
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1601350932821">
         <mark key="[" line="124" column="62" />
@@ -109,10 +112,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Autowired</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>Autowired</text>
+        <text>root</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
