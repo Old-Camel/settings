@@ -39,10 +39,15 @@
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ScheduleConfig.java" timestamp="1601891655896" />
       <file name="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/6.3.0/lucene-core-6.3.0.jar!/org/apache/lucene/index/IndexReader.class" timestamp="1601890718915" />
-      <file name="$USER_HOME$/data/code/idetemp/ide/src/main/resources/bootstrap.properties" timestamp="1601890497080">
-        <mark key="[" line="0" column="25" />
-      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/DataSourceManagementController.java" timestamp="1601893493209" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/solr/getter/impl/BigDataCenterDbMetaSolrDocumentGetter.java" timestamp="1601891860580" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/CheckController.java" timestamp="1601892961323" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/DataSourceConfig.java" timestamp="1601894210229" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/SwaggerConfiguration.java" timestamp="1601893644712">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+      </file>
       <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1601892022965">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="203" column="11" />
@@ -51,11 +56,7 @@
       <file name="$USER_HOME$/data/code/idetemp/ide/pom.xml" timestamp="1601890974941" />
       <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601891144623" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/solr/SolrMapper.java" timestamp="1601891758665" />
-      <file name="$USER_HOME$/data/code/davinci/assembly/pom.xml" timestamp="1601889334848" />
-      <file name="/Dummy.txt" timestamp="1601890587804">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/davinci/config/application.yml" timestamp="1601891995170">
+      <file name="$USER_HOME$/data/code/davinci/config/application.yml" timestamp="1601892823189">
         <mark key="[" line="76" column="47" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601891466520">
@@ -63,10 +64,7 @@
         <mark key="]" line="476" column="7" />
         <mark key="." line="476" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/idetemp/ide/src/main/java/com/yunzainfo/cloud/ide/config/SolrServer.java" timestamp="1601890715482">
-        <mark key="[" line="51" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1601890587778">
+      <file name="/fragment.java" timestamp="1601892845638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/solr-home/dbMetaA/conf/data-config.xml" timestamp="1601891915196" />
@@ -106,23 +104,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>//org.apache.lucene.index.IndexReader
-        if (local) {
-            URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
-            assert resource != null;
-            solrHomePath = resource.getPath();
-            String os = System.getProperty(&quot;IDE_HOME&quot;);
-            String osStart = &quot;win&quot;;
-            if(os.toLowerCase().startsWith(osStart)){
-                solrHomePath = solrHomePath.substring(1);
-            }
-
-        } else {
-            solrHomePath = &quot;/opt/data/solr-home&quot;;
-        }</text>
+        <text>Predicate</text>
       </register>
       <register name="-" type="4">
-        <text>environment.getProperty(&quot;mybatis.mapper-locations&quot;)</text>
+        <text>Predicate</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
