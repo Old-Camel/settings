@@ -30,27 +30,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1601970301686">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/tsconfig.json" timestamp="1601973209604">
+        <mark key="[" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/tsconfig.json" timestamp="1601963818249">
-        <mark key="[" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/tsconfig.json" timestamp="1601965552891">
-        <mark key="[" line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/userActivateEmailTemplate.html" timestamp="1601952159438">
-        <mark key="[" line="97" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1601952244125">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="203" column="11" />
-        <mark key="." line="203" column="11" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/index.html" timestamp="1601963674622">
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/index.html" timestamp="1601973104511">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/HomeController.java" timestamp="1601972543324" />
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/address.ts" timestamp="1601965788341">
         <mark key="[" line="2" column="50" />
       </file>
@@ -58,6 +43,33 @@
         <mark key="[" line="127" column="8" />
         <mark key="." line="126" column="67" />
         <mark key="^" line="134" column="73" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.ts" timestamp="1601965770860">
+        <mark key="[" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/MyBatisDviDataSourceConfig.java" timestamp="1601952385610">
+        <mark key="[" line="59" column="104" />
+        <mark key="]" line="59" column="104" />
+        <mark key="." line="59" column="104" />
+        <mark key="^" line="41" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1601970301686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/tsconfig.json" timestamp="1601963818249">
+        <mark key="[" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/davinci-ui/index.html" timestamp="1601973135059">
+        <mark key="[" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1601952244125">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="203" column="11" />
+        <mark key="." line="203" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/HomeController.java" timestamp="1601972543324" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/index.html" timestamp="1601973123294">
+        <mark key="[" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dm/angular.json" timestamp="1601963909507">
         <mark key="[" line="19" column="27" />
@@ -70,25 +82,11 @@
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1601971240116">
         <mark key="[" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/userRestPasswordEmailTemplate.html" timestamp="1601952124397">
-        <mark key="[" line="101" column="34" />
-        <mark key="]" line="101" column="34" />
-        <mark key="." line="101" column="34" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.ts" timestamp="1601965770860">
-        <mark key="[" line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/data/code/ide/.gitignore" timestamp="1601956050869">
         <mark key="[" line="37" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1601970297755">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/MyBatisDviDataSourceConfig.java" timestamp="1601952385610">
-        <mark key="[" line="59" column="104" />
-        <mark key="]" line="59" column="104" />
-        <mark key="." line="59" column="104" />
-        <mark key="^" line="41" column="12" />
       </file>
     </filemarks>
     <jumps>
