@@ -30,20 +30,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/SolrServer.java" timestamp="1601891591321">
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-      </file>
       <file name="/a.dummy" timestamp="1601892573766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ScheduleConfig.java" timestamp="1601891655896" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/DataSourceManagementController.java" timestamp="1601893493209" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/solr/getter/impl/BigDataCenterDbMetaSolrDocumentGetter.java" timestamp="1601891860580" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601895052380">
-        <mark key="[" line="17" column="71" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601947970286">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/CheckController.java" timestamp="1601892961323" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/DataSourceConfig.java" timestamp="1601894210229" />
@@ -57,21 +52,25 @@
         <mark key="]" line="203" column="11" />
         <mark key="." line="203" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/idetemp/ide/pom.xml" timestamp="1601890974941" />
-      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601891144623" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/solr/SolrMapper.java" timestamp="1601891758665" />
+      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601947858527" />
+      <file name="$USER_HOME$/data/code/idetemp/ide/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601947766012">
+        <mark key="[" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/data/code/davinci/config/application.yml" timestamp="1601892823189">
         <mark key="[" line="76" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601895008839">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="482" column="7" />
-        <mark key="." line="482" column="7" />
+      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601947984567">
+        <mark key="[" line="300" column="32" />
+        <mark key="]" line="300" column="32" />
+        <mark key="." line="300" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1601892845638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/solr-home/dbMetaA/conf/data-config.xml" timestamp="1601891915196" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/service/impl/UserServiceImpl.java" timestamp="1601947475665">
+        <mark key="[" line="91" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -108,10 +107,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Predicate</text>
+        <text>lucene-core</text>
       </register>
       <register name="-" type="4">
-        <text>Predicate</text>
+        <text>lucene-core</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
