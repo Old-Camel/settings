@@ -33,9 +33,10 @@
       <file name="/a.dummy" timestamp="1601892573766">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/bin/start-server.sh" timestamp="1601949684927" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResourceServerConfig.java" timestamp="1601950066992" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/DataSourceManagementController.java" timestamp="1601893493209" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/solr/getter/impl/BigDataCenterDbMetaSolrDocumentGetter.java" timestamp="1601891860580" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601947970286">
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601949629877">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="14" column="0" />
@@ -47,27 +48,27 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1601892022965">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="203" column="11" />
-        <mark key="." line="203" column="11" />
-      </file>
-      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601947858527" />
+      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601949840710" />
+      <file name="$USER_HOME$/data/code/ide/bin/run.bat" timestamp="1601949794265" />
       <file name="$USER_HOME$/data/code/idetemp/ide/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601947766012">
         <mark key="[" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/assembly/pom.xml" timestamp="1601950347195">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/data/code/davinci/config/application.yml" timestamp="1601892823189">
         <mark key="[" line="76" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601947984567">
-        <mark key="[" line="300" column="32" />
-        <mark key="]" line="300" column="32" />
-        <mark key="." line="300" column="32" />
+      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601950381846">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1601892845638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/solr-home/dbMetaA/conf/data-config.xml" timestamp="1601891915196" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/service/impl/UserServiceImpl.java" timestamp="1601947475665">
         <mark key="[" line="91" column="13" />
       </file>
@@ -106,16 +107,22 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>lucene-core</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgID4K</text>
       </register>
       <register name="-" type="4">
-        <text>lucene-core</text>
+        <text>davinci-server_0.3.1</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgID4K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
+      </register>
+      <register name="3" type="4">
         <text>//org.apache.lucene.index.IndexReader
         if (local) {
             URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
@@ -131,7 +138,7 @@
             solrHomePath = &quot;/opt/data/solr-home&quot;;
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>//org.apache.lucene.index.IndexReader
         if (local) {
             URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
@@ -148,43 +155,25 @@
         }
         String home = System.getProperty(&quot;IDE_HOME&quot;);</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNvbHI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNvbHItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+OC4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8vQEJlYW4obmFtZSA9ICJtYXN0ZXJEYXRhU291cmNlIikKICAgIC8vQFByaW1hcnkKICAgIC8vQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICAvL3B1YmxpYyBEYXRhU291cmNlIG1hc3RlckRhdGFTb3VyY2UoKSB7CiAgICAvLyAgICByZXR1cm4gbmV3IERydWlkRGF0YVNvdXJjZSgpOwogICAgLy99Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICA8L2RlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgIDxkZXBlbmRlbmN5Pi0tPgo8IS0tICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi53ZW5oYW88L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5qcGEtc3BlYzwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4zPC92ZXJzaW9uPi0tPgo8IS0tICAgICAgICAgICAgPGV4Y2x1c2lvbnM+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZS5qYXZheC5wZXJzaXN0ZW5jZTwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLWpwYS0yLjEtYXBpPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxleGNsdXNpb24+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGE8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4tLT4KPCEtLSAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLWVudmVyczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtoaWJlcm5hdGUtZW52ZXJzLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NS4zLjYuRmluYWw8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text>/**
  * @author pi
  */
 //@EntityScan(basePackages = &quot;comcom.yunzainfo.cloud.ide.entity&quot;)
 //@EnableJpaAuditing
 //@EnableCaching</text>
-      </register>
-      <register name="8" type="4">
-        <text>=http://localhost:4200,http://localhost:63342,http://192:
-  168:
-    182:
-      164:4200,http://222:
-        30:
-          194:
-            61,http://192:
-              168:
-                182:
-                  164:8080,http://192:
-                    168:
-                      182:
-                        165:4200:</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CgogIGNocm9tZWRyaXZlcl9wYXRoOiAkeW91cl9jaHJvbWVkcml2ZXJfcGF0aCQKICByZW1vdGVfd2ViZHJpdmVyX3VybDogJHlvdXJfcmVtb3RlX3dlYmRyaXZlcl91cmwk</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
