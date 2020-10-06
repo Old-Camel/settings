@@ -30,9 +30,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/inviteOrgMemberTemplate.html" timestamp="1601952081076">
-        <mark key="[" line="107" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1601970301686">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,14 +50,14 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/index.html" timestamp="1601963674622">
         <mark key="[" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/HomeController.java" timestamp="1601972543324" />
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/address.ts" timestamp="1601965788341">
         <mark key="[" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1601964998531">
-        <mark key="[" line="131" column="65" />
-        <mark key="]" line="126" column="73" />
-        <mark key="." line="126" column="72" />
-        <mark key="^" line="126" column="73" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1601972673980">
+        <mark key="[" line="127" column="8" />
+        <mark key="." line="126" column="67" />
+        <mark key="^" line="134" column="73" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dm/angular.json" timestamp="1601963909507">
         <mark key="[" line="19" column="27" />
@@ -70,8 +67,8 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1601965664614">
-        <mark key="[" line="21" column="29" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1601971240116">
+        <mark key="[" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/userRestPasswordEmailTemplate.html" timestamp="1601952124397">
         <mark key="[" line="101" column="34" />
@@ -128,8 +125,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>webResources</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JlZ2lzdHJ5LmFkZFZpZXdDb250cm9sbGVyKCIvIikuc2V0Vmlld05hbWUoIi9kbS9pbmRleCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>webResources</text>
@@ -138,12 +135,15 @@
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JlZ2lzdHJ5LmFkZFZpZXdDb250cm9sbGVyKCIvIikuc2V0Vmlld05hbWUoIi9kbS9pbmRleCIpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgID4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//org.apache.lucene.index.IndexReader
         if (local) {
             URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
@@ -159,7 +159,7 @@
             solrHomePath = &quot;/opt/data/solr-home&quot;;
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//org.apache.lucene.index.IndexReader
         if (local) {
             URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
@@ -176,25 +176,17 @@
         }
         String home = System.getProperty(&quot;IDE_HOME&quot;);</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNvbHI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNvbHItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+OC4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC8vQEJlYW4obmFtZSA9ICJtYXN0ZXJEYXRhU291cmNlIikKICAgIC8vQFByaW1hcnkKICAgIC8vQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICAvL3B1YmxpYyBEYXRhU291cmNlIG1hc3RlckRhdGFTb3VyY2UoKSB7CiAgICAvLyAgICByZXR1cm4gbmV3IERydWlkRGF0YVNvdXJjZSgpOwogICAgLy99Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICA8L2RlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgIDxkZXBlbmRlbmN5Pi0tPgo8IS0tICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi53ZW5oYW88L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5qcGEtc3BlYzwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4zPC92ZXJzaW9uPi0tPgo8IS0tICAgICAgICAgICAgPGV4Y2x1c2lvbnM+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZS5qYXZheC5wZXJzaXN0ZW5jZTwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLWpwYS0yLjEtYXBpPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxleGNsdXNpb24+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGE8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4tLT4KPCEtLSAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLWVudmVyczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtoaWJlcm5hdGUtZW52ZXJzLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NS4zLjYuRmluYWw8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
-      </register>
-      <register name="9" type="2">
-        <text>/**
- * @author pi
- */
-//@EntityScan(basePackages = &quot;comcom.yunzainfo.cloud.ide.entity&quot;)
-//@EnableJpaAuditing
-//@EnableCaching</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -204,7 +196,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
