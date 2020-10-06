@@ -30,44 +30,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1601892573766">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/ide/bin/start-server.sh" timestamp="1601949684927" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResourceServerConfig.java" timestamp="1601950066992" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/DataSourceManagementController.java" timestamp="1601893493209" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/userRestPasswordEmailTemplate.html" timestamp="1601952124397">
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="34" />
+        <mark key="." line="101" column="34" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/MyBatisDviDataSourceConfig.java" timestamp="1601952385610">
+        <mark key="[" line="59" column="104" />
+        <mark key="]" line="59" column="104" />
+        <mark key="." line="59" column="104" />
+        <mark key="^" line="41" column="12" />
+      </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601949629877">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/CheckController.java" timestamp="1601892961323" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/DataSourceConfig.java" timestamp="1601894210229" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/SwaggerConfiguration.java" timestamp="1601893644712">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/CommonControllerAdvice.java" timestamp="1601951367156">
+        <mark key="[" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601949840710" />
+      <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1601952244125">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="203" column="11" />
+        <mark key="." line="203" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/userActivateEmailTemplate.html" timestamp="1601952159438">
+        <mark key="[" line="97" column="27" />
+      </file>
+      <file name="$USER_HOME$/data/code/davinci/server/pom.xml" timestamp="1601951057297" />
       <file name="$USER_HOME$/data/code/ide/bin/run.bat" timestamp="1601949794265" />
       <file name="$USER_HOME$/data/code/idetemp/ide/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1601947766012">
         <mark key="[" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/service/impl/DmProjectServiceImpl.java" timestamp="1601952354441" />
       <file name="$USER_HOME$/data/code/ide/assembly/pom.xml" timestamp="1601950347195">
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/data/code/davinci/config/application.yml" timestamp="1601892823189">
-        <mark key="[" line="76" column="47" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/templates/mail/inviteOrgMemberTemplate.html" timestamp="1601952081076">
+        <mark key="[" line="107" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/banner.txt" timestamp="1601952533189" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/BigDataCenterBean.java" timestamp="1601951395022" />
       <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1601950381846">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1601892845638">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/service/impl/UserServiceImpl.java" timestamp="1601947475665">
         <mark key="[" line="91" column="13" />
@@ -107,11 +119,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgID4K</text>
+      <register name="*" type="4">
+        <text>Davinci</text>
       </register>
       <register name="-" type="4">
-        <text>davinci-server_0.3.1</text>
+        <text>Davinci</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
