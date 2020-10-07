@@ -69,8 +69,10 @@
       <file name="$USER_HOME$/data/code/davinci/webapp/internals/webpack/webpack.prod.babel.js" timestamp="1601981397385">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.ts" timestamp="1602037325201">
-        <mark key="[" line="6" column="13" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.ts" timestamp="1602040663643">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="3" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -108,67 +110,41 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcvJywK</text>
+        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>webResources</text>
+        <text>+ projectName</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcvJywK</text>
+        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlZ2lzdHJ5LmFkZFZpZXdDb250cm9sbGVyKCIvIikuc2V0Vmlld05hbWUoIi9kbS9pbmRleCIpOwo=</text>
+        <text encoding="base64">ICAgIC8v6I635Y+W5Li75py65Zyw5Z2A5LmL5ZCO55qE55uu5b2V77yM5aaC77yaIHVpbWNhcmRwcmovc2hhcmUvbWV1bi5qc3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgID4K</text>
+        <text encoding="base64">ICAgIC8v6I635Y+W5Li75py65Zyw5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4Mwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
+        <text>//获取带&quot;/&quot;的项目名，如：/uimcardprj
+    var projectName = pathName.substring(0, pathName.substr(1).indexOf('/') + 1);</text>
       </register>
-      <register name="5" type="4">
-        <text>//org.apache.lucene.index.IndexReader
-        if (local) {
-            URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
-            assert resource != null;
-            solrHomePath = resource.getPath();
-            String os = System.getProperty(&quot;IDE_HOME&quot;);
-            String osStart = &quot;win&quot;;
-            if(os.toLowerCase().startsWith(osStart)){
-                solrHomePath = solrHomePath.substring(1);
-            }
-
-        } else {
-            solrHomePath = &quot;/opt/data/solr-home&quot;;
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>//org.apache.lucene.index.IndexReader
-        if (local) {
-            URL resource = this.getClass().getClassLoader().getResource(&quot;solr-home&quot;);
-            assert resource != null;
-            solrHomePath = resource.getPath();
-            String os = System.getProperty(&quot;IDE_HOME&quot;);
-            String osStart = &quot;win&quot;;
-            if(os.toLowerCase().startsWith(osStart)){
-                solrHomePath = solrHomePath.substring(1);
-            }
-
-        } else {
-            solrHomePath = &quot;/opt/data/solr-home&quot;;
-        }
-        String home = System.getProperty(&quot;IDE_HOME&quot;);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcvJywK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNvbHI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNvbHItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+OC4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL3JlZ2lzdHJ5LmFkZFZpZXdDb250cm9sbGVyKCIvIikuc2V0Vmlld05hbWUoIi9kbS9pbmRleCIpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vQEJlYW4obmFtZSA9ICJtYXN0ZXJEYXRhU291cmNlIikKICAgIC8vQFByaW1hcnkKICAgIC8vQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICAvL3B1YmxpYyBEYXRhU291cmNlIG1hc3RlckRhdGFTb3VyY2UoKSB7CiAgICAvLyAgICByZXR1cm4gbmV3IERydWlkRGF0YVNvdXJjZSgpOwogICAgLy99Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgID4K</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICA8L2RlcGVuZGVuY3k+LS0+CjwhLS0gICAgICAgIDxkZXBlbmRlbmN5Pi0tPgo8IS0tICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi53ZW5oYW88L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICA8YXJ0aWZhY3RJZD5qcGEtc3BlYzwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4zPC92ZXJzaW9uPi0tPgo8IS0tICAgICAgICAgICAgPGV4Y2x1c2lvbnM+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZS5qYXZheC5wZXJzaXN0ZW5jZTwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLWpwYS0yLjEtYXBpPC9hcnRpZmFjdElkPi0tPgo8IS0tICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxleGNsdXNpb24+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGE8L2dyb3VwSWQ+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4tLT4KPCEtLSAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4tLT4KPCEtLSAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
