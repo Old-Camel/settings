@@ -30,12 +30,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/config.ts" timestamp="1602037816048" />
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/app.module.ts" timestamp="1602038051779">
         <mark key="[" line="16" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/davinci-ui/index.html" timestamp="1601973135059">
-        <mark key="[" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/tsconfig.json" timestamp="1601973209604">
         <mark key="[" line="14" column="18" />
@@ -46,10 +42,6 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/index.html" timestamp="1601973104511">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/index.html" timestamp="1602033704554">
-        <mark key="[" line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/services/work-space.service.ts" timestamp="1602037250514" />
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/address.ts" timestamp="1602033219580">
         <mark key="[" line="4" column="53" />
       </file>
@@ -58,14 +50,6 @@
         <mark key="." line="126" column="67" />
         <mark key="^" line="134" column="73" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602034055846">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="55" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.base.babel.js" timestamp="1602034035726">
-        <mark key="[" line="24" column="20" />
-      </file>
       <file name="$USER_HOME$/data/code/davinci/webapp/internals/webpack/webpack.prod.babel.js" timestamp="1601981397385">
         <mark key="[" line="23" column="11" />
       </file>
@@ -73,6 +57,25 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/config.ts" timestamp="1602037816048" />
+      <file name="$USER_HOME$/data/code/ide/davinci-ui/index.html" timestamp="1601973135059">
+        <mark key="[" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.prod.ts" timestamp="1602040907298">
+        <mark key="[" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/index.html" timestamp="1602033704554">
+        <mark key="[" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/services/work-space.service.ts" timestamp="1602037250514" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602034055846">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="55" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.base.babel.js" timestamp="1602034035726">
+        <mark key="[" line="24" column="20" />
       </file>
     </filemarks>
     <jumps>
