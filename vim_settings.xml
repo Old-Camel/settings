@@ -30,8 +30,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1601970301686">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/config.ts" timestamp="1602037816048" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/app.module.ts" timestamp="1602038051779">
+        <mark key="[" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/ide/davinci-ui/index.html" timestamp="1601973135059">
         <mark key="[" line="0" column="37" />
@@ -52,8 +53,8 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/app/config/address.ts" timestamp="1602033219580">
         <mark key="[" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1601972673980">
-        <mark key="[" line="127" column="8" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602038701066">
+        <mark key="[" line="155" column="61" />
         <mark key="." line="126" column="67" />
         <mark key="^" line="134" column="73" />
       </file>
@@ -68,14 +69,8 @@
       <file name="$USER_HOME$/data/code/davinci/webapp/internals/webpack/webpack.prod.babel.js" timestamp="1601981397385">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1601971240116">
-        <mark key="[" line="18" column="16" />
-      </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/environments/environment.ts" timestamp="1602037325201">
         <mark key="[" line="6" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1601970297755">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
