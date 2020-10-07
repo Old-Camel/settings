@@ -33,9 +33,8 @@
       <file name="$USER_HOME$/data/code/ide/assembly/src/main/assembly/release.xml" timestamp="1602064085056">
         <mark key="[" line="78" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/package.json" timestamp="1602056353888">
-        <mark key="[" line="23" column="30" />
-      </file>
+      <file name="$USER_HOME$/data/code/dvi/davinci-dev-0.3/server/pom.xml" timestamp="1602065566802" />
+      <file name="$USER_HOME$/data/code/ide/bin/start-server.sh" timestamp="1602065132966" />
       <file name="$USER_HOME$/data/code/ide/.git/info/exclude" timestamp="1602061297787">
         <mark key="[" line="6" column="0" />
       </file>
@@ -59,9 +58,11 @@
         <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/ProjectController.java" timestamp="1602062256051" />
-      <file name="/Dummy.txt" timestamp="1602062156925">
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/Application.java" timestamp="1602065433572" />
+      <file name="/Dummy.txt" timestamp="1602064483711">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/target/classes/com/yunzainfo/cloud/ide/Application.class" timestamp="1602065150211" />
       <file name="$USER_HOME$/data/code/ide/config/application.yml.example" timestamp="1602063654934">
         <mark key="[" line="104" column="26" />
         <mark key="]" line="213" column="14" />
@@ -73,26 +74,8 @@
         <mark key="]" line="92" column="8" />
         <mark key="." line="92" column="8" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.dv.babel.js" timestamp="1602056351151">
-        <mark key="[" line="25" column="42" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/ThymeleafConfig.java" timestamp="1602056223366">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="48" column="29" />
-        <mark key="." line="48" column="29" />
-      </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dm/angular.json" timestamp="1602056406259">
         <mark key="[" line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/resources/application.yml" timestamp="1602056153601">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602056362502">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1602059997793">
         <mark key="[" line="19" column="42" />
@@ -102,7 +85,12 @@
       <file name="$USER_HOME$/data/code/ide/.gitignore" timestamp="1602061188996">
         <mark key="[" line="40" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1602062156892">
+      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1602065477762">
+        <mark key="[" line="578" column="0" />
+        <mark key="]" line="579" column="0" />
+        <mark key="." line="577" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1602064483587">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -140,8 +128,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>222.30.196.40:8020</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gbXliYXRpcyBnZW5lcmF0b3Ig6Ieq5Yqo55Sf5oiQ5Luj56CB5o+S5Lu2IC0tPgogICAgICAgICAgICA8IS0tPHBsdWdpbj4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPiAtLT4KICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMy41PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTxkZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGRlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPGdyb3VwSWQ+IG15c3FsPC9ncm91cElkPiAtLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPiBteXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4gNS4xLjQ0PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08ZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItY29yZTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4xLjMuMjwvdmVyc2lvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2RlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPC9kZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08aWQ+R2VuZXJhdGUgTXlCYXRpcyBBcnRpZmFjdHM8L2lkPiAtLT4KICAgICAgICAgICAgPCEtLTxwaGFzZT5wYWNrYWdlPC9waGFzZT4gLS0+CiAgICAgICAgICAgIDwhLS08Z29hbHM+IC0tPgogICAgICAgICAgICA8IS0tPGdvYWw+Z2VuZXJhdGU8L2dvYWw+IC0tPgogICAgICAgICAgICA8IS0tPC9nb2Fscz4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGNvbmZpZ3VyYXRpb24+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g75YWB6K6456e75Yqo55Sf5oiQ55qE5paH5Lu2ICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPHZlcmJvc2U+dHJ1ZTwvdmVyYm9zZT4gLS0+CiAgICAgICAgICAgIDwhLS0mbHQ7ISZuZGFzaDsg5piv5ZCm6KaG55uWICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IOiHquWKqOeUn+aIkOeahOmFjee9riAmbmRhc2g7Jmd0OyAtLT4KICAgICAgICAgICAgPCEtLTxjb25maWd1cmF0aW9uRmlsZT5zcmMvbWFpbi9yZXNvdXJjZXMvZ2VuZXJhdG9yL215YmF0aXMtZ2VuZXJhdG9yLnhtbDwvY29uZmlndXJhdGlvbkZpbGU+IC0tPgogICAgICAgICAgICA8IS0tPC9jb25maWd1cmF0aW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvcGx1Z2luPiAtLT4=</text>
       </register>
       <register name="-" type="4">
         <text>222.30.196.40:8020</text>
@@ -149,10 +137,13 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gbXliYXRpcyBnZW5lcmF0b3Ig6Ieq5Yqo55Sf5oiQ5Luj56CB5o+S5Lu2IC0tPgogICAgICAgICAgICA8IS0tPHBsdWdpbj4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPiAtLT4KICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMy41PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTxkZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGRlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPGdyb3VwSWQ+IG15c3FsPC9ncm91cElkPiAtLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPiBteXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4gNS4xLjQ0PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08ZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItY29yZTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4xLjMuMjwvdmVyc2lvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2RlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPC9kZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08aWQ+R2VuZXJhdGUgTXlCYXRpcyBBcnRpZmFjdHM8L2lkPiAtLT4KICAgICAgICAgICAgPCEtLTxwaGFzZT5wYWNrYWdlPC9waGFzZT4gLS0+CiAgICAgICAgICAgIDwhLS08Z29hbHM+IC0tPgogICAgICAgICAgICA8IS0tPGdvYWw+Z2VuZXJhdGU8L2dvYWw+IC0tPgogICAgICAgICAgICA8IS0tPC9nb2Fscz4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGNvbmZpZ3VyYXRpb24+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g75YWB6K6456e75Yqo55Sf5oiQ55qE5paH5Lu2ICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPHZlcmJvc2U+dHJ1ZTwvdmVyYm9zZT4gLS0+CiAgICAgICAgICAgIDwhLS0mbHQ7ISZuZGFzaDsg5piv5ZCm6KaG55uWICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IOiHquWKqOeUn+aIkOeahOmFjee9riAmbmRhc2g7Jmd0OyAtLT4KICAgICAgICAgICAgPCEtLTxjb25maWd1cmF0aW9uRmlsZT5zcmMvbWFpbi9yZXNvdXJjZXMvZ2VuZXJhdG9yL215YmF0aXMtZ2VuZXJhdG9yLnhtbDwvY29uZmlndXJhdGlvbkZpbGU+IC0tPgogICAgICAgICAgICA8IS0tPC9jb25maWd1cmF0aW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvcGx1Z2luPiAtLT4=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PGZpbGVTZXQ+CiAgICAgICAgICAgIDxkaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAke3Byb2plY3QucGFyZW50LmJhc2VkaXJ9L3VpL2RhdGFtYW5hZ2UtdWkKICAgICAgICAgICAgPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxvdXRwdXREaXJlY3Rvcnk+dWkvZGF2aW5jaS11aTwvb3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDwvZmlsZVNldD4=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>/ui/datamanage-ui/
 /ui/datamanage-ui/assets/
 /ui/datamanage-ui/favicon.ico
@@ -170,27 +161,24 @@
 /ui/datamanage-ui/vendor-es2015.js
 /ui/davinci-ui/</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgTG9jYXRpb25TdHJhdGVneSwgSGFzaExvY2F0aW9uU3RyYXRlZ3kgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZyh2YWx1ZT17Ii8iLCIvZHZpIiwiL2R2aS8qKiJ9KQogICAgcHVibGljIFN0cmluZyBkdmkoKXsKICAgICAgICByZXR1cm4gImluZGV4IjsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8v6I635Y+W5Li75py65Zyw5Z2A5LmL5ZCO55qE55uu5b2V77yM5aaC77yaIHVpbWNhcmRwcmovc2hhcmUvbWV1bi5qc3AK</text>
+        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIC8v6I635Y+W5Li75py65Zyw5Z2A5LmL5ZCO55qE55uu5b2V77yM5aaC77yaIHVpbWNhcmRwcmovc2hhcmUvbWV1bi5qc3AK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8v6I635Y+W5Li75py65Zyw5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4Mwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>//获取带&quot;/&quot;的项目名，如：/uimcardprj
     var projectName = pathName.substring(0, pathName.substr(1).indexOf('/') + 1);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
