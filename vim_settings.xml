@@ -30,8 +30,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/assembly/src/main/assembly/release.xml" timestamp="1602062388481">
-        <mark key="[" line="77" column="50" />
+      <file name="$USER_HOME$/data/code/ide/assembly/src/main/assembly/release.xml" timestamp="1602064085056">
+        <mark key="[" line="78" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/package.json" timestamp="1602056353888">
         <mark key="[" line="23" column="30" />
@@ -59,14 +59,19 @@
         <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/ProjectController.java" timestamp="1602062256051" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/utils/request.ts" timestamp="1602054956137" />
       <file name="/Dummy.txt" timestamp="1602062156925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/assembly/src/main/assembly/assembly.xml" timestamp="1602062434154">
-        <mark key="[" line="93" column="44" />
-        <mark key="]" line="91" column="8" />
-        <mark key="." line="91" column="8" />
+      <file name="$USER_HOME$/data/code/ide/config/application.yml.example" timestamp="1602063654934">
+        <mark key="[" line="104" column="26" />
+        <mark key="]" line="213" column="14" />
+        <mark key="." line="213" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/config/application.yml" timestamp="1602063538095" />
+      <file name="$USER_HOME$/data/code/ide/assembly/src/main/assembly/assembly.xml" timestamp="1602064092148">
+        <mark key="[" line="94" column="44" />
+        <mark key="]" line="92" column="8" />
+        <mark key="." line="92" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.dv.babel.js" timestamp="1602056351151">
         <mark key="[" line="25" column="42" />
@@ -89,7 +94,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/share/components/Login/index.tsx" timestamp="1602054848920" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1602059997793">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="32" />
@@ -137,10 +141,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">PGZpbGVTZXQ+CiAgICAgICAgICAgIDxkaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAke3Byb2plY3QucGFyZW50LmJhc2VkaXJ9L3VpL2RhdGFtYW5hZ2UtdWkKICAgICAgICAgICAgPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxvdXRwdXREaXJlY3Rvcnk+dWkvZGF2aW5jaS11aTwvb3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDwvZmlsZVNldD4=</text>
+        <text>222.30.196.40:8020</text>
       </register>
       <register name="-" type="4">
-        <text>davinci</text>
+        <text>222.30.196.40:8020</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
