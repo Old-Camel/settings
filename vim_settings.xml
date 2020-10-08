@@ -31,19 +31,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Display/sagas.ts" timestamp="1602124240635" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Login/LoginForm.tsx" timestamp="1602122491093" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/selectors.ts" timestamp="1602124642643" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
+        <mark key="[" line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Main/index.tsx" timestamp="1602123595386" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Login/index.tsx" timestamp="1602122857327" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/index.tsx" timestamp="1602123523453" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/constants.ts" timestamp="1602125322341" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/share/containers/App/reducer.ts" timestamp="1602123222868" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/actions.ts" timestamp="1602123910564" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/reducer.ts" timestamp="1602125329387" />
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/reducer.ts" timestamp="1602125412558" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/selectors.ts" timestamp="1602125263834" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/share/containers/App/constants.ts" timestamp="1602123443583" />
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/constants.ts" timestamp="1602124016116" />
-      <file name="/Dummy.txt" timestamp="1602119121503">
+      <file name="/Dummy.txt" timestamp="1602125933230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -89,10 +91,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>项目构建成功</text>
+        <text>删除无用文件</text>
       </register>
       <register name="-" type="4">
-        <text>项目构建成功</text>
+        <text>删除无用文件</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
