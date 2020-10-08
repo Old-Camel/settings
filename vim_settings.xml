@@ -67,8 +67,11 @@
         <mark key="[" line="78" column="50" />
       </file>
       <file name="$USER_HOME$/data/code/dvi/davinci-dev-0.3/server/pom.xml" timestamp="1602065566802" />
-      <file name="$USER_HOME$/data/code/ide/.git/info/exclude" timestamp="1602061297787">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/data/code/ide/README.md" timestamp="1602119093926">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602072044523">
         <mark key="[" line="124" column="45" />
@@ -81,8 +84,8 @@
         <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/ProjectController.java" timestamp="1602062256051" />
-      <file name="/Dummy.txt" timestamp="1602072446412">
-        <mark key="[" line="0" column="15" />
+      <file name="/Dummy.txt" timestamp="1602119121503">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -130,10 +133,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>初步整合完成</text>
+        <text>项目构建成功</text>
       </register>
       <register name="-" type="4">
-        <text>初步整合完成</text>
+        <text>项目构建成功</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
