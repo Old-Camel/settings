@@ -30,34 +30,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Display/sagas.ts" timestamp="1602124240635" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/selectors.ts" timestamp="1602124642643" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
-        <mark key="[" line="29" column="15" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Main/index.tsx" timestamp="1602123595386" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/index.tsx" timestamp="1602123523453" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/constants.ts" timestamp="1602125322341" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/share/containers/App/reducer.ts" timestamp="1602123222868" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/actions.ts" timestamp="1602123910564" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/reducer.ts" timestamp="1602125412558" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/selectors.ts" timestamp="1602125263834" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.9.RELEASE/spring-boot-2.0.9.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class" timestamp="1602138298085">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/share/containers/App/constants.ts" timestamp="1602123443583" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/constants.ts" timestamp="1602124016116" />
       <file name="/Dummy.txt" timestamp="1602125933230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Projects/types.ts" timestamp="1602124542047" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Display/reducer.ts" timestamp="1602124320718" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Display/actions.ts" timestamp="1602124259141" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/Display/constants.ts" timestamp="1602124211217" />
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/containers/App/sagas.ts" timestamp="1602123936645" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.9.RELEASE/spring-boot-2.0.9.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class" timestamp="1602138298085">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
+        <mark key="[" line="29" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -152,7 +136,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
