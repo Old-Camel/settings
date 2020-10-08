@@ -81,11 +81,13 @@
         <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/controller/ProjectController.java" timestamp="1602062256051" />
-      <file name="/Dummy.txt" timestamp="1602064483711">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1602072446412">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1602070138142">
-        <mark key="[" line="130" column="38" />
+      <file name="$USER_HOME$/data/code/ide/server/pom.xml" timestamp="1602118859834">
+        <mark key="[" line="329" column="47" />
         <mark key="]" line="130" column="38" />
         <mark key="." line="130" column="38" />
       </file>
@@ -128,10 +130,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IFN0cmluZyBob21lID0gU3lzdGVtLmdldFByb3BlcnR5KCJJREVfSE9NRSIpOwogICAgICAgIHNvbHJIb21lUGF0aD1ob21lKyBGaWxlLnNlcGFyYXRvcisic29sci1ob21lIjs=</text>
+        <text>初步整合完成</text>
       </register>
       <register name="-" type="4">
-        <text>dm_resources</text>
+        <text>初步整合完成</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
