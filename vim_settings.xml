@@ -30,15 +30,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/common/controller/BaseController.java" timestamp="1602150378969" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/YunzaiPageConfiguration.java" timestamp="1602209721210" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class" timestamp="1602147816186" />
+      <file name="/Dummy.txt" timestamp="1602224505929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.9.RELEASE/spring-boot-2.0.9.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class" timestamp="1602138298085">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dm/src/index.html" timestamp="1602210511711">
         <mark key="[" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResponseResultHandlerAdvice.java" timestamp="1602222696709">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
         <mark key="[" line="29" column="15" />
@@ -48,30 +55,14 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="134" column="55" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/CanvasController.java" timestamp="1602150156619" />
-      <file name="/Dummy.txt" timestamp="1602224505929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/common/ErrorMsg.java" timestamp="1602213460466" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/inteceptor/AuthenticationInterceptor.java" timestamp="1602222168921" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResponseResultHandlerAdvice.java" timestamp="1602222696709">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-      </file>
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602224377735">
         <mark key="[" line="145" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/util/Return.java" timestamp="1602150000261" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/pojo/ReturnEntity.java" timestamp="1602150604854">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1602209603772" />
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/common/ResultMap.java" timestamp="1602150474277" />
       <file name="/fragment.java" timestamp="1602150597777">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +161,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
