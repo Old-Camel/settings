@@ -43,14 +43,14 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
         <mark key="[" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602223326607">
-        <mark key="[" line="147" column="39" />
-        <mark key="]" line="147" column="39" />
-        <mark key="." line="147" column="39" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602223901167">
+        <mark key="[" line="135" column="45" />
+        <mark key="]" line="134" column="49" />
+        <mark key="." line="134" column="49" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/CanvasController.java" timestamp="1602150156619" />
-      <file name="/Dummy.txt" timestamp="1602223152148">
-        <mark key="[" line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1602223949089">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -111,10 +111,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>dvi/**</text>
+        <text>dvi</text>
       </register>
       <register name="-" type="4">
-        <text>dvi/**</text>
+        <text>dvi</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
