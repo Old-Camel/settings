@@ -43,16 +43,16 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
         <mark key="[" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602209736987">
-        <mark key="[" line="153" column="32" />
-        <mark key="]" line="153" column="32" />
-        <mark key="." line="153" column="32" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602211772395">
+        <mark key="[" line="152" column="58" />
+        <mark key="]" line="155" column="32" />
+        <mark key="." line="155" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/CanvasController.java" timestamp="1602150156619" />
-      <file name="/Dummy.txt" timestamp="1602207756205">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1602210588557">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResponseResultHandlerAdvice.java" timestamp="1602210430522">
         <mark key="[" line="50" column="12" />
@@ -109,10 +109,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text />
+        <text>vi前台去除 Webpack Bundle Analyzer插件</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>vi前台去除 Webpack Bundle Analyzer插件</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
