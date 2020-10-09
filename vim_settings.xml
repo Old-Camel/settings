@@ -31,6 +31,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/common/controller/BaseController.java" timestamp="1602150378969" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/YunzaiPageConfiguration.java" timestamp="1602209721210" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class" timestamp="1602147816186" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.9.RELEASE/spring-boot-2.0.9.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class" timestamp="1602138298085">
         <mark key="[" line="44" column="0" />
@@ -39,9 +40,14 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
         <mark key="[" line="29" column="15" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602209736987">
+        <mark key="[" line="153" column="32" />
+        <mark key="]" line="153" column="32" />
+        <mark key="." line="153" column="32" />
+      </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/CanvasController.java" timestamp="1602150156619" />
-      <file name="/Dummy.txt" timestamp="1602151007667">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1602207756205">
+        <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -59,6 +65,7 @@
         <mark key="]" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/StaticController.java" timestamp="1602209603772" />
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/common/ResultMap.java" timestamp="1602150474277" />
       <file name="/fragment.java" timestamp="1602150597777">
         <mark key="[" line="0" column="0" />
@@ -99,10 +106,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>修改dvi 前台页面路</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>修改dvi 前台页面路</text>
+        <text />
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
