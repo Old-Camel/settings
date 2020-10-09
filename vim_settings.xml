@@ -43,13 +43,13 @@
       <file name="$USER_HOME$/data/code/ide/webapp-dvi/app/globalConfig.ts" timestamp="1602125889590">
         <mark key="[" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602223901167">
-        <mark key="[" line="135" column="45" />
-        <mark key="]" line="134" column="49" />
-        <mark key="." line="134" column="49" />
+      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602224493567">
+        <mark key="[" line="135" column="8" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="134" column="55" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/web/CanvasController.java" timestamp="1602150156619" />
-      <file name="/Dummy.txt" timestamp="1602223949089">
+      <file name="/Dummy.txt" timestamp="1602224505929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -61,7 +61,7 @@
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602206422455">
+      <file name="$USER_HOME$/data/code/ide/webapp-dvi/internals/webpack/webpack.prod.babel.js" timestamp="1602224377735">
         <mark key="[" line="145" column="20" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/util/Return.java" timestamp="1602150000261" />
@@ -110,8 +110,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>dvi</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5hZGRSZWRpcmVjdFZpZXdDb250cm9sbGVyKCIvZHZpL2luZGV4Lmh0bWwjL2xvZ2luIiwiL2RtL2xvZ2luIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dvi</text>
@@ -119,23 +119,26 @@
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5hZGRSZWRpcmVjdFZpZXdDb250cm9sbGVyKCIvZHZpL2luZGV4Lmh0bWwjL2xvZ2luIiwiL2RtL2xvZ2luIik7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>// 只有正常返回的结果才会进入这个判断流程，所以返回正常成功的状态码
                 //return responseResult;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBpZihib2R5IGluc3RhbmNlb2YgUmVzcG9uc2VSZXN1bHQpeyAvLyDlpoLmnpzlk43lupTov5Tlm57nmoTlr7nosaHkuLrnu5/kuIDlk43lupTkvZPvvIzliJnnm7TmjqXov5Tlm55ib2R5CiAgICAgICAgICAgICAgICByZXR1cm4gYm9keTsKICAgICAgICAgICAgfWVsc2V7</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IFN0cmluZyBob21lID0gU3lzdGVtLmdldFByb3BlcnR5KCJJREVfSE9NRSIpOwogICAgICAgIHNvbHJIb21lUGF0aD1ob21lKyBGaWxlLnNlcGFyYXRvcisic29sci1ob21lIjs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gbXliYXRpcyBnZW5lcmF0b3Ig6Ieq5Yqo55Sf5oiQ5Luj56CB5o+S5Lu2IC0tPgogICAgICAgICAgICA8IS0tPHBsdWdpbj4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPiAtLT4KICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjEuMy41PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTxkZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGRlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPGdyb3VwSWQ+IG15c3FsPC9ncm91cElkPiAtLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPiBteXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4gNS4xLjQ0PC92ZXJzaW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08ZGVwZW5kZW5jeT4gLS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IC0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItY29yZTwvYXJ0aWZhY3RJZD4gLS0+CiAgICAgICAgICAgIDwhLS08dmVyc2lvbj4xLjMuMjwvdmVyc2lvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2RlcGVuZGVuY3k+IC0tPgogICAgICAgICAgICA8IS0tPC9kZXBlbmRlbmNpZXM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGV4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08aWQ+R2VuZXJhdGUgTXlCYXRpcyBBcnRpZmFjdHM8L2lkPiAtLT4KICAgICAgICAgICAgPCEtLTxwaGFzZT5wYWNrYWdlPC9waGFzZT4gLS0+CiAgICAgICAgICAgIDwhLS08Z29hbHM+IC0tPgogICAgICAgICAgICA8IS0tPGdvYWw+Z2VuZXJhdGU8L2dvYWw+IC0tPgogICAgICAgICAgICA8IS0tPC9nb2Fscz4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbj4gLS0+CiAgICAgICAgICAgIDwhLS08L2V4ZWN1dGlvbnM+IC0tPgogICAgICAgICAgICA8IS0tPGNvbmZpZ3VyYXRpb24+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g75YWB6K6456e75Yqo55Sf5oiQ55qE5paH5Lu2ICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPHZlcmJvc2U+dHJ1ZTwvdmVyYm9zZT4gLS0+CiAgICAgICAgICAgIDwhLS0mbHQ7ISZuZGFzaDsg5piv5ZCm6KaG55uWICZuZGFzaDsmZ3Q7IC0tPgogICAgICAgICAgICA8IS0tPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+IC0tPgogICAgICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IOiHquWKqOeUn+aIkOeahOmFjee9riAmbmRhc2g7Jmd0OyAtLT4KICAgICAgICAgICAgPCEtLTxjb25maWd1cmF0aW9uRmlsZT5zcmMvbWFpbi9yZXNvdXJjZXMvZ2VuZXJhdG9yL215YmF0aXMtZ2VuZXJhdG9yLnhtbDwvY29uZmlndXJhdGlvbkZpbGU+IC0tPgogICAgICAgICAgICA8IS0tPC9jb25maWd1cmF0aW9uPiAtLT4KICAgICAgICAgICAgPCEtLTwvcGx1Z2luPiAtLT4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PGZpbGVTZXQ+CiAgICAgICAgICAgIDxkaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICAke3Byb2plY3QucGFyZW50LmJhc2VkaXJ9L3VpL2RhdGFtYW5hZ2UtdWkKICAgICAgICAgICAgPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxvdXRwdXREaXJlY3Rvcnk+dWkvZGF2aW5jaS11aTwvb3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDwvZmlsZVNldD4=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>/ui/datamanage-ui/
 /ui/datamanage-ui/assets/
 /ui/datamanage-ui/favicon.ico
@@ -153,14 +156,11 @@
 /ui/datamanage-ui/vendor-es2015.js
 /ui/davinci-ui/</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgTG9jYXRpb25TdHJhdGVneSwgSGFzaExvY2F0aW9uU3RyYXRlZ3kgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZyh2YWx1ZT17Ii8iLCIvZHZpIiwiL2R2aS8qKiJ9KQogICAgcHVibGljIFN0cmluZyBkdmkoKXsKICAgICAgICByZXR1cm4gImluZGV4IjsKICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8v6I635Y+W5b2T5YmN572R5Z2A77yM5aaC77yaIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4My91aW1jYXJkcHJqL3NoYXJlL21ldW4uanNwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
