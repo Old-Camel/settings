@@ -30,7 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1602224505929">
+      <file name="/Dummy.txt" timestamp="1602645085593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -43,14 +43,11 @@
       </file>
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/mapper/TaskInfoMapper.java" timestamp="1602638240219" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DeptUserPojo.java" timestamp="1602584400304" />
-      <file name="$USER_HOME$/data/code/scala/src/model/Test.scala" timestamp="1602643028011">
+      <file name="$USER_HOME$/data/code/scala/src/model/Test.scala" timestamp="1602643089340">
         <mark key="a" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/datamanager/config/ResponseResultHandlerAdvice.java" timestamp="1602222696709">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/ide/server/src/main/java/com/yunzainfo/cloud/ide/dvi/davinci/core/config/WebMvcConfig.java" timestamp="1602224493567">
         <mark key="[" line="135" column="8" />
@@ -107,11 +104,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>ProcessDefinitionCacheEntry processDefinitionCacheEntry = deploymentManager.getProcessDefinitionCache()
-                .remove();</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>.get(processDefinitionId);</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text>分配权限的填报任务</text>
