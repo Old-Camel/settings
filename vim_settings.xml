@@ -45,17 +45,17 @@
         <mark key="[" line="52" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/src/main/java/com/yunzainfo/bdf/WordCount.java" timestamp="1606700194040" />
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" timestamp="1606705897442">
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" timestamp="1606716375329">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/service/impl/GroupServceImpl.java" timestamp="1606199999577">
         <mark key="[" line="41" column="112" />
         <mark key="]" line="41" column="112" />
         <mark key="." line="41" column="112" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-io-kafka/2.25.0/beam-sdks-java-io-kafka-2.25.0-sources.jar!/org/apache/beam/sdk/io/kafka/KafkaIO.java" timestamp="1606701372675" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-io-kafka/2.25.0/beam-sdks-java-io-kafka-2.25.0-sources.jar!/org/apache/beam/sdk/io/kafka/KafkaIO.java" timestamp="1606716851534" />
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar!/org/joda/time/DateTimeZone.class" timestamp="1606705893400" />
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/entity/Group.java" timestamp="1605861251231">
         <mark key="[" line="32" column="18" />
@@ -131,10 +131,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>forId(“Europe / London”);</text>
+        <text>.withReadCommitted().</text>
       </register>
       <register name="-" type="4">
-        <text>forId(“Europe / London”);</text>
+        <text>.withReadCommitted().</text>
       </register>
       <register name="0" type="4">
         <text>t</text>
