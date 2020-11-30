@@ -35,7 +35,7 @@
         <mark key="]" line="45" column="82" />
         <mark key="." line="45" column="82" />
       </file>
-      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/App.java" timestamp="1606463136985">
+      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/App.java" timestamp="1606700186910">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
@@ -50,6 +50,12 @@
         <mark key="[" line="453" column="13" />
         <mark key="]" line="453" column="13" />
         <mark key="." line="453" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/bdf/src/main/java/com/yunzainfo/bdf/WordCount.java" timestamp="1606700194040" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" timestamp="1606700527096">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
       </file>
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/service/impl/GroupServceImpl.java" timestamp="1606199999577">
         <mark key="[" line="41" column="112" />
@@ -71,7 +77,6 @@
         <mark key="]" line="57" column="28" />
         <mark key="." line="57" column="28" />
       </file>
-      <file name="$USER_HOME$/data/code/word-count-beam/pom.xml" timestamp="1606462537378" />
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/Application.java" timestamp="1605857803591">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="18" column="48" />
@@ -90,6 +95,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="48" column="77" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.1/kafka-clients-2.4.1.jar!/org/apache/kafka/common/serialization/StringSerializer.class" timestamp="1606700601050" />
       <file name="$USER_HOME$/data/code/bdf/pom.xml" timestamp="1606461402079">
         <mark key="[" line="26" column="16" />
       </file>
@@ -133,13 +139,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>} catch (InstantiationException | IllegalAccessException e) {
-           e.printStackTrace();
-            //throw new IocRuntimeException(e);
-        }</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>formData</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text>t</text>
