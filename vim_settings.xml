@@ -35,12 +35,17 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" timestamp="1606814591172">
-        <mark key="[" line="70" column="83" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" timestamp="1606818416964">
+        <mark key="'" line="104" column="45" />
+        <mark key="[" line="121" column="58" />
+        <mark key="]" line="64" column="62" />
+        <mark key="." line="64" column="62" />
+        <mark key="^" line="118" column="93" />
       </file>
       <file name="$USER_HOME$/data/code/DesignPatterns/src/main/java/DecoratorPattern/FirecakeDecorator.java" timestamp="1606803685951" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/create_table.sql" timestamp="1606815553018">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/avro/avro/1.8.2/avro-1.8.2.jar!/org/apache/avro/data/Json.class" timestamp="1606813027610" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" timestamp="1606803095548">
         <mark key="'" line="390" column="41" />
@@ -53,13 +58,17 @@
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/node_modules/dva/index.d.ts" timestamp="1606802898257" />
       <file name="$USER_HOME$/data/code/datafill-web/src/models/form.js" timestamp="1606802977639" />
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/model/Payload.java" timestamp="1606814960778">
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/model/Payload.java" timestamp="1606815732220">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
+      <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/JDBCToJDBCSampleOrigin.java" timestamp="1606816427635" />
       <file name="$USER_HOME$/data/code/DesignPatterns/src/main/java/DecoratorPattern/Firecake.java" timestamp="1606803525280">
         <mark key="[" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/data/code/bdf/kol/pom.xml" timestamp="1606816447281">
+        <mark key="[" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/DesignPatterns/src/main/java/DecoratorPattern/FirecakeWithSausage.java" timestamp="1606803754455">
         <mark key="[" line="17" column="15" />
@@ -75,9 +84,6 @@
         <mark key="." line="18" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/util/JSONPObject.java" timestamp="1606813122582" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/services/system/formdata.js" timestamp="1606802705489" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/models/overallflow.js" timestamp="1606802184620" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/StandardTable/index.js" timestamp="1606801691277" />
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1606814246067">
         <mark key="[" line="242" column="57" />
         <mark key="]" line="218" column="24" />
@@ -117,49 +123,53 @@
       <jump line="212" column="16" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/listener/globel/ActivityCompleteListener.java" />
       <jump line="102" column="42" filename="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/StuInfoEtl.java" />
       <jump line="390" column="41" filename="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" />
+      <jump line="112" column="45" filename="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>String</text>
+        <text>INT64</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>INT64</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuY2xhc3NMaXN0LnJlbW92ZSgicmVkIik7CiAgICB0aGlzLmNsYXNzTGlzdC5hZGQoImJ1bGUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gMUw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjaGVtYS5GaWVsZC5vZigiTUVUSE9EX05BTUUiLCBTY2hlbWEuRmllbGRUeXBlLlNUUklORy53aXRoTnVsbGFibGUodHJ1ZSkpLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>isnull(payload.getRequestType()),
+                        isnull(payload.getErrorInfo()),
+                        isnull(payload.getRunTime()),
+                        isnull(new DateTime(payload.getCreateDate().getTime())),
+                        isnull(payload.getStatus()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Schema.Field.of(&quot;ERROR_INFO&quot;, Schema.FieldType.STRING.withNullable(true)),
+                Schema.Field.of(&quot;RUN_TIME&quot;, Schema.FieldType.INT32),
+                Schema.Field.of(&quot;CREATED_DATE&quot;, Schema.FieldType.DATETIME.withNullable(true)),
+                Schema.Field.of(&quot;STATUS&quot;, Schema.FieldType.INT32)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIHNldFByaWNlKEludGVnZXIgcHJpY2UpIHsKICAgICAgICB0aGlzLnByaWNlID0gcHJpY2U7CiAgICB9</text>
+        <text encoding="base64">ICAgICAvL1N0cmluZyBzID0gbnVsbDsKICAgICAgICAgICAgICAgIC8vdHJ5IHsKICAgICAgICAgICAgICAgIC8vICAgIHMgPSBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHBheWxvYWQpOwogICAgICAgICAgICAgICAgLy99IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAvLyAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgLy99CiAgICAgICAgICAgICAgICAvL1BheWxvYWQgcGF5bG9hZDEgPSBtYXBwZXIuY29udmVydFZhbHVlKHMsIFBheWxvYWQuY2xhc3MpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDEpOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCk9PnsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGphdmEudXRpbC5EYXRlIGRhdGUgPSBEYXRlLmZyb20oaW5zdGFudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>DateTimeFormatter formatter =
-                        DateTimeFormatter.ofLocalizedDateTime( FormatStyle.SHORT )
-                                .withLocale( Locale.CHINA )
-                                .withZone( ZoneId.systemDefault() );
-                String out = formatter.format(timestamp);</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
