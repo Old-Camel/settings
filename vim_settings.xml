@@ -33,10 +33,10 @@
       <file name="/a.dummy" timestamp="1606896363892">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/Odc.java" timestamp="1606896775631">
-        <mark key="[" line="112" column="187" />
-        <mark key="]" line="112" column="187" />
-        <mark key="." line="112" column="187" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/Odc.java" timestamp="1606898586127">
+        <mark key="[" line="68" column="116" />
+        <mark key="]" line="68" column="116" />
+        <mark key="." line="68" column="116" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/create_table.sql" timestamp="1606819854740">
         <mark key="[" line="5" column="24" />
@@ -130,10 +130,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>&quot;ODB_LOG&quot;</text>
+        <text>,&quot;enable.auto.commit&quot;,true</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;ODB_LOG&quot;</text>
+        <text>,&quot;enable.auto.commit&quot;,true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuY2xhc3NMaXN0LnJlbW92ZSgicmVkIik7CiAgICB0aGlzLmNsYXNzTGlzdC5hZGQoImJ1bGUiKTsK</text>
