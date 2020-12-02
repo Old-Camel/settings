@@ -30,13 +30,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/pitcher-piano/src/main/resources/logback-spring.xml.bak" timestamp="1606900917373" />
       <file name="/a.dummy" timestamp="1606896363892">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.1/kafka-clients-2.4.1.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.class" timestamp="1606901130804" />
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/Odc.java" timestamp="1606899574549">
         <mark key="[" line="38" column="105" />
-        <mark key="]" line="69" column="116" />
-        <mark key="." line="69" column="116" />
+        <mark key="]" line="68" column="116" />
+        <mark key="." line="68" column="116" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/create_table.sql" timestamp="1606819854740">
         <mark key="[" line="5" column="24" />
@@ -49,7 +51,6 @@
         <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/src/main/java/com/yunzainfo/bdf/common/ExampleOptions.java" timestamp="1606896500226" />
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/util/JSONPObject.java" timestamp="1606813122582" />
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/logback-spring.xml.bak" timestamp="1606900552318">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="185" column="0" />
@@ -70,16 +71,16 @@
         <mark key="^" line="76" column="89" />
       </file>
       <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/pom.xml" timestamp="1606818907793" />
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/logback.xml" timestamp="1606900869455">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/logback.xml" timestamp="1606901036279">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/JDBCToJDBCSampleOrigin.java" timestamp="1606816427635" />
-      <file name="$USER_HOME$/data/code/bdf/kol/pom.xml" timestamp="1606816447281">
+      <file name="$USER_HOME$/data/code/bdf/kol/pom.xml" timestamp="1606901181228">
         <mark key="[" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/bdf/pom.xml" timestamp="1606900606536">
+      <file name="$USER_HOME$/data/code/bdf/pom.xml" timestamp="1606901176081">
         <mark key="[" line="464" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/log4j.properties:" timestamp="1606900218289">
@@ -89,12 +90,6 @@
         <mark key="[" line="44" column="28" />
         <mark key="]" line="24" column="21" />
         <mark key="." line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/service/impl/BuildServiceImpl.java" timestamp="1606814246067">
-        <mark key="[" line="242" column="57" />
-        <mark key="]" line="218" column="24" />
-        <mark key="^" line="218" column="24" />
-        <mark key="." line="218" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -135,10 +130,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>DEBUG</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuY2xhc3NMaXN0LnJlbW92ZSgicmVkIik7CiAgICB0aGlzLmNsYXNzTGlzdC5hZGQoImJ1bGUiKTsK</text>
