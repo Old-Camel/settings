@@ -32,10 +32,12 @@
     <filemarks>
       <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/App.java" timestamp="1606908400146" />
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/cms.wling.cn/static.cms.wling.cn/cdn/js/scripts/ke/show.js" timestamp="1606988294924" />
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/Odc.java" timestamp="1607076179501">
-        <mark key="[" line="66" column="54" />
-        <mark key="]" line="39" column="67" />
-        <mark key="." line="39" column="67" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.1/kafka-clients-2.4.1.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class" timestamp="1607079165116" />
+      <file name="$USER_HOME$/data/code/bdf/src/main/java/com/yunzainfo/bdf/WordCount.java" timestamp="1607079029907" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/Odc.java" timestamp="1607079052372">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/cms.wling.cn/static.cms.wling.cn/cdn/js/scripts/account/viewelectricitysaasuser.js" timestamp="1606987394824" />
       <file name="$USER_HOME$/data/code/word-count-beam/jdbcetl/pom.xml" timestamp="1606907704406" />
@@ -57,15 +59,10 @@
       <file name="$USER_HOME$/data/code/bdf/pom.xml" timestamp="1606908433821">
         <mark key="[" line="348" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/config/OdcOptions.java" timestamp="1606910668198">
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/logback-spring.xml.bak" timestamp="1606900552318">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/config/OdcOptions.java" timestamp="1607078944917">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/resources/cms.wling.cn/cms.wling.cn/Ke/Show.html" timestamp="1606987544561" />
     </filemarks>
@@ -106,11 +103,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">WyAK</text>
+      <register name="*" type="4">
+        <text>PipelineOptions.</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>PipelineOptions.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuY2xhc3NMaXN0LnJlbW92ZSgicmVkIik7CiAgICB0aGlzLmNsYXNzTGlzdC5hZGQoImJ1bGUiKTsK</text>
