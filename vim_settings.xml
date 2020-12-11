@@ -33,50 +33,44 @@
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/application.properties" timestamp="1607668695569">
         <mark key="[" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/datafill/DfTask.proto" timestamp="1607668563295">
+      <file name="$USER_HOME$/data/code/timer/src/main/java/com/yunzainfo/cloud/timer/grpservice/TimerService.java" timestamp="1607672253007" />
+      <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/datafill/DfTask.proto" timestamp="1607674339645">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/FormData.java" timestamp="1607667861767" />
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskDefController.java" timestamp="1607658014471">
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="102" column="35" />
-        <mark key="." line="102" column="35" />
-        <mark key="^" line="101" column="71" />
-      </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/task/SchedulingRunnable.java" timestamp="1607666983317" />
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskDefService.java" timestamp="1607656882056">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/istio/istio-svc-dpt.yaml" timestamp="1607673745079">
+        <mark key="[" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1607668303156">
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="33" />
-        <mark key="^" line="35" column="33" />
-        <mark key="." line="35" column="32" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/grpc/DfTaskGrpcService.java" timestamp="1607672510074">
+        <mark key="[" line="32" column="113" />
+        <mark key="]" line="32" column="113" />
+        <mark key="." line="32" column="113" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1607656274049">
-        <mark key="'" line="482" column="38" />
-        <mark key="[" line="151" column="31" />
-        <mark key="]" line="482" column="39" />
-        <mark key="." line="482" column="38" />
-        <mark key="^" line="482" column="39" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1607672337729">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="33" />
+        <mark key="^" line="36" column="33" />
+        <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskDefServiceImpl.java" timestamp="1607656940076">
-        <mark key="[" line="152" column="15" />
-        <mark key="]" line="152" column="15" />
-        <mark key="^" line="152" column="26" />
-        <mark key="." line="152" column="15" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/application-local.properties" timestamp="1607673707752">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1607668301602">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="522" column="0" />
-        <mark key="]" line="515" column="7" />
-        <mark key="." line="515" column="6" />
-        <mark key="^" line="515" column="7" />
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="508" column="7" />
+        <mark key="." line="508" column="6" />
+        <mark key="^" line="508" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1607674132798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/timer/src/main/resources/application-local.properties" timestamp="1607668709633" />
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/pojo/DfTaskGrpcPojo.java" timestamp="1607668579791">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="23" column="3" />
@@ -84,12 +78,6 @@
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/util/DfUtil.java" timestamp="1607668051391" />
       <file name="$USER_HOME$/data/code/grpc-api/src/main/resources/proto/timer/Timer.proto" timestamp="1607658945668" />
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/repository/DfTaskDefRepository.java" timestamp="1607657056036">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="44" />
-      </file>
       <file name="$USER_HOME$/data/code/timer/src/main/resources/bootstrap.properties" timestamp="1607668688549" />
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/bootstrap.properties" timestamp="1607668680531">
         <mark key="[" line="1" column="0" />
@@ -140,41 +128,51 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBkZWZJZD0zOwogICAgc3RyaW5nIHVzZXJJZD00Owo=</text>
+      <register name="*" type="4">
+        <text>JSONObject.toJSONString(job)</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>JSONObject.toJSONString(job)</text>
       </register>
       <register name="0" type="4">
         <text>externals</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBkZWZJZD0zOwogICAgc3RyaW5nIHVzZXJJZD00Owo=</text>
+      <register name="1" type="4">
+        <text>String body = request.getBody();
+            //解析json
+            JSON.parse(body);
+            job.setJobName(request.getJobName());
+            job.setJobGroup(request.getJobGroup());
+            job.setBody(request.getBody());
+            job.setUrl(request.getUrl());
+            job.setType(1);
+            job.setDescription(request.getDescription());
+            job.setCronSchedule(request.getCronSchedule());
+            jobService.addCronJob(job);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyB1c2VySWQ9NDsKfQ==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBkZWZJZD0zOwogICAgc3RyaW5nIHVzZXJJZD00Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBjcm9uU2NoZWR1bGU9NjsK</text>
+        <text encoding="base64">ICAgIHN0cmluZyB1c2VySWQ9NDsKfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBib2R5PTU7Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBjcm9uU2NoZWR1bGU9NjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyB1cmw9NDsK</text>
+        <text encoding="base64">ICAgIHN0cmluZyBib2R5PTU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBkZXNjcmlwdGlvbj0zOwo=</text>
+        <text encoding="base64">ICAgIHN0cmluZyB1cmw9NDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBqb2JHcm91cD0yOwo=</text>
+        <text encoding="base64">ICAgIHN0cmluZyBkZXNjcmlwdGlvbj0zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBqb2JOYW1lPTE7Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBqb2JHcm91cD0yOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IExpc3Q8U3RyaW5nPiBkZXB0TGlzdDsKICAgIExpc3Q8U3RyaW5nPiByb2xlTGlzdDsKICAgIExpc3Q8SlNPTk9iamVjdD4gdXNlckxpc3Q7CiAgICBMaXN0PFN0cmluZz4gZ3JhZGVTdHVMaXN0OwogICAgTGlzdDxTdHJpbmc+IGRlcHRTdHVMaXN0OwogICAgYm9vbGVhbiBhbGxUZWFjaGVyOwogICAgYm9vbGVhbiBhbGxTdHVkZW50Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0cmluZyBqb2JOYW1lPTE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
