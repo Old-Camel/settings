@@ -36,10 +36,12 @@
         <mark key="." line="72" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/config/KolOptions.java" timestamp="1607601517579" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1607655660888">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="462" column="16" />
-        <mark key="." line="462" column="16" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" timestamp="1607656274049">
+        <mark key="'" line="482" column="38" />
+        <mark key="[" line="151" column="31" />
+        <mark key="]" line="482" column="39" />
+        <mark key="." line="482" column="38" />
+        <mark key="^" line="482" column="39" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/application.properties" timestamp="1607652338973">
         <mark key="[" line="41" column="0" />
@@ -103,6 +105,8 @@
       <jump line="102" column="42" filename="$USER_HOME$/data/code/word-count-beam/jdbcetl/src/main/java/etl/StuInfoEtl.java" />
       <jump line="390" column="41" filename="$USER_HOME$/data/code/datafill-web/src/pages/Design/FormData.js" />
       <jump line="112" column="45" filename="$USER_HOME$/data/code/bdf/kol/src/main/java/com/yunzainfo/kol/KafkaToClickhouse.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" />
+      <jump line="482" column="38" filename="$USER_HOME$/data/code/datafill-web/src/pages/Design/DataFillDef.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
