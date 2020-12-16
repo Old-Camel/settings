@@ -30,7 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1608009801830">
+      <file name="/Dummy.txt" timestamp="1608081947984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1608013855527">
@@ -88,10 +88,10 @@
         <mark key="]" line="33" column="6" />
         <mark key="." line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day03.java" timestamp="1608081734819">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="37" />
+      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day03.java" timestamp="1608082231446">
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1608080957881">
         <mark key="[" line="0" column="0" />
@@ -152,10 +152,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>i1</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>i1</text>
+        <text>int</text>
       </register>
       <register name="0" type="4">
         <text>externals</text>
