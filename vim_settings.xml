@@ -46,11 +46,11 @@
         <mark key="]" line="40" column="24" />
         <mark key="." line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day04.java" timestamp="1608085796763">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day04.java" timestamp="1608088214412">
+        <mark key="[" line="142" column="40" />
+        <mark key="]" line="73" column="12" />
         <mark key="^" line="58" column="12" />
+        <mark key="." line="73" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/day1/Part1.java" timestamp="1607998225919">
         <mark key="[" line="231" column="13" />
@@ -157,38 +157,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>if(s.equals(list.get(list.size()))){
-                
-            }</text>
+        <text>if(</text>
       </register>
       <register name="-" type="4">
-        <text>replaceAll(&quot;\n&quot;, &quot; &quot;)</text>
+        <text>if(</text>
       </register>
       <register name="0" type="4">
         <text>externals</text>
       </register>
       <register name="1" type="4">
+        <text>try{
+           if(hgt.startsWith(&quot;a#&quot;)){
+               hgt.matches(&quot;a#[0-9a-f]{6}&quot;);
+           }
+        }catch (Exception e){
+            return  false;
+        }
+        return false;</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYoaGd0LmVuZHNXaXRoKCJjbSIpKXsKICAgICAgICAgICAgICAgU3RyaW5nIGNtID0gaGd0LnJlcGxhY2VBbGwoImNtIiwgIiIpOwogICAgICAgICAgICAgICBpbnQgaSA9IEludGVnZXIucGFyc2VJbnQoY20pOwogICAgICAgICAgICAgICBpZigxNTA8PWkmJmk8PTE5Myl7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgIH1lbHNlIGlmKGhndC5lbmRzV2l0aCgiaW4iKSl7CiAgICAgICAgICAgICAgIFN0cmluZyBjbSA9IGhndC5yZXBsYWNlQWxsKCJpbiIsICIiKTsKICAgICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNtKTsKICAgICAgICAgICAgICAgaWYoNTk8PWkmJmk8PTc2KXsKICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IGludCBpID0gSW50ZWdlci5wYXJzZUludChieXIpOwogICAgICAgICAgICBpZigyMDIwPD1pJiZpPD0yMDMwKXsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGZvciAoU3RyaW5nIGtleSA6IGtleXMpIHsKICAgICAgICAgICAgICAgIGlmICghZGF0dW0uY29udGFpbnNLZXkoa2V5KSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlIGE7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgaWYgKGtleS5lcXVhbHMoa2V5c1trZXlzLmxlbmd0aCAtIDFdKSkgewogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
         <text>if(s.equals(list.get(list.size()))){
                 
             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvL3JldHVybiBydW4oMywgMSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBsb25nIHJ1bihpbnQgcmlnaHQsaW50IGRvd24pIHsKICAgICAgICBsb25nIGZsYWcgPSAwOwogICAgICAgIGludCBsZW5ndGggPSBkYXRhLmdldCgwKS5sZW5ndGgoKTsKICAgICAgICBpbnQgcG9zdGlvbj0xOwogICAgICAgIGZvciAoaW50IGk9MDsgaTwgZGF0YS5zaXplKCk7aSs9ZG93bikgewogICAgICAgICAgICBTdHJpbmcgbGluZT1kYXRhLmdldChpKTsKICAgICAgICAgICAgaW50IGkxID0gcG9zdGlvbiAlIGxlbmd0aDsKICAgICAgICAgICAgaWYoaTEhPTApewogICAgICAgICAgICAgICAgY2hhciBjID0gbGluZS5jaGFyQXQoaTEtMSk7CiAgICAgICAgICAgICAgICBpZihjPT0nIycpewogICAgICAgICAgICAgICAgICAgIGZsYWcrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBjaGFyIGMgPSBsaW5lLmNoYXJBdChsZW5ndGgtMSk7CiAgICAgICAgICAgICAgICBpZihjPT0nIycpewogICAgICAgICAgICAgICAgICAgIGZsYWcrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBwb3N0aW9uPXBvc3Rpb24rcmlnaHQ7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmbGFnOwogICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIHBhcnQyKCl7CiAgICAgICAgaW50IGZsYWcgPSAwOwoKICAgICAgICByZXR1cm4gZmxhZzsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSBwb3N0aW9uICsgMzsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">b3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -198,12 +203,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBTdHJpbmdbXSBzcGxpdCA9IGEuc3BsaXQoIjogIik7CiAgICAgICAgICAgIFN0cmluZyB4ID0gc3BsaXRbMF07CiAgICAgICAgICAgIFN0cmluZyB5ID0gc3BsaXRbMV07CiAgICAgICAgICAgIFN0cmluZ1tdIHogPSB4LnNwbGl0KCIgIik7CiAgICAgICAgICAgIFN0cmluZyBpID0gelsxXTsKICAgICAgICAgICAgU3RyaW5nW10gbiA9IHpbMF0uc3BsaXQoIi0iKTsKICAgICAgICAgICAgaW50IGwxID0geS5sZW5ndGgoKTsKICAgICAgICAgICAgaW50IGwyID0geS5yZXBsYWNlQWxsKGkgKyAiIiwgIiIpLmxlbmd0aCgpOwogICAgICAgICAgICBpbnQgaTMgPSBsMSAtIGwyOwogICAgICAgICAgICBpbnQgaTEgPSBJbnRlZ2VyLnBhcnNlSW50KG5bMF0pOwogICAgICAgICAgICBpbnQgaTIgPSBJbnRlZ2VyLnBhcnNlSW50KG5bMV0pOwogICAgICAgICAgICBpZiAoaTEgPD0gaTMgJiYgaTMgPD0gaTIpIHsKICAgICAgICAgICAgICAgIGZsYWcrKzsKICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>System.out.println(i + &quot;+&quot; + i1 + &quot;+&quot; + i2);
-                        System.out.println(i * i1 * i2);</text>
+        <text encoding="base64">cHJpdmF0ZSBsb25nIHJ1bihpbnQgcmlnaHQsaW50IGRvd24pIHsKICAgICAgICBsb25nIGZsYWcgPSAwOwogICAgICAgIGludCBsZW5ndGggPSBkYXRhLmdldCgwKS5sZW5ndGgoKTsKICAgICAgICBpbnQgcG9zdGlvbj0xOwogICAgICAgIGZvciAoaW50IGk9MDsgaTwgZGF0YS5zaXplKCk7aSs9ZG93bikgewogICAgICAgICAgICBTdHJpbmcgbGluZT1kYXRhLmdldChpKTsKICAgICAgICAgICAgaW50IGkxID0gcG9zdGlvbiAlIGxlbmd0aDsKICAgICAgICAgICAgaWYoaTEhPTApewogICAgICAgICAgICAgICAgY2hhciBjID0gbGluZS5jaGFyQXQoaTEtMSk7CiAgICAgICAgICAgICAgICBpZihjPT0nIycpewogICAgICAgICAgICAgICAgICAgIGZsYWcrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBjaGFyIGMgPSBsaW5lLmNoYXJBdChsZW5ndGgtMSk7CiAgICAgICAgICAgICAgICBpZihjPT0nIycpewogICAgICAgICAgICAgICAgICAgIGZsYWcrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBwb3N0aW9uPXBvc3Rpb24rcmlnaHQ7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmbGFnOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
