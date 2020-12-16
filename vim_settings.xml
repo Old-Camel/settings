@@ -30,7 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1608082578655">
+      <file name="/Dummy.txt" timestamp="1608094347420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1608013855527">
@@ -59,10 +59,10 @@
         <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/adventofcode/src/file/day04.txt" timestamp="1608085591699" />
-      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day05.java" timestamp="1608091002031">
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="76" column="12" />
-        <mark key="." line="76" column="12" />
+      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day05.java" timestamp="1608094713614">
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="91" column="23" />
+        <mark key="." line="91" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1607929759856">
         <mark key="'" line="622" column="0" />
@@ -105,7 +105,7 @@
       <file name="/fragment.java" timestamp="1608089531707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/adventofcode/src/file/day05.txt" timestamp="1608089525415" />
+      <file name="$USER_HOME$/data/code/adventofcode/src/file/day05.txt" timestamp="1608094046265" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -163,10 +163,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>data</text>
+        <text>num</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>num</text>
       </register>
       <register name="0" type="4">
         <text>externals</text>
