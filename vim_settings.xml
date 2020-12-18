@@ -30,18 +30,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDef.java" timestamp="1608168166472" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskDef.java" timestamp="1608282290984" />
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/DfTaskService.java" timestamp="1608169981464">
         <mark key="[" line="38" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1608168786015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day04.java" timestamp="1608088214412">
-        <mark key="[" line="142" column="40" />
-        <mark key="]" line="73" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="73" column="12" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskAuditServiceImpl.java" timestamp="1608286178378">
+        <mark key="[" line="136" column="39" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608280043717">
         <mark key="'" line="541" column="12" />
@@ -59,8 +56,13 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608197837806">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1608285299713">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1608283100958">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -83,15 +85,17 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608280054073">
-        <mark key="[" line="74" column="19" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608286929581">
+        <mark key="[" line="73" column="121" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="83" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/wenhao/jpa-spec/3.2.3/jpa-spec-3.2.3-sources.jar!/com/github/wenhao/jpa/PredicateBuilder.java" timestamp="1608279157764" />
       <file name="/fragment.java" timestamp="1608094912694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608279556078">
-        <mark key="[" line="93" column="109" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608286391141">
+        <mark key="[" line="165" column="0" />
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
       </file>
@@ -154,43 +158,36 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>return</text>
+      <register name="*" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYodGFza0RlZi5nZXRFeHRlcm5hbCgpPT1udWxsfHwxPT10YXNrRGVmLmdldEV4dGVybmFsKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKPj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>taskDef.getExternal()==null||</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYodGFza0RlZi5nZXRFeHRlcm5hbCgpPT1udWxsfHwxPT10YXNrRGVmLmdldEV4dGVybmFsKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKPj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
+      </register>
+      <register name="2" type="4">
         <text>rpc接口添加添加任务用户功能;
 用户查询待填报任务的时候过滤填报定义是</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IC8q55So5oi35aeT5ZCNKi8KICAgIHN0cmluZyBuYW1lID0gNDs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGV4dGVybmFsVGFza0RlZklkcygpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8qIGZvciAoSW50ZWdlciBpbnRlZ2VyIDogbnVtYmVycykgewogICAgICAgICAgICBpbnQgYSA9IDIwMjAgLSBpbnRlZ2VyOwogICAgICAgICAgICBpZiAobnVtYmVycy5jb250YWlucyhhKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEgKyAiPD09PiIgKyBpbnRlZ2VyKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhICogaW50ZWdlcik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0qLwogICAgICAgIGludCBhc0ludCA9IG51bWJlcnMuc3RyZWFtKCkuZmxhdE1hcChhIC0+IG51bWJlcnMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYSArIGIgPT0gMjAyMCkubWFwKGIgLT4gYSAqIGIpKS5maW5kQW55KCkuZ2V0KCk7CiA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA6IG51bWJlcnMpIHsKICAgICAgICAgICAgZm9yIChpbnQgaTEgOiBudW1iZXJzKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpMiA6IG51bWJlcnMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaSAhPSBpMSAmJiBpMSAhPSBpMiAmJiBpICsgaTEgKyBpMiA9PSAyMDIwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpICogaTEgKiBpMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
       <register name="7" type="4">
-        <text>try{
-           if(hgt.startsWith(&quot;a#&quot;)){
-               hgt.matches(&quot;a#[0-9a-f]{6}&quot;);
-           }
-        }catch (Exception e){
-            return  false;
-        }
-        return false;</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA6IG51bWJlcnMpIHsKICAgICAgICAgICAgZm9yIChpbnQgaTEgOiBudW1iZXJzKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpMiA6IG51bWJlcnMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaSAhPSBpMSAmJiBpMSAhPSBpMiAmJiBpICsgaTEgKyBpMiA9PSAyMDIwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpICogaTEgKiBpMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -201,10 +198,17 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYoaGd0LmVuZHNXaXRoKCJjbSIpKXsKICAgICAgICAgICAgICAgU3RyaW5nIGNtID0gaGd0LnJlcGxhY2VBbGwoImNtIiwgIiIpOwogICAgICAgICAgICAgICBpbnQgaSA9IEludGVnZXIucGFyc2VJbnQoY20pOwogICAgICAgICAgICAgICBpZigxNTA8PWkmJmk8PTE5Myl7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgIH1lbHNlIGlmKGhndC5lbmRzV2l0aCgiaW4iKSl7CiAgICAgICAgICAgICAgIFN0cmluZyBjbSA9IGhndC5yZXBsYWNlQWxsKCJpbiIsICIiKTsKICAgICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNtKTsKICAgICAgICAgICAgICAgaWYoNTk8PWkmJmk8PTc2KXsKICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQ==</text>
+        <text>try{
+           if(hgt.startsWith(&quot;a#&quot;)){
+               hgt.matches(&quot;a#[0-9a-f]{6}&quot;);
+           }
+        }catch (Exception e){
+            return  false;
+        }
+        return false;</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGludCBpID0gSW50ZWdlci5wYXJzZUludChieXIpOwogICAgICAgICAgICBpZigyMDIwPD1pJiZpPD0yMDMwKXsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">aWYoaGd0LmVuZHNXaXRoKCJjbSIpKXsKICAgICAgICAgICAgICAgU3RyaW5nIGNtID0gaGd0LnJlcGxhY2VBbGwoImNtIiwgIiIpOwogICAgICAgICAgICAgICBpbnQgaSA9IEludGVnZXIucGFyc2VJbnQoY20pOwogICAgICAgICAgICAgICBpZigxNTA8PWkmJmk8PTE5Myl7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgIH1lbHNlIGlmKGhndC5lbmRzV2l0aCgiaW4iKSl7CiAgICAgICAgICAgICAgIFN0cmluZyBjbSA9IGhndC5yZXBsYWNlQWxsKCJpbiIsICIiKTsKICAgICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNtKTsKICAgICAgICAgICAgICAgaWYoNTk8PWkmJmk8PTc2KXsKICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
