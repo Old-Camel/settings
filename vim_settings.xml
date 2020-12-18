@@ -43,8 +43,8 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608277003008">
-        <mark key="'" line="91" column="28" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608280043717">
+        <mark key="'" line="541" column="12" />
         <mark key="[" line="532" column="37" />
         <mark key="]" line="91" column="29" />
         <mark key="." line="91" column="28" />
@@ -83,14 +83,17 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608277240868">
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608280054073">
         <mark key="[" line="74" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/wenhao/jpa-spec/3.2.3/jpa-spec-3.2.3-sources.jar!/com/github/wenhao/jpa/PredicateBuilder.java" timestamp="1608279157764" />
       <file name="/fragment.java" timestamp="1608094912694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608169315060">
-        <mark key="[" line="168" column="37" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608279556078">
+        <mark key="[" line="93" column="109" />
+        <mark key="]" line="93" column="8" />
+        <mark key="." line="93" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -139,6 +142,7 @@
       <jump line="24" column="23" filename="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day03.java" />
       <jump line="546" column="35" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
       <jump line="91" column="28" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
+      <jump line="541" column="12" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -151,11 +155,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>rpc接口添加添加任务用户功能;
-用户查询待填报任务的时候过滤填报定义是</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>uiSchema</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
