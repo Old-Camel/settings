@@ -43,12 +43,12 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608170984557">
-        <mark key="'" line="545" column="35" />
-        <mark key="[" line="547" column="34" />
-        <mark key="]" line="547" column="34" />
-        <mark key="." line="547" column="34" />
-        <mark key="^" line="545" column="36" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608277003008">
+        <mark key="'" line="91" column="28" />
+        <mark key="[" line="532" column="37" />
+        <mark key="]" line="91" column="29" />
+        <mark key="." line="91" column="28" />
+        <mark key="^" line="91" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/kol/kol.yaml" timestamp="1608115696633">
         <mark key="[" line="26" column="17" />
@@ -59,8 +59,10 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608171166445">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1608197837806">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTaskUserConfig.java" timestamp="1608169852767" />
       <file name="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day05.java" timestamp="1608094713614">
@@ -81,8 +83,8 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608168581745">
-        <mark key="[" line="73" column="80" />
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608277240868">
+        <mark key="[" line="74" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1608094912694">
         <mark key="[" line="0" column="0" />
@@ -136,6 +138,7 @@
       <jump line="622" column="0" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
       <jump line="24" column="23" filename="$USER_HOME$/data/code/adventofcode/src/run/oldcamel/year2020/aoc/Day03.java" />
       <jump line="546" column="35" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
+      <jump line="91" column="28" filename="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -148,7 +151,8 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IC8q55So5oi35aeT5ZCNKi8KICAgIHN0cmluZyBuYW1lID0gNDs=</text>
+        <text>rpc接口添加添加任务用户功能;
+用户查询待填报任务的时候过滤填报定义是</text>
       </register>
       <register name="-" type="4">
         <text>uiSchema</text>
@@ -157,21 +161,25 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>rpc接口添加添加任务用户功能;
+用户查询待填报任务的时候过滤填报定义是</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IC8q55So5oi35aeT5ZCNKi8KICAgIHN0cmluZyBuYW1lID0gNDs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGV4dGVybmFsVGFza0RlZklkcygpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IC8qIGZvciAoSW50ZWdlciBpbnRlZ2VyIDogbnVtYmVycykgewogICAgICAgICAgICBpbnQgYSA9IDIwMjAgLSBpbnRlZ2VyOwogICAgICAgICAgICBpZiAobnVtYmVycy5jb250YWlucyhhKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEgKyAiPD09PiIgKyBpbnRlZ2VyKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhICogaW50ZWdlcik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0qLwogICAgICAgIGludCBhc0ludCA9IG51bWJlcnMuc3RyZWFtKCkuZmxhdE1hcChhIC0+IG51bWJlcnMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYSArIGIgPT0gMjAyMCkubWFwKGIgLT4gYSAqIGIpKS5maW5kQW55KCkuZ2V0KCk7CiA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Zm9yIChpbnQgaSA6IG51bWJlcnMpIHsKICAgICAgICAgICAgZm9yIChpbnQgaTEgOiBudW1iZXJzKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpMiA6IG51bWJlcnMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaSAhPSBpMSAmJiBpMSAhPSBpMiAmJiBpICsgaTEgKyBpMiA9PSAyMDIwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpICogaTEgKiBpMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>try{
            if(hgt.startsWith(&quot;a#&quot;)){
                hgt.matches(&quot;a#[0-9a-f]{6}&quot;);
@@ -180,9 +188,6 @@
             return  false;
         }
         return false;</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYoaGd0LmVuZHNXaXRoKCJjbSIpKXsKICAgICAgICAgICAgICAgU3RyaW5nIGNtID0gaGd0LnJlcGxhY2VBbGwoImNtIiwgIiIpOwogICAgICAgICAgICAgICBpbnQgaSA9IEludGVnZXIucGFyc2VJbnQoY20pOwogICAgICAgICAgICAgICBpZigxNTA8PWkmJmk8PTE5Myl7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgIH1lbHNlIGlmKGhndC5lbmRzV2l0aCgiaW4iKSl7CiAgICAgICAgICAgICAgIFN0cmluZyBjbSA9IGhndC5yZXBsYWNlQWxsKCJpbiIsICIiKTsKICAgICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNtKTsKICAgICAgICAgICAgICAgaWYoNTk8PWkmJmk8PTc2KXsKICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -193,10 +198,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGludCBpID0gSW50ZWdlci5wYXJzZUludChieXIpOwogICAgICAgICAgICBpZigyMDIwPD1pJiZpPD0yMDMwKXsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">aWYoaGd0LmVuZHNXaXRoKCJjbSIpKXsKICAgICAgICAgICAgICAgU3RyaW5nIGNtID0gaGd0LnJlcGxhY2VBbGwoImNtIiwgIiIpOwogICAgICAgICAgICAgICBpbnQgaSA9IEludGVnZXIucGFyc2VJbnQoY20pOwogICAgICAgICAgICAgICBpZigxNTA8PWkmJmk8PTE5Myl7CiAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgfQogICAgICAgICAgIH1lbHNlIGlmKGhndC5lbmRzV2l0aCgiaW4iKSl7CiAgICAgICAgICAgICAgIFN0cmluZyBjbSA9IGhndC5yZXBsYWNlQWxsKCJpbiIsICIiKTsKICAgICAgICAgICAgICAgaW50IGkgPSBJbnRlZ2VyLnBhcnNlSW50KGNtKTsKICAgICAgICAgICAgICAgaWYoNTk8PWkmJmk8PTc2KXsKICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGZvciAoU3RyaW5nIGtleSA6IGtleXMpIHsKICAgICAgICAgICAgICAgIGlmICghZGF0dW0uY29udGFpbnNLZXkoa2V5KSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlIGE7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9</text>
+        <text encoding="base64">IGludCBpID0gSW50ZWdlci5wYXJzZUludChieXIpOwogICAgICAgICAgICBpZigyMDIwPD1pJiZpPD0yMDMwKXsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -206,7 +211,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
