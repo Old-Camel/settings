@@ -30,55 +30,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1608626531138">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/bdf/lamp/src/main/java/com/yunzainfo/lamp/LampApp.java" timestamp="1608693319114">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/application-local.properties" timestamp="1609147040637" />
+      <file name="$USER_HOME$/data/code/bdf/lamp/pom.xml" timestamp="1608626421478">
+        <mark key="[" line="39" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/Swagger2.java" timestamp="1609148460640" />
       <file name="/Dummy.txt" timestamp="1609145246778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/dockyard/pom.xml" timestamp="1609145074027" />
-      <file name="/a.dummy" timestamp="1608626531138">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.0.4.RELEASE/spring-session-data-redis-2.0.4.RELEASE.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.class" timestamp="1609148114053" />
       <file name="$USER_HOME$/data/code/swagger/chartrepo-api/README.md" timestamp="1609124631735" />
-      <file name="$USER_HOME$/data/code/bdf/lamp/src/main/java/com/yunzainfo/lamp/LampApp.java" timestamp="1608693319114">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskAuditServiceImpl.java" timestamp="1608286178378">
-        <mark key="[" line="136" column="39" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/Application.java" timestamp="1609148095242">
+        <mark key="[" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/bdf/lamp/src/main/java/com/yunzainfo/lamp/config/LampOptions.java" timestamp="1608627069369">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/web/GroupController.java" timestamp="1609140818889">
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/web/GroupController.java" timestamp="1609148456034">
         <mark key="[" line="68" column="54" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application-local.yml" timestamp="1609144947638">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application-local.yml" timestamp="1609147497228">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608286952602">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-      </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.yml" timestamp="1609145238611">
-        <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/data/code/bdf/lamp/pom.xml" timestamp="1608626421478">
-        <mark key="[" line="39" column="17" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.yml" timestamp="1609148918135">
+        <mark key="[" line="42" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1609145246718">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608286391141">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="93" column="8" />
-        <mark key="." line="93" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -140,7 +132,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
+        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
       </register>
       <register name="-" type="4">
         <text>222.30</text>
@@ -149,25 +141,44 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
+        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVidWc6IHRydWUK</text>
+        <text>ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JwYzoKICBjbGllbnQ6CiAgICBhdXRoOgogICAgICBlbmFibGVLZWVwQWxpdmU6IHRydWUKICAgICAgaG9zdDogMTI3LjAuMC4xCiAgICAgIGtlZXBBbGl2ZVdpdGhvdXRDYWxsczogdHJ1ZQogICAgICBuZWdvdGlhdGlvblR5cGU6IFBMQUlOVEVYVAogICAgICBwb3J0OiA0MDAwCg==</text>
+        <text>eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://xucheng:123@222.30.194.220:8001/eureka/
+  instance:
+    instance-id: ${spring.cloud.client.ip-address}:${server.port}
+    hostname: student-mb</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWJtczoKICBncm91cGlkOiAxMAogIHRlYW1pZDogMQo=</text>
+        <text>abms:
+  groupid: 10
+  teamid: 1
+debug: true
+grpc:
+  client:
+    auth:
+      enableKeepAlive: true
+      host: 127.0.0.1
+      keepAliveWithoutCalls: true
+      negotiationType: PLAINTEXT
+      port: 4000</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I+ezu+e7n+iuv+mXruaXpeW/l+aYr+WQpuiusOW9leWIsOaVsOaNruW6k+S4rQpzeXN0ZW06CiAgbG9nOiB0cnVlCmV1cmVrYToKICBjbGllbnQ6CiAgICBzZXJ2aWNlVXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovL3h1Y2hlbmc6MTIzQDIyMi4zMC4xOTQuMjIwOjgwMDEvZXVyZWthLwogIGluc3RhbmNlOgogICAgaW5zdGFuY2UtaWQ6ICR7c3ByaW5nLmNsb3VkLmNsaWVudC5pcC1hZGRyZXNzfToke3NlcnZlci5wb3J0fQogICAgaG9zdG5hbWU6IHN0dWRlbnQtbWIK</text>
+        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I+aYr+WQpuWQr+eUqHN3YWdnZXItdWnmlofmoaMKcmliYm9uOgogIFJlYWRUaW1lb3V0OiAxMDAwMAogIENvbm5lY3RUaW1lb3V0OiAxMDAwMAo=</text>
+        <text encoding="base64">ZGVidWc6IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyNyZWRpc+mFjee9rgo=</text>
+        <text encoding="base64">Z3JwYzoKICBjbGllbnQ6CiAgICBhdXRoOgogICAgICBlbmFibGVLZWVwQWxpdmU6IHRydWUKICAgICAgaG9zdDogMTI3LjAuMC4xCiAgICAgIGtlZXBBbGl2ZVdpdGhvdXRDYWxsczogdHJ1ZQogICAgICBuZWdvdGlhdGlvblR5cGU6IFBMQUlOVEVYVAogICAgICBwb3J0OiA0MDAwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -178,10 +189,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMg6L+e5o6l5pWw5o2u5bqTCg==</text>
+        <text encoding="base64">YWJtczoKICBncm91cGlkOiAxMAogIHRlYW1pZDogMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlOiA0Cg==</text>
+        <text encoding="base64">I+ezu+e7n+iuv+mXruaXpeW/l+aYr+WQpuiusOW9leWIsOaVsOaNruW6k+S4rQpzeXN0ZW06CiAgbG9nOiB0cnVlCmV1cmVrYToKICBjbGllbnQ6CiAgICBzZXJ2aWNlVXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovL3h1Y2hlbmc6MTIzQDIyMi4zMC4xOTQuMjIwOjgwMDEvZXVyZWthLwogIGluc3RhbmNlOgogICAgaW5zdGFuY2UtaWQ6ICR7c3ByaW5nLmNsb3VkLmNsaWVudC5pcC1hZGRyZXNzfToke3NlcnZlci5wb3J0fQogICAgaG9zdG5hbWU6IHN0dWRlbnQtbWIK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
