@@ -30,6 +30,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/ResourceServerConfig.java" timestamp="1609150157228">
+        <mark key="[" line="55" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1608626531138">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,9 +42,6 @@
         <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/resources/application-local.properties" timestamp="1609147040637" />
-      <file name="$USER_HOME$/data/code/bdf/lamp/pom.xml" timestamp="1608626421478">
-        <mark key="[" line="39" column="17" />
-      </file>
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/Swagger2.java" timestamp="1609148460640" />
       <file name="/Dummy.txt" timestamp="1609145246778">
         <mark key="[" line="0" column="0" />
@@ -66,9 +66,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.yml" timestamp="1609148918135">
-        <mark key="[" line="42" column="41" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.properties" timestamp="1609150748499">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.yml" timestamp="1609150568424" />
       <file name="/fragment.java" timestamp="1609145246718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,24 +134,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
+      <register name="*" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>222.30</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
+        <text encoding="base64">ICAjc2VjdXJpdHkub2F1dGgyLnJlc291cmNlLnVzZXItaW5mby11cmk9aHR0cDovLzIyMi4zMC4xOTQuMjI1OjkwMDAvYXV0aC91c2VyCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CgpzeXN0ZW1rZXk9REFUQV9GSUxMCmFwcGNvbmZpZ2tleT1EQVRBX0ZJTExfTU9CSUxFCndlY2hhdGtleT1EQVRBX0ZJTExfV0VDSEFUCm1vYmlsZXBhZ2V1cmw9d3d3LmJhaWR1LmNvbQp0b21jYXRQdXNoVXJsPWh0dHA6Ly9pcDpwb3J0L2FwcHB1c2gvcHVzaA==</text>
+      </register>
+      <register name="3" type="2">
+        <text>adminValue=超级管理员
+grpc.client.message-center-3.host=message-center-3
+grpc.client.message-center-3.port=4000
+grpc.client.message-center-3.enableKeepAlive=true
+grpc.client.message-center-3.keepAliveWithoutCalls=true
+grpc.client.message-center-3.negotiationType=PLAINTEXT</text>
+      </register>
+      <register name="4" type="2">
+        <text>grpc.client.flow.host=192.168.182.135
+grpc.client.flow.port=4000
+grpc.client.flow.enableKeepAlive=true
+grpc.client.flow.keepAliveWithoutCalls=true
+grpc.client.flow.negotiationType=PLAINTEXT</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
+      </register>
+      <register name="6" type="2">
         <text>ribbon:
   ReadTimeout: 10000
   ConnectTimeout: 10000</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text>eureka:
   client:
     serviceUrl:
@@ -157,7 +181,15 @@
     instance-id: ${spring.cloud.client.ip-address}:${server.port}
     hostname: student-mb</text>
       </register>
-      <register name="4" type="2">
+      <register name="w" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
         <text>abms:
   groupid: 10
   teamid: 1
@@ -171,28 +203,8 @@ grpc:
       negotiationType: PLAINTEXT
       port: 4000</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVidWc6IHRydWUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Z3JwYzoKICBjbGllbnQ6CiAgICBhdXRoOgogICAgICBlbmFibGVLZWVwQWxpdmU6IHRydWUKICAgICAgaG9zdDogMTI3LjAuMC4xCiAgICAgIGtlZXBBbGl2ZVdpdGhvdXRDYWxsczogdHJ1ZQogICAgICBuZWdvdGlhdGlvblR5cGU6IFBMQUlOVEVYVAogICAgICBwb3J0OiA0MDAwCg==</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWJtczoKICBncm91cGlkOiAxMAogIHRlYW1pZDogMQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I+ezu+e7n+iuv+mXruaXpeW/l+aYr+WQpuiusOW9leWIsOaVsOaNruW6k+S4rQpzeXN0ZW06CiAgbG9nOiB0cnVlCmV1cmVrYToKICBjbGllbnQ6CiAgICBzZXJ2aWNlVXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovL3h1Y2hlbmc6MTIzQDIyMi4zMC4xOTQuMjIwOjgwMDEvZXVyZWthLwogIGluc3RhbmNlOgogICAgaW5zdGFuY2UtaWQ6ICR7c3ByaW5nLmNsb3VkLmNsaWVudC5pcC1hZGRyZXNzfToke3NlcnZlci5wb3J0fQogICAgaG9zdG5hbWU6IHN0dWRlbnQtbWIK</text>
+        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
