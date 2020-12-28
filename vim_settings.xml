@@ -30,11 +30,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1608628019451">
+      <file name="/Dummy.txt" timestamp="1609145246778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/data/code/dockyard/pom.xml" timestamp="1609145074027" />
       <file name="/a.dummy" timestamp="1608626531138">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,38 +48,37 @@
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskAuditServiceImpl.java" timestamp="1608286178378">
         <mark key="[" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfTaskServiceImpl.java" timestamp="1608280043717">
-        <mark key="'" line="541" column="12" />
-        <mark key="[" line="532" column="37" />
-        <mark key="]" line="91" column="29" />
-        <mark key="." line="91" column="28" />
-        <mark key="^" line="91" column="29" />
-      </file>
       <file name="$USER_HOME$/data/code/bdf/lamp/src/main/java/com/yunzainfo/lamp/config/LampOptions.java" timestamp="1608627069369">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="21" />
         <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/web/GroupController.java" timestamp="1609140818889">
+        <mark key="[" line="68" column="54" />
+      </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application-local.yml" timestamp="1609144947638">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/service/impl/DfDeptTaskServiceImpl.java" timestamp="1608286952602">
         <mark key="[" line="74" column="35" />
         <mark key="]" line="74" column="35" />
         <mark key="." line="74" column="35" />
       </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.yml" timestamp="1609145238611">
+        <mark key="[" line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/data/code/bdf/lamp/pom.xml" timestamp="1608626421478">
         <mark key="[" line="39" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1608626674046">
+      <file name="/fragment.java" timestamp="1609145246718">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DfTaskController.java" timestamp="1608286391141">
         <mark key="[" line="165" column="0" />
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
-      </file>
-      <file name="$USER_HOME$/data/code/df/cloud-datafill/src/main/java/com/yunzainfo/cloud/datafill/web/DeptUserTaskController.java" timestamp="1608285299713">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -139,8 +139,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>222.30</text>
+      <register name="*" type="2">
+        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>222.30</text>
@@ -148,37 +148,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENoZWNrRXJyb3JFeGNlcHRpb24oIuaXoOazleaJvuWIsOimgeWkhOeQhueahOS7u+WKoSIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>ObjectMapper mapper = new ObjectMapper();
-                        try {
-                            LinkedHashMap map = mapper.readValue(element, LinkedHashMap.class);                //Object payload = data.get(&quot;payload&quot;);
-                            LinkedHashMap payloadMap = (LinkedHashMap) map.get(&quot;payload&quot;);
-                            Payload payload = mapper.convertValue(payloadMap, Payload.class);
-                            payload.setDATA(mapper.writeValueAsString(payload.getDATA()));
-                            payload.setBEFORE(mapper.writeValueAsString(payload.getBEFORE()));
-                            ctx.output(payload);
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">c3dhZ2dlcjoKICBzaG93OiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYodGFza0RlZi5nZXRFeHRlcm5hbCgpPT1udWxsfHwxPT10YXNrRGVmLmdldEV4dGVybmFsKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKPj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
+        <text encoding="base64">ZGVidWc6IHRydWUK</text>
       </register>
-      <register name="3" type="4">
-        <text>rpc接口添加添加任务用户功能;
-用户查询待填报任务的时候过滤填报定义是</text>
+      <register name="3" type="2">
+        <text encoding="base64">Z3JwYzoKICBjbGllbnQ6CiAgICBhdXRoOgogICAgICBlbmFibGVLZWVwQWxpdmU6IHRydWUKICAgICAgaG9zdDogMTI3LjAuMC4xCiAgICAgIGtlZXBBbGl2ZVdpdGhvdXRDYWxsczogdHJ1ZQogICAgICBuZWdvdGlhdGlvblR5cGU6IFBMQUlOVEVYVAogICAgICBwb3J0OiA0MDAwCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8q55So5oi35aeT5ZCNKi8KICAgIHN0cmluZyBuYW1lID0gNDs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">YWJtczoKICBncm91cGlkOiAxMAogIHRlYW1pZDogMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb24gPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
+        <text encoding="base64">I+ezu+e7n+iuv+mXruaXpeW/l+aYr+WQpuiusOW9leWIsOaVsOaNruW6k+S4rQpzeXN0ZW06CiAgbG9nOiB0cnVlCmV1cmVrYToKICBjbGllbnQ6CiAgICBzZXJ2aWNlVXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovL3h1Y2hlbmc6MTIzQDIyMi4zMC4xOTQuMjIwOjgwMDEvZXVyZWthLwogIGluc3RhbmNlOgogICAgaW5zdGFuY2UtaWQ6ICR7c3ByaW5nLmNsb3VkLmNsaWVudC5pcC1hZGRyZXNzfToke3NlcnZlci5wb3J0fQogICAgaG9zdG5hbWU6IHN0dWRlbnQtbWIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGV4dGVybmFsVGFza0RlZklkcygpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">I+aYr+WQpuWQr+eUqHN3YWdnZXItdWnmlofmoaMKcmliYm9uOgogIFJlYWRUaW1lb3V0OiAxMDAwMAogIENvbm5lY3RUaW1lb3V0OiAxMDAwMAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8qIGZvciAoSW50ZWdlciBpbnRlZ2VyIDogbnVtYmVycykgewogICAgICAgICAgICBpbnQgYSA9IDIwMjAgLSBpbnRlZ2VyOwogICAgICAgICAgICBpZiAobnVtYmVycy5jb250YWlucyhhKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEgKyAiPD09PiIgKyBpbnRlZ2VyKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhICogaW50ZWdlcik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0qLwogICAgICAgIGludCBhc0ludCA9IG51bWJlcnMuc3RyZWFtKCkuZmxhdE1hcChhIC0+IG51bWJlcnMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYSArIGIgPT0gMjAyMCkubWFwKGIgLT4gYSAqIGIpKS5maW5kQW55KCkuZ2V0KCk7CiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyNyZWRpc+mFjee9rgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -188,18 +177,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA6IG51bWJlcnMpIHsKICAgICAgICAgICAgZm9yIChpbnQgaTEgOiBudW1iZXJzKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpMiA6IG51bWJlcnMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaSAhPSBpMSAmJiBpMSAhPSBpMiAmJiBpICsgaTEgKyBpMiA9PSAyMDIwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpICogaTEgKiBpMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMg6L+e5o6l5pWw5o2u5bqTCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>try{
-           if(hgt.startsWith(&quot;a#&quot;)){
-               hgt.matches(&quot;a#[0-9a-f]{6}&quot;);
-           }
-        }catch (Exception e){
-            return  false;
-        }
-        return false;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRhdGFiYXNlOiA0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
