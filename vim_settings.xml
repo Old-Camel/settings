@@ -81,8 +81,10 @@
       <file name="/fragment.java" timestamp="1609228670899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609230820364">
-        <mark key="[" line="22" column="21" />
+      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609230890004">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="18" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -143,8 +145,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>&quot;Harbor12345&quot;</text>
+      <register name="*" type="2">
+        <text>@Autowired
+HelmRepo helmRepo;</text>
       </register>
       <register name="-" type="4">
         <text>&quot;Harbor12345&quot;</text>
@@ -152,34 +155,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtoYXJib3IudXJsfSIpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text>@Autowired
+HelmRepo helmRepo;</text>
+      </register>
+      <register name="2" type="4">
         <text>ApiClient apiClient = Api.getApiClient();
         
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+Y2hhcnRyZXBvLWFwaTwvbmFtZT4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text>include 'aa:cc'
 findProject(':aa:cc')?.name = 'cc'</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5jbHVkZSAnYmInCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAjc2VjdXJpdHkub2F1dGgyLnJlc291cmNlLnVzZXItaW5mby11cmk9aHR0cDovLzIyMi4zMC4xOTQuMjI1OjkwMDAvYXV0aC91c2VyCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgpzeXN0ZW1rZXk9REFUQV9GSUxMCmFwcGNvbmZpZ2tleT1EQVRBX0ZJTExfTU9CSUxFCndlY2hhdGtleT1EQVRBX0ZJTExfV0VDSEFUCm1vYmlsZXBhZ2V1cmw9d3d3LmJhaWR1LmNvbQp0b21jYXRQdXNoVXJsPWh0dHA6Ly9pcDpwb3J0L2FwcHB1c2gvcHVzaA==</text>
-      </register>
       <register name="7" type="2">
-        <text>adminValue=超级管理员
-grpc.client.message-center-3.host=message-center-3
-grpc.client.message-center-3.port=4000
-grpc.client.message-center-3.enableKeepAlive=true
-grpc.client.message-center-3.keepAliveWithoutCalls=true
-grpc.client.message-center-3.negotiationType=PLAINTEXT</text>
+        <text encoding="base64">CgpzeXN0ZW1rZXk9REFUQV9GSUxMCmFwcGNvbmZpZ2tleT1EQVRBX0ZJTExfTU9CSUxFCndlY2hhdGtleT1EQVRBX0ZJTExfV0VDSEFUCm1vYmlsZXBhZ2V1cmw9d3d3LmJhaWR1LmNvbQp0b21jYXRQdXNoVXJsPWh0dHA6Ly9pcDpwb3J0L2FwcHB1c2gvcHVzaA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -190,14 +189,19 @@ grpc.client.message-center-3.negotiationType=PLAINTEXT</text>
         </keys>
       </register>
       <register name="8" type="2">
+        <text>adminValue=超级管理员
+grpc.client.message-center-3.host=message-center-3
+grpc.client.message-center-3.port=4000
+grpc.client.message-center-3.enableKeepAlive=true
+grpc.client.message-center-3.keepAliveWithoutCalls=true
+grpc.client.message-center-3.negotiationType=PLAINTEXT</text>
+      </register>
+      <register name="9" type="2">
         <text>grpc.client.flow.host=192.168.182.135
 grpc.client.flow.port=4000
 grpc.client.flow.enableKeepAlive=true
 grpc.client.flow.keepAliveWithoutCalls=true
 grpc.client.flow.negotiationType=PLAINTEXT</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcm9maWxlczogZGV2CiAgYXBwbGljYXRpb246CiAgICBuYW1lOiBzdHVkZW50LW1i</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
