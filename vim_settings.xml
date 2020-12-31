@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/web/GroupController.java" timestamp="1609148456034">
         <mark key="[" line="68" column="54" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.properties" timestamp="1609383542192">
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.properties" timestamp="1609395502814">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
@@ -84,10 +84,11 @@
       <file name="/fragment.java" timestamp="1609383774934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609378950884">
-        <mark key="[" line="31" column="81" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609395657718">
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="33" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -149,22 +150,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>Autowired</text>
+        <text>version</text>
       </register>
       <register name="-" type="4">
-        <text>Autowired</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlDbGllbnQgYXBpQ2xpZW50ID0gYXBpLmdldEFwaUNsaWVudCgpOwogICAgICAgIGFwaUNsaWVudC5zZXRCYXNlUGF0aCh1cmwpOwogICAgICAgIEh0dHBCYXNpY0F1dGggYmFzaWNBdXRoID0gKEh0dHBCYXNpY0F1dGgpIGFwaUNsaWVudC5nZXRBdXRoZW50aWNhdGlvbigiYmFzaWNBdXRoIik7CiAgICAgICAgYmFzaWNBdXRoLnNldFVzZXJuYW1lKHVzZXJuYW1lKTsKICAgICAgICBiYXNpY0F1dGguc2V0UGFzc3dvcmQocGFzc3dvcmQpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB2ZXJzaW9uKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIElubGluZVJlc3BvbnNlMjAwIGlubGluZVJlc3BvbnNlMjAwID0gaGVsbVJlcG8uZ2V0QXBpKCkudmVyc2lvbkdldCgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW5saW5lUmVzcG9uc2UyMDApOwogICAgICAgIH0gY2F0Y2ggKEFwaUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -173,10 +174,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuYXV0aC5IdHRwQmFzaWNBdXRoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuQXBpQ2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -187,10 +188,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuYXV0aC5IdHRwQmFzaWNBdXRoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlDbGllbnQgYXBpQ2xpZW50ID1oZWxtUmVwby5nZXRBcGkoKS5nZXRBcGlDbGllbnQoKTsKICAgICAgICBhcGlDbGllbnQuc2V0QmFzZVBhdGgodXJsKTsKICAgICAgICBIdHRwQmFzaWNBdXRoIGJhc2ljQXV0aCA9IChIdHRwQmFzaWNBdXRoKSBhcGlDbGllbnQuZ2V0QXV0aGVudGljYXRpb24oImJhc2ljQXV0aCIpOwogICAgICAgIGJhc2ljQXV0aC5zZXRVc2VybmFtZSh1c2VybmFtZSk7CiAgICAgICAgYmFzaWNBdXRoLnNldFBhc3N3b3JkKHBhc3N3b3JkKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuQXBpQ2xpZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
