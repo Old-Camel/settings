@@ -55,10 +55,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/HelmRepo.java" timestamp="1609377968200">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/HelmRepo.java" timestamp="1609378930549">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
         <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/swagger/chartrepo-api/src/test/java/com/yunzainfo/dockyard/api/VersionApiTest.java" timestamp="1609229381579" />
@@ -81,10 +81,10 @@
       <file name="/fragment.java" timestamp="1609228670899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609377449608">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609378950884">
+        <mark key="[" line="31" column="81" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -145,12 +145,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text>@Autowired
-HelmRepo helmRepo;</text>
+      <register name="*" type="4">
+        <text>System.out.println(api.versionGet());</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Harbor12345&quot;</text>
+        <text>System.out.println(api.versionGet());</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtoYXJib3IudXJsfSIpCg==</text>
