@@ -33,9 +33,15 @@
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/ResourceServerConfig.java" timestamp="1609383282076">
         <mark key="[" line="55" column="28" />
       </file>
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/ApplicationRunnerImpl.java" timestamp="1609384048950">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/data/code/dockyard/target/classes/bootstrap.properties" timestamp="1609209706456" />
       <file name="$USER_HOME$/data/code/pitcher-piano/src/main/java/com/yunzainfo/cloud/pitcher/piano/config/Swagger2.java" timestamp="1609229617931" />
-      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/Swagger2.java" timestamp="1609148460640" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/Swagger2.java" timestamp="1609383518435" />
       <file name="/Dummy.txt" timestamp="1609228670864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -55,21 +61,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/HelmRepo.java" timestamp="1609383285541">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
+      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/config/HelmRepo.java" timestamp="1609383946897">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="33" column="40" />
         <mark key="." line="27" column="12" />
         <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/swagger/chartrepo-api/src/test/java/com/yunzainfo/dockyard/api/VersionApiTest.java" timestamp="1609229381579" />
-      <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/Application.java" timestamp="1609148095242">
-        <mark key="[" line="23" column="26" />
-      </file>
       <file name="$USER_HOME$/data/code/swagger/chartrepo-api/src/main/java/com/yunzainfo/dockyard/ApiException.java" timestamp="1609226053485" />
       <file name="$USER_HOME$/data/code/dockyard/src/main/java/com/yunzainfo/dockyard/web/GroupController.java" timestamp="1609148456034">
         <mark key="[" line="68" column="54" />
       </file>
-      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.properties" timestamp="1609383248812">
+      <file name="$USER_HOME$/data/code/dockyard/src/main/resources/application.properties" timestamp="1609383542192">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
@@ -78,7 +81,7 @@
       <file name="$USER_HOME$/data/code/swagger/chartrepo-api/pom.xml" timestamp="1609228908794">
         <mark key="[" line="222" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1609228670899">
+      <file name="/fragment.java" timestamp="1609383774934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/dockyard/src/test/java/HelmTest.java" timestamp="1609378950884">
@@ -146,38 +149,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>System.out.println(api.versionGet());</text>
+        <text>Autowired</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(api.versionGet());</text>
+        <text>Autowired</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtoYXJib3IudXJsfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcGlDbGllbnQgYXBpQ2xpZW50ID0gYXBpLmdldEFwaUNsaWVudCgpOwogICAgICAgIGFwaUNsaWVudC5zZXRCYXNlUGF0aCh1cmwpOwogICAgICAgIEh0dHBCYXNpY0F1dGggYmFzaWNBdXRoID0gKEh0dHBCYXNpY0F1dGgpIGFwaUNsaWVudC5nZXRBdXRoZW50aWNhdGlvbigiYmFzaWNBdXRoIik7CiAgICAgICAgYmFzaWNBdXRoLnNldFVzZXJuYW1lKHVzZXJuYW1lKTsKICAgICAgICBiYXNpY0F1dGguc2V0UGFzc3dvcmQocGFzc3dvcmQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>@Autowired
-HelmRepo helmRepo;</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>ApiClient apiClient = Api.getApiClient();
-        
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+Y2hhcnRyZXBvLWFwaTwvbmFtZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>include 'aa:cc'
-findProject(':aa:cc')?.name = 'cc'</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSAnYmInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjc2VjdXJpdHkub2F1dGgyLnJlc291cmNlLnVzZXItaW5mby11cmk9aHR0cDovLzIyMi4zMC4xOTQuMjI1OjkwMDAvYXV0aC91c2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuYXV0aC5IdHRwQmFzaWNBdXRoOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpzeXN0ZW1rZXk9REFUQV9GSUxMCmFwcGNvbmZpZ2tleT1EQVRBX0ZJTExfTU9CSUxFCndlY2hhdGtleT1EQVRBX0ZJTExfV0VDSEFUCm1vYmlsZXBhZ2V1cmw9d3d3LmJhaWR1LmNvbQp0b21jYXRQdXNoVXJsPWh0dHA6Ly9pcDpwb3J0L2FwcHB1c2gvcHVzaA==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dW56YWluZm8uZG9ja3lhcmQuQXBpQ2xpZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -188,19 +187,10 @@ findProject(':aa:cc')?.name = 'cc'</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text>adminValue=超级管理员
-grpc.client.message-center-3.host=message-center-3
-grpc.client.message-center-3.port=4000
-grpc.client.message-center-3.enableKeepAlive=true
-grpc.client.message-center-3.keepAliveWithoutCalls=true
-grpc.client.message-center-3.negotiationType=PLAINTEXT</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text>grpc.client.flow.host=192.168.182.135
-grpc.client.flow.port=4000
-grpc.client.flow.enableKeepAlive=true
-grpc.client.flow.keepAliveWithoutCalls=true
-grpc.client.flow.negotiationType=PLAINTEXT</text>
+        <text encoding="base64">ICAgICAgICBBcGlDbGllbnQgYXBpQ2xpZW50ID1oZWxtUmVwby5nZXRBcGkoKS5nZXRBcGlDbGllbnQoKTsKICAgICAgICBhcGlDbGllbnQuc2V0QmFzZVBhdGgodXJsKTsKICAgICAgICBIdHRwQmFzaWNBdXRoIGJhc2ljQXV0aCA9IChIdHRwQmFzaWNBdXRoKSBhcGlDbGllbnQuZ2V0QXV0aGVudGljYXRpb24oImJhc2ljQXV0aCIpOwogICAgICAgIGJhc2ljQXV0aC5zZXRVc2VybmFtZSh1c2VybmFtZSk7CiAgICAgICAgYmFzaWNBdXRoLnNldFBhc3N3b3JkKHBhc3N3b3JkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
