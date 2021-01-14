@@ -30,8 +30,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1610594784968">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/pom.xml" timestamp="1610592940569" />
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/cli/CliOptionsParser.java" timestamp="1610533872772" />
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/Application.java" timestamp="1610589087107">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="17" column="48" />
@@ -43,26 +45,32 @@
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/web/WebHookController.java" timestamp="1610589076776">
         <mark key="[" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/common/ConfigUtil.java" timestamp="1610533916292" />
       <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-server/server-master/src/main/java/com/woophee/platform/server/master/service/impl/FlinkJobServiceImpl.java" timestamp="1610534358638" />
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/config/Swagger2.java" timestamp="1610589038832">
         <mark key="[" line="45" column="88" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1610592883345">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1610593244115">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/common/exceptions/GlobalException.java" timestamp="1610595225053" />
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/repository/TestAlertRepository.java" timestamp="1610589063723" />
+      <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT.jar!/com/yunzainfo/cloud/common/response/ReturnEntity.class" timestamp="1610594916193" />
       <file name="$USER_HOME$/data/code/datafill-web/src/pages/.umi/umi.js" timestamp="1610590422863" />
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlCommand.java" timestamp="1610533114402" />
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-web/src/views/define/GroupTable.vue" timestamp="1610533594804" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/alert/datapipe/config/ExceptionHandler.java" timestamp="1610594772917">
+        <mark key="[" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/entity/TestAlert.java" timestamp="1610589058908" />
       <file name="$USER_HOME$/data/code/datafill-web/config/config.js" timestamp="1610590614884" />
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/resources/flink-sql-carrier.properties" timestamp="1610533947187" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/pom.xml" timestamp="1610592371294" />
       <file name="$USER_HOME$/data/code/data-pipe/src/main/java/com/yunzainfo/cloud/alert/datapipe/config/ResourceServerConfig.java" timestamp="1610589052859" />
       <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/CarrierApplication.java" timestamp="1610587176708" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/alert/datapipe/config/GlobelExceptionAdvice.java" timestamp="1610595326262">
+        <mark key="[" line="46" column="63" />
+        <mark key="]" line="46" column="63" />
+        <mark key="." line="46" column="63" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/pom.xml" timestamp="1610593169638">
         <mark key="[" line="10" column="30" />
       </file>
@@ -126,34 +134,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>5.3.6.Final</text>
+        <text>空指针</text>
       </register>
       <register name="-" type="4">
-        <text>5.3.6.Final</text>
+        <text>空指针</text>
       </register>
       <register name="0" type="4">
         <text>admi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuYXBhY2hlLmZsaW5rLnRhYmxlLmZhY3Rvcmllcy5CdWxrV3JpdGVyRm9ybWF0RmFjdG9yeSAK</text>
+      <register name="1" type="4">
+        <text>if (ex instanceof AccessDeniedException) {
+            return YunzaiReturn.build(HttpStatus.FORBIDDEN, &quot;权限不足拒绝访问&quot;, ex);
+        } else if (ex instanceof CheckErrorException) {
+            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, ((CheckErrorException) ex).getMsg(), ex);
+        } else {
+            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, &quot;程序异常&quot;, ex);
+        }</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGlmKGV4IGluc3RhbmNlb2YgQWNjZXNzRGVuaWVkRXhjZXB0aW9uKXsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChIdHRwU3RhdHVzLkZPUkJJRERFTiwi5p2D6ZmQ5LiN6Laz5ouS57ud6K6/6ZeuIixleCk7CiAgICAgICAgfWVsc2UgaWYgKGV4IGluc3RhbmNlb2YgQ2hlY2tFcnJvckV4Y2VwdGlvbil7CiAgICAgICAgICAgIHJldHVybiAgWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCgoQ2hlY2tFcnJvckV4Y2VwdGlvbikgZXgpLmdldE1zZygpLGV4KTsKICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAgWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCAi56iL5bqP5byC5bi4IiwgZXgpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcmcuYXBhY2hlLmZsaW5rLnRhYmxlLmZhY3Rvcmllcy5CdWxrV3JpdGVyRm9ybWF0RmFjdG9yeSAK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5zcG90aWZ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZG9ja2VyZmlsZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjQuMzwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDwhLS0gIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5idWlsZC1pbWFnZTwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+YnVpbGQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5wdXNoPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPi0tPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJlcG9zaXRvcnk+JHtwcm9qZWN0LnB1c2h9LyR7ZG9ja2VyLmltYWdlLnByZWZpeH0vJHtwcm9qZWN0LmFydGlmYWN0SWR9PC9yZXBvc2l0b3J5PgogICAgICAgICAgICAgICAgICAgIDx0YWc+djE8L3RhZz4KICAgICAgICAgICAgICAgICAgICA8dXNlTWF2ZW5TZXR0aW5nc0ZvckF1dGg+dHJ1ZTwvdXNlTWF2ZW5TZXR0aW5nc0ZvckF1dGg+CiAgICAgICAgICAgICAgICAgICAgPGJ1aWxkQXJncz4KICAgICAgICAgICAgICAgICAgICAgICAgPEpBUl9GSUxFPnRhcmdldC8ke3Byb2plY3QuYnVpbGQuZmluYWxOYW1lfS5qYXI8L0pBUl9GSUxFPgogICAgICAgICAgICAgICAgICAgIDwvYnVpbGRBcmdzPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20ueXVuemFpbmZvLmRvY2t5YXJkPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jaGFydHJlcG8tYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXBpQ2xpZW50IGFwaUNsaWVudCA9IGFwaS5nZXRBcGlDbGllbnQoKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbkFwaSBhcGkgPSBoZWxtUmVwby5nZXRBcGkoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QEF1dG93aXJlZAogICAgSGVsbVJlcG8gaGVsbVJlcG87Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbkFwaSBhcGkgPSBoZWxtUmVwby5nZXRBcGkoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -164,10 +178,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEF1dG93aXJlZAogICAgSGVsbVJlcG8gaGVsbVJlcG87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
