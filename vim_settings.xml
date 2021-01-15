@@ -33,27 +33,35 @@
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/model/dto/JobConfigDTO.java" timestamp="1610682084370">
         <mark key="[" line="132" column="9" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1610692328855">
-        <mark key="[" line="22" column="28" />
-      </file>
       <file name="/a.dummy" timestamp="1610690968205">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/dto/JobConfigDTO.java" timestamp="1610681529233">
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="55" column="12" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enums/DeployModeEnum.java" timestamp="1610681966490">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/mapperstruct/JobConfigMapper.java" timestamp="1610690987124">
-        <mark key="[" line="17" column="32" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1610694064268" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/mapperstruct/JobConfigMapper.java" timestamp="1610693792002">
+        <mark key="." line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/Maptest.java" timestamp="1610691108265">
-        <mark key="[" line="13" column="22" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/Maptest.java" timestamp="1610694132880">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1610693263605">
+        <mark key="[" line="124" column="9" />
+        <mark key="]" line="124" column="9" />
+        <mark key="." line="124" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/dto/JobConfigDTO.java" timestamp="1610681529233">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/pom.xml" timestamp="1610693253143">
+        <mark key="[" line="36" column="72" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseMapper.java" timestamp="1610680264846">
         <mark key="[" line="12" column="7" />
@@ -134,40 +142,35 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>JobConfigStatus</text>
+        <text>final</text>
       </register>
       <register name="-" type="4">
-        <text>JobConfigStatus</text>
+        <text>final</text>
       </register>
       <register name="0" type="4">
         <text>admi</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>JobConfigMapper jobConfigMapper = new JobConfigMapperImpl();
+        JobConfigDTO jobConfigDTO = jobConfigMapper.toDto(jobConfig);</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuNi4wPC92ZXJzaW9uPgoKICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjg8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8YW5ub3RhdGlvblByb2Nlc3NvclBhdGhzPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5tYXBzdHJ1Y3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXBzdHJ1Y3QtcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4yLjAuRmluYWw8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcucHJvamVjdGxvbWJvazwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTYuMjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8L2Fubm90YXRpb25Qcm9jZXNzb3JQYXRocz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaWJhdGlzLmFubm90YXRpb25zLk1hcHBlcjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBCZWFuCiAgICBAQ29uZGl0aW9uYWxPblByb3BlcnR5KAogICAgICAgICAgICBuYW1lID0geyJzdG9tcC5pcCJ9CiAgICApCiAgICBwdWJsaWMgU3RvbXBDbGllbnRDb25maWcgc3RvbXBDbGllbnRDb25maWcoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTdG9tcENsaWVudENvbmZpZygpOwogICAgfQoKICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkoCiAgICAgICAgICAgIG5hbWUgPSB7InJhYmJpdC5zdG9tcC5sb2dpbiJ9CiAgICApCiAgICBAQmVhbgogICAgcHVibGljIFN0b21wUmFiYml0TXFDbGllbnQgc3RvbXBSYWJiaXRNcWNvbmZpZygpIHsKICAgICAgICByZXR1cm4gbmV3IFN0b21wUmFiYml0TXFDbGllbnQoKTsKICAgIH0K</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBQcmltYXJ5CiAgICBwdWJsaWMgR1JwY1NlcnZlclJ1bm5lciBncnBjU2VydmVyUnVubmVyKEdScGNTZXJ2ZXJCdWlsZGVyQ29uZmlndXJlciBjb25maWd1cmVyKSB7CiAgICAgICAgSW50ZWdlciBwb3J0ID0gdGhpcy5ncnBjQ29uZmlnKCkuZ2V0UG9ydCgpOwogICAgICAgIGlmIChwb3J0ID09IDApIHsKICAgICAgICAgICAgcG9ydCA9IDU2NTY7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbmV3IEdScGNTZXJ2ZXJSdW5uZXIoY29uZmlndXJlciwgU2VydmVyQnVpbGRlci5mb3JQb3J0KHBvcnQpKTsKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBAQ29uZmlndXJhdGlvbgogICAgQEVuYWJsZUNhY2hpbmcKICAgIHB1YmxpYyBjbGFzcyBSZWRpc0NhY2hlIGV4dGVuZHMgUmVkaXNDYWNoZUNvbmZpZ3V0YXRpb24gewogICAgICAgIHB1YmxpYyBSZWRpc0NhY2hlKCkgewogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEBDb25maWd1cmF0aW9uCiAgICBARW5hYmxlUmVkaXNIdHRwU2Vzc2lvbigKICAgICAgICAgICAgcmVkaXNOYW1lc3BhY2UgPSAiWVVOWkFJIgogICAgKQogICAgcHVibGljIGNsYXNzIFNlc3Npb25SZWRpc0NvbmZpZyB7CiAgICAgICAgcHVibGljIFNlc3Npb25SZWRpc0NvbmZpZygpIHsKICAgICAgICB9CgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIENvb2tpZUh0dHBTZXNzaW9uSWRSZXNvbHZlciBjb29raWVIdHRwU2Vzc2lvblN0cmF0ZWd5KCkgewogICAgICAgICAgICBDb29raWVIdHRwU2Vzc2lvbklkUmVzb2x2ZXIgcmVzb2x2ZXIgPSBuZXcgQ29va2llSHR0cFNlc3Npb25JZFJlc29sdmVyKCk7CiAgICAgICAgICAgIERlZmF1bHRDb29raWVTZXJpYWxpemVyIGNvb2tpZVNlcmlhbGl6ZXIgPSBuZXcgRGVmYXVsdENvb2tpZVNlcmlhbGl6ZXIoKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVOYW1lKCJZWlNFU1NJT05JRCIpOwogICAgICAgICAgICBjb29raWVTZXJpYWxpemVyLnNldENvb2tpZVBhdGgoIi8iKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVNYXhBZ2UoLTEpOwogICAgICAgICAgICByZXNvbHZlci5zZXRDb29raWVTZXJpYWxpemVyKGNvb2tpZVNlcmlhbGl6ZXIpOwogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZXI7CiAgICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBAQ29uZmlndXJhdGlvbgogICAgQEVuYWJsZVJlZGlzSHR0cFNlc3Npb24oCiAgICAgICAgICAgIHJlZGlzTmFtZXNwYWNlID0gIllVTlpBSSIKICAgICkKICAgIHB1YmxpYyBjbGFzcyBTZXNzaW9uUmVkaXNDb25maWcgewogICAgICAgIHB1YmxpYyBTZXNzaW9uUmVkaXNDb25maWcoKSB7CiAgICAgICAgfQoKICAgICAgICBAQmVhbgogICAgICAgIHB1YmxpYyBDb29raWVIdHRwU2Vzc2lvbklkUmVzb2x2ZXIgY29va2llSHR0cFNlc3Npb25TdHJhdGVneSgpIHsKICAgICAgICAgICAgQ29va2llSHR0cFNlc3Npb25JZFJlc29sdmVyIHJlc29sdmVyID0gbmV3IENvb2tpZUh0dHBTZXNzaW9uSWRSZXNvbHZlcigpOwogICAgICAgICAgICBEZWZhdWx0Q29va2llU2VyaWFsaXplciBjb29raWVTZXJpYWxpemVyID0gbmV3IERlZmF1bHRDb29raWVTZXJpYWxpemVyKCk7CiAgICAgICAgICAgIGNvb2tpZVNlcmlhbGl6ZXIuc2V0Q29va2llTmFtZSgiWVpTRVNTSU9OSUQiKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVQYXRoKCIvIik7CiAgICAgICAgICAgIGNvb2tpZVNlcmlhbGl6ZXIuc2V0Q29va2llTWF4QWdlKC0xKTsKICAgICAgICAgICAgcmVzb2x2ZXIuc2V0Q29va2llU2VyaWFsaXplcihjb29raWVTZXJpYWxpemVyKTsKICAgICAgICAgICAgcmV0dXJuIHJlc29sdmVyOwogICAgICAgIH0KICAgIA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (ex instanceof AccessDeniedException) {
-            return YunzaiReturn.build(HttpStatus.FORBIDDEN, &quot;权限不足拒绝访问&quot;, ex);
-        } else if (ex instanceof CheckErrorException) {
-            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, ((CheckErrorException) ex).getMsg(), ex);
-        } else {
-            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, &quot;程序异常&quot;, ex);
-        }</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlmKGV4IGluc3RhbmNlb2YgQWNjZXNzRGVuaWVkRXhjZXB0aW9uKXsKICAgICAgICAgICAgcmV0dXJuIFl1bnphaVJldHVybi5idWlsZChIdHRwU3RhdHVzLkZPUkJJRERFTiwi5p2D6ZmQ5LiN6Laz5ouS57ud6K6/6ZeuIixleCk7CiAgICAgICAgfWVsc2UgaWYgKGV4IGluc3RhbmNlb2YgQ2hlY2tFcnJvckV4Y2VwdGlvbil7CiAgICAgICAgICAgIHJldHVybiAgWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCgoQ2hlY2tFcnJvckV4Y2VwdGlvbikgZXgpLmdldE1zZygpLGV4KTsKICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAgWXVuemFpUmV0dXJuLmJ1aWxkKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCAi56iL5bqP5byC5bi4IiwgZXgpOwogICAgICAgIH0=</text>
+        <text encoding="base64">IEBDb25maWd1cmF0aW9uCiAgICBARW5hYmxlUmVkaXNIdHRwU2Vzc2lvbigKICAgICAgICAgICAgcmVkaXNOYW1lc3BhY2UgPSAiWVVOWkFJIgogICAgKQogICAgcHVibGljIGNsYXNzIFNlc3Npb25SZWRpc0NvbmZpZyB7CiAgICAgICAgcHVibGljIFNlc3Npb25SZWRpc0NvbmZpZygpIHsKICAgICAgICB9CgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIENvb2tpZUh0dHBTZXNzaW9uSWRSZXNvbHZlciBjb29raWVIdHRwU2Vzc2lvblN0cmF0ZWd5KCkgewogICAgICAgICAgICBDb29raWVIdHRwU2Vzc2lvbklkUmVzb2x2ZXIgcmVzb2x2ZXIgPSBuZXcgQ29va2llSHR0cFNlc3Npb25JZFJlc29sdmVyKCk7CiAgICAgICAgICAgIERlZmF1bHRDb29raWVTZXJpYWxpemVyIGNvb2tpZVNlcmlhbGl6ZXIgPSBuZXcgRGVmYXVsdENvb2tpZVNlcmlhbGl6ZXIoKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVOYW1lKCJZWlNFU1NJT05JRCIpOwogICAgICAgICAgICBjb29raWVTZXJpYWxpemVyLnNldENvb2tpZVBhdGgoIi8iKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVNYXhBZ2UoLTEpOwogICAgICAgICAgICByZXNvbHZlci5zZXRDb29raWVTZXJpYWxpemVyKGNvb2tpZVNlcmlhbGl6ZXIpOwogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZXI7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -177,11 +180,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuYXBhY2hlLmZsaW5rLnRhYmxlLmZhY3Rvcmllcy5CdWxrV3JpdGVyRm9ybWF0RmFjdG9yeSAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBAQ29uZmlndXJhdGlvbgogICAgQEVuYWJsZVJlZGlzSHR0cFNlc3Npb24oCiAgICAgICAgICAgIHJlZGlzTmFtZXNwYWNlID0gIllVTlpBSSIKICAgICkKICAgIHB1YmxpYyBjbGFzcyBTZXNzaW9uUmVkaXNDb25maWcgewogICAgICAgIHB1YmxpYyBTZXNzaW9uUmVkaXNDb25maWcoKSB7CiAgICAgICAgfQoKICAgICAgICBAQmVhbgogICAgICAgIHB1YmxpYyBDb29raWVIdHRwU2Vzc2lvbklkUmVzb2x2ZXIgY29va2llSHR0cFNlc3Npb25TdHJhdGVneSgpIHsKICAgICAgICAgICAgQ29va2llSHR0cFNlc3Npb25JZFJlc29sdmVyIHJlc29sdmVyID0gbmV3IENvb2tpZUh0dHBTZXNzaW9uSWRSZXNvbHZlcigpOwogICAgICAgICAgICBEZWZhdWx0Q29va2llU2VyaWFsaXplciBjb29raWVTZXJpYWxpemVyID0gbmV3IERlZmF1bHRDb29raWVTZXJpYWxpemVyKCk7CiAgICAgICAgICAgIGNvb2tpZVNlcmlhbGl6ZXIuc2V0Q29va2llTmFtZSgiWVpTRVNTSU9OSUQiKTsKICAgICAgICAgICAgY29va2llU2VyaWFsaXplci5zZXRDb29raWVQYXRoKCIvIik7CiAgICAgICAgICAgIGNvb2tpZVNlcmlhbGl6ZXIuc2V0Q29va2llTWF4QWdlKC0xKTsKICAgICAgICAgICAgcmVzb2x2ZXIuc2V0Q29va2llU2VyaWFsaXplcihjb29raWVTZXJpYWxpemVyKTsKICAgICAgICAgICAgcmV0dXJuIHJlc29sdmVyOwogICAgICAgIH0KICAgIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5zcG90aWZ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZG9ja2VyZmlsZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjQuMzwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDwhLS0gIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5idWlsZC1pbWFnZTwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+YnVpbGQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5wdXNoPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPi0tPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJlcG9zaXRvcnk+JHtwcm9qZWN0LnB1c2h9LyR7ZG9ja2VyLmltYWdlLnByZWZpeH0vJHtwcm9qZWN0LmFydGlmYWN0SWR9PC9yZXBvc2l0b3J5PgogICAgICAgICAgICAgICAgICAgIDx0YWc+djE8L3RhZz4KICAgICAgICAgICAgICAgICAgICA8dXNlTWF2ZW5TZXR0aW5nc0ZvckF1dGg+dHJ1ZTwvdXNlTWF2ZW5TZXR0aW5nc0ZvckF1dGg+CiAgICAgICAgICAgICAgICAgICAgPGJ1aWxkQXJncz4KICAgICAgICAgICAgICAgICAgICAgICAgPEpBUl9GSUxFPnRhcmdldC8ke3Byb2plY3QuYnVpbGQuZmluYWxOYW1lfS5qYXI8L0pBUl9GSUxFPgogICAgICAgICAgICAgICAgICAgIDwvYnVpbGRBcmdzPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+        <text>if (ex instanceof AccessDeniedException) {
+            return YunzaiReturn.build(HttpStatus.FORBIDDEN, &quot;权限不足拒绝访问&quot;, ex);
+        } else if (ex instanceof CheckErrorException) {
+            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, ((CheckErrorException) ex).getMsg(), ex);
+        } else {
+            return YunzaiReturn.build(HttpStatus.INTERNAL_SERVER_ERROR, &quot;程序异常&quot;, ex);
+        }</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
