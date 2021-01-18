@@ -30,29 +30,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/SqlCommand.java" timestamp="1610960180919" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/SqlCommand.java" timestamp="1610966146907" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/SqlCommandCall.java" timestamp="1610958248248" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/sql/SqlParser.java" timestamp="1610965949724" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/sql/SqlParser.java" timestamp="1610966010575" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/pom.xml" timestamp="1610965370742" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/CheckPointParam.java" timestamp="1610957574618" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-flink/pom.xml" timestamp="1610957416743">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/constants/SystemConstant.java" timestamp="1610958947255">
         <mark key="[" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/GlobelExceptionAdvice.java" timestamp="1610957565102" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1610965971687">
-        <mark key="[" line="55" column="76" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1610966196667">
+        <mark key="[" line="65" column="53" />
         <mark key="]" line="55" column="12" />
         <mark key="." line="55" column="12" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1610957201684">
-        <mark key="[" line="91" column="21" />
-        <mark key="]" line="90" column="21" />
-        <mark key="." line="90" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1610964122968">
         <mark key="[" line="102" column="34" />
@@ -60,8 +50,10 @@
         <mark key="." line="102" column="34" />
       </file>
       <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlCommand.java" timestamp="1610965006199" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-table-planner-blink_2.11/1.12.0/flink-table-planner-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/SqlPartitionUtils.class" timestamp="1610966378647" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1610957475407" />
       <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlParser.java" timestamp="1610964895949" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-table-planner-blink_2.11/1.12.0/flink-table-planner-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/ddl/SqlAlterViewProperties.class" timestamp="1610966433912" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/JobRunParam.java" timestamp="1610957825584" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/sql/SqlParser.java" timestamp="1610964387298">
         <mark key="[" line="50" column="17" />
@@ -75,7 +67,7 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/enums/SqlCommand.java" timestamp="1610965805904" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/enums/SqlCommand.java" timestamp="1610966344164" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
