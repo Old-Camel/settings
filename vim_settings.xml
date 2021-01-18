@@ -38,20 +38,20 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/constants/SystemConstant.java" timestamp="1610958947255">
         <mark key="[" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/README.md" timestamp="1610966711489" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/GlobelExceptionAdvice.java" timestamp="1610957565102" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1610966196667">
-        <mark key="[" line="65" column="53" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="55" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1610967376626">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1610964122968">
         <mark key="[" line="102" column="34" />
         <mark key="]" line="102" column="34" />
         <mark key="." line="102" column="34" />
       </file>
-      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlCommand.java" timestamp="1610965006199" />
+      <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlCommand.java" timestamp="1610967336268" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-table-planner-blink_2.11/1.12.0/flink-table-planner-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/SqlPartitionUtils.class" timestamp="1610966378647" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1610957475407" />
       <file name="$USER_HOME$/data/code/flink-sql-computing-platform/platform-sql-carrier/flink-sql-carrier/src/main/java/com/woophee/flinksql/service/sql/SqlParser.java" timestamp="1610964895949" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-table-planner-blink_2.11/1.12.0/flink-table-planner-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/ddl/SqlAlterViewProperties.class" timestamp="1610966433912" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/JobRunParam.java" timestamp="1610957825584" />
@@ -61,13 +61,9 @@
         <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/SqlConfig.java" timestamp="1610960440954" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/model/SqlConfig.java" timestamp="1610966866872" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1610963006193" />
-      <file name="$USER_HOME$/data/code/data-pipe/pom.xml" timestamp="1610957487881">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/enums/SqlCommand.java" timestamp="1610966344164" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/enums/SqlCommand.java" timestamp="1610967341914" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -128,10 +124,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>System.out.println(groups);</text>
+        <text>execution.result-mode</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(groups);</text>
+        <text>execution.result-mode</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
