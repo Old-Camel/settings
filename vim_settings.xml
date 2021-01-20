@@ -38,13 +38,12 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1611136411288">
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611134994102">
-        <mark key="[" line="112" column="2" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="111" column="15" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611139102400">
+        <mark key="[" line="93" column="27" />
+        <mark key="]" line="98" column="5" />
+        <mark key="." line="98" column="5" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/locales/zh-CN/menu.ts" timestamp="1611131862993" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/proxy.ts" timestamp="1611133562060" />
+      <file name="$USER_HOME$/data/code/timer-web/src/models/login.js" timestamp="1611138983026" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/core/devScripts.ts" timestamp="1611135197354" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611136548421">
         <mark key="[" line="3" column="24" />
@@ -52,6 +51,7 @@
         <mark key="." line="5" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/global.tsx" timestamp="1611135344080" />
+      <file name="$USER_HOME$/data/code/timer-web/src/utils/request.js" timestamp="1611138597025" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1611133666109">
         <mark key="[" line="81" column="8" />
         <mark key="]" line="3" column="19" />
@@ -64,19 +64,20 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/timer-web/src/models/user.js" timestamp="1611132252334" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1611135565369" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611137750956">
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/umi-request/types/index.d.ts" timestamp="1611139095566" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611139053504">
         <mark key="[" line="75" column="21" />
         <mark key="]" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/login.ts" timestamp="1611137469081">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/login.ts" timestamp="1611138847855">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/timer-web/src/services/myapi.js" timestamp="1611136924237" />
+      <file name="$USER_HOME$/data/code/timer-web/src/services/system/user.js" timestamp="1611138962444" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1611137283074">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="33" />
@@ -84,7 +85,6 @@
       </file>
       <file name="$USER_HOME$/data/code/timer-web/src/pages/User/Login.js" timestamp="1611136931806" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/typings.d.ts" timestamp="1611134984529" />
-      <file name="$USER_HOME$/data/code/timer-web/src/utils/http.js" timestamp="1611132939327" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -145,24 +145,44 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>string</text>
+        <text encoding="base64">IGxldCBsdA==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IGxldCBsdA==</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IC8vIEBIQUNLCiAgICAgIC8qIGVzbGludC1kaXNhYmxlIG5vLXVuZGVyc2NvcmUtZGFuZ2xlICov</text>
+      </register>
+      <register name="2" type="4">
+        <text>window.g_app._store.dispatch({
+        type: 'login/logout',
+      });</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJvdXRlciBmcm9tICd1bWkvcm91dGVyJzsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>const errorText = codeMessage[response.status] || response.statusText;
+    const { status, url } = response;
+
+    notification.error({
+      message: `请求错误 ${status}: ${url}`,
+      description: errorText,
+    });</text>
+      </register>
+      <register name="5" type="4">
         <text>expires_in: number;
     refresh_token: string;
     scope: string;
     token_type: string;</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text>export  Path;</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text>{
   &quot;navTheme&quot;: &quot;dark&quot;,
   &quot;primaryColor&quot;: &quot;#1890ff&quot;,
@@ -179,18 +199,6 @@
   &quot;headerHeight&quot;: 48
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBmb3JtYXRSZXN1bHQ6eD0+eAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUmVxdWVzdCB9IGZyb20gJ3VtaSc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRhdGEsIGVycm9yLCBsb2FkaW5nIH0gPSB1c2VSZXF1ZXN0KCgpID0+IHsKICAgIHJldHVybiBzZXJ2aWNlcy5nZXRVc2VyTGlzdCgnL2FwaS90ZXN0Jyk7CiAgfSk7</text>
-      </register>
-      <register name="7" type="2">
-        <text>import { useRequest } from 'umi';</text>
-      </register>
       <register name="w" type="4">
         <keys>
           <key char="97" code="0" mods="0" />
@@ -200,10 +208,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICAgICAgU3RyaW5nIHN0bXQgPSAiQ1JFQVRFICAgRlVOQ1RJT04ganNvbkhhc0tleSBhcyAnY29tLnh4LnVkZi5Kc29uSGFzS2V5VURGJyI7CgogICAgICAgIGZpbmFsIE1hdGNoZXIgbWF0Y2hlciA9IFNxbENvbW1hbmQuQ1JFQVRFX0ZVTkNUSU9OLmdldFBhdHRlcm4oKS5tYXRjaGVyKHN0bXQpOwogICAgICAgIGlmIChtYXRjaGVyLm1hdGNoZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJ1ZSk7CiAgICAgICAgICAgIGZpbmFsIFN0cmluZ1tdIGdyb3VwcyA9IG5ldyBTdHJpbmdbbWF0Y2hlci5ncm91cENvdW50KCldOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGdyb3Vwcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgZ3JvdXBzW2ldID0gbWF0Y2hlci5ncm91cChpICsgMSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdyb3Vwcyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhbHNlKTsKICAgICAgICB9CgogICAgfQ==</text>
+        <text encoding="base64">ICBmb3JtYXRSZXN1bHQ6eD0+eAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIHRoaXMuZ2V0Sm9iU2VydmVyQU8oaWQpLmNsb3NlKGlkLCB0aGlzLmdldFVzZXJOYW1lKCkpOwogICAgICAgIH0gY2F0Y2ggKEJpekV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy53YXJuKCLlhbPpl63lpLHotKUgaWQ9e30iLCBpZCwgZSk7CiAgICAgICAgICAgIHJldHVybiBSZXN0UmVzdWx0LmVycm9yKGUuZ2V0Q29kZSgpLCBlLmdldEVycm9yTXNnKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigi5YWz6Zet5aSx6LSlIGlkPXt9IiwgaWQsIGUpOwogICAgICAgICAgICByZXR1cm4gUmVzdFJlc3VsdC5lcnJvcihTeXNFcnJvckVudW0uU1RBUlRfSk9CX0ZBSUwpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzdFJlc3VsdC5zdWNjZXNzKCk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlUmVxdWVzdCB9IGZyb20gJ3VtaSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
