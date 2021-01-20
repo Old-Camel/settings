@@ -38,12 +38,13 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1611136411288">
         <mark key="[" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611139102400">
-        <mark key="[" line="93" column="27" />
-        <mark key="]" line="98" column="5" />
-        <mark key="." line="98" column="5" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611140427281">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/data/code/timer-web/src/models/login.js" timestamp="1611138983026" />
+      <file name="$USER_HOME$/data/code/timer-web/src/models/login.js" timestamp="1611139338853" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/core/devScripts.ts" timestamp="1611135197354" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611136548421">
         <mark key="[" line="3" column="24" />
@@ -52,11 +53,6 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/global.tsx" timestamp="1611135344080" />
       <file name="$USER_HOME$/data/code/timer-web/src/utils/request.js" timestamp="1611138597025" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1611133666109">
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
       <file name="$USER_HOME$/data/code/timer-web/src/utils/Path.js" timestamp="1611134559677" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1611137567596">
         <mark key="[" line="23" column="4" />
@@ -64,12 +60,13 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/request.js" timestamp="1611139715481" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1611135565369" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/umi-request/types/index.d.ts" timestamp="1611139095566" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611139053504">
-        <mark key="[" line="75" column="21" />
-        <mark key="]" line="74" column="14" />
-        <mark key="." line="74" column="14" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611140057824">
+        <mark key="[" line="73" column="21" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/login.ts" timestamp="1611138847855">
         <mark key="[" line="41" column="1" />
@@ -145,10 +142,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IGxldCBsdA==</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxldCBsdA==</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
