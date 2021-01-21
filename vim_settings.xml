@@ -30,11 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611219460392">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="41" column="9" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611220740784">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="42" column="9" />
         <mark key="^" line="3" column="20" />
-        <mark key="." line="41" column="9" />
+        <mark key="." line="42" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/IconFont/index.ts" timestamp="1611215020728">
         <mark key="[" line="0" column="7" />
@@ -71,10 +71,11 @@
         <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/index.d.ts" timestamp="1611215524988" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611208552736">
-        <mark key="[" line="79" column="49" />
-        <mark key="]" line="79" column="49" />
-        <mark key="." line="79" column="49" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611221229648">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/icons/CloudFilled.js" timestamp="1611217387019" />
       <file name="$USER_HOME$/data/code/datafill-web/src/defaultSettings.js" timestamp="1611214894056" />
@@ -140,36 +141,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>undefined</text>
+        <text encoding="base64">PEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBhZ2VzLmxvZ2luLmxvZ2luV2l0aCIgZGVmYXVsdE1lc3NhZ2U9</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text encoding="base64">PEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBhZ2VzLmxvZ2luLmxvZ2luV2l0aCIgZGVmYXVsdE1lc3NhZ2U9</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVudSwgSWNvbiB9IGZyb20gJ2FudGQnOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxGb3JtYXR0ZWRNZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9InBhZ2VzLmxvZ2luLmNhcHRjaGEucmVxdWlyZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdE1lc3NhZ2U9Ig==</text>
       </register>
-      <register name="2" type="2">
-        <text>const IconFont = createFromIconfontCN({
-  scriptUrl: defaultSettings.iconfontUrl,
-});</text>
+      <register name="2" type="4">
+        <text>,
+                    })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAnL3dlbGNvbWUnLAogICAgbmFtZTogJ3dlbGNvbWUnLAogICAgaWNvbjogJ3NtaWxlJywKICAgIGNvbXBvbmVudDogJy4vV2VsY29tZScsCiAgfSwKICB7CiAgICBwYXRoOiAnL2FkbWluJywKICAgIG5hbWU6ICdhZG1pbicsCiAgICBpY29uOiAnY3Jvd24nLAogICAgYWNjZXNzOiAnY2FuQWRtaW4nLAogICAgY29tcG9uZW50OiAnLi9BZG1pbicsCiAgICByb3V0ZXM6IFsKICAgICAgewogICAgICAgIHBhdGg6ICcvYWRtaW4vc3ViLXBhZ2UnLAogICAgICAgIG5hbWU6ICdzdWItcGFnZScsCiAgICAgICAgaWNvbjogJ3NtaWxlJywKICAgICAgICBjb21wb25lbnQ6ICcuL1dlbGNvbWUnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIG5hbWU6ICdsaXN0LnRhYmxlLWxpc3QnLAogICAgaWNvbjogJ3RhYmxlJywKICAgIHBhdGg6ICcvbGlzdCcsCiAgICBjb21wb25lbnQ6ICcuL1RhYmxlTGlzdCcsCiAgfSw=</text>
+      <register name="3" type="4">
+        <text>intl.formatMessage({
+                      id: 'pages.login.phoneLogin.getVerificationCode',
+                      defaultMessage:</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KENoaWxkMiB8IENoaWxkcmVuMiB8IENoaWxkcmVuMyB8IENoaWxkcmVuNCB8IENoaWxkcmVuNSB8IENoaWxkcmVuNiB8IENoaWxkcmVuNyB8IENoaWxkcmVuOCB8IENoaWxkcmVuOSB8IENoaWxkcmVuMTAgfCBDaGlsZHJlbjExIHwgQ2hpbGRyZW4xMiB8IENoaWxkcmVuMTMgfCBDaGlsZDkgfCBDaGlsZHJlbjE1IHwgQ2hpbGRyZW4xNiB8IENoaWxkcmVuMTcgfCBDaGlsZHJlbjE4IHwgQ2hpbGRyZW4xOSB8IENoaWxkcmVuMjAgfCBDaGlsZHJlbjIxIHwgQ2hpbGRyZW4yMjIgfCBDaGlsZHJlbjIzMiB8IENoaWxkNCB8IENoaWxkcmVuMjUgfCBDaGlsZHJlbjI2MiB8IENoaWxkcmVuMjcgfCBDaGlsZHJlbjI4IHwgQ2hpbGRyZW4yOSB8IENoaWxkNyB8IENoaWxkcmVuMzEgfCBDaGlsZHJlbjMyIHwgQ2hpbGRyZW4zMyB8IENoaWxkcmVuMzQgfCBDaGlsZHJlbjM1IHwgQ2hpbGQzIHwgQ2hpbGRyZW4zNyB8IENoaWxkcmVuMzggfCBDaGlsZHJlbjM5IHwgQ2hpbGRyZW40MCB8IENoaWxkcmVuNDEgfCBDaGlsZHJlbjQyIHwgQ2hpbGRyZW40MyB8IENoaWxkcmVuNDQgfCBDaGlsZHJlbjI0IHwgQ2hpbGRyZW40NiB8IENoaWxkcmVuNDcgfCBDaGlsZHJlbjQ4IHwgQ2hpbGRyZW40OSB8IENoaWxkcmVuNTAgfCBDaGlsZHJlbjUxIHwgQ2hpbGRyZW41MiB8IENoaWxkcmVuNTMgfCBDaGlsZHJlbjU0IHwgQ2hpbGRyZW41NSB8IENoaWxkcmVuNTYgfCBDaGlsZHJlbjIxMCB8IENoaWxkcmVuMjYgfCBDaGlsZHJlbjU5KVtdOwog</text>
+        <text encoding="base64">JHtpbnRsLmZvcm1hdE1lc3NhZ2UoewogICAgICAgICAgICAgICAgICAgICAgICBpZDogJ3BhZ2VzLmdldENhcHRjaGFTZWNvbmRUZXh0JywKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdE1lc3NhZ2U6IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">W3tpZDogIjNEODRGNUZFQjlENDRFMjhCNUQ5MTcxMEM2MzcyODNBIiwgcm9sZU5hbWU6ICLotoXnuqfnrqHnkIblkZgiLCByb2xlVmFsdWU6ICJST0xFX0FETUlOIiwgc3RhdHVzOiAxLOKApn0s4oCmXQogIA==</text>
+        <text>intl.formatMessage({
+                    id: 'pages.login.captcha.placeholder',
+                    defaultMessage: '请输入验证码',
+                  })</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IFt7YXV0aG9yaXR5OiAiRE9STV9BRE1JTl9VU0VSIn0sIHthdXRob3JpdHk6ICJKSUFPX1pISV9HT05HIn0sIHthdXRob3JpdHk6ICJSRVNPVVJDRV9VUExPQURfVklERU8ifSzigKZdCiA=</text>
+        <text encoding="base64">IO+8gSIKICAgICAgICAgICAgICAgICAgICAgICAgLz4gPEZvcm1hdHRlZE1lc3NhZ2UKICAgICAgICAgICAgICAgICAgICAgIGlkPSJwYWdlcy5sb2dpbi5waG9uZU51bWJlci5yZXF1aXJlZCIKICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRNZXNzYWdlPSLor7fovpPlhaXmiYvmnLrlj7c=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -180,36 +185,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>/* /!** @name 子菜单 *!/
-    children?: MenuDataItem[];
-    /!** @name 在菜单中隐藏子节点 *!/
-    hideChildrenInMenu?: boolean;
-    /!** @name 在菜单中隐藏自己和子节点 *!/
-    hideInMenu?: boolean;
-    /!** @name 菜单的icon *!/
-    icon?: React.ReactNode;
-    /!** @name 自定义菜单的国际化 key *!/
-    locale?: string | false;
-    /!** @name 菜单的名字 *!/
-    name?: string;
-    /!** @name 用于标定选中的值，默认是 path *!/
-    key?: string;
-    /!** @name disable 菜单选项 *!/
-    disabled?: boolean;
-    /!** @name 路径 *!/
-    path?: string;
-    /!**
-     * 当此节点被选中的时候也会选中 parentKeys 的节点
-     *
-     * @name 自定义父节点
-     *!/
-    parentKeys?: string[];
-    /!** @name 隐藏自己，并且将子节点提升到与自己平级 *!/
-    flatMenu?: boolean;
-    [key: string]: any;*</text>
+        <text encoding="base64">IDxGb3JtYXR0ZWRNZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICBpZD0icGFnZXMubG9naW4ucGhvbmVOdW1iZXIucmVxdWlyZWQiCiAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0TWVzc2FnZT0i6K+36L6T5YWl5omL5py65Y+3</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVycm9yLnJlc3BvbnNlLmRhdGE9e2Vycm9yX2Rlc2NyaXB0aW9uOifmgqjnmoTnvZHnu5zlj5HnlJ/lvILluLjvvIzml6Dms5Xov57mjqXmnI3liqHlmagnfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PEZvcm1hdHRlZE1lc3NhZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0icGFnZXMubG9naW4ucGFzc3dvcmQucmVxdWlyZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdE1lc3NhZ2U9Iuivt+i+k+WFpeWvhuegge+8gSIKICAgICAgICAgICAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
