@@ -30,11 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611220740784">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="42" column="9" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611222538434">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="44" column="9" />
         <mark key="^" line="3" column="20" />
-        <mark key="." line="42" column="9" />
+        <mark key="." line="44" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/IconFont/index.ts" timestamp="1611215020728">
         <mark key="[" line="0" column="7" />
@@ -71,10 +71,10 @@
         <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/index.d.ts" timestamp="1611215524988" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611221229648">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="24" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611222644853">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/icons/CloudFilled.js" timestamp="1611217387019" />
@@ -141,10 +141,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBhZ2VzLmxvZ2luLmxvZ2luV2l0aCIgZGVmYXVsdE1lc3NhZ2U9</text>
+        <text>SelectLang</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBhZ2VzLmxvZ2luLmxvZ2luV2l0aCIgZGVmYXVsdE1lc3NhZ2U9</text>
+        <text>SelectLang</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
