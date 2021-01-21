@@ -36,19 +36,19 @@
         <mark key="." line="8" column="54" />
       </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/utils/token.js" timestamp="1611141640055" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611208670485">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="162" column="0" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611210507821">
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="95" column="14" />
         <mark key="^" line="31" column="47" />
-        <mark key="." line="160" column="7" />
+        <mark key="." line="95" column="14" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/utils/utils.js" timestamp="1611207944695" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1611147804597">
-        <mark key="[" line="6" column="13" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/utils.js" timestamp="1611208965500" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1611210349710">
+        <mark key="[" line="17" column="18" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/models/user.js" timestamp="1611207958333" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/models/user.js" timestamp="1611210479488" />
       <file name="$USER_HOME$/data/code/ant-design-pro-site/docs/advanced-menu.en-US.md" timestamp="1611201702201" />
       <file name="$USER_HOME$/data/code/ant-design-pro-site/docs/advanced-menu.zh-CN.md" timestamp="1611201688150" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/login.ts" timestamp="1611146844454">
@@ -63,15 +63,16 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/typings.d.ts" timestamp="1611208059408" />
       <file name="$USER_HOME$/data/code/datafill-web/src/utils/http.js" timestamp="1611147213879" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1611141435592">
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-      </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/models/login.js" timestamp="1611191693044" />
       <file name="$USER_HOME$/data/code/datafill-web/src/models/setting.js" timestamp="1611207591129" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/typings.d.ts" timestamp="1611208449789" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/typings.d.ts" timestamp="1611210062086" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/plugin-request/request.ts" timestamp="1611141915272" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1611210543928">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="95" column="22" />
+        <mark key="." line="31" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1611202057083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,39 +142,60 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>?error.data.error_description:</text>
+        <text>systemMenu</text>
       </register>
       <register name="-" type="4">
-        <text>?error.data.error_description:</text>
+        <text>systemMenu</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVycm9yLnJlc3BvbnNlLmRhdGE9e2Vycm9yX2Rlc2NyaXB0aW9uOifmgqjnmoTnvZHnu5zlj5HnlJ/lvILluLjvvIzml6Dms5Xov57mjqXmnI3liqHlmagnfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KENoaWxkMiB8IENoaWxkcmVuMiB8IENoaWxkcmVuMyB8IENoaWxkcmVuNCB8IENoaWxkcmVuNSB8IENoaWxkcmVuNiB8IENoaWxkcmVuNyB8IENoaWxkcmVuOCB8IENoaWxkcmVuOSB8IENoaWxkcmVuMTAgfCBDaGlsZHJlbjExIHwgQ2hpbGRyZW4xMiB8IENoaWxkcmVuMTMgfCBDaGlsZDkgfCBDaGlsZHJlbjE1IHwgQ2hpbGRyZW4xNiB8IENoaWxkcmVuMTcgfCBDaGlsZHJlbjE4IHwgQ2hpbGRyZW4xOSB8IENoaWxkcmVuMjAgfCBDaGlsZHJlbjIxIHwgQ2hpbGRyZW4yMjIgfCBDaGlsZHJlbjIzMiB8IENoaWxkNCB8IENoaWxkcmVuMjUgfCBDaGlsZHJlbjI2MiB8IENoaWxkcmVuMjcgfCBDaGlsZHJlbjI4IHwgQ2hpbGRyZW4yOSB8IENoaWxkNyB8IENoaWxkcmVuMzEgfCBDaGlsZHJlbjMyIHwgQ2hpbGRyZW4zMyB8IENoaWxkcmVuMzQgfCBDaGlsZHJlbjM1IHwgQ2hpbGQzIHwgQ2hpbGRyZW4zNyB8IENoaWxkcmVuMzggfCBDaGlsZHJlbjM5IHwgQ2hpbGRyZW40MCB8IENoaWxkcmVuNDEgfCBDaGlsZHJlbjQyIHwgQ2hpbGRyZW40MyB8IENoaWxkcmVuNDQgfCBDaGlsZHJlbjI0IHwgQ2hpbGRyZW40NiB8IENoaWxkcmVuNDcgfCBDaGlsZHJlbjQ4IHwgQ2hpbGRyZW40OSB8IENoaWxkcmVuNTAgfCBDaGlsZHJlbjUxIHwgQ2hpbGRyZW41MiB8IENoaWxkcmVuNTMgfCBDaGlsZHJlbjU0IHwgQ2hpbGRyZW41NSB8IENoaWxkcmVuNTYgfCBDaGlsZHJlbjIxMCB8IENoaWxkcmVuMjYgfCBDaGlsZHJlbjU5KVtdOwog</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">W3tpZDogIjNEODRGNUZFQjlENDRFMjhCNUQ5MTcxMEM2MzcyODNBIiwgcm9sZU5hbWU6ICLotoXnuqfnrqHnkIblkZgiLCByb2xlVmFsdWU6ICJST0xFX0FETUlOIiwgc3RhdHVzOiAxLOKApn0s4oCmXQogIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFt7YXV0aG9yaXR5OiAiRE9STV9BRE1JTl9VU0VSIn0sIHthdXRob3JpdHk6ICJKSUFPX1pISV9HT05HIn0sIHthdXRob3JpdHk6ICJSRVNPVVJDRV9VUExPQURfVklERU8ifSzigKZdCiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="4" type="4">
+        <text>/* /!** @name 子菜单 *!/
+    children?: MenuDataItem[];
+    /!** @name 在菜单中隐藏子节点 *!/
+    hideChildrenInMenu?: boolean;
+    /!** @name 在菜单中隐藏自己和子节点 *!/
+    hideInMenu?: boolean;
+    /!** @name 菜单的icon *!/
+    icon?: React.ReactNode;
+    /!** @name 自定义菜单的国际化 key *!/
+    locale?: string | false;
+    /!** @name 菜单的名字 *!/
+    name?: string;
+    /!** @name 用于标定选中的值，默认是 path *!/
+    key?: string;
+    /!** @name disable 菜单选项 *!/
+    disabled?: boolean;
+    /!** @name 路径 *!/
+    path?: string;
+    /!**
+     * 当此节点被选中的时候也会选中 parentKeys 的节点
+     *
+     * @name 自定义父节点
+     *!/
+    parentKeys?: string[];
+    /!** @name 隐藏自己，并且将子节点提升到与自己平级 *!/
+    flatMenu?: boolean;
+    [key: string]: any;*</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yLnJlc3BvbnNlLmRhdGE9e2Vycm9yX2Rlc2NyaXB0aW9uOifmgqjnmoTnvZHnu5zlj5HnlJ/lvILluLjvvIzml6Dms5Xov57mjqXmnI3liqHlmagnfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else {
-      // return {
-      //   url: `${url}`,
-      //   options: {...options, interceptors: true},
-      // };
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -184,10 +206,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly90b2tlbuaLpuaIquWZqApjb25zdCBhdXRoSGVhZGVySW50ZXJjZXB0b3IgPSBhc3luYyAodXJsOiBzdHJpbmcsIG9wdGlvbnM6IFJlcXVlc3RPcHRpb25zSW5pdCkgPT4gewoKICBsZXQgdG9rZW4gPSBnZXRUb2tlbigpOwogIGlmICgKICAgICF0b2tlbiAmJgogICAgIXVybC5pbmNsdWRlcygnL29hdXRoL3Rva2VuJykgJiYKICAgICF1cmwuaW5jbHVkZXMoJy9vYXV0aC9sb2dvdXQnKSAmJgogICAgIXVybC5pbmNsdWRlcygnL2FwcC92YWxpZGF0ZScpCiAgKSB7CiAgICBsZXQgdG9rZW5CeUNvb2tpZSA9IGF3YWl0IGdldFRva2VuQnlDYXMoKTsKICAgIGlmICh0b2tlbkJ5Q29va2llKSB7CiAgICAgIGNvbnN0IGF1dGhIZWFkZXIgPSB7J0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7dG9rZW5CeUNvb2tpZS5hY2Nlc3NfdG9rZW59YH0KICAgICAgcmV0dXJuIHsKICAgICAgICB1cmw6IGAke3VybH1gLAogICAgICAgIG9wdGlvbnM6IHsuLi5vcHRpb25zLCBpbnRlcmNlcHRvcnM6IHRydWUsIGhlYWRlcnM6IGF1dGhIZWFkZXJ9LAogICAgICB9OwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIHsKICAgICAgICB1cmw6IGAke3VybH1gLAogICAgICAgIG9wdGlvbnM6IHsuLi5vcHRpb25zLCBpbnRlcmNlcHRvcnM6IHRydWV9LAogICAgICB9OwogICAgfQogIH0KCgogIGNvbnN0IGF1dGhIZWFkZXIgPSB7J0F1dGhvcml6YXRpb24nOiAnQmVhcmVyIHh4eHh4eCd9CiAgcmV0dXJuIHsKICAgIHVybDogYCR7dXJsfWAsCiAgICBvcHRpb25zOiB7Li4ub3B0aW9ucywgaW50ZXJjZXB0b3JzOiB0cnVlLCBoZWFkZXJzOiBhdXRoSGVhZGVyfSwKICB9Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzcG9uc2UxJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
