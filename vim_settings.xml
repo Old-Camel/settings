@@ -35,25 +35,28 @@
         <mark key="]" line="125" column="15" />
         <mark key="." line="125" column="15" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611278065236">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="62" column="6" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611285629699">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="12" />
         <mark key="^" line="3" column="20" />
-        <mark key="." line="62" column="6" />
+        <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/IconFont/index.ts" timestamp="1611215020728">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/utils.js" timestamp="1611279973567" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611285020136">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/utils/utils.js" timestamp="1611277512350" />
       <file name="$USER_HOME$/data/code/datafill-web/src/models/user.js" timestamp="1611277544066" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1611278084571">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.test.ts" timestamp="1611281929562" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1611285401939">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/icon/index.d.ts" timestamp="1611215516071" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.ts" timestamp="1611281998466">
+        <mark key="[" line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/components/UpdateForm.tsx" timestamp="1611225211590">
         <mark key="[" line="40" column="19" />
         <mark key="]" line="40" column="19" />
@@ -70,25 +73,26 @@
         <mark key="]" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/CHANGELOG.zh-CN.md" timestamp="1611215576415" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/typings.d.ts" timestamp="1611219055146" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/utils/Path.js" timestamp="1611279991692" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/history-with-query/index.d.ts" timestamp="1611282709706" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1611217627556">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="31" column="11" />
         <mark key="^" line="95" column="22" />
         <mark key="." line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/index.d.ts" timestamp="1611215524988" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611222644853">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611281278444">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
         <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/icons/CloudFilled.js" timestamp="1611217387019" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/components/PageContainer/index.d.ts" timestamp="1611277393975" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/defaultSettings.js" timestamp="1611214894056" />
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/IconFont/index.js" timestamp="1611215076612" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1611282191184">
+        <mark key="[" line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/data/code/datafill-web/src/components/SiderMenu/BaseMenu.js" timestamp="1611223351788" />
     </filemarks>
     <jumps>
@@ -150,38 +154,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>let</text>
+        <text>outLogin</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>outLogin</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1lbnUgPSBjdXJyZW50VXNlci5wcmluY2lwYWwubWVudTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICAgICAgICBpZDogJ3BhZ2VzLnNlYXJjaFRhYmxlLnVwZGF0ZUZvcm0ucnVsZUNvbmZpZycsCiAgICAgICAgICAgICAgZGVmYXVsdE1lc3NhZ2U6IA==</text>
+        <text encoding="base64">IH1lbHNlewogICAgbm90aWZpY2F0aW9uLmVycm9yKHsKICAgICAgbWVzc2FnZTogYOeUqOaIt+iupOivgeWHuumUmSFgLAogICAgICBkZXNjcmlwdGlvbjogJ+ivt+eojeWQjumHjeivlScsCiAgICB9KQogICAgcmV0dXJuIDsKICB9CiAgcmV0dXJuIDs=</text>
       </register>
       <register name="3" type="4">
-        <text>intl.formatMessage({
-            id: 'pages.searchTable.updateForm.object',
-            defaultMessage:</text>
+        <text encoding="base64">ZGVidWdnZXI7CiAgaWYgKHJlc3BvbnNlLnN0YXR1cyA+PSAyMDAgJiYgcmVzcG9uc2Uuc3RhdHVzIDwgMzAwKSB7CiAgICBsZXQgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgIC8vIGNhc+acqueZu+W9lQogICAgZGVidWdnZXI7</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxGb3JtYXR0ZWRNZXNzYWdlCiAgICAgICAgICAgICAgICAgIGlkPSJwYWdlcy5zZWFyY2hUYWJsZS51cGRhdGVGb3JtLnNjaGVkdWxpbmdQZXJpb2QudGltZVJ1bGVzIgogICAgICAgICAgICAgICAgICBkZWZhdWx0TWVzc2FnZT0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">LyogZXNsaW50IG5vLXVzZWxlc3MtZXNjYXBlOjAgaW1wb3J0L3ByZWZlci1kZWZhdWx0LWV4cG9ydDowICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-          })</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aW50bC5mb3JtYXRNZXNzYWdlKHsKICAgICAgICAgICAgaWQ6ICdwYWdlcy5zZWFyY2hUYWJsZS51cGRhdGVGb3JtLnNjaGVkdWxpbmdQZXJpb2QudGltZUxhYmVsJywKICAgICAgICAgICAgZGVmYXVsdE1lc3NhZ2U6IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>,
-        })</text>
+        <text>return {
+      menuData,
+      menuPaths,
+      fetchUserInfo,
+      currentUser,
+      settings: defaultSettings,
+    };</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -192,13 +198,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>intl.formatMessage({
-          id: 'pages.searchTable.updateForm.schedulingPeriod.title',
-          defaultMessage:</text>
+        <text encoding="base64">IHJldHVybiBjaGlsZHJlbjsKICAgICAgfSBlbHNlIHs=</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-          })</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
