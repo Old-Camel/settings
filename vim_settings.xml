@@ -36,11 +36,10 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611652986847">
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="17" />
-        <mark key="." line="108" column="17" />
-        <mark key="^" line="93" column="15" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611658353691">
+        <mark key="[" line="115" column="22" />
+        <mark key="]" line="110" column="17" />
+        <mark key="." line="110" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611651258229">
         <mark key="[" line="5" column="14" />
@@ -170,40 +169,69 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>已上线</text>
+        <text>new Map[
+    [0: {
+          text: '关闭',
+          status: 'Default',
+        }],
+        [1: {
+          text: '开启',
+          status: 'Success',
+        }],
+      }],
+    },</text>
       </register>
       <register name="-" type="4">
-        <text>已上线</text>
+        <text>key1</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>new Map[
+    [0: {
+          text: '关闭',
+          status: 'Default',
+        }],
+        [1: {
+          text: '开启',
+          status: 'Success',
+        }],
+      }],
+    },</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+      title: '创建人',
+      dataIndex: 'createdBy',
+      // editable:false,
+      valueType: 'select',
+      valueEnum: {
+        &quot;管理员~~~2c9484a0711eb00301712114d7150790&quot;: {
+          text: '关闭',
+          status: 'Default',
+        },
+        &quot;1&quot;: {
+          text: '开启',
+          status: 'Success',
+        },
+      },
+    },</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Y29uc3QgaGFuZGxlVXBkYXRlID0gYXN5bmMgKGZpZWxkczogRm9ybVZhbHVlVHlwZSkgPT4gewogIGNvbnN0IGhpZGUgPSBtZXNzYWdlLmxvYWRpbmcoJ+ato+WcqOmFjee9ricpOwoKICB0cnkgewogICAgYXdhaXQgdXBkYXRlUnVsZSh7CiAgICAgIG5hbWU6IGZpZWxkcy5uYW1lLAogICAgICBkZXNjOiBmaWVsZHMuZGVzYywKICAgICAga2V5OiBmaWVsZHMua2V5LAogICAgfSk7CiAgICBoaWRlKCk7CiAgICBtZXNzYWdlLnN1Y2Nlc3MoJ+mFjee9ruaIkOWKnycpOwogICAgcmV0dXJuIHRydWU7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGhpZGUoKTsKICAgIG1lc3NhZ2UuZXJyb3IoJ+mFjee9ruWksei0peivt+mHjeivle+8gScpOwogICAgcmV0dXJuIGZhbHNlOwogIH0KfTs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PGEga2V5PSJzdWJzY3JpYmVBbGVydCIgaHJlZj0iaHR0cHM6Ly9wcm9jb21wb25lbnRzLmFudC5kZXNpZ24vIj4KICAgICAgICAgIOiuoumYheitpuaKpQogICAgICAgIDwvYT4s</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDM6IHsKICAgICAgICAgIHRleHQ6ICflvILluLgnLAogICAgICAgICAgc3RhdHVzOiAnRXJyb3InLAogICAgICAgIH0s</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IDE6IHsKICAgICAgICAgIHRleHQ6ICfov5DooYzkuK0nLAogICAgICAgICAgc3RhdHVzOiAnUHJvY2Vzc2luZycsCiAgICAgICAgfSw=</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-      title: '标识',
-      hideInSearch:false,
-      sorter: true,
-      dataIndex: 'isOpen',
-
-    }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -213,8 +241,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+      title: '标识',
+      hideInSearch:false,
+      sorter: true,
+      dataIndex: 'isOpen',
+
+    }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
