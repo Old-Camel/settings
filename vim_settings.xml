@@ -36,10 +36,11 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611651402650">
-        <mark key="[" line="98" column="25" />
-        <mark key="]" line="150" column="26" />
-        <mark key="." line="150" column="26" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611652986847">
+        <mark key="[" line="108" column="17" />
+        <mark key="]" line="108" column="17" />
+        <mark key="." line="108" column="17" />
+        <mark key="^" line="93" column="15" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611651258229">
         <mark key="[" line="5" column="14" />
@@ -169,10 +170,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>undefined</text>
+        <text>已上线</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>已上线</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
