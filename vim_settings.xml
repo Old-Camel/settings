@@ -30,66 +30,81 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/RightContent.js" timestamp="1611300861699" />
-      <file name="$USER_HOME$/data/code/timer-web/src/components/GlobalHeader/index.js" timestamp="1611301313080" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/index.tsx" timestamp="1611309403269">
-        <mark key="[" line="214" column="45" />
-        <mark key="]" line="125" column="15" />
-        <mark key="." line="125" column="15" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Form/index.tsx" timestamp="1611640010203">
+        <mark key="[" line="104" column="1" />
+        <mark key="]" line="104" column="1" />
+        <mark key="." line="104" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/AvatarDropdown.tsx" timestamp="1611301683451">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Form/data.d.ts" timestamp="1611571740231">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611304051710">
-        <mark key="[" line="142" column="75" />
-        <mark key="]" line="142" column="75" />
+      <file name="/Dummy.txt" timestamp="1611641397909">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1611570730357">
+        <mark key="[" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/index.md" timestamp="1611629276758">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="230" column="13" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1611627845515">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="44" />
+        <mark key="^" line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1611633945575">
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+        <mark key="^" line="61" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1611641153455">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611628192529">
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1611633352167">
+        <mark key="[" line="233" column="39" />
+        <mark key="]" line="234" column="2" />
         <mark key="^" line="3" column="20" />
-        <mark key="." line="142" column="75" />
+        <mark key="." line="234" column="2" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.js" timestamp="1611301552591" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611302607495">
-        <mark key="[" line="5" column="8" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1611632641100">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/SiderMenu/SiderMenu.js" timestamp="1611301485568" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1611302932690">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611641125316">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Form/index.tsx" timestamp="1611309553448" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/components/UpdateForm.tsx" timestamp="1611304556230">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="159" column="10" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1611641249273">
+        <mark key="[" line="118" column="60" />
+        <mark key="]" line="118" column="60" />
+        <mark key="." line="118" column="60" />
+        <mark key="^" line="118" column="65" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/service.ts" timestamp="1611306530793" />
-      <file name="$USER_HOME$/data/code/datafill-web/node_modules/antd/lib/style/themes/default.less" timestamp="1611301582924" />
-      <file name="$USER_HOME$/data/code/timer-web/src/utils/request.js" timestamp="1611301029815" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/plugin-request/request.ts" timestamp="1611307506155" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1611306665704">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="119" column="22" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1611640469504">
+        <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/User/login/index.tsx" timestamp="1611297052212">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="65" column="4" />
-        <mark key="." line="65" column="4" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611640612143">
+        <mark key="[" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1611303698087">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611644267142" />
+      <file name="/fragment.java" timestamp="1611641397885">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Form/service.ts" timestamp="1611309668342">
-        <mark key="[" line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/timer-web/src/components/GlobalHeader/index.less" timestamp="1611301207714" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -150,38 +165,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>RootObject</text>
+        <text>DatafillApplication</text>
       </register>
       <register name="-" type="4">
-        <text>RootObject</text>
+        <text>DatafillApplication</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QHByby1oZWFkZXItaG92ZXItYmc6IHJnYmEoMCwgMCwgMCwgMC4wMjUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZXJyb3JDb25maWc6IHsKICAgIGFkYXB0b3I6IChyZXNEYXRhKSA9PiB7CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4ucmVzRGF0YSwKICAgICAgICBzdWNjZXNzOiByZXNEYXRhLm1lc3NhZ2UmJiFyZXNEYXRhLmVycm9yTWVzc2FnZSwKICAgICAgICBlcnJvck1lc3NhZ2U6IHJlc0RhdGEuZXJyb3JNZXNzYWdlLAogICAgICB9OwogICAgfSwKICB9LA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRpdgogICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEluaXRpYWxTdGF0ZSh7Li4uaW5pdGlhbFN0YXRlLGNvbGxhcHNlZDohaW5pdGlhbFN0YXRlPy5jb2xsYXBzZWR9KX0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicsCiAgICAgICAgICBmb250U2l6ZTogJzE2cHgnLAogICAgICAgIH19CiAgICAgID4KICAgICAgICB7aW5pdGlhbFN0YXRlPy5jb2xsYXBzZWQgPyA8TWVudVVuZm9sZE91dGxpbmVkIC8+IDogPE1lbnVGb2xkT3V0bGluZWQgLz59CiAgICAgIDwvZGl2Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHF1ZXJ5UHJvamVjdEluZm8xKCkgewogIHJldHVybiByZXF1ZXN0PHsgZGF0YTogQVBJLlByb2plY3RJbmZvIH0+KFBhdGguYXBwbWFuYWdlciArICcvcHJvamVjdC9pbmZvMScpOwp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt1c2VSZXF1ZXN0fSBmcm9tICJhaG9va3MiOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-      
-      return  (</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmb3JtYXRSZXN1bHQ6Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if(collapsed) {
-        debugger;
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">PFNwYWNlPgogIDxIZWFkZXJTZWFyY2gKICAgIHBsYWNlaG9sZGVyPSLnq5nlhoXmkJzntKIiCiAgICBkZWZhdWx0VmFsdWU9InVtaSB1aSIKICAgIG9wdGlvbnM9e1sKICAgICAgeyBsYWJlbDogPGEgaHJlZj0iaHR0cHM6Ly91bWlqcy5vcmcvemgvZ3VpZGUvdW1pLXVpLmh0bWwiPnVtaSB1aTwvYT4sIHZhbHVlOiAndW1pIHVpJyB9LAogICAgICB7CiAgICAgICAgbGFiZWw6IDxhIGhyZWY9Im5leHQuYW50LmRlc2lnbiI+QW50IERlc2lnbjwvYT4sCiAgICAgICAgdmFsdWU6ICdBbnQgRGVzaWduJywKICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiA8YSBocmVmPSJodHRwczovL3Byb3RhYmxlLmFudC5kZXNpZ24vIj5Qcm8gVGFibGU8L2E+LAogICAgICAgIHZhbHVlOiAnUHJvIFRhYmxlJywKICAgICAgfSwKICAgICAgewogICAgICAgIGxhYmVsOiA8YSBocmVmPSJodHRwczovL3Byb2xheW91dC5hbnQuZGVzaWduLyI+UHJvIExheW91dDwvYT4sCiAgICAgICAgdmFsdWU6ICdQcm8gTGF5b3V0JywKICAgICAgfSwKICAgIF19CiAgLz4KICA8VG9vbHRpcCB0aXRsZT0i5L2/55So5paH5qGjIj4KICAgIDxzcGFuCiAgICAgIGNsYXNzTmFtZT17c3R5bGVzLmFjdGlvbn0KICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gJ2h0dHBzOi8vcHJvLmFudC5kZXNpZ24vZG9jcy9nZXR0aW5nLXN0YXJ0ZWQnOwogICAgICB9fQogICAgPgogICAgICA8UXVlc3Rpb25DaXJjbGVPdXRsaW5lZCAvPgogICAgPC9zcGFuPgogIDwvVG9vbHRpcD4KICA8QXZhdGFyIC8+CiAge1JFQUNUX0FQUF9FTlYgJiYgKAogICAgPHNwYW4+CiAgICAgIDxUYWcgY29sb3I9e0VOVlRhZ0NvbG9yW1JFQUNUX0FQUF9FTlZdfT57UkVBQ1RfQVBQX0VOVn08L1RhZz4KICAgIDwvc3Bhbj4KICApfQogIDxTZWxlY3RMYW5nIGNsYXNzTmFtZT17c3R5bGVzLmFjdGlvbn0gLz4KPC9TcGFjZT4=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KT0+ewogICAgICAKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIOiHquWumuS5iSA0MDMg6aG16Z2iCiAgICAvLyB1bkFjY2Vzc2libGU6IDxkaXY+dW5BY2Nlc3NpYmxlPC9kaXY+LA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KHRpdGxlLGxvZ28sY29sbGFwc2VkKT0+ewogICAgICBjb25zb2xlLmxvZyh0aXRsZSxsb2dvLGNvbGxhcHNlZCk7CiAgICAgIGRlYnVnZ2VyOwogICAgICByZXR1cm4gPHNwYW4+JzEyMzEnPC9zcGFuPgogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ci8qY29uc3QgY29kZU1lc3NhZ2UgPSB7CiAgMjAwOiAn5pyN5Yqh5Zmo5oiQ5Yqf6L+U5Zue6K+35rGC55qE5pWw5o2u44CCJywKICAyMDE6ICfmlrDlu7rmiJbkv67mlLnmlbDmja7miJDlip/jgIInLAogIDIwMjogJ+S4gOS4quivt+axguW3sue7j+i/m+WFpeWQjuWPsOaOkumYn++8iOW8guatpeS7u+WKoe+8ieOAgicsCiAgMjA0OiAn5Yig6Zmk5pWw5o2u5oiQ5Yqf44CCJywKICA0MDA6ICflj5Hlh7rnmoTor7fmsYLmnInplJnor6/vvIzmnI3liqHlmajmsqHmnInov5vooYzmlrDlu7rmiJbkv67mlLnmlbDmja7nmoTmk43kvZzjgIInLAogIDQwMTogJ+eUqOaIt+ayoeacieadg+mZkO+8iOS7pOeJjOOAgeeUqOaIt+WQjeOAgeWvhueggemUmeivr++8ieOAgicsCiAgNDAzOiAn55So5oi35b6X5Yiw5o6I5p2D77yM5L2G5piv6K6/6Zeu5piv6KKr56aB5q2i55qE44CCJywKICA0MDQ6ICflj5Hlh7rnmoTor7fmsYLpkojlr7nnmoTmmK/kuI3lrZjlnKjnmoTorrDlvZXvvIzmnI3liqHlmajmsqHmnInov5vooYzmk43kvZzjgIInLAogIDQwNTogJ+ivt+axguaWueazleS4jeiiq+WFgeiuuOOAgicsCiAgNDA2OiAn6K+35rGC55qE5qC85byP5LiN5Y+v5b6X44CCJywKICA0MTA6ICfor7fmsYLnmoTotYTmupDooqvmsLjkuYXliKDpmaTvvIzkuJTkuI3kvJrlho3lvpfliLDnmoTjgIInLAogIDQyMjogJ+W9k+WIm+W7uuS4gOS4quWvueixoeaXtu+8jOWPkeeUn+S4gOS4qumqjOivgemUmeivr+OAgicsCiAgNTAwOiAn5pyN5Yqh5Zmo5Y+R55Sf6ZSZ6K+v77yM6K+35qOA5p+l5pyN5Yqh5Zmo44CCJywKICA1MDI6ICfnvZHlhbPplJnor6/jgIInLAogIDUwMzogJ+acjeWKoeS4jeWPr+eUqO+8jOacjeWKoeWZqOaaguaXtui/h+i9veaIlue7tOaKpOOAgicsCiAgNTA0OiAn572R5YWz6LaF5pe244CCJywKfTsqLw==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -192,14 +203,31 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>if (window.location.pathname !== '/user/login') {
-    history.replace({
-      pathname: Path.login
-    });
-  }</text>
+        <text>{
+    path: '/collect',
+    routes: [
+      { path: '/collect/alltask', component: './TableList' },
+      { path: '/collect/distributiontask', component: './TableList' },
+      { path: '/collect/task', component:'./TableList' },
+      { path: '/collect/schedule', component: './TableList' },
+      { path: '/collect/cron', component:'./TableList' },
+      { path: '/collect/usertask', component: './TableList' },
+      { path: '/collect/deptdata', component: './TableList' },
+      { path: '/collect/deptmanage', component: './TableList' },
+      { path: '/collect/auditdata', component: './TableList' },
+      { path: '/collect/deptaudit', component:'./TableList' },
+      { path: '/collect/deptreview', component: './TableList' },
+      { path: '/collect/deptreview/:task/:key', component: './TableList' },
+      { path: '/collect/overallreview/:task/:key', component: './TableList' },
+      { path: '/collect/overallreview', component: './TableList' },
+      { path: '/collect/summary', component: './TableList' },
+      { path: '/collect/dept/summary', component: './TableList' },
+      // { path: '/design/form', component: './Design/FormData' },
+    ],
+  },</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHNlYXJjaDogc3RyaW5naWZ5KHsKICAgICAgICByZWRpcmVjdDogcGF0aG5hbWUsCiAgICAgIH0pLA==</text>
+        <text encoding="base64">IC8vIOihqOWNleaVsOaNruebkea1iwogIHsKICAgIHBhdGg6ICdtb25pdG9yJywKICAgIHJvdXRlczogWwogICAgICAvLyDmlbDmja7nm5HmtYvop4TliJnphY3nva4KICAgICAgeyBwYXRoOiAnL21vbml0b3IvY29uZmlnJywgY29tcG9uZW50OicuL1RhYmxlTGlzdCcgfSwKICAgICAgeyBwYXRoOiAnL21vbml0b3IvZGFzaGNvbmZpZycsIGNvbXBvbmVudDogJy4vVGFibGVMaXN0JyB9LAogICAgICB7IHBhdGg6ICcvbW9uaXRvci9pbmZvJywgY29tcG9uZW50OiAnLi9UYWJsZUxpc3QnIH0sCiAgICAgIHsgcGF0aDogJy9tb25pdG9yL2RlcHRpbmZvJywgY29tcG9uZW50OiAnLi9UYWJsZUxpc3QnIH0sCiAgICBdLAogIH0sCiAgewogICAgcGF0aDogJy9mb3JtJywKICAgIHJvdXRlczogW3sgcGF0aDogJy9mb3JtL2J1aWxkZXInLCBjb21wb25lbnQ6ICcuL1RhYmxlTGlzdCcgfSxdLAogIH0sCiAgewogICAgcGF0aDogJy9wcm9jZXNzJywKICAgIHJvdXRlczogWwogICAgICB7IHBhdGg6ICcvcHJvY2Vzcy9zdGFydGZvcm0vOnByb2Nlc3MvOmtleScsIGNvbXBvbmVudDonLi9UYWJsZUxpc3QnIH0sCiAgICAgIHsgcGF0aDogJy9wcm9jZXNzL3Rhc2tmb3JtLzp0YXNrLzprZXknLCBjb21wb25lbnQ6Jy4vVGFibGVMaXN0JyB9LAogICAgICB7IHBhdGg6ICcvcHJvY2Vzcy92aWV3Zm9ybS86cHJvY2Vzc0luc3RhbmNlSWQnLCBjb21wb25lbnQ6Jy4vVGFibGVMaXN0JyB9LAogICAgICB7CiAgICAgICAgcGF0aDogJy9wcm9jZXNzL3Rhc2t2aWV3Zm9ybS86cHJvY2Vzc0luc3RhbmNlSWRGb3JUYXNrJywKICAgICAgICBjb21wb25lbnQ6Jy4vVGFibGVMaXN0JyAsCiAgICAgIH0sCiAgICBdLAogIH0sCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
