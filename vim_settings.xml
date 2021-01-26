@@ -36,7 +36,17 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611649737192">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611651402650">
+        <mark key="[" line="98" column="25" />
+        <mark key="]" line="150" column="26" />
+        <mark key="." line="150" column="26" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611651258229">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611651325265">
         <mark key="[" line="57" column="43" />
         <mark key="]" line="57" column="43" />
         <mark key="." line="57" column="43" />
@@ -53,11 +63,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1611644755390">
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="10" column="59" />
-        <mark key="." line="10" column="59" />
-      </file>
       <file name="/Dummy.txt" timestamp="1611646984684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,7 +101,7 @@
         <mark key="." line="18" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT.jar!/com/yunzainfo/cloud/common/entity/core/BaseEntity.class" timestamp="1611646285995" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611646477346">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611651322792">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
@@ -164,10 +169,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ICIlIiArIGZrZXkgKyAiJSI=</text>
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICIlIiArIGZrZXkgKyAiJSI=</text>
+        <text>undefined</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
