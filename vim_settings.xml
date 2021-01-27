@@ -30,16 +30,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1611649462085">
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="44" />
-        <mark key="." line="41" column="44" />
-        <mark key="^" line="40" column="7" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1611739159359">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611736929786">
-        <mark key="[" line="119" column="11" />
-        <mark key="]" line="119" column="11" />
-        <mark key="." line="119" column="11" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611740604264">
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="116" column="80" />
+        <mark key="^" line="104" column="25" />
+        <mark key="." line="116" column="80" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611737000444">
         <mark key="[" line="5" column="5" />
@@ -60,13 +61,8 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/BaseForm/index.d.ts" timestamp="1611736240994" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.d.ts" timestamp="1611713745590" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/index.tsx" timestamp="1611658967672" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/service.ts" timestamp="1611649266023">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/Dropdown/index.js" timestamp="1611739567750" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611727060632">
         <mark key="[" line="57" column="23" />
         <mark key="]" line="57" column="23" />
@@ -155,36 +151,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>long</text>
+        <text encoding="base64">b25DbGljaz17KCkgPT4gewogICAgICAgICAgICBkZWxldGVSdW4ocmVjb3JkLmlkPz8nJyk7CiAgICAgICAgICB9fQ==</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text encoding="base64">IHN0eWxlPXt7bWFyZ2luTGVmdDowfX0g</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">b25DbGljaz17KCkgPT4gewogICAgICAgICAgICBkZWxldGVSdW4ocmVjb3JkLmlkPz8nJyk7CiAgICAgICAgICB9fQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGRhdGE6IHsKICAgICAgLi4ucGFyYW1zLAogICAgfSw=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW9uUmVmLmN1cnJlbnQmJmFjdGlvblJlZi5jdXJyZW50LnJlbG9hZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGZvcm0gJiYgIXZpc2libGUpIHsKICAgICAgZm9ybS5jdXJyZW50Py5yZXNldEZpZWxkcygpOwogICAgfQogIH0sIFtwcm9wcy52aXNpYmxlXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        ...current,
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8TW9kYWxGb3JtCiAgICAgICAgdGl0bGU9e2N1cnJlbnRSb3cgPyAi57yW6L6R5Lu75YqhIiA6ICLmlrDlu7rku7vliqEifQogICAgICAgIHZpc2libGU9e01vZGFsVmlzaWJsZX0KICAgICAgICBpbml0aWFsVmFsdWVzPXtjdXJyZW50Um93fQogICAgICAgIG9uRmluaXNoPXthc3luYyAoZm9ybSkgPT4gaGFuZGxlU3VibWl0KGZvcm0gYXMgU3FsSm9iKQogICAgICAgIH0KICAgICAgICBvblZpc2libGVDaGFuZ2U9e2hhbmRsZU1vZGFsVmlzaWJsZX0KICAgICAgICBtb2RhbFByb3BzPXt7CiAgICAgICAgICBvbkNhbmNlbDooKT0+c2V0Q3VycmVudFJvdyh1bmRlZmluZWQpLAogICAgICAgICAgLy8gY29uZmlybUxvYWRpbmc6bG9hZGluZywKICAgICAgICAgIC8vIGNhbmNlbEJ1dHRvblByb3BzOntsb2FkaW5nfQogICAgICAgIH19CiAgICAgID4KICAgICAgICA8UHJvRm9ybVRleHQKICAgICAgICAgIHdpZHRoPSJtZCIKICAgICAgICAgIG5hbWU9ImpvYk5hbWUiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh5ZCN56ewIgogICAgICAgICAgdG9vbHRpcD0i5pyA6ZW/5Li6IDI0IOS9jSIKICAgICAgICAgIHBsYWNlaG9sZGVyPSLor7fovpPlhaXku7vliqHlkI3np7AiCiAgICAgICAgLz4KICAgICAgPC9Nb2RhbEZvcm0+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBtZW51ID0gKAogICAgPE1lbnUgb25DbGljaz17aGFuZGxlTWVudUNsaWNrfT4KICAgICAgPE1lbnUuSXRlbSBrZXk9IjEiPjFzdCBpdGVtPC9NZW51Lkl0ZW0+CiAgICAgIDxNZW51Lkl0ZW0ga2V5PSIyIj4ybmQgaXRlbTwvTWVudS5JdGVtPgogICAgICA8TWVudS5JdGVtIGtleT0iMyI+M3JkIGl0ZW08L01lbnUuSXRlbT4KICAgIDwvTWVudT4KICApOw==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dXNlRWZmZWN0KCgpPT57CgogICAgICAgICAgICB9LFtyZWNvcmRdKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">PC8+LAogIG1vdW50Tm9kZSwKKSw=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -194,11 +188,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
+        <text encoding="base64">IGRhdGE6IHsKICAgICAgLi4ucGFyYW1zLAogICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
