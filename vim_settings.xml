@@ -36,15 +36,21 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611714357237">
-        <mark key="[" line="232" column="57" />
-        <mark key="]" line="111" column="17" />
-        <mark key="." line="111" column="17" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611715073361">
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="107" column="31" />
+        <mark key="." line="107" column="31" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611651258229">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1611715149324">
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+        <mark key="^" line="61" column="31" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611651325265">
         <mark key="[" line="57" column="43" />
@@ -77,11 +83,6 @@
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611645595937">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseEntity.java" timestamp="1611646505082">
         <mark key="[" line="87" column="4" />
       </file>
@@ -100,7 +101,11 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT.jar!/com/yunzainfo/cloud/common/entity/core/BaseEntity.class" timestamp="1611646285995" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1611714724635">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611651322792">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -169,39 +174,41 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>ProFormDateRangePicker,
-  ProFormSelect,
-  DrawerForm,</text>
+        <text>?? ''</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>?? ''</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text>export async function querySqlJobConfig(params?: any) {
+  return request(Path.datapipe+'/job/queryListForPage', {
+    params,
+  });
+}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgaGFuZGxlU3VibWl0ID0gKHZhbHVlczogU3FsSm9iKSA9PiB7CiAgY29uc3QgaWQgPSBjdXJyZW50ID8gY3VycmVudC5pZCA6ICcnOwogIHNldERvbmUodHJ1ZSk7CiAgY29uc3QgbWV0aG9kID0gaWQgPyAndXBkYXRlJyA6ICdhZGQnOwogIHBvc3RSdW4obWV0aG9kLCB7IGlkLCAuLi52YWx1ZXMgfSk7Cn07</text>
+      </register>
+      <register name="3" type="4">
         <text>ProFormDateRangePicker,
   ProFormSelect,
   DrawerForm,</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjb25zdCBoYW5kbGVGaW5pc2ggPSAodmFsdWVzOiB7IFtrZXk6IHN0cmluZ106IGFueSB9KSA9PiB7CiAgICBpZiAob25TdWJtaXQpIHsKICAgICAgb25TdWJtaXQodmFsdWVzIGFzIFNxbEpvYik7CiAgICB9CiAgfTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CmNvbnN0IHsgVGV4dEFyZWEgfSA9IElucHV0Owpjb25zdCBmb3JtTGF5b3V0ID0gewogIGxhYmVsQ29sOiB7IHNwYW46IDcgfSwKICB3cmFwcGVyQ29sOiB7IHNwYW46IDEzIH0sCn07</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>message.success('提交成功');
         return true;</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ic20iIG5hbWU9ImlkIiBsYWJlbD0i5Li75ZCI5ZCM57yW5Y+3IiAvPgogICAgICA8UHJvRm9ybVRleHQgbmFtZT0icHJvamVjdCIgZGlzYWJsZWQgbGFiZWw9IumhueebruWQjeensCIgaW5pdGlhbFZhbHVlPSJ4eHh46aG555uuIiAvPgogICAgICA8UHJvRm9ybVRleHQgd2lkdGg9InhzIiBuYW1lPSJtYW5nZXJOYW1lIiBkaXNhYmxlZCBsYWJlbD0i5ZWG5Yqh57uP55CGIiBpbml0aWFsVmFsdWU9IuWQr+mAlCIgLz4=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFByb0Zvcm0uR3JvdXA+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAnY2hhcHRlcicsCiAgICAgICAgICAgICAgbGFiZWw6ICfnm5bnq6DlkI7nlJ/mlYgnLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG5hbWU9InVzZU1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a55Sf5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAndGltZScsCiAgICAgICAgICAgICAgbGFiZWw6ICflsaXooYzlroznu4jmraInLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIG5hbWU9InVudXNlZE1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a5aSx5pWI5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgIDwvUHJvRm9ybS5Hcm91cD4=</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IDxQcm9Gb3JtLkdyb3VwPgogICAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ibWQiIG5hbWU9ImNvbnRyYWN0IiBsYWJlbD0i5ZCI5ZCM5ZCN56ewIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiAvPgogICAgICAgIDxQcm9Gb3JtRGF0ZVJhbmdlUGlja2VyIG5hbWU9ImNvbnRyYWN0VGltZSIgbGFiZWw9IuWQiOWQjOeUn+aViOaXtumXtCIgLz4KICAgICAgPC9Qcm9Gb3JtLkdyb3VwPg==</text>
+        <text encoding="base64">CiAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ic20iIG5hbWU9ImlkIiBsYWJlbD0i5Li75ZCI5ZCM57yW5Y+3IiAvPgogICAgICA8UHJvRm9ybVRleHQgbmFtZT0icHJvamVjdCIgZGlzYWJsZWQgbGFiZWw9IumhueebruWQjeensCIgaW5pdGlhbFZhbHVlPSJ4eHh46aG555uuIiAvPgogICAgICA8UHJvRm9ybVRleHQgd2lkdGg9InhzIiBuYW1lPSJtYW5nZXJOYW1lIiBkaXNhYmxlZCBsYWJlbD0i5ZWG5Yqh57uP55CGIiBpbml0aWFsVmFsdWU9IuWQr+mAlCIgLz4=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -211,11 +218,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gKAogICAgICA8Rm9ybSB7Li4uZm9ybUxheW91dH0gZm9ybT17Zm9ybX0gb25GaW5pc2g9e2hhbmRsZUZpbmlzaH0+CiAgICAgICAgPEZvcm0uSXRlbQogICAgICAgICAgbmFtZT0idGl0bGUiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh5ZCN56ewIgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5Lu75Yqh5ZCN56ewJyB9XX0KICAgICAgICA+CiAgICAgICAgICA8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4KICAgICAgICA8L0Zvcm0uSXRlbT4KICAgICAgICA8Rm9ybS5JdGVtCiAgICAgICAgICBuYW1lPSJjcmVhdGVkQXQiCiAgICAgICAgICBsYWJlbD0i5byA5aeL5pe26Ze0IgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5byA5aeL5pe26Ze0JyB9XX0KICAgICAgICA+CiAgICAgICAgICA8RGF0ZVBpY2tlcgogICAgICAgICAgICBzaG93VGltZQogICAgICAgICAgICBwbGFjZWhvbGRlcj0i6K+36YCJ5oupIgogICAgICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQgSEg6bW06c3MiCiAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiAnMTAwJScgfX0KICAgICAgICAgIC8+CiAgICAgICAgPC9Gb3JtLkl0ZW0+CiAgICAgICAgPEZvcm0uSXRlbQogICAgICAgICAgbmFtZT0ib3duZXIiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh6LSf6LSj5Lq6IgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5Lu75Yqh6LSf6LSj5Lq6JyB9XX0KICAgICAgICA+CiAgICAgICAgICA8U2VsZWN0IHBsYWNlaG9sZGVyPSLor7fpgInmi6kiPgogICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0i5LuY5pmT5pmTIj7ku5jmmZPmmZM8L1NlbGVjdC5PcHRpb24+CiAgICAgICAgICAgIDxTZWxlY3QuT3B0aW9uIHZhbHVlPSLlkajmr5vmr5siPuWRqOavm+avmzwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgIDwvRm9ybS5JdGVtPgogICAgICAgIDxGb3JtLkl0ZW0KICAgICAgICAgIG5hbWU9InN1YkRlc2NyaXB0aW9uIgogICAgICAgICAgbGFiZWw9IuS6p+WTgeaPj+i/sCIKICAgICAgICAgIHJ1bGVzPXtbeyBtZXNzYWdlOiAn6K+36L6T5YWl6Iez5bCR5LqU5Liq5a2X56ym55qE5Lqn5ZOB5o+P6L+w77yBJywgbWluOiA1IH1dfQogICAgICAgID4KICAgICAgICAgIDxUZXh0QXJlYSByb3dzPXs0fSBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6Iez5bCR5LqU5Liq5a2X56ymIiAvPgogICAgICAgIDwvRm9ybS5JdGVtPgogICAgICA8L0Zvcm0+CiAgICApOwogIH07</text>
+      <register name="8" type="4">
+        <text encoding="base64">PFByb0Zvcm0uR3JvdXA+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAnY2hhcHRlcicsCiAgICAgICAgICAgICAgbGFiZWw6ICfnm5bnq6DlkI7nlJ/mlYgnLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG5hbWU9InVzZU1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a55Sf5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAndGltZScsCiAgICAgICAgICAgICAgbGFiZWw6ICflsaXooYzlroznu4jmraInLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIG5hbWU9InVudXNlZE1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a5aSx5pWI5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgIDwvUHJvRm9ybS5Hcm91cD4=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBtb2RhbEZvb3RlciA9IGRvbmUKICAgID8geyBmb290ZXI6IG51bGwsIG9uQ2FuY2VsOiBvbkRvbmUgfQogICAgOiB7IG9rVGV4dDogJ+S/neWtmCcsIG9uT2s6IGhhbmRsZVN1Ym1pdCwgb25DYW5jZWwgfTsKCiAgY29uc3QgZ2V0TW9kYWxDb250ZW50ID0gKCkgPT4gewogICAgaWYgKGRvbmUpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8UmVzdWx0CiAgICAgICAgICBzdGF0dXM9InN1Y2Nlc3MiCiAgICAgICAgICB0aXRsZT0i5pON5L2c5oiQ5YqfIgogICAgICAgICAgc3ViVGl0bGU9IuS4gOezu+WIl+eahOS/oeaBr+aPj+i/sO+8jOW+iOefreWQjOagt+S5n+WPr+S7peW4puagh+eCueOAgiIKICAgICAgICAgIGV4dHJhPXsKICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBvbkNsaWNrPXtvbkRvbmV9PgogICAgICAgICAgICAgIOefpemBk+S6hgogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIH0KICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLmZvcm1SZXN1bHR9CiAgICAgICAgLz4KICAgICAgKTsKICAgIH0=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDxQcm9Gb3JtLkdyb3VwPgogICAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ibWQiIG5hbWU9ImNvbnRyYWN0IiBsYWJlbD0i5ZCI5ZCM5ZCN56ewIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiAvPgogICAgICAgIDxQcm9Gb3JtRGF0ZVJhbmdlUGlja2VyIG5hbWU9ImNvbnRyYWN0VGltZSIgbGFiZWw9IuWQiOWQjOeUn+aViOaXtumXtCIgLz4KICAgICAgPC9Qcm9Gb3JtLkdyb3VwPg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
