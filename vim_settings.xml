@@ -36,10 +36,11 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611717170738">
-        <mark key="[" line="107" column="4" />
-        <mark key="]" line="106" column="32" />
-        <mark key="." line="106" column="32" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611719677912">
+        <mark key="[" line="211" column="49" />
+        <mark key="]" line="211" column="49" />
+        <mark key="." line="211" column="48" />
+        <mark key="^" line="211" column="49" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611716239462">
         <mark key="[" line="5" column="13" />
@@ -70,10 +71,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611714244538">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611719622871">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1611646984684">
         <mark key="[" line="0" column="0" />
@@ -90,11 +91,6 @@
         <mark key="[" line="160" column="18" />
         <mark key="]" line="160" column="18" />
         <mark key="." line="160" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611646480493">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="." line="26" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1611647982991">
         <mark key="[" line="0" column="62" />
@@ -114,6 +110,7 @@
       <file name="/fragment.java" timestamp="1611646984545">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Text/index.d.ts" timestamp="1611718161614" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -174,41 +171,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">Rml4PFNxbEpvYixpZD4=</text>
+        <text>setCurrentRow(record);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rml4PFNxbEpvYixpZD4=</text>
+        <text>setCurrentRow(record);</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
-        <text>export async function querySqlJobConfig(params?: any) {
-  return request(Path.datapipe+'/job/queryListForPage', {
-    params,
-  });
-}</text>
+      <register name="1" type="4">
+        <text encoding="base64">cm93U2VsZWN0aW9uPXt7CiAgICAgICAgICBvbkNoYW5nZTogKF8sIHNlbGVjdGVkUm93cykgPT4gewogICAgICAgICAgICBzZXRTZWxlY3RlZFJvd3Moc2VsZWN0ZWRSb3dzKTsKICAgICAgICAgIH0sCiAgICAgICAgfX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlU3VibWl0ID0gKHZhbHVlczogU3FsSm9iKSA9PiB7CiAgY29uc3QgaWQgPSBjdXJyZW50ID8gY3VycmVudC5pZCA6ICcnOwogIHNldERvbmUodHJ1ZSk7CiAgY29uc3QgbWV0aG9kID0gaWQgPyAndXBkYXRlJyA6ICdhZGQnOwogIHBvc3RSdW4obWV0aG9kLCB7IGlkLCAuLi52YWx1ZXMgfSk7Cn07</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnN0YXJ0RWRpdGFibGU/LihyZWNvcmQuaWQpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>ProFormDateRangePicker,
-  ProFormSelect,
-  DrawerForm,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnN0YXJ0RWRpdGFibGU/LihyZWNvcmQuaWQpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVGaW5pc2ggPSAodmFsdWVzOiB7IFtrZXk6IHN0cmluZ106IGFueSB9KSA9PiB7CiAgICBpZiAob25TdWJtaXQpIHsKICAgICAgb25TdWJtaXQodmFsdWVzIGFzIFNxbEpvYik7CiAgICB9CiAgfTs=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWRpdGFibGU9e3sKICAgICAgICAgIG9uU2F2ZTogKGtleSwgcm93LCBfKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGtleSwgcm93KTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICB9CiAgICAgICAgfX0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IHsgVGV4dEFyZWEgfSA9IElucHV0Owpjb25zdCBmb3JtTGF5b3V0ID0gewogIGxhYmVsQ29sOiB7IHNwYW46IDcgfSwKICB3cmFwcGVyQ29sOiB7IHNwYW46IDEzIH0sCn07</text>
+      <register name="5" type="4">
+        <text encoding="base64">IDxNb2RhbEZvcm0KICAgICAgICB0aXRsZT17J+aWsOW7uuS7u+WKoSd9CiAgICAgICAgd2lkdGg9IjQwMHB4IgogICAgICAgIC8vIHZpc2libGU9e01vZGFsVmlzaWJsZX0KICAgICAgICAvLyBvblZpc2libGVDaGFuZ2U9e2hhbmRsZU1vZGFsVmlzaWJsZX0KICAgICAgICBvbkZpbmlzaD17YXN5bmMgKHZhbHVlKSA9PiB7CiAgICAgICAgICBjb25zdCBzdWNjZXNzID0gYXdhaXQgaGFuZGxlQWRkKHZhbHVlIGFzIFNxbEpvYik7CgogICAgICAgICAgaWYgKHN1Y2Nlc3MpIHsKICAgICAgICAgICAgaGFuZGxlTW9kYWxWaXNpYmxlKGZhbHNlKTsKCiAgICAgICAgICAgIGlmIChhY3Rpb25SZWYuY3VycmVudCkgewogICAgICAgICAgICAgIGFjdGlvblJlZi5jdXJyZW50LnJlbG9hZCgpOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxQcm9Gb3JtVGV4dAogICAgICAgICAgcnVsZXM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICAgICAgICAgIG1lc3NhZ2U6ICfku7vliqHlkI3np7AnLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIHBsYWNlaG9sZGVyPSLor7fovpPlhaXlkI3np7AiCiAgICAgICAgICBhbGxvd0NsZWFyCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh5ZCN56ewIgogICAgICAgICAgd2lkdGg9Im1kIgogICAgICAgICAgbmFtZT0iam9iTmFtZSIKICAgICAgICAvPgogICAgICAgIHsvKjxQcm9Gb3JtVGV4dEFyZWEgd2lkdGg9Im1kIiBuYW1lPSJkZXNjIi8+Ki99CiAgICAgIDwvTW9kYWxGb3JtPgogICAgICB7Lyo8VXBkYXRlRm9ybQogICAgICAgIG9uU3VibWl0PXthc3luYyAodmFsdWUpID0+IHsKICAgICAgICAgIGNvbnN0IHN1Y2Nlc3MgPSBhd2FpdCBoYW5kbGVVcGRhdGUodmFsdWUpOwoKICAgICAgICAgIGlmIChzdWNjZXNzKSB7CiAgICAgICAgICAgIGhhbmRsZVVwZGF0ZU1vZGFsVmlzaWJsZShmYWxzZSk7CiAgICAgICAgICAgIHNldEN1cnJlbnRSb3codW5kZWZpbmVkKTsKCiAgICAgICAgICAgIGlmIChhY3Rpb25SZWYuY3VycmVudCkgewogICAgICAgICAgICAgIGFjdGlvblJlZi5jdXJyZW50LnJlbG9hZCgpOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfX0KICAgICAgICBvbkNhbmNlbD17KCkgPT4gewogICAgICAgICAgaGFuZGxlVXBkYXRlTW9kYWxWaXNpYmxlKGZhbHNlKTsKICAgICAgICAgIHNldEN1cnJlbnRSb3codW5kZWZpbmVkKTsKICAgICAgICB9fQogICAgICAgIHVwZGF0ZU1vZGFsVmlzaWJsZT17dXBkYXRlTW9kYWxWaXNpYmxlfQogICAgICAgIHZhbHVlcz17Y3VycmVudFJvdyB8fCB7fX0KICAgICAgLz4qL30K</text>
       </register>
-      <register name="6" type="4">
-        <text>message.success('提交成功');
-        return true;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CgogIC8qKgogICAqIOaWsOW7uueql+WPo+eahOW8ueeqlwogICAqLw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ic20iIG5hbWU9ImlkIiBsYWJlbD0i5Li75ZCI5ZCM57yW5Y+3IiAvPgogICAgICA8UHJvRm9ybVRleHQgbmFtZT0icHJvamVjdCIgZGlzYWJsZWQgbGFiZWw9IumhueebruWQjeensCIgaW5pdGlhbFZhbHVlPSJ4eHh46aG555uuIiAvPgogICAgICA8UHJvRm9ybVRleHQgd2lkdGg9InhzIiBuYW1lPSJtYW5nZXJOYW1lIiBkaXNhYmxlZCBsYWJlbD0i5ZWG5Yqh57uP55CGIiBpbml0aWFsVmFsdWU9IuWQr+mAlCIgLz4=</text>
+        <text encoding="base64">IC8qKgogICAqIOWIhuW4g+abtOaWsOeql+WPo+eahOW8ueeqlwogICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -219,10 +209,14 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PFByb0Zvcm0uR3JvdXA+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAnY2hhcHRlcicsCiAgICAgICAgICAgICAgbGFiZWw6ICfnm5bnq6DlkI7nlJ/mlYgnLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG5hbWU9InVzZU1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a55Sf5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAndGltZScsCiAgICAgICAgICAgICAgbGFiZWw6ICflsaXooYzlroznu4jmraInLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIG5hbWU9InVudXNlZE1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a5aSx5pWI5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgIDwvUHJvRm9ybS5Hcm91cD4=</text>
+        <text encoding="base64">ey8qPHNwYW4+CiAgICAgICAgICAgICAgICDmnI3liqHosIPnlKjmrKHmlbDmgLvorqEge3NlbGVjdGVkUm93c1N0YXRlLnJlZHVjZSgocHJlLCBpdGVtKSA9PiBwcmUgKyBpdGVtLmNhbGxObywgMCl9IOS4hwogICAgICAgICAgICAgIDwvc3Bhbj4qL30=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxQcm9Gb3JtLkdyb3VwPgogICAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ibWQiIG5hbWU9ImNvbnRyYWN0IiBsYWJlbD0i5ZCI5ZCM5ZCN56ewIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiAvPgogICAgICAgIDxQcm9Gb3JtRGF0ZVJhbmdlUGlja2VyIG5hbWU9ImNvbnRyYWN0VGltZSIgbGFiZWw9IuWQiOWQjOeUn+aViOaXtumXtCIgLz4KICAgICAgPC9Qcm9Gb3JtLkdyb3VwPg==</text>
+      <register name="9" type="2">
+        <text>export async function querySqlJobConfig(params?: any) {
+  return request(Path.datapipe+'/job/queryListForPage', {
+    params,
+  });
+}</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
