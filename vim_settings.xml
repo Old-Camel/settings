@@ -36,8 +36,8 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611712078935">
-        <mark key="[" line="253" column="26" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611714357237">
+        <mark key="[" line="232" column="57" />
         <mark key="]" line="111" column="17" />
         <mark key="." line="111" column="17" />
       </file>
@@ -56,6 +56,7 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.d.ts" timestamp="1611713745590" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/index.tsx" timestamp="1611658967672" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/data.d.ts" timestamp="1611648731698">
         <mark key="[" line="0" column="0" />
@@ -63,6 +64,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611714244538">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1611646984684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,7 +85,6 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseEntity.java" timestamp="1611646505082">
         <mark key="[" line="87" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/GlobelExceptionAdvice.java" timestamp="1611645230184" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/index.tsx" timestamp="1611649354491">
         <mark key="[" line="160" column="18" />
         <mark key="]" line="160" column="18" />
@@ -94,11 +99,6 @@
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobConfigRepository.java" timestamp="1611645275366">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yunzainfo/cloud/common/1.0.1-SNAPSHOT/common-1.0.1-SNAPSHOT.jar!/com/yunzainfo/cloud/common/entity/core/BaseEntity.class" timestamp="1611646285995" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611651322792">
@@ -169,69 +169,39 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>new Map[
-    [0: {
-          text: '关闭',
-          status: 'Default',
-        }],
-        [1: {
-          text: '开启',
-          status: 'Success',
-        }],
-      }],
-    },</text>
+        <text>ProFormDateRangePicker,
+  ProFormSelect,
+  DrawerForm,</text>
       </register>
       <register name="-" type="4">
-        <text>key1</text>
+        <text>current</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
       <register name="1" type="4">
-        <text>new Map[
-    [0: {
-          text: '关闭',
-          status: 'Default',
-        }],
-        [1: {
-          text: '开启',
-          status: 'Success',
-        }],
-      }],
-    },</text>
+        <text>ProFormDateRangePicker,
+  ProFormSelect,
+  DrawerForm,</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-      title: '创建人',
-      dataIndex: 'createdBy',
-      // editable:false,
-      valueType: 'select',
-      valueEnum: {
-        &quot;管理员~~~2c9484a0711eb00301712114d7150790&quot;: {
-          text: '关闭',
-          status: 'Default',
-        },
-        &quot;1&quot;: {
-          text: '开启',
-          status: 'Success',
-        },
-      },
-    },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVGaW5pc2ggPSAodmFsdWVzOiB7IFtrZXk6IHN0cmluZ106IGFueSB9KSA9PiB7CiAgICBpZiAob25TdWJtaXQpIHsKICAgICAgb25TdWJtaXQodmFsdWVzIGFzIFNxbEpvYik7CiAgICB9CiAgfTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlVXBkYXRlID0gYXN5bmMgKGZpZWxkczogRm9ybVZhbHVlVHlwZSkgPT4gewogIGNvbnN0IGhpZGUgPSBtZXNzYWdlLmxvYWRpbmcoJ+ato+WcqOmFjee9ricpOwoKICB0cnkgewogICAgYXdhaXQgdXBkYXRlUnVsZSh7CiAgICAgIG5hbWU6IGZpZWxkcy5uYW1lLAogICAgICBkZXNjOiBmaWVsZHMuZGVzYywKICAgICAga2V5OiBmaWVsZHMua2V5LAogICAgfSk7CiAgICBoaWRlKCk7CiAgICBtZXNzYWdlLnN1Y2Nlc3MoJ+mFjee9ruaIkOWKnycpOwogICAgcmV0dXJuIHRydWU7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGhpZGUoKTsKICAgIG1lc3NhZ2UuZXJyb3IoJ+mFjee9ruWksei0peivt+mHjeivle+8gScpOwogICAgcmV0dXJuIGZhbHNlOwogIH0KfTs=</text>
+        <text encoding="base64">CmNvbnN0IHsgVGV4dEFyZWEgfSA9IElucHV0Owpjb25zdCBmb3JtTGF5b3V0ID0gewogIGxhYmVsQ29sOiB7IHNwYW46IDcgfSwKICB3cmFwcGVyQ29sOiB7IHNwYW46IDEzIH0sCn07</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>message.success('提交成功');
+        return true;</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PGEga2V5PSJzdWJzY3JpYmVBbGVydCIgaHJlZj0iaHR0cHM6Ly9wcm9jb21wb25lbnRzLmFudC5kZXNpZ24vIj4KICAgICAgICAgIOiuoumYheitpuaKpQogICAgICAgIDwvYT4s</text>
+        <text encoding="base64">CiAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ic20iIG5hbWU9ImlkIiBsYWJlbD0i5Li75ZCI5ZCM57yW5Y+3IiAvPgogICAgICA8UHJvRm9ybVRleHQgbmFtZT0icHJvamVjdCIgZGlzYWJsZWQgbGFiZWw9IumhueebruWQjeensCIgaW5pdGlhbFZhbHVlPSJ4eHh46aG555uuIiAvPgogICAgICA8UHJvRm9ybVRleHQgd2lkdGg9InhzIiBuYW1lPSJtYW5nZXJOYW1lIiBkaXNhYmxlZCBsYWJlbD0i5ZWG5Yqh57uP55CGIiBpbml0aWFsVmFsdWU9IuWQr+mAlCIgLz4=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IDM6IHsKICAgICAgICAgIHRleHQ6ICflvILluLgnLAogICAgICAgICAgc3RhdHVzOiAnRXJyb3InLAogICAgICAgIH0s</text>
+        <text encoding="base64">PFByb0Zvcm0uR3JvdXA+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAnY2hhcHRlcicsCiAgICAgICAgICAgICAgbGFiZWw6ICfnm5bnq6DlkI7nlJ/mlYgnLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG5hbWU9InVzZU1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a55Sf5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgICAgPFByb0Zvcm1TZWxlY3QKICAgICAgICAgIHdpZHRoPSJ4cyIKICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgewogICAgICAgICAgICAgIHZhbHVlOiAndGltZScsCiAgICAgICAgICAgICAgbGFiZWw6ICflsaXooYzlroznu4jmraInLAogICAgICAgICAgICB9LAogICAgICAgICAgXX0KICAgICAgICAgIG5hbWU9InVudXNlZE1vZGUiCiAgICAgICAgICBsYWJlbD0i5ZCI5ZCM57qm5a6a5aSx5pWI5pWI5pa55byPIgogICAgICAgIC8+CiAgICAgIDwvUHJvRm9ybS5Hcm91cD4=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IDE6IHsKICAgICAgICAgIHRleHQ6ICfov5DooYzkuK0nLAogICAgICAgICAgc3RhdHVzOiAnUHJvY2Vzc2luZycsCiAgICAgICAgfSw=</text>
+        <text encoding="base64">IDxQcm9Gb3JtLkdyb3VwPgogICAgICAgIDxQcm9Gb3JtVGV4dCB3aWR0aD0ibWQiIG5hbWU9ImNvbnRyYWN0IiBsYWJlbD0i5ZCI5ZCM5ZCN56ewIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5ZCN56ewIiAvPgogICAgICAgIDxQcm9Gb3JtRGF0ZVJhbmdlUGlja2VyIG5hbWU9ImNvbnRyYWN0VGltZSIgbGFiZWw9IuWQiOWQjOeUn+aViOaXtumXtCIgLz4KICAgICAgPC9Qcm9Gb3JtLkdyb3VwPg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -241,17 +211,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>{
-      title: '标识',
-      hideInSearch:false,
-      sorter: true,
-      dataIndex: 'isOpen',
-
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICByZXR1cm4gKAogICAgICA8Rm9ybSB7Li4uZm9ybUxheW91dH0gZm9ybT17Zm9ybX0gb25GaW5pc2g9e2hhbmRsZUZpbmlzaH0+CiAgICAgICAgPEZvcm0uSXRlbQogICAgICAgICAgbmFtZT0idGl0bGUiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh5ZCN56ewIgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5Lu75Yqh5ZCN56ewJyB9XX0KICAgICAgICA+CiAgICAgICAgICA8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4KICAgICAgICA8L0Zvcm0uSXRlbT4KICAgICAgICA8Rm9ybS5JdGVtCiAgICAgICAgICBuYW1lPSJjcmVhdGVkQXQiCiAgICAgICAgICBsYWJlbD0i5byA5aeL5pe26Ze0IgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5byA5aeL5pe26Ze0JyB9XX0KICAgICAgICA+CiAgICAgICAgICA8RGF0ZVBpY2tlcgogICAgICAgICAgICBzaG93VGltZQogICAgICAgICAgICBwbGFjZWhvbGRlcj0i6K+36YCJ5oupIgogICAgICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQgSEg6bW06c3MiCiAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiAnMTAwJScgfX0KICAgICAgICAgIC8+CiAgICAgICAgPC9Gb3JtLkl0ZW0+CiAgICAgICAgPEZvcm0uSXRlbQogICAgICAgICAgbmFtZT0ib3duZXIiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh6LSf6LSj5Lq6IgogICAgICAgICAgcnVsZXM9e1t7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5Lu75Yqh6LSf6LSj5Lq6JyB9XX0KICAgICAgICA+CiAgICAgICAgICA8U2VsZWN0IHBsYWNlaG9sZGVyPSLor7fpgInmi6kiPgogICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0i5LuY5pmT5pmTIj7ku5jmmZPmmZM8L1NlbGVjdC5PcHRpb24+CiAgICAgICAgICAgIDxTZWxlY3QuT3B0aW9uIHZhbHVlPSLlkajmr5vmr5siPuWRqOavm+avmzwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgIDwvRm9ybS5JdGVtPgogICAgICAgIDxGb3JtLkl0ZW0KICAgICAgICAgIG5hbWU9InN1YkRlc2NyaXB0aW9uIgogICAgICAgICAgbGFiZWw9IuS6p+WTgeaPj+i/sCIKICAgICAgICAgIHJ1bGVzPXtbeyBtZXNzYWdlOiAn6K+36L6T5YWl6Iez5bCR5LqU5Liq5a2X56ym55qE5Lqn5ZOB5o+P6L+w77yBJywgbWluOiA1IH1dfQogICAgICAgID4KICAgICAgICAgIDxUZXh0QXJlYSByb3dzPXs0fSBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6Iez5bCR5LqU5Liq5a2X56ymIiAvPgogICAgICAgIDwvRm9ybS5JdGVtPgogICAgICA8L0Zvcm0+CiAgICApOwogIH07</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtb2RhbEZvb3RlciA9IGRvbmUKICAgID8geyBmb290ZXI6IG51bGwsIG9uQ2FuY2VsOiBvbkRvbmUgfQogICAgOiB7IG9rVGV4dDogJ+S/neWtmCcsIG9uT2s6IGhhbmRsZVN1Ym1pdCwgb25DYW5jZWwgfTsKCiAgY29uc3QgZ2V0TW9kYWxDb250ZW50ID0gKCkgPT4gewogICAgaWYgKGRvbmUpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8UmVzdWx0CiAgICAgICAgICBzdGF0dXM9InN1Y2Nlc3MiCiAgICAgICAgICB0aXRsZT0i5pON5L2c5oiQ5YqfIgogICAgICAgICAgc3ViVGl0bGU9IuS4gOezu+WIl+eahOS/oeaBr+aPj+i/sO+8jOW+iOefreWQjOagt+S5n+WPr+S7peW4puagh+eCueOAgiIKICAgICAgICAgIGV4dHJhPXsKICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBvbkNsaWNrPXtvbkRvbmV9PgogICAgICAgICAgICAgIOefpemBk+S6hgogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIH0KICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLmZvcm1SZXN1bHR9CiAgICAgICAgLz4KICAgICAgKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
