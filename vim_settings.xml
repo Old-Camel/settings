@@ -36,11 +36,11 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611740604264">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="116" column="80" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611743240317">
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="165" column="22" />
         <mark key="^" line="104" column="25" />
-        <mark key="." line="116" column="80" />
+        <mark key="." line="165" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611737000444">
         <mark key="[" line="5" column="5" />
@@ -62,6 +62,11 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.d.ts" timestamp="1611713745590" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/index.tsx" timestamp="1611658967672" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611742903408">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/Dropdown/index.js" timestamp="1611739567750" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611727060632">
         <mark key="[" line="57" column="23" />
@@ -151,10 +156,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">b25DbGljaz17KCkgPT4gewogICAgICAgICAgICBkZWxldGVSdW4ocmVjb3JkLmlkPz8nJyk7CiAgICAgICAgICB9fQ==</text>
+        <text>loading</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt7bWFyZ2luTGVmdDowfX0g</text>
+        <text>loading</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
