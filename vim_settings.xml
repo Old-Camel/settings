@@ -36,8 +36,8 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611728414223">
-        <mark key="[" line="32" column="37" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611731673102">
+        <mark key="[" line="163" column="29" />
         <mark key="]" line="32" column="37" />
         <mark key="." line="32" column="37" />
         <mark key="^" line="163" column="49" />
@@ -71,10 +71,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611729071872">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611731667946">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1611646984684">
         <mark key="[" line="0" column="0" />
@@ -171,10 +171,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
+        <text>setVisible</text>
       </register>
       <register name="-" type="4">
-        <text>={addLoading||updateLoading</text>
+        <text>setVisible</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
