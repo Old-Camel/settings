@@ -36,14 +36,13 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611731673102">
-        <mark key="[" line="163" column="29" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="32" column="37" />
-        <mark key="^" line="163" column="49" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611736929786">
+        <mark key="[" line="119" column="11" />
+        <mark key="]" line="119" column="11" />
+        <mark key="." line="119" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611716239462">
-        <mark key="[" line="5" column="13" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611737000444">
+        <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
@@ -58,27 +57,11 @@
         <mark key="]" line="57" column="43" />
         <mark key="." line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1611647165118">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/BaseForm/index.d.ts" timestamp="1611736240994" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.d.ts" timestamp="1611713745590" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/TableList/index.tsx" timestamp="1611658967672" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/data.d.ts" timestamp="1611648731698">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/components/UpdateForm.tsx" timestamp="1611649037777" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611731667946">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1611646984684">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/service.ts" timestamp="1611649266023">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
@@ -89,21 +72,22 @@
         <mark key="]" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.js" timestamp="1611734891453" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611737136209">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Job/Sql/index.tsx" timestamp="1611649354491">
         <mark key="[" line="160" column="18" />
         <mark key="]" line="160" column="18" />
         <mark key="." line="160" column="18" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/rc-field-form/lib/Form.d.ts" timestamp="1611729062123" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1611647982991">
-        <mark key="[" line="0" column="62" />
-        <mark key="]" line="0" column="62" />
-        <mark key="." line="0" column="62" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1611714724635">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1611736885353">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611651322792">
         <mark key="[" line="2" column="27" />
@@ -171,34 +155,36 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>setVisible</text>
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>setVisible</text>
+        <text>long</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
+        <text encoding="base64">IGRhdGE6IHsKICAgICAgLi4ucGFyYW1zLAogICAgfSw=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KGxvYWRpbmcpPT57CiAgICAgICAgICBzZXRUYWJsZUxvYWRpbmcKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWN0aW9uUmVmLmN1cnJlbnQmJmFjdGlvblJlZi5jdXJyZW50LnJlbG9hZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCi8qKgogKiAg5Yig6Zmk6IqC54K5CiAqIEBwYXJhbSBzZWxlY3RlZFJvd3MKICovCgpjb25zdCBoYW5kbGVSZW1vdmUgPSBhc3luYyAoc2VsZWN0ZWRSb3dzOiBTcWxKb2JbXSkgPT4gewogIGNvbnN0IGhpZGUgPSBtZXNzYWdlLmxvYWRpbmcoJ+ato+WcqOWIoOmZpCcpOwogIGlmICghc2VsZWN0ZWRSb3dzKSByZXR1cm4gdHJ1ZTsKCiAgdHJ5IHsKICAgIGF3YWl0IHJlbW92ZVJ1bGUoewogICAgICBrZXk6IHNlbGVjdGVkUm93cy5tYXAoKHJvdykgPT4gcm93LmtleSksCiAgICB9KTsKICAgIGhpZGUoKTsKICAgIG1lc3NhZ2Uuc3VjY2Vzcygn5Yig6Zmk5oiQ5Yqf77yM5Y2z5bCG5Yi35pawJyk7CiAgICByZXR1cm4gdHJ1ZTsKICB9IGNhdGNoIChlcnJvcikgewogICAgaGlkZSgpOwogICAgbWVzc2FnZS5lcnJvcign5Yig6Zmk5aSx6LSl77yM6K+36YeN6K+VJyk7CiAgICByZXR1cm4gZmFsc2U7CiAgfQp9Ow==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGZvcm0gJiYgIXZpc2libGUpIHsKICAgICAgZm9ybS5jdXJyZW50Py5yZXNldEZpZWxkcygpOwogICAgfQogIH0sIFtwcm9wcy52aXNpYmxlXSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIOa3u+WKoOiKgueCuQogKiBAcGFyYW0gZmllbGRzCiAqLwoKY29uc3QgaGFuZGxlQWRkID0gYXN5bmMgKGZpZWxkczogU3FsSm9iKSA9PiB7CiAgY29uc3QgaGlkZSA9IG1lc3NhZ2UubG9hZGluZygn5q2j5Zyo5re75YqgJyk7CgogIHRyeSB7CiAgICBhd2FpdCBhZGRSdWxlKHsuLi5maWVsZHN9KTsKICAgIGhpZGUoKTsKICAgIG1lc3NhZ2Uuc3VjY2Vzcygn5re75Yqg5oiQ5YqfJyk7CiAgICByZXR1cm4gdHJ1ZTsKICB9IGNhdGNoIChlcnJvcikgewogICAgaGlkZSgpOwogICAgbWVzc2FnZS5lcnJvcign5re75Yqg5aSx6LSl6K+36YeN6K+V77yBJyk7CiAgICByZXR1cm4gZmFsc2U7CiAgfQp9OwovKioKICog5pu05paw6IqC54K5CiAqIEBwYXJhbSBmaWVsZHMKICovCg==</text>
+      <register name="5" type="4">
+        <text>{
+        ...current,
+      }</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cm93U2VsZWN0aW9uPXt7CiAgICAgICAgICBvbkNoYW5nZTogKF8sIHNlbGVjdGVkUm93cykgPT4gewogICAgICAgICAgICBzZXRTZWxlY3RlZFJvd3Moc2VsZWN0ZWRSb3dzKTsKICAgICAgICAgIH0sCiAgICAgICAgfX0=</text>
+        <text encoding="base64">ICA8TW9kYWxGb3JtCiAgICAgICAgdGl0bGU9e2N1cnJlbnRSb3cgPyAi57yW6L6R5Lu75YqhIiA6ICLmlrDlu7rku7vliqEifQogICAgICAgIHZpc2libGU9e01vZGFsVmlzaWJsZX0KICAgICAgICBpbml0aWFsVmFsdWVzPXtjdXJyZW50Um93fQogICAgICAgIG9uRmluaXNoPXthc3luYyAoZm9ybSkgPT4gaGFuZGxlU3VibWl0KGZvcm0gYXMgU3FsSm9iKQogICAgICAgIH0KICAgICAgICBvblZpc2libGVDaGFuZ2U9e2hhbmRsZU1vZGFsVmlzaWJsZX0KICAgICAgICBtb2RhbFByb3BzPXt7CiAgICAgICAgICBvbkNhbmNlbDooKT0+c2V0Q3VycmVudFJvdyh1bmRlZmluZWQpLAogICAgICAgICAgLy8gY29uZmlybUxvYWRpbmc6bG9hZGluZywKICAgICAgICAgIC8vIGNhbmNlbEJ1dHRvblByb3BzOntsb2FkaW5nfQogICAgICAgIH19CiAgICAgID4KICAgICAgICA8UHJvRm9ybVRleHQKICAgICAgICAgIHdpZHRoPSJtZCIKICAgICAgICAgIG5hbWU9ImpvYk5hbWUiCiAgICAgICAgICBsYWJlbD0i5Lu75Yqh5ZCN56ewIgogICAgICAgICAgdG9vbHRpcD0i5pyA6ZW/5Li6IDI0IOS9jSIKICAgICAgICAgIHBsYWNlaG9sZGVyPSLor7fovpPlhaXku7vliqHlkI3np7AiCiAgICAgICAgLz4KICAgICAgPC9Nb2RhbEZvcm0+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnN0YXJ0RWRpdGFibGU/LihyZWNvcmQuaWQpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">dXNlRWZmZWN0KCgpPT57CgogICAgICAgICAgICB9LFtyZWNvcmRdKQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -208,11 +194,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnN0YXJ0RWRpdGFibGU/LihyZWNvcmQuaWQpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZWRpdGFibGU9e3sKICAgICAgICAgIG9uU2F2ZTogKGtleSwgcm93LCBfKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGtleSwgcm93KTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICB9CiAgICAgICAgfX0=</text>
+        <text encoding="base64">LnRoZW4oKCkgPT57CiAgICAgICAKICAgICAgfSAp</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
