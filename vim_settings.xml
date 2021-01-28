@@ -36,22 +36,17 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611796265703">
-        <mark key="[" line="165" column="22" />
-        <mark key="]" line="165" column="22" />
-        <mark key="^" line="104" column="25" />
-        <mark key="." line="165" column="22" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1611802713453" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611802730350">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="108" column="25" />
+        <mark key="." line="13" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611737000444">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1611727398104">
-        <mark key="[" line="58" column="48" />
-        <mark key="]" line="58" column="56" />
-        <mark key="." line="58" column="56" />
-        <mark key="^" line="61" column="31" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611800018770">
         <mark key="[" line="57" column="43" />
@@ -59,15 +54,19 @@
         <mark key="." line="57" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/BaseForm/index.d.ts" timestamp="1611736240994" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/package-lock.json" timestamp="1611797053720" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/SqlCommand.java" timestamp="1611800261302" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611742903408">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611802328248">
         <mark key="[" line="48" column="7" />
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/Dropdown/index.js" timestamp="1611739567750" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror.tsx" timestamp="1611802412728">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.js" timestamp="1611734891453" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1611800294774" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611737136209">
@@ -147,34 +146,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>loading</text>
+        <text>umi</text>
       </register>
       <register name="-" type="4">
-        <text>loading</text>
+        <text>umi</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">b25DbGljaz17KCkgPT4gewogICAgICAgICAgICBkZWxldGVSdW4ocmVjb3JkLmlkPz8nJyk7CiAgICAgICAgICB9fQ==</text>
+        <text encoding="base64">e2N1cnJlbnRSb3c/LmpvYk5hbWUgJiYgKAogICAgICAgIDxQcm9EZXNjcmlwdGlvbnM8U3FsSm9iPgogICAgICAgICAgY29sdW1uPXsyfQogICAgICAgICAgdGl0bGU9e2N1cnJlbnRSb3c/LmpvYk5hbWV9CiAgICAgICAgICByZXF1ZXN0PXthc3luYyAoKSA9PiAoewogICAgICAgICAgICBkYXRhOiBjdXJyZW50Um93IHx8IHt9LAogICAgICAgICAgfSl9CiAgICAgICAgICBwYXJhbXM9e3sKICAgICAgICAgICAgaWQ6IGN1cnJlbnRSb3c/LmpvYk5hbWUsCiAgICAgICAgICB9fQogICAgICAgICAgY29sdW1ucz17Y29sdW1ucyBhcyBQcm9EZXNjcmlwdGlvbnNJdGVtUHJvcHM8U3FsSm9iPltdfQogICAgICAgIC8+CiAgICAgICl9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">b25DbGljaz17KCkgPT4gewogICAgICAgICAgICBkZWxldGVSdW4ocmVjb3JkLmlkPz8nJyk7CiAgICAgICAgICB9fQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBtZW51ID0gKAogICAgPE1lbnUgb25DbGljaz17aGFuZGxlTWVudUNsaWNrfT4KICAgICAgPE1lbnUuSXRlbSBrZXk9IjEiPjFzdCBpdGVtPC9NZW51Lkl0ZW0+CiAgICAgIDxNZW51Lkl0ZW0ga2V5PSIyIj4ybmQgaXRlbTwvTWVudS5JdGVtPgogICAgICA8TWVudS5JdGVtIGtleT0iMyI+M3JkIGl0ZW08L01lbnUuSXRlbT4KICAgIDwvTWVudT4KICApOw==</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC8+LAogIG1vdW50Tm9kZSwKKSw=</text>
+        <text encoding="base64">ICBjb25zdCBtZW51ID0gKAogICAgPE1lbnUgb25DbGljaz17aGFuZGxlTWVudUNsaWNrfT4KICAgICAgPE1lbnUuSXRlbSBrZXk9IjEiPjFzdCBpdGVtPC9NZW51Lkl0ZW0+CiAgICAgIDxNZW51Lkl0ZW0ga2V5PSIyIj4ybmQgaXRlbTwvTWVudS5JdGVtPgogICAgICA8TWVudS5JdGVtIGtleT0iMyI+M3JkIGl0ZW08L01lbnUuSXRlbT4KICAgIDwvTWVudT4KICApOw==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -185,10 +184,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC8+LAogIG1vdW50Tm9kZSwKKSw=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGRhdGE6IHsKICAgICAgLi4ucGFyYW1zLAogICAgfSw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
