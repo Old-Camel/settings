@@ -30,13 +30,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1611739159359">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="45" column="44" />
-        <mark key="^" line="44" column="7" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1611802713453" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611803737030">
         <mark key="[" line="111" column="32" />
         <mark key="]" line="172" column="4" />
@@ -48,45 +41,52 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611800018770">
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/BaseForm/index.d.ts" timestamp="1611736240994" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/SqlCommand.java" timestamp="1611800261302" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal.tsx" timestamp="1611803572215">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/Dropdown/index.js" timestamp="1611739567750" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror.tsx" timestamp="1611805542913">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="36" column="6" />
-        <mark key="." line="36" column="6" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/react-codemirror2/.ts/index.d.ts" timestamp="1611805967200" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror.tsx" timestamp="1611806421110">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
         <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/layouts/ModalForm/index.js" timestamp="1611734891453" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611800028467">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1611739159359">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="44" column="7" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1611802713453" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1611800018770">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/BaseForm/index.d.ts" timestamp="1611736240994" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/antd/lib/form/Form.d.ts" timestamp="1611733374592" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1611800294774" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611737136209">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/rc-field-form/lib/Form.d.ts" timestamp="1611729062123" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/react-codemirror2/index.d.ts" timestamp="1611805873007" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1611736885353">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611800028467">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Text/index.d.ts" timestamp="1611728875714" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -147,10 +147,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>this.setState</text>
+        <text>current?.flinkSql??''</text>
       </register>
       <register name="-" type="4">
-        <text>this.setState</text>
+        <text>current?.flinkSql??''</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
