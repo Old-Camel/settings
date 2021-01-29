@@ -82,10 +82,10 @@
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/JobApplication.java" timestamp="1611905151240" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1611901021125" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/ao/impl/TaskServiceAOImpl.java" timestamp="1611899973911" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1611902832623">
-        <mark key="[" line="21" column="75" />
-        <mark key="]" line="21" column="130" />
-        <mark key="." line="21" column="129" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1611911296944">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
+        <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="130" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobConfigRepository.java" timestamp="1611903054405">
@@ -93,10 +93,10 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611902164077">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611911636738">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -158,10 +158,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>none</text>
+        <text>stauts</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>stauts</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
