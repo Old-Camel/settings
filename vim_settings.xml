@@ -58,7 +58,11 @@
         <mark key="^" line="100" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/enums/SysConfigEnum.java" timestamp="1611892905847" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1611902058004" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1611903713721">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611902571333">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="22" column="69" />
@@ -153,39 +157,37 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>@Modifying
-    @Query(value = &quot;update JobConfig a set a.localLog =:log  where a.id = :id&quot;)
-    void updateLog(String log, String id);</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/data/code/flink-streaming-platform-web/deployer/target/flink-streaming-platform-web/</text>
+        <text>obConfigStatus.RUN.getCode()</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>@Modifying
     @Query(value = &quot;update JobConfig a set a.localLog =:log  where a.id = :id&quot;)
     void updateLog(String log, String id);</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuWIm+W7uueUqOaItyIsCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZEJ5IiwKICAgICAgICAgICAgZXhhbXBsZSA9ICJhZG1pbiIKICAgICk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KAogICAgICAgICAgICB2YWx1ZSA9ICLliJvlu7rml6XmnJ8iLAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuacgOWQjuS/ruaUueS6uiIsCiAgICAgICAgICAgIG5hbWUgPSAibGFzdE1vZGlmaWVkQnkiLAogICAgICAgICAgICBleGFtcGxlID0gImFkbWluIgogICAgKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBAQXBpTW9kZWxQcm9wZXJ0eSgKICAgICAgICAgICAgdmFsdWUgPSAi5pyA5ZCO5L+u5pS55pe26Ze0IiwKICAgICAgICAgICAgbmFtZSA9ICJsYXN0TW9kaWZpZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBzd2l0Y2goa2V5KXsKICAgICAgICAgICAgICBjYXNlICdvcGVuJzp7Y29uZmlnUnVuKHJlY29yZC5pZCl9CiAgICAgICAgICAgICAgY2FzZSAnY2xvc2UnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RhcnQnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RvcCc6e30KCiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNsb3NlSm9iKGlkOiBzdHJpbmcpIHsKICByZXR1cm4gcmVxdWVzdCh1cmwgKyBgL2Nsb3NlLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdGFydC8ke2lkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcKICB9KTsKfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3RvcEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdG9wLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -196,10 +198,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNsb3NlSm9iKGlkOiBzdHJpbmcpIHsKICByZXR1cm4gcmVxdWVzdCh1cmwgKyBgL2Nsb3NlLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdGFydC8ke2lkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcKICB9KTsKfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3RvcEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdG9wLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b25DbG9zZT17KCkgPT4gewogICAgICAgIHNldFNxbCgiIik7CiAgICAgICAgc2V0VmlzaWJsZShmYWxzZSk7CiAgICAgIH19</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
