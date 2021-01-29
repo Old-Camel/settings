@@ -51,13 +51,12 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ResourceServerConfig.java" timestamp="1611902184096" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/common/util/CommandUtil.java" timestamp="1611893185648" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/scheduler/SchedulerTask.java" timestamp="1611899825797" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611902475839">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="100" column="42" />
-        <mark key="." line="100" column="41" />
-        <mark key="^" line="100" column="42" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611904309687">
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="112" column="12" />
+        <mark key="." line="112" column="12" />
+        <mark key="^" line="102" column="42" />
       </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/enums/SysConfigEnum.java" timestamp="1611892905847" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1611903713721">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -75,6 +74,7 @@
         <mark key="]" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/JobApplication.java" timestamp="1611905151240" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1611901021125" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/ao/impl/TaskServiceAOImpl.java" timestamp="1611899973911" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1611902832623">
@@ -157,11 +157,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>dbUser?</text>
       </register>
       <register name="-" type="4">
-        <text>obConfigStatus.RUN.getCode()</text>
+        <text>dbUser?</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
