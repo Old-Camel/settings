@@ -36,8 +36,8 @@
         <mark key="^" line="19" column="2" />
         <mark key="." line="134" column="10" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1611901420900">
-        <mark key="[" line="44" column="72" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1611902589824">
+        <mark key="[" line="50" column="55" />
         <mark key="]" line="44" column="37" />
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="36" />
@@ -45,44 +45,55 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1611901034999">
         <mark key="[" line="197" column="17" />
       </file>
-      <file name="/JobRunParamDTO.java" timestamp="1611891484948" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/FieldUtils.java" timestamp="1611902258874">
+        <mark key="[" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ResourceServerConfig.java" timestamp="1611902184096" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/common/util/CommandUtil.java" timestamp="1611893185648" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/scheduler/SchedulerTask.java" timestamp="1611899825797" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/controller/web/JobRunLogController.java" timestamp="1611887482111" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611899565834">
-        <mark key="[" line="88" column="15" />
-        <mark key="]" line="88" column="15" />
-        <mark key="." line="88" column="15" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611902475839">
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="100" column="42" />
+        <mark key="." line="100" column="41" />
+        <mark key="^" line="100" column="42" />
       </file>
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/enums/SysConfigEnum.java" timestamp="1611892905847" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/README.md" timestamp="1611892493972" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611901292642">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1611902058004" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobRunLogRepository.java" timestamp="1611902571333">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="22" column="69" />
         <mark key="." line="22" column="69" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseEntity.java" timestamp="1611900926388" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1611830381777">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="40" column="18" />
-        <mark key="." line="40" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611901691026">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseEntity.java" timestamp="1611902111121" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1611902914462" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611903027432">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1611901021125" />
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/ao/impl/TaskServiceAOImpl.java" timestamp="1611899973911" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1611887237295">
-        <mark key="[" line="22" column="39" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1611902832623">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="130" />
+        <mark key="." line="21" column="129" />
+        <mark key="^" line="21" column="130" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobConfigRepository.java" timestamp="1611903054405">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1611898719291">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611900169390" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611902164077">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -143,37 +154,38 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBCYXNlRW50aXR5IA==</text>
+        <text>@Modifying
+    @Query(value = &quot;update JobConfig a set a.localLog =:log  where a.id = :id&quot;)
+    void updateLog(String log, String id);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBCYXNlRW50aXR5IA==</text>
+        <text>$USER_HOME$/data/code/flink-streaming-platform-web/deployer/target/flink-streaming-platform-web/</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBzd2l0Y2goa2V5KXsKICAgICAgICAgICAgICBjYXNlICdvcGVuJzp7Y29uZmlnUnVuKHJlY29yZC5pZCl9CiAgICAgICAgICAgICAgY2FzZSAnY2xvc2UnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RhcnQnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RvcCc6e30KCiAgICAgICAgICAgIH0=</text>
+        <text>@Modifying
+    @Query(value = &quot;update JobConfig a set a.localLog =:log  where a.id = :id&quot;)
+    void updateLog(String log, String id);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNsb3NlSm9iKGlkOiBzdHJpbmcpIHsKICByZXR1cm4gcmVxdWVzdCh1cmwgKyBgL2Nsb3NlLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdGFydC8ke2lkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcKICB9KTsKfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3RvcEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdG9wLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuWIm+W7uueUqOaItyIsCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZEJ5IiwKICAgICAgICAgICAgZXhhbXBsZSA9ICJhZG1pbiIKICAgICk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KAogICAgICAgICAgICB2YWx1ZSA9ICLliJvlu7rml6XmnJ8iLAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b25DbG9zZT17KCkgPT4gewogICAgICAgIHNldFNxbCgiIik7CiAgICAgICAgc2V0VmlzaWJsZShmYWxzZSk7CiAgICAgIH19</text>
+        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuacgOWQjuS/ruaUueS6uiIsCiAgICAgICAgICAgIG5hbWUgPSAibGFzdE1vZGlmaWVkQnkiLAogICAgICAgICAgICBleGFtcGxlID0gImFkbWluIgogICAgKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text>.cm-s-material-palenight.CodeMirror {
-  background-color: #292D3E;
-  color: #A6ACCD;
-}</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBAQXBpTW9kZWxQcm9wZXJ0eSgKICAgICAgICAgICAgdmFsdWUgPSAi5pyA5ZCO5L+u5pS55pe26Ze0IiwKICAgICAgICAgICAgbmFtZSA9ICJsYXN0TW9kaWZpZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">b25DbGljaz17KCk9PnsKICAgICAgICBzZXRWaXNpYmxlKCl9fQ==</text>
+        <text encoding="base64">ICBzd2l0Y2goa2V5KXsKICAgICAgICAgICAgICBjYXNlICdvcGVuJzp7Y29uZmlnUnVuKHJlY29yZC5pZCl9CiAgICAgICAgICAgICAgY2FzZSAnY2xvc2UnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RhcnQnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RvcCc6e30KCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwogIGxpc3Qtc3R5bGU6IG5vbmU7CgogIG1hcmdpbjogMDsKICBwYWRkaW5nOiAycHg7CgogIC13ZWJraXQtYm94LXNoYWRvdzogMnB4IDNweCA1cHggcmdiYSgwLDAsMCwuMik7CiAgLW1vei1ib3gtc2hhZG93OiAycHggM3B4IDVweCByZ2JhKDAsMCwwLC4yKTsKICBib3gtc2hhZG93OiAycHggM3B4IDVweCByZ2JhKDAsMCwwLC4yKTsKICBib3JkZXItcmFkaXVzOiAzcHg7CiAgYm9yZGVyOiAxcHggc29saWQgc2lsdmVyOwoKICBiYWNrZ3JvdW5kOiB3aGl0ZTsKICBmb250LXNpemU6IDkwJTsKICBmb250LWZhbWlseTogbW9ub3NwYWNlOwoKICBtYXgtaGVpZ2h0OiAyMGVtOwogIG92ZXJmbG93LXk6IGF1dG87</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNsb3NlSm9iKGlkOiBzdHJpbmcpIHsKICByZXR1cm4gcmVxdWVzdCh1cmwgKyBgL2Nsb3NlLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdGFydC8ke2lkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcKICB9KTsKfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3RvcEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdG9wLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -183,14 +195,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>font-family: monospace;
-  height: auto;
-  color: black;
-  direction: ltr;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICA8RHJhd2VyCiAgICAgICAgd2lkdGg9ezYwMH0KICAgICAgICB2aXNpYmxlPXtzaG93RGV0YWlsfQoKICAgICAgICBvbkNsb3NlPXsoKSA9PiB7CiAgICAgICAgICBzZXRDdXJyZW50Um93KHVuZGVmaW5lZCk7CiAgICAgICAgICBzZXRTaG93RGV0YWlsKGZhbHNlKTsKICAgICAgICB9fQogICAgICAgIGNsb3NhYmxlPXtmYWxzZX0KICAgICAgPgogICAgICAgIHtjdXJyZW50Um93Py5qb2JOYW1lICYmICgKICAgICAgICAgIDxQcm9EZXNjcmlwdGlvbnM8U3FsSm9iPgogICAgICAgICAgICBjb2x1bW49ezJ9CiAgICAgICAgICAgIHRpdGxlPXtjdXJyZW50Um93Py5qb2JOYW1lfQogICAgICAgICAgICByZXF1ZXN0PXthc3luYyAoKSA9PiAoewogICAgICAgICAgICAgIGRhdGE6IGN1cnJlbnRSb3cgfHwge30sCiAgICAgICAgICAgIH0pfQogICAgICAgICAgICBwYXJhbXM9e3sKICAgICAgICAgICAgICBpZDogY3VycmVudFJvdz8uam9iTmFtZSwKICAgICAgICAgICAgfX0KICAgICAgICAgICAgY29sdW1ucz17Y29sdW1ucyBhcyBQcm9EZXNjcmlwdGlvbnNJdGVtUHJvcHM8U3FsSm9iPltdfQogICAgICAgICAgLz4KICAgICAgICApfQogICAgICA8L0RyYXdlcj4=</text>
+        <text encoding="base64">b25DbG9zZT17KCkgPT4gewogICAgICAgIHNldFNxbCgiIik7CiAgICAgICAgc2V0VmlzaWJsZShmYWxzZSk7CiAgICAgIH19</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
