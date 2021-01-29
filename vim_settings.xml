@@ -30,12 +30,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611898871394">
-        <mark key="[" line="134" column="12" />
-        <mark key="]" line="134" column="10" />
-        <mark key="^" line="19" column="2" />
-        <mark key="." line="134" column="10" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1611914206186">
+        <mark key="[" line="153" column="21" />
+        <mark key="]" line="155" column="20" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="155" column="20" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611914210751" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1611910495617">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -54,7 +55,6 @@
         <mark key="[" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ResourceServerConfig.java" timestamp="1611902184096" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/scheduler/SchedulerTask.java" timestamp="1611899825797" />
       <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTask.java" timestamp="1611910460660" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611909922221">
         <mark key="[" line="118" column="17" />
@@ -93,7 +93,7 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611911636738">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611913436586">
         <mark key="[" line="52" column="20" />
         <mark key="]" line="52" column="20" />
         <mark key="." line="52" column="20" />
@@ -158,36 +158,43 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>stauts</text>
+        <text>(record.stauts == 0)</text>
       </register>
       <register name="-" type="4">
-        <text>stauts</text>
+        <text>(record.stauts == 0)</text>
       </register>
       <register name="0" type="4">
         <text>SqlJobStandaloneImpl</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[
+              {key: 'open', name: '启用'},
+              {key: 'close', name: '停用'},
+              {key: 'start', name: '开始'},
+              {key: 'stop', name: '关闭'},
+              {key: 'delete', name: '日志'},
+            ]</text>
       </register>
       <register name="2" type="4">
+        <text>{key: 'start', name: '开始'},
+          {key: 'stop', name: '关闭'},</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtrZXk6ICdvcGVuJywgbmFtZTogJ+WQr+eUqCd9LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtrZXk6ICdjbG9zZScsIG5hbWU6ICflgZznlKgnfSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>@Modifying
     @Query(value = &quot;update JobConfig a set a.localLog =:log  where a.id = :id&quot;)
     void updateLog(String log, String id);</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuWIm+W7uueUqOaItyIsCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZEJ5IiwKICAgICAgICAgICAgZXhhbXBsZSA9ICJhZG1pbiIKICAgICk=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KAogICAgICAgICAgICB2YWx1ZSA9ICLliJvlu7rml6XmnJ8iLAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuacgOWQjuS/ruaUueS6uiIsCiAgICAgICAgICAgIG5hbWUgPSAibGFzdE1vZGlmaWVkQnkiLAogICAgICAgICAgICBleGFtcGxlID0gImFkbWluIgogICAgKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBAQXBpTW9kZWxQcm9wZXJ0eSgKICAgICAgICAgICAgdmFsdWUgPSAi5pyA5ZCO5L+u5pS55pe26Ze0IiwKICAgICAgICAgICAgbmFtZSA9ICJsYXN0TW9kaWZpZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBzd2l0Y2goa2V5KXsKICAgICAgICAgICAgICBjYXNlICdvcGVuJzp7Y29uZmlnUnVuKHJlY29yZC5pZCl9CiAgICAgICAgICAgICAgY2FzZSAnY2xvc2UnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RhcnQnOnt9CiAgICAgICAgICAgICAgY2FzZSAnc3RvcCc6e30KCiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuWIm+W7uueUqOaItyIsCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZEJ5IiwKICAgICAgICAgICAgZXhhbXBsZSA9ICJhZG1pbiIKICAgICk=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -198,10 +205,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNsb3NlSm9iKGlkOiBzdHJpbmcpIHsKICByZXR1cm4gcmVxdWVzdCh1cmwgKyBgL2Nsb3NlLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdGFydC8ke2lkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcKICB9KTsKfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3RvcEpvYihpZDogc3RyaW5nKSB7CiAgcmV0dXJuIHJlcXVlc3QodXJsICsgYC9zdG9wLyR7aWR9YCwgewogICAgbWV0aG9kOiAnUFVUJwogIH0pOwp9Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KAogICAgICAgICAgICB2YWx1ZSA9ICLliJvlu7rml6XmnJ8iLAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWREYXRlIiwKICAgICAgICAgICAgZXhhbXBsZSA9ICIyMDE3LTEyLTI4IgogICAgKQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkoCiAgICAgICAgICAgIHZhbHVlID0gIuacgOWQjuS/ruaUueS6uiIsCiAgICAgICAgICAgIG5hbWUgPSAibGFzdE1vZGlmaWVkQnkiLAogICAgICAgICAgICBleGFtcGxlID0gImFkbWluIgogICAgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
