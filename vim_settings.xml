@@ -58,8 +58,11 @@
         <mark key="]" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612143748174">
-        <mark key="[" line="109" column="21" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1612158206777" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612158224361">
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="21" />
+        <mark key="." line="124" column="21" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612147362517">
         <mark key="[" line="3" column="36" />
@@ -154,10 +157,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>connectors</text>
+        <text>${jackson.version}</text>
       </register>
       <register name="-" type="4">
-        <text>connectors</text>
+        <text>${jackson.version}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
@@ -218,7 +221,7 @@ import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
