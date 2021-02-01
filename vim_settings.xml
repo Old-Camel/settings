@@ -30,40 +30,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612146739460">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="17" column="2" />
-        <mark key="." line="26" column="18" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1612147481192">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/data.d.ts" timestamp="1611914210751" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612148076130">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="27" column="18" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1612143997498">
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="70" />
-      </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/DfTask.java" timestamp="1611910460660" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1611902914462" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611910482514">
-        <mark key="[" line="71" column="7" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/JobApplication.java" timestamp="1611905151240" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612143748174">
-        <mark key="[" line="109" column="21" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enumsAndConst/JobConfigStatus.java" timestamp="1612143731130" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611913436586">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1612145707635" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1611902589824">
-        <mark key="[" line="50" column="55" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/JobConfigServiceImpl.java" timestamp="1611909922221">
         <mark key="[" line="118" column="17" />
@@ -82,11 +62,23 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill/src/main/java/com/yunzainfo/cloud/datafill/entity/FormData.java" timestamp="1612145353665" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612146784113">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobRunLog.java" timestamp="1611910482514">
+        <mark key="[" line="71" column="7" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612143748174">
+        <mark key="[" line="109" column="21" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612147362517">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612148167433">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612145525352">
         <mark key="[" line="39" column="58" />
@@ -94,10 +86,15 @@
         <mark key="." line="39" column="58" />
         <mark key="^" line="39" column="59" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/JobConfigRepository.java" timestamp="1611903054405">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1612146870868">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="40" column="1" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/JobConfig.java" timestamp="1611913436586">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1612144115426">
         <mark key="[" line="0" column="0" />
@@ -161,50 +158,41 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text>import HookTable from &quot;@/components/HookTable&quot;;
-import {Button} from &quot;antd&quot;;
-import {Path} from &quot;../../../../config/path&quot;;
-import OperationModal from &quot;@/pages/Task/Sql/components/OperationModal&quot;;
-import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
+      <register name="*" type="4">
+        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
       </register>
       <register name="-" type="4">
-        <text>Conn</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+    params,
+  }</text>
+      </register>
+      <register name="3" type="2">
         <text>import HookTable from &quot;@/components/HookTable&quot;;
 import {Button} from &quot;antd&quot;;
 import {Path} from &quot;../../../../config/path&quot;;
 import OperationModal from &quot;@/pages/Task/Sql/components/OperationModal&quot;;
 import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IDxIb29rVGFibGU8U3FsSm9iPgogICAgICBoZWFkZXJUaXRsZT17J0ZsaW5rIHNxbOS7u+WKoeWIl+ihqCd9CiAgICAgIG1vcmVMb2FkaW5nPXthZGRMb2FkaW5nIHx8IHVwZGF0ZUxvYWRpbmd9CiAgICAgIGFjdGlvblJlZj17YWN0aW9uUmVmfQogICAgICByb3dLZXk9ImlkIgogICAgICBzZWFyY2g9e3sKICAgICAgICBsYWJlbFdpZHRoOiA4MCwKICAgICAgfX0KICAgICAgdG9vbEJhclJlbmRlcj17KCkgPT4gWwogICAgICAgIDxCdXR0b24KICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICBrZXk9InByaW1hcnkiCiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICB0b2dnbGVNb2RhbFZpc2libGUoKTsKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFBsdXNPdXRsaW5lZC8+IOaWsOW7ugogICAgICAgIDwvQnV0dG9uPiwKICAgICAgXX0KICAgICAgb3B0aW9ucz17e2Z1bGxTY3JlZW46IHRydWV9fQogICAgICB1cmw9e1BhdGguZGF0YXBpcGUgKyAnL2pvYi9xdWVyeUxpc3RGb3JQYWdlJ30KICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgb25Mb2FkaW5nQ2hhbmdlPXsobG9hZGluZykgPT4gewogICAgICAgIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19CiAgICAvPg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PE9wZXJhdGlvbk1vZGFsIHZpc2libGU9e01vZGFsVmlzaWJsZX0gc2V0VmlzaWJsZT17dG9nZ2xlTW9kYWxWaXNpYmxlfQogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQ9e2N1cnJlbnRSb3d9IG9uU3VibWl0PXtoYW5kbGVTdWJtaXR9Lz4KICAgIDxTcWxNaXJyb3Igb25TdWJtaXQ9e2hhbmRsZVN1Ym1pdH0gY3VycmVudD17Y3VycmVudFJvd30gdmlzaWJsZT17c2hvd1NxbH0gc2V0VmlzaWJsZT17c2V0U2hvd1NxbC50b2dnbGV9Lz4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gY29ubmVjdG9ycyA9IGthZmthQ29ubmVjdENsaWVudC5nZXQoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgZmluYWwgQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uID0gbmV3IENvbmZpZ3VyYXRpb24oImh0dHA6Ly9ob3N0bmFtZS5mb3Iua2Fma2EtY29ubmVjdC5zZXJ2aWNlLmNvbTo4MDgzIik7CiAgICAgICAgZmluYWwgS2Fma2FDb25uZWN0Q2xpZW50IGNsaWVudCA9IG5ldyBLYWZrYUNvbm5lY3RDbGllbnQoY29uZmlndXJhdGlvbik7CgogICAgICAgIGZpbmFsIENvbGxlY3Rpb248U3RyaW5nPiBjb25uZWN0b3JMaXN0ID0gY2xpZW50LmdldENvbm5lY3RvcnMoKTsKCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgZmluYWwgQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uID0gbmV3IENvbmZpZ3VyYXRpb24oImh0dHA6Ly9ob3N0bmFtZS5mb3Iua2Fma2EtY29ubmVjdC5zZXJ2aWNlLmNvbTo4MDgzIik7CiAgICBmaW5hbCBLYWZrYUNvbm5lY3RDbGllbnQgY2xpZW50ID0gbmV3IEthZmthQ29ubmVjdENsaWVudChjb25maWd1cmF0aW9uKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text>#@Value(&quot;${serverPath}&quot;)
-#public String serverPath=&quot;/usr/local/Cellar/apache-flink/server/&quot;;
-#@Value(&quot;${flinkWebUrl}&quot;)
-#public String flinkWebUrl=&quot;http://localhost:8081/&quot;;
-#@Value(&quot;${flinkWebUrl}&quot;)
-#public String flinkHaWebUrl=&quot;http://localhost:8081/&quot;;
-#@Value(&quot;${flinkHome}&quot;)
-#public String flinkHome=&quot;/usr/local/Cellar/apache-flink/1.12.0/&quot;;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -215,17 +203,17 @@ import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
         </keys>
       </register>
       <register name="8" type="4">
-        <text>[
-              {key: 'open', name: '启用'},
-              {key: 'close', name: '停用'},
-              {key: 'start', name: '开始'},
-              {key: 'stop', name: '关闭'},
-              {key: 'delete', name: '日志'},
-            ]</text>
+        <text encoding="base64">ICAgZmluYWwgQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uID0gbmV3IENvbmZpZ3VyYXRpb24oImh0dHA6Ly9ob3N0bmFtZS5mb3Iua2Fma2EtY29ubmVjdC5zZXJ2aWNlLmNvbTo4MDgzIik7CiAgICBmaW5hbCBLYWZrYUNvbm5lY3RDbGllbnQgY2xpZW50ID0gbmV3IEthZmthQ29ubmVjdENsaWVudChjb25maWd1cmF0aW9uKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{key: 'start', name: '开始'},
-          {key: 'stop', name: '关闭'},</text>
+      <register name="9" type="2">
+        <text>#@Value(&quot;${serverPath}&quot;)
+#public String serverPath=&quot;/usr/local/Cellar/apache-flink/server/&quot;;
+#@Value(&quot;${flinkWebUrl}&quot;)
+#public String flinkWebUrl=&quot;http://localhost:8081/&quot;;
+#@Value(&quot;${flinkWebUrl}&quot;)
+#public String flinkHaWebUrl=&quot;http://localhost:8081/&quot;;
+#@Value(&quot;${flinkHome}&quot;)
+#public String flinkHome=&quot;/usr/local/Cellar/apache-flink/1.12.0/&quot;;</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -235,7 +223,7 @@ import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
