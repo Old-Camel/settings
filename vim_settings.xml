@@ -31,12 +31,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1612151456300" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612165837328">
+        <mark key="[" line="23" column="7" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1612147481192">
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612160947626">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612165642301">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="27" column="18" />
         <mark key="^" line="18" column="2" />
@@ -56,7 +59,7 @@
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612160816858">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612164770029">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
@@ -69,27 +72,36 @@
         <mark key="." line="54" column="36" />
         <mark key="^" line="44" column="22" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612165117953">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror.tsx" timestamp="1612165410980">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612158224361">
         <mark key="[" line="124" column="21" />
         <mark key="]" line="124" column="21" />
         <mark key="." line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612162039279">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="38" column="14" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1612165703356">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612165781005">
+        <mark key="[" line="139" column="23" />
+        <mark key="]" line="139" column="23" />
+        <mark key="." line="139" column="23" />
+        <mark key="^" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/dto/ConnectorInfo.java" timestamp="1612159378289">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612145525352">
-        <mark key="[" line="39" column="58" />
-        <mark key="]" line="39" column="58" />
-        <mark key="." line="39" column="58" />
-        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1612146870868">
         <mark key="[" line="41" column="0" />
@@ -159,40 +171,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>connectors.getMappedStatuses().get(name).getType()</text>
+        <text>price</text>
       </register>
       <register name="-" type="4">
-        <text>connectors.getMappedStatuses().get(name).getType()</text>
+        <text>price</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IG9uTG9hZGluZ0NoYW5nZT17KGxvYWRpbmcpID0+IHsKICAgICAgICBzZXRUYWJsZUxvYWRpbmcoISFsb2FkaW5nKQogICAgICB9</text>
+        <text encoding="base64">IG9uS2V5UHJlc3M9eyhlZGl0b3IpID0+IHsKICAgIGVkaXRvci5zaG93SGludCgpOwogIH19</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgdGl0bGU6ICflvIDlkK/nirbmgIEnLAogICAgICBkYXRhSW5kZXg6ICdpc09wZW4nLAogICAgICBoaWRlSW5TZWFyY2g6IGZhbHNlLAogICAgICB3aWR0aDogJzEwJScsCiAgICAgIHZhbHVlVHlwZTogJ3NlbGVjdCcsCiAgICAgIHZhbHVlRW51bTogaXNPcGVuTWFwCiAgICB9</text>
+        <text encoding="base64">IG9uTG9hZGluZ0NoYW5nZT17KGxvYWRpbmcpID0+IHsKICAgICAgICBzZXRUYWJsZUxvYWRpbmcoISFsb2FkaW5nKQogICAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bGV0IG1lbnVzID0gW107CiAgICAgICAgaWYgKHJlY29yZC5pc09wZW4gPT0gMSkgewogICAgICAgICAgbWVudXMucHVzaCh7a2V5OiAnY2xvc2UnLCBuYW1lOiAn5YGc55SoJ30pCiAgICAgICAgICBpZiAocmVjb3JkLnN0YXR1cz09MSkgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdG9wJywgbmFtZTogJ+WFs+mXrSd9KTsKICAgICAgICAgIH0gZWxzZSAgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdGFydCcsIG5hbWU6ICflvIDlp4snfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lbnVzLnB1c2goe2tleTogJ29wZW4nLCBuYW1lOiAn5ZCv55SoJ30pCiAgICAgICAgfQogICAgICAgIG1lbnVzLnB1c2goe2tleTogJ2RlbGV0ZScsIG5hbWU6ICfml6Xlv5cnfSk7Cgo=</text>
+        <text encoding="base64">IHsKICAgICAgdGl0bGU6ICflvIDlkK/nirbmgIEnLAogICAgICBkYXRhSW5kZXg6ICdpc09wZW4nLAogICAgICBoaWRlSW5TZWFyY2g6IGZhbHNlLAogICAgICB3aWR0aDogJzEwJScsCiAgICAgIHZhbHVlVHlwZTogJ3NlbGVjdCcsCiAgICAgIHZhbHVlRW51bTogaXNPcGVuTWFwCiAgICB9</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
+        <text encoding="base64">bGV0IG1lbnVzID0gW107CiAgICAgICAgaWYgKHJlY29yZC5pc09wZW4gPT0gMSkgewogICAgICAgICAgbWVudXMucHVzaCh7a2V5OiAnY2xvc2UnLCBuYW1lOiAn5YGc55SoJ30pCiAgICAgICAgICBpZiAocmVjb3JkLnN0YXR1cz09MSkgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdG9wJywgbmFtZTogJ+WFs+mXrSd9KTsKICAgICAgICAgIH0gZWxzZSAgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdGFydCcsIG5hbWU6ICflvIDlp4snfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lbnVzLnB1c2goe2tleTogJ29wZW4nLCBuYW1lOiAn5ZCv55SoJ30pCiAgICAgICAgfQogICAgICAgIG1lbnVzLnB1c2goe2tleTogJ2RlbGV0ZScsIG5hbWU6ICfml6Xlv5cnfSk7Cgo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
+      </register>
+      <register name="6" type="4">
         <text>{
     params,
   }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>import HookTable from &quot;@/components/HookTable&quot;;
 import {Button} from &quot;antd&quot;;
 import {Path} from &quot;../../../../config/path&quot;;
 import OperationModal from &quot;@/pages/Task/Sql/components/OperationModal&quot;;
 import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxIb29rVGFibGU8U3FsSm9iPgogICAgICBoZWFkZXJUaXRsZT17J0ZsaW5rIHNxbOS7u+WKoeWIl+ihqCd9CiAgICAgIG1vcmVMb2FkaW5nPXthZGRMb2FkaW5nIHx8IHVwZGF0ZUxvYWRpbmd9CiAgICAgIGFjdGlvblJlZj17YWN0aW9uUmVmfQogICAgICByb3dLZXk9ImlkIgogICAgICBzZWFyY2g9e3sKICAgICAgICBsYWJlbFdpZHRoOiA4MCwKICAgICAgfX0KICAgICAgdG9vbEJhclJlbmRlcj17KCkgPT4gWwogICAgICAgIDxCdXR0b24KICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICBrZXk9InByaW1hcnkiCiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICB0b2dnbGVNb2RhbFZpc2libGUoKTsKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFBsdXNPdXRsaW5lZC8+IOaWsOW7ugogICAgICAgIDwvQnV0dG9uPiwKICAgICAgXX0KICAgICAgb3B0aW9ucz17e2Z1bGxTY3JlZW46IHRydWV9fQogICAgICB1cmw9e1BhdGguZGF0YXBpcGUgKyAnL2pvYi9xdWVyeUxpc3RGb3JQYWdlJ30KICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgb25Mb2FkaW5nQ2hhbmdlPXsobG9hZGluZykgPT4gewogICAgICAgIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19CiAgICAvPg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -203,10 +215,10 @@ import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PE9wZXJhdGlvbk1vZGFsIHZpc2libGU9e01vZGFsVmlzaWJsZX0gc2V0VmlzaWJsZT17dG9nZ2xlTW9kYWxWaXNpYmxlfQogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQ9e2N1cnJlbnRSb3d9IG9uU3VibWl0PXtoYW5kbGVTdWJtaXR9Lz4KICAgIDxTcWxNaXJyb3Igb25TdWJtaXQ9e2hhbmRsZVN1Ym1pdH0gY3VycmVudD17Y3VycmVudFJvd30gdmlzaWJsZT17c2hvd1NxbH0gc2V0VmlzaWJsZT17c2V0U2hvd1NxbC50b2dnbGV9Lz4K</text>
+        <text encoding="base64">IDxIb29rVGFibGU8U3FsSm9iPgogICAgICBoZWFkZXJUaXRsZT17J0ZsaW5rIHNxbOS7u+WKoeWIl+ihqCd9CiAgICAgIG1vcmVMb2FkaW5nPXthZGRMb2FkaW5nIHx8IHVwZGF0ZUxvYWRpbmd9CiAgICAgIGFjdGlvblJlZj17YWN0aW9uUmVmfQogICAgICByb3dLZXk9ImlkIgogICAgICBzZWFyY2g9e3sKICAgICAgICBsYWJlbFdpZHRoOiA4MCwKICAgICAgfX0KICAgICAgdG9vbEJhclJlbmRlcj17KCkgPT4gWwogICAgICAgIDxCdXR0b24KICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICBrZXk9InByaW1hcnkiCiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICB0b2dnbGVNb2RhbFZpc2libGUoKTsKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFBsdXNPdXRsaW5lZC8+IOaWsOW7ugogICAgICAgIDwvQnV0dG9uPiwKICAgICAgXX0KICAgICAgb3B0aW9ucz17e2Z1bGxTY3JlZW46IHRydWV9fQogICAgICB1cmw9e1BhdGguZGF0YXBpcGUgKyAnL2pvYi9xdWVyeUxpc3RGb3JQYWdlJ30KICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgb25Mb2FkaW5nQ2hhbmdlPXsobG9hZGluZykgPT4gewogICAgICAgIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19CiAgICAvPg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gY29ubmVjdG9ycyA9IGthZmthQ29ubmVjdENsaWVudC5nZXQoKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">PE9wZXJhdGlvbk1vZGFsIHZpc2libGU9e01vZGFsVmlzaWJsZX0gc2V0VmlzaWJsZT17dG9nZ2xlTW9kYWxWaXNpYmxlfQogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQ9e2N1cnJlbnRSb3d9IG9uU3VibWl0PXtoYW5kbGVTdWJtaXR9Lz4KICAgIDxTcWxNaXJyb3Igb25TdWJtaXQ9e2hhbmRsZVN1Ym1pdH0gY3VycmVudD17Y3VycmVudFJvd30gdmlzaWJsZT17c2hvd1NxbH0gc2V0VmlzaWJsZT17c2V0U2hvd1NxbC50b2dnbGV9Lz4K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
