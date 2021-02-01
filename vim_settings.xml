@@ -38,17 +38,15 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612178373523">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="27" column="18" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612181679287">
+        <mark key="[" line="220" column="30" />
+        <mark key="]" line="220" column="30" />
         <mark key="^" line="18" column="2" />
-        <mark key="." line="27" column="18" />
+        <mark key="." line="220" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1612168450699" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612179784089">
-        <mark key="[" line="181" column="20" />
-        <mark key="]" line="156" column="25" />
-        <mark key="." line="156" column="25" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612181543277">
+        <mark key="[" line="185" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1612169727663">
         <mark key="[" line="0" column="0" />
@@ -168,40 +166,38 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">dGFibGVEYXRhLnJlZnJlc2gg</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGFibGVEYXRhLnJlZnJlc2gg</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHRvb2xiYXI9eyB7c2V0dGluZ3M6WyB7CiAgICAgICAgaWNvbjogPFNldHRpbmdPdXRsaW5lZCAvPiwKICAgICAgICB0b29sdGlwOiAn6K6+572uJywKICAgICAgfV19</text>
+      </register>
+      <register name="3" type="4">
         <text>if (record.status==1) {
             menus.push({key: 'stop', name: '关闭'});
           } else  {
             menus.push({key: 'start', name: '开始'});
           }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IG9uS2V5UHJlc3M9eyhlZGl0b3IpID0+IHsKICAgIGVkaXRvci5zaG93SGludCgpOwogIH19</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IG9uTG9hZGluZ0NoYW5nZT17KGxvYWRpbmcpID0+IHsKICAgICAgICBzZXRUYWJsZUxvYWRpbmcoISFsb2FkaW5nKQogICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsKICAgICAgdGl0bGU6ICflvIDlkK/nirbmgIEnLAogICAgICBkYXRhSW5kZXg6ICdpc09wZW4nLAogICAgICBoaWRlSW5TZWFyY2g6IGZhbHNlLAogICAgICB3aWR0aDogJzEwJScsCiAgICAgIHZhbHVlVHlwZTogJ3NlbGVjdCcsCiAgICAgIHZhbHVlRW51bTogaXNPcGVuTWFwCiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bGV0IG1lbnVzID0gW107CiAgICAgICAgaWYgKHJlY29yZC5pc09wZW4gPT0gMSkgewogICAgICAgICAgbWVudXMucHVzaCh7a2V5OiAnY2xvc2UnLCBuYW1lOiAn5YGc55SoJ30pCiAgICAgICAgICBpZiAocmVjb3JkLnN0YXR1cz09MSkgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdG9wJywgbmFtZTogJ+WFs+mXrSd9KTsKICAgICAgICAgIH0gZWxzZSAgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdGFydCcsIG5hbWU6ICflvIDlp4snfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lbnVzLnB1c2goe2tleTogJ29wZW4nLCBuYW1lOiAn5ZCv55SoJ30pCiAgICAgICAgfQogICAgICAgIG1lbnVzLnB1c2goe2tleTogJ2RlbGV0ZScsIG5hbWU6ICfml6Xlv5cnfSk7Cgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
-      </register>
       <register name="7" type="4">
-        <text>{
-    params,
-  }</text>
+        <text encoding="base64">bGV0IG1lbnVzID0gW107CiAgICAgICAgaWYgKHJlY29yZC5pc09wZW4gPT0gMSkgewogICAgICAgICAgbWVudXMucHVzaCh7a2V5OiAnY2xvc2UnLCBuYW1lOiAn5YGc55SoJ30pCiAgICAgICAgICBpZiAocmVjb3JkLnN0YXR1cz09MSkgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdG9wJywgbmFtZTogJ+WFs+mXrSd9KTsKICAgICAgICAgIH0gZWxzZSAgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdGFydCcsIG5hbWU6ICflvIDlp4snfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lbnVzLnB1c2goe2tleTogJ29wZW4nLCBuYW1lOiAn5ZCv55SoJ30pCiAgICAgICAgfQogICAgICAgIG1lbnVzLnB1c2goe2tleTogJ2RlbGV0ZScsIG5hbWU6ICfml6Xlv5cnfSk7Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -211,15 +207,13 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text>import HookTable from &quot;@/components/HookTable&quot;;
-import {Button} from &quot;antd&quot;;
-import {Path} from &quot;../../../../config/path&quot;;
-import OperationModal from &quot;@/pages/Task/Sql/components/OperationModal&quot;;
-import SqlMirror from &quot;@/pages/Task/Sql/components/SqlMirror&quot;;</text>
+      <register name="8" type="4">
+        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IDxIb29rVGFibGU8U3FsSm9iPgogICAgICBoZWFkZXJUaXRsZT17J0ZsaW5rIHNxbOS7u+WKoeWIl+ihqCd9CiAgICAgIG1vcmVMb2FkaW5nPXthZGRMb2FkaW5nIHx8IHVwZGF0ZUxvYWRpbmd9CiAgICAgIGFjdGlvblJlZj17YWN0aW9uUmVmfQogICAgICByb3dLZXk9ImlkIgogICAgICBzZWFyY2g9e3sKICAgICAgICBsYWJlbFdpZHRoOiA4MCwKICAgICAgfX0KICAgICAgdG9vbEJhclJlbmRlcj17KCkgPT4gWwogICAgICAgIDxCdXR0b24KICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICBrZXk9InByaW1hcnkiCiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICB0b2dnbGVNb2RhbFZpc2libGUoKTsKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFBsdXNPdXRsaW5lZC8+IOaWsOW7ugogICAgICAgIDwvQnV0dG9uPiwKICAgICAgXX0KICAgICAgb3B0aW9ucz17e2Z1bGxTY3JlZW46IHRydWV9fQogICAgICB1cmw9e1BhdGguZGF0YXBpcGUgKyAnL2pvYi9xdWVyeUxpc3RGb3JQYWdlJ30KICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgb25Mb2FkaW5nQ2hhbmdlPXsobG9hZGluZykgPT4gewogICAgICAgIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19CiAgICAvPg==</text>
+        <text>{
+    params,
+  }</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
