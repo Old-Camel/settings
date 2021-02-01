@@ -31,13 +31,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1612151456300" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612165837328">
-        <mark key="[" line="23" column="7" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1612147481192">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612168206485">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612165642301">
         <mark key="[" line="1" column="51" />
@@ -45,8 +43,12 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1612168450699" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612161996638">
         <mark key="[" line="26" column="38" />
+      </file>
+      <file name="/a.dummy" timestamp="1612169727663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1612150750072">
         <mark key="[" line="6" column="30" />
@@ -59,18 +61,18 @@
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612164770029">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612167281221">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/sourcelab/kafka-connect-client/3.1.0/kafka-connect-client-3.1.0.jar!/org/sourcelab/kafka/connect/apiclient/request/dto/ConnectorDefinition.class" timestamp="1612151780254" />
       <file name="$MAVEN_REPOSITORY$/org/sourcelab/kafka-connect-client/3.1.0/kafka-connect-client-3.1.0.jar!/org/sourcelab/kafka/connect/apiclient/request/dto/ConnectorsWithExpandedMetadata.class" timestamp="1612162463010" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaController.java" timestamp="1612162879361">
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="36" />
-        <mark key="^" line="44" column="22" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaController.java" timestamp="1612169711768">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612165117953">
         <mark key="[" line="1" column="24" />
@@ -87,26 +89,21 @@
         <mark key="]" line="124" column="21" />
         <mark key="." line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1612165703356">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1612167169834">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612165781005">
-        <mark key="[" line="139" column="23" />
-        <mark key="]" line="139" column="23" />
-        <mark key="." line="139" column="23" />
-        <mark key="^" line="43" column="14" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612169237664">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="52" column="14" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/dto/ConnectorInfo.java" timestamp="1612159378289">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1612146870868">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="40" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1612162684076">
         <mark key="[" line="0" column="0" />
@@ -171,10 +168,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>price</text>
+        <text>connectors</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>connectors</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
