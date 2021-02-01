@@ -30,10 +30,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612168206485">
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="33" />
-        <mark key="." line="39" column="33" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612174687875">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
         <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612171110644">
@@ -68,7 +68,7 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612165117953">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612174666416">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
@@ -99,8 +99,8 @@
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612173433735">
-        <mark key="[" line="55" column="15" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612175074180">
+        <mark key="[" line="56" column="101" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1612170192714">
         <mark key="[" line="41" column="0" />
@@ -170,10 +170,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>@@/plugin-request/request</text>
+        <text>span</text>
       </register>
       <register name="-" type="4">
-        <text>@@/plugin-request/request</text>
+        <text>span</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
