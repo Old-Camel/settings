@@ -36,12 +36,6 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612181679287">
-        <mark key="[" line="220" column="30" />
-        <mark key="]" line="220" column="30" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="220" column="30" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/param/JobRunParam.java" timestamp="1612236914342">
         <mark key="[" line="48" column="126" />
         <mark key="]" line="46" column="19" />
@@ -61,6 +55,11 @@
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/flink/Dockerfile" timestamp="1612246540447">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1612238116062">
         <mark key="[" line="207" column="21" />
@@ -82,10 +81,15 @@
         <mark key="." line="37" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1612229967830" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1612245361230">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1612246660905">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612246286884">
+        <mark key="[" line="170" column="25" />
+        <mark key="]" line="170" column="25" />
+        <mark key="." line="170" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/Application.java" timestamp="1612238573056">
         <mark key="[" line="21" column="22" />
@@ -164,35 +168,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>222.30.194.111</text>
+      <register name="*" type="2">
+        <text>RUN mkdir -p /opt/data/lib
+RUN mkdir -p /opt/data/sql
+RUN chmod -R 777 /opt/data/
+
+ADD /usr/local/Cellar/apache-flink/1.12.0 /opt/data/flink</text>
       </register>
       <register name="-" type="4">
-        <text>222.30.194.111</text>
+        <text>/usr/local/Cellar/apache-flink/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZGVzY0NvbHVtbnM6UHJvRGVzY3JpcHRpb25zSXRlbVByb3BzPENvbm5lY3Rvcj5bXT1bCiAgewogICAgdGl0bGU6ICflkI3np7AnLAogICAgZGF0YUluZGV4OiAnbmFtZScsCiAgfSwKICB7CiAgICB0aXRsZTogJ+eKtuaAgScsCiAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgdmFsdWVFbnVtOiB7CiAgICAgIC8vcnVubmluZywgZmFpbGVkLCBwYXVzZWQsCiAgICAgIFJVTk5JTkc6IHtzdGF0dXM6ICdQcm9jZXNzaW5nJywgdGV4dDogJ+i/kOihjOS4rSd9LAogICAgICBGQUlMRUQ6IHtzdGF0dXM6ICdFcnJvcicsIHRleHQ6ICflvILluLgnfSwKICAgICAgUEFVU0VEOiB7c3RhdHVzOiAnRGVmYXVsdCcsIHRleHQ6ICfmmoLlgZzkuK0nfSwKICAgIH0KICB9LAogIHsKICAgIHRpdGxlOiAn5Li76aKY5pWwJywKICAgIGRhdGFJbmRleDogJ3RvcGljcycsCiAgICAvLyB3aWR0aDogJzglJywKICAgIHJlbmRlclRleHQ6IChfLCByZWNvcmQpID0+ICgKICAgICAgcmVjb3JkLnRvcGljcz8ubGVuZ3RoID8/IDAKICAgICkKICB9LAoKXTs=</text>
+        <text>RUN mkdir -p /opt/data/lib
+RUN mkdir -p /opt/data/sql
+RUN chmod -R 777 /opt/data/
+
+ADD /usr/local/Cellar/apache-flink/1.12.0 /opt/data/flink</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8vIGhpZGVJblNlYXJjaDogZmFsc2UsCiAgICAvLyB3aWR0aDogJzEwJScs</text>
+      <register name="2" type="2">
+        <text>ARG JAR_FILE
+ARG FLINK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
+        <text encoding="base64">CkFERCAke0pBUl9GSUxFfSAvZGVwbG95bWVudHMvYXBwLmphcgpBREQgamFyL2RhdGEtcGlwZS1jb3JlLmphciAvb3B0L2RhdGEvbGliL2RhdGEtcGlwZS1jb3JlLmphcgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>ARG JAR_FILE
+ARG FLINK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZGVzY0NvbHVtbnM6UHJvRGVzY3JpcHRpb25zSXRlbVByb3BzPENvbm5lY3Rvcj5bXT1bCiAgewogICAgdGl0bGU6ICflkI3np7AnLAogICAgZGF0YUluZGV4OiAnbmFtZScsCiAgfSwKICB7CiAgICB0aXRsZTogJ+eKtuaAgScsCiAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgdmFsdWVFbnVtOiB7CiAgICAgIC8vcnVubmluZywgZmFpbGVkLCBwYXVzZWQsCiAgICAgIFJVTk5JTkc6IHtzdGF0dXM6ICdQcm9jZXNzaW5nJywgdGV4dDogJ+i/kOihjOS4rSd9LAogICAgICBGQUlMRUQ6IHtzdGF0dXM6ICdFcnJvcicsIHRleHQ6ICflvILluLgnfSwKICAgICAgUEFVU0VEOiB7c3RhdHVzOiAnRGVmYXVsdCcsIHRleHQ6ICfmmoLlgZzkuK0nfSwKICAgIH0KICB9LAogIHsKICAgIHRpdGxlOiAn5Li76aKY5pWwJywKICAgIGRhdGFJbmRleDogJ3RvcGljcycsCiAgICAvLyB3aWR0aDogJzglJywKICAgIHJlbmRlclRleHQ6IChfLCByZWNvcmQpID0+ICgKICAgICAgcmVjb3JkLnRvcGljcz8ubGVuZ3RoID8/IDAKICAgICkKICB9LAoKXTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb25Mb2FkaW5nQ2hhbmdlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IC8vIGhpZGVJblNlYXJjaDogZmFsc2UsCiAgICAvLyB3aWR0aDogJzEwJScs</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PXsobG9hZGluZykgPT4gewogICAgICAgIC8vIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -203,10 +217,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGFnaW5hdGlvbj17ZmFsc2V9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
