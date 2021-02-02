@@ -30,8 +30,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/ToolBar/index.d.ts" timestamp="1612178780771" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/components/ListToolBar/index.d.ts" timestamp="1612178998843" />
+      <file name="/Dummy.txt" timestamp="1612229616564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612174687875">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
@@ -44,25 +45,14 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="220" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1612168450699" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612181543277">
-        <mark key="[" line="185" column="5" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612229156465">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1612169727663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-table/lib/typing.d.ts" timestamp="1612178703417" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612171220656">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612171208444">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/sourcelab/kafka-connect-client/3.1.0/kafka-connect-client-3.1.0.jar!/org/sourcelab/kafka/connect/apiclient/request/dto/ConnectorsWithExpandedMetadata.class" timestamp="1612162463010" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaController.java" timestamp="1612169711768">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="30" />
@@ -84,16 +74,21 @@
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612179729091">
-        <mark key="[" line="169" column="8" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="109" column="16" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612171220656">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/dto/ConnectorInfo.java" timestamp="1612159378289">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/data.d.ts" timestamp="1612171208444">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612229111660">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="109" column="16" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612176473212">
         <mark key="[" line="56" column="101" />
@@ -165,8 +160,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>true</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -174,30 +169,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRvb2xiYXI9eyB7c2V0dGluZ3M6WyB7CiAgICAgICAgaWNvbjogPFNldHRpbmdPdXRsaW5lZCAvPiwKICAgICAgICB0b29sdGlwOiAn6K6+572uJywKICAgICAgfV19</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>if (record.status==1) {
-            menus.push({key: 'stop', name: '关闭'});
-          } else  {
-            menus.push({key: 'start', name: '开始'});
-          }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IG9uS2V5UHJlc3M9eyhlZGl0b3IpID0+IHsKICAgIGVkaXRvci5zaG93SGludCgpOwogIH19</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb25Mb2FkaW5nQ2hhbmdlCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IG9uTG9hZGluZ0NoYW5nZT17KGxvYWRpbmcpID0+IHsKICAgICAgICBzZXRUYWJsZUxvYWRpbmcoISFsb2FkaW5nKQogICAgICB9</text>
+        <text encoding="base64">PXsobG9hZGluZykgPT4gewogICAgICAgIC8vIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgdGl0bGU6ICflvIDlkK/nirbmgIEnLAogICAgICBkYXRhSW5kZXg6ICdpc09wZW4nLAogICAgICBoaWRlSW5TZWFyY2g6IGZhbHNlLAogICAgICB3aWR0aDogJzEwJScsCiAgICAgIHZhbHVlVHlwZTogJ3NlbGVjdCcsCiAgICAgIHZhbHVlRW51bTogaXNPcGVuTWFwCiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gcGFnaW5hdGlvbj17ZmFsc2V9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGV0IG1lbnVzID0gW107CiAgICAgICAgaWYgKHJlY29yZC5pc09wZW4gPT0gMSkgewogICAgICAgICAgbWVudXMucHVzaCh7a2V5OiAnY2xvc2UnLCBuYW1lOiAn5YGc55SoJ30pCiAgICAgICAgICBpZiAocmVjb3JkLnN0YXR1cz09MSkgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdG9wJywgbmFtZTogJ+WFs+mXrSd9KTsKICAgICAgICAgIH0gZWxzZSAgewogICAgICAgICAgICBtZW51cy5wdXNoKHtrZXk6ICdzdGFydCcsIG5hbWU6ICflvIDlp4snfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lbnVzLnB1c2goe2tleTogJ29wZW4nLCBuYW1lOiAn5ZCv55SoJ30pCiAgICAgICAgfQogICAgICAgIG1lbnVzLnB1c2goe2tleTogJ2RlbGV0ZScsIG5hbWU6ICfml6Xlv5cnfSk7Cgo=</text>
+        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -208,12 +199,14 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PFBhZ2VDb250YWluZXI+CiAgICA8ZGl2PnRlc3Q8L2Rpdj4KICA8L1BhZ2VDb250YWluZXI+</text>
+        <text encoding="base64">IHRvb2xiYXI9eyB7c2V0dGluZ3M6WyB7CiAgICAgICAgaWNvbjogPFNldHRpbmdPdXRsaW5lZCAvPiwKICAgICAgICB0b29sdGlwOiAn6K6+572uJywKICAgICAgfV19</text>
       </register>
       <register name="9" type="4">
-        <text>{
-    params,
-  }</text>
+        <text>if (record.status==1) {
+            menus.push({key: 'stop', name: '关闭'});
+          } else  {
+            menus.push({key: 'start', name: '开始'});
+          }</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
