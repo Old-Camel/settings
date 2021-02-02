@@ -30,10 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1612230085732">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612174687875">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1612235085010">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
         <mark key="." line="36" column="5" />
@@ -45,35 +42,20 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="220" column="30" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/param/JobRunParam.java" timestamp="1612236914342">
+        <mark key="[" line="48" column="126" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/HookTable/index.tsx" timestamp="1612229156465">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1612169727663">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaController.java" timestamp="1612169711768">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612174666416">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror.tsx" timestamp="1612165410980">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1612229967830" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1612167169834">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application.properties" timestamp="1612236880366">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612171220656">
         <mark key="[" line="12" column="43" />
@@ -85,14 +67,34 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612229111660">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="109" column="16" />
-        <mark key="." line="173" column="0" />
+      <file name="/Dummy.txt" timestamp="1612230085732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1612236985997">
+        <mark key="[" line="86" column="131" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612174666416">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1612236944328">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1612229967830" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612236104984">
+        <mark key="[" line="209" column="15" />
+        <mark key="]" line="209" column="6" />
+        <mark key="^" line="113" column="16" />
+        <mark key="." line="209" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612176473212">
         <mark key="[" line="56" column="101" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612236863130">
+        <mark key="[" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1612170192714">
         <mark key="[" line="41" column="0" />
@@ -158,35 +160,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
+      <register name="*" type="4">
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
+        <text encoding="base64">Y29uc3QgZGVzY0NvbHVtbnM6UHJvRGVzY3JpcHRpb25zSXRlbVByb3BzPENvbm5lY3Rvcj5bXT1bCiAgewogICAgdGl0bGU6ICflkI3np7AnLAogICAgZGF0YUluZGV4OiAnbmFtZScsCiAgfSwKICB7CiAgICB0aXRsZTogJ+eKtuaAgScsCiAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgdmFsdWVFbnVtOiB7CiAgICAgIC8vcnVubmluZywgZmFpbGVkLCBwYXVzZWQsCiAgICAgIFJVTk5JTkc6IHtzdGF0dXM6ICdQcm9jZXNzaW5nJywgdGV4dDogJ+i/kOihjOS4rSd9LAogICAgICBGQUlMRUQ6IHtzdGF0dXM6ICdFcnJvcicsIHRleHQ6ICflvILluLgnfSwKICAgICAgUEFVU0VEOiB7c3RhdHVzOiAnRGVmYXVsdCcsIHRleHQ6ICfmmoLlgZzkuK0nfSwKICAgIH0KICB9LAogIHsKICAgIHRpdGxlOiAn5Li76aKY5pWwJywKICAgIGRhdGFJbmRleDogJ3RvcGljcycsCiAgICAvLyB3aWR0aDogJzglJywKICAgIHJlbmRlclRleHQ6IChfLCByZWNvcmQpID0+ICgKICAgICAgcmVjb3JkLnRvcGljcz8ubGVuZ3RoID8/IDAKICAgICkKICB9LAoKXTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC8vIGhpZGVJblNlYXJjaDogZmFsc2UsCiAgICAvLyB3aWR0aDogJzEwJScs</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25Mb2FkaW5nQ2hhbmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PXsobG9hZGluZykgPT4gewogICAgICAgIC8vIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGFnaW5hdGlvbj17ZmFsc2V9Cg==</text>
+        <text encoding="base64">ICAgICAgb25Mb2FkaW5nQ2hhbmdlCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
+        <text encoding="base64">PXsobG9hZGluZykgPT4gewogICAgICAgIC8vIHNldFRhYmxlTG9hZGluZyghIWxvYWRpbmcpCiAgICAgIH19</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -196,15 +198,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHRvb2xiYXI9eyB7c2V0dGluZ3M6WyB7CiAgICAgICAgaWNvbjogPFNldHRpbmdPdXRsaW5lZCAvPiwKICAgICAgICB0b29sdGlwOiAn6K6+572uJywKICAgICAgfV19</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gcGFnaW5hdGlvbj17ZmFsc2V9Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>if (record.status==1) {
-            menus.push({key: 'stop', name: '关闭'});
-          } else  {
-            menus.push({key: 'start', name: '开始'});
-          }</text>
+        <text encoding="base64">dG9vbGJhcj17IHtzZXR0aW5nczpbIHsKICAgICAgICBpY29uOiA8U2V0dGluZ091dGxpbmVkIC8+LAogICAgICAgIHRvb2x0aXA6ICforr7nva4nLAogICAgICB9XX19</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
