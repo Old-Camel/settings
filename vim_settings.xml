@@ -65,22 +65,27 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1612238116062">
         <mark key="[" line="207" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/application.properties" timestamp="1612245312396">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1612230085732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1612236985997">
         <mark key="[" line="86" column="131" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1612236944328">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1612238724228">
         <mark key="[" line="37" column="38" />
         <mark key="]" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/test/java/test/ParserTest.java" timestamp="1612229967830" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1612238428860">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1612245361230">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/Application.java" timestamp="1612238573056">
         <mark key="[" line="21" column="22" />
@@ -94,8 +99,11 @@
         <mark key="^" line="113" column="16" />
         <mark key="." line="209" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612236863130">
-        <mark key="[" line="28" column="30" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612238701461">
+        <mark key="[" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1612238666488">
+        <mark key="[" line="0" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -157,10 +165,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>datafill</text>
+        <text>222.30.194.111</text>
       </register>
       <register name="-" type="4">
-        <text>datafill</text>
+        <text>222.30.194.111</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
