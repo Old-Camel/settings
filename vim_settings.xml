@@ -30,7 +30,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/datafill-web/src/layouts/LoadingPage.js" timestamp="1612424437014" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1612425164155">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="11" />
@@ -45,20 +44,20 @@
         <mark key="]" line="91" column="64" />
         <mark key="." line="91" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1612431463991">
-        <mark key="[" line="149" column="37" />
-        <mark key="]" line="149" column="37" />
-        <mark key="." line="149" column="37" />
-        <mark key="^" line="169" column="106" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1612435241344">
+        <mark key="[" line="148" column="88" />
+        <mark key="]" line="153" column="24" />
+        <mark key="." line="153" column="24" />
+        <mark key="^" line="172" column="106" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612428192932">
         <mark key="[" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1612424331875" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/index.d.ts" timestamp="1612434175122" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1612425811885">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612423947173">
+      <file name="/Dummy.txt" timestamp="1612435387303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/document.ejs" timestamp="1612425769861">
@@ -67,10 +66,10 @@
         <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/BasicLayout.d.ts" timestamp="1612424974123" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612432247288">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612435173826">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="51" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1612424786652">
         <mark key="[" line="41" column="10" />
@@ -81,6 +80,7 @@
         <mark key="." line="53" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1612430320770" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1612434002168" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1612424589778">
         <mark key="[" line="1" column="50" />
       </file>
@@ -160,31 +160,52 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>overflow: hidden;
-  margin-left: 56px;
-  margin-bottom: 4px;</text>
+        <text>style={{color:'#ffffff8c'}}</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>style={{color:'#ffffff8c'}}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text>.menuExtraRenderP{
+  color: rgba(255, 255, 255, 0.45);
+  line-height: 20px;
+
+}</text>
+      </register>
+      <register name="2" type="2">
+        <text>.menuExtraRenderHpDiv .span{
+  
+}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsKICBtYXJnaW4tYmxvY2stc3RhcnQ6IDFlbTsKICBtYXJnaW4tYmxvY2stZW5kOiAxZW07CiAgbWFyZ2luLWlubGluZS1zdGFydDogMHB4OwogIG1hcmdpbi1pbmxpbmUtZW5kOiAwcHg7</text>
+      </register>
+      <register name="4" type="4">
         <text>overflow: hidden;
   margin-left: 56px;
   margin-bottom: 4px;</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAvL3BhZGRpbmc6IDRweCAyNHB4OwogIC8vb3ZlcmZsb3c6IGhpZGRlbjsKICAvL2N1cnNvcjogcG9pbnRlcjs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDxpbWcgc3R5bGU9e3toZWlnaHQ6ICczN3B4JywgbWFyZ2luVG9wOiAnLTVweCd9fSBzcmM9e1BhdGgucm9vdCtpbml0aWFsU3RhdGU/LnByb2plY3RJbmZvPy5tYXhMb2dvVXJsIH0gYWx0PSJsb2dvIiAvPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHtjdXJyZW50PT11bmRlZmluZWQmJiA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICBvblN1Ym1pdD8uKHsuLi5jdXJyZW50LCBmbGlua1NxbDogc3FsPz9jdXJyZW50Py5mbGlua1NxbH0gYXMgU3FsSm9iKTsKICAgICAgfX0+5L+d5a2YPC9CdXR0b24+fQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
         <text>if(HttpUtil.isContainChinese(connectorDefinition.getName())){
             return Return.build(false,&quot;名称不能包含中文字符&quot;);
         }
@@ -196,30 +217,8 @@ kafkaConnectClient.
             NewConnectorDefinition build = NewConnectorDefinition.newBuilder().withName(connectorDefinition.getName()).withConfig(connectorDefinition.getConfig()).build();
             ConnectorDefinition connector = kafkaConnectClient.addConnector(build);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZmxpbmtIb21lPS91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text>RUN mkdir -p /opt/data/lib
-RUN mkdir -p /opt/data/sql
-RUN chmod -R 777 /opt/data/
-
-ADD /usr/local/Cellar/apache-flink/1.12.0 /opt/data/flink</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text>ARG JAR_FILE
-ARG FLINK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CkFERCAke0pBUl9GSUxFfSAvZGVwbG95bWVudHMvYXBwLmphcgpBREQgamFyL2RhdGEtcGlwZS1jb3JlLmphciAvb3B0L2RhdGEvbGliL2RhdGEtcGlwZS1jb3JlLmphcgoK</text>
+        <text encoding="base64">ZmxpbmtIb21lPS91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
