@@ -30,89 +30,75 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/istio/istio-svc-dpt.yaml" timestamp="1612247147165" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/param/JobRunParam.java" timestamp="1612236914342">
-        <mark key="[" line="48" column="126" />
-        <mark key="]" line="46" column="19" />
-        <mark key="." line="46" column="19" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/layouts/LoadingPage.js" timestamp="1612424437014" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1612425164155">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/META-INF/app.properties" timestamp="1612238548812">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612428795689">
+        <mark key="[" line="228" column="61" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/flink/Dockerfile" timestamp="1612247426367">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/access.ts" timestamp="1612424453006" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/AvatarDropdown.tsx" timestamp="1612428333658">
+        <mark key="[" line="91" column="64" />
+        <mark key="]" line="91" column="64" />
+        <mark key="." line="91" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/istio/istio-gateway.yaml" timestamp="1612247111732">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1612431463991">
+        <mark key="[" line="149" column="37" />
+        <mark key="]" line="149" column="37" />
+        <mark key="." line="149" column="37" />
+        <mark key="^" line="169" column="106" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/HttpUtil.java" timestamp="1612314824625">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="83" column="43" />
-        <mark key="." line="83" column="43" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612428192932">
+        <mark key="[" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1612238116062">
-        <mark key="[" line="207" column="21" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/API.d.ts" timestamp="1612424331875" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1612425811885">
+        <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/service.ts" timestamp="1612315682466">
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
+      <file name="/Dummy.txt" timestamp="1612423947173">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/application.properties" timestamp="1612247483927">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/document.ejs" timestamp="1612425769861">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1612248767540">
-        <mark key="[" line="59" column="0" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/BasicLayout.d.ts" timestamp="1612424974123" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612432247288">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="2" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1612236985997">
-        <mark key="[" line="86" column="131" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/services/user.ts" timestamp="1612424786652">
+        <mark key="[" line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/CommandUtil.java" timestamp="1612238724228">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="38" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612429052947">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1612248002326">
-        <mark key="[" line="2" column="59" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="1" column="40" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1612246286884">
-        <mark key="[" line="170" column="25" />
-        <mark key="]" line="170" column="25" />
-        <mark key="." line="170" column="25" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/Application.java" timestamp="1612238573056">
-        <mark key="[" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1612238642602">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1612430320770" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1612424589778">
         <mark key="[" line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612315674835">
-        <mark key="[" line="208" column="15" />
-        <mark key="]" line="208" column="6" />
-        <mark key="^" line="112" column="16" />
-        <mark key="." line="208" column="6" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612429368256">
+        <mark key="[" line="70" column="47" />
+        <mark key="]" line="209" column="6" />
+        <mark key="^" line="113" column="16" />
+        <mark key="." line="209" column="6" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612315182330">
-        <mark key="[" line="98" column="35" />
-        <mark key="]" line="59" column="39" />
-        <mark key="." line="59" column="39" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612429502419">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1612238701461">
-        <mark key="[" line="30" column="27" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1612238666488">
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1612428431595">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -174,40 +160,51 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>新增成功</text>
+        <text>overflow: hidden;
+  margin-left: 56px;
+  margin-bottom: 4px;</text>
       </register>
       <register name="-" type="4">
-        <text>新增成功</text>
+        <text>span</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZmxpbmtIb21lPS91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvCg==</text>
+      <register name="1" type="4">
+        <text>overflow: hidden;
+  margin-left: 56px;
+  margin-bottom: 4px;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAvL3BhZGRpbmc6IDRweCAyNHB4OwogIC8vb3ZlcmZsb3c6IGhpZGRlbjsKICAvL2N1cnNvcjogcG9pbnRlcjs=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IDxpbWcgc3R5bGU9e3toZWlnaHQ6ICczN3B4JywgbWFyZ2luVG9wOiAnLTVweCd9fSBzcmM9e1BhdGgucm9vdCtpbml0aWFsU3RhdGU/LnByb2plY3RJbmZvPy5tYXhMb2dvVXJsIH0gYWx0PSJsb2dvIiAvPgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHtjdXJyZW50PT11bmRlZmluZWQmJiA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICBvblN1Ym1pdD8uKHsuLi5jdXJyZW50LCBmbGlua1NxbDogc3FsPz9jdXJyZW50Py5mbGlua1NxbH0gYXMgU3FsSm9iKTsKICAgICAgfX0+5L+d5a2YPC9CdXR0b24+fQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text>if(HttpUtil.isContainChinese(connectorDefinition.getName())){
+            return Return.build(false,&quot;名称不能包含中文字符&quot;);
+        }
+        connectorDefinition.getConfig().remove(&quot;name&quot;);
+        Boolean aBoolean = kafkaConnectClient.deleteConnector(connectorDefinition.getName());
+kafkaConnectClient.
+        if(aBoolean){
+
+            NewConnectorDefinition build = NewConnectorDefinition.newBuilder().withName(connectorDefinition.getName()).withConfig(connectorDefinition.getConfig()).build();
+            ConnectorDefinition connector = kafkaConnectClient.addConnector(build);</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmxpbmtIb21lPS91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvCg==</text>
+      </register>
+      <register name="7" type="2">
         <text>RUN mkdir -p /opt/data/lib
 RUN mkdir -p /opt/data/sql
 RUN chmod -R 777 /opt/data/
 
 ADD /usr/local/Cellar/apache-flink/1.12.0 /opt/data/flink</text>
-      </register>
-      <register name="3" type="2">
-        <text>ARG JAR_FILE
-ARG FLINK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CkFERCAke0pBUl9GSUxFfSAvZGVwbG95bWVudHMvYXBwLmphcgpBREQgamFyL2RhdGEtcGlwZS1jb3JlLmphciAvb3B0L2RhdGEvbGliL2RhdGEtcGlwZS1jb3JlLmphcgoK</text>
-      </register>
-      <register name="5" type="2">
-        <text>ARG JAR_FILE
-ARG FLINK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZGVzY0NvbHVtbnM6UHJvRGVzY3JpcHRpb25zSXRlbVByb3BzPENvbm5lY3Rvcj5bXT1bCiAgewogICAgdGl0bGU6ICflkI3np7AnLAogICAgZGF0YUluZGV4OiAnbmFtZScsCiAgfSwKICB7CiAgICB0aXRsZTogJ+eKtuaAgScsCiAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgdmFsdWVFbnVtOiB7CiAgICAgIC8vcnVubmluZywgZmFpbGVkLCBwYXVzZWQsCiAgICAgIFJVTk5JTkc6IHtzdGF0dXM6ICdQcm9jZXNzaW5nJywgdGV4dDogJ+i/kOihjOS4rSd9LAogICAgICBGQUlMRUQ6IHtzdGF0dXM6ICdFcnJvcicsIHRleHQ6ICflvILluLgnfSwKICAgICAgUEFVU0VEOiB7c3RhdHVzOiAnRGVmYXVsdCcsIHRleHQ6ICfmmoLlgZzkuK0nfSwKICAgIH0KICB9LAogIHsKICAgIHRpdGxlOiAn5Li76aKY5pWwJywKICAgIGRhdGFJbmRleDogJ3RvcGljcycsCiAgICAvLyB3aWR0aDogJzglJywKICAgIHJlbmRlclRleHQ6IChfLCByZWNvcmQpID0+ICgKICAgICAgcmVjb3JkLnRvcGljcz8ubGVuZ3RoID8/IDAKICAgICkKICB9LAoKXTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIGhpZGVJblNlYXJjaDogZmFsc2UsCiAgICAvLyB3aWR0aDogJzEwJScs</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -218,10 +215,11 @@ ARG FLINK</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gb3B0aW9ucz17eyByZWxvYWQ6ICgpPT50YWJsZVJlZi5jdXJyZW50Py5yZWxvYWQoKSB9fQo=</text>
+        <text>ARG JAR_FILE
+ARG FLINK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkFERCAke0pBUl9GSUxFfSAvZGVwbG95bWVudHMvYXBwLmphcgpBREQgamFyL2RhdGEtcGlwZS1jb3JlLmphciAvb3B0L2RhdGEvbGliL2RhdGEtcGlwZS1jb3JlLmphcgoK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -231,7 +229,7 @@ ARG FLINK</text>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
