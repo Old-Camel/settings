@@ -30,9 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612428795689">
-        <mark key="[" line="228" column="61" />
-      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/access.ts" timestamp="1612512396657" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/AvatarDropdown.tsx" timestamp="1612438266673">
         <mark key="[" line="90" column="175" />
         <mark key="]" line="91" column="64" />
@@ -90,13 +88,10 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1612428431595">
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612509156618">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612512171573">
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="67" />
+        <mark key="." line="5" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -158,42 +153,42 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IDxTZXJ2aWNlTWVudSBkYXRhPXttZW51U2VydmljZX0vPg==</text>
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDxTZXJ2aWNlTWVudSBkYXRhPXttZW51U2VydmljZX0vPg==</text>
+        <text>div</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IG9uTW91c2VMZWF2ZT17KCkgPT4gewogICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2lzU2hvdzogZmFsc2V9KQogICAgICAgICB9fT4=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">b25Nb3VzZU92ZXI9eygpID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2lzU2hvdzogdHJ1ZX0pCgogICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgb25Nb3VzZUxlYXZlPXsoKSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtpc1Nob3c6IGZhbHNlfSkKICAgICAgICAgICAgICB9fQ==</text>
+      </register>
+      <register name="3" type="2">
         <text>.menuExtraRenderP{
   color: rgba(255, 255, 255, 0.45);
   line-height: 20px;
 
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text>.menuExtraRenderHpDiv .span{
   
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsKICBtYXJnaW4tYmxvY2stc3RhcnQ6IDFlbTsKICBtYXJnaW4tYmxvY2stZW5kOiAxZW07CiAgbWFyZ2luLWlubGluZS1zdGFydDogMHB4OwogIG1hcmdpbi1pbmxpbmUtZW5kOiAwcHg7</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>overflow: hidden;
   margin-left: 56px;
   margin-bottom: 4px;</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvL3BhZGRpbmc6IDRweCAyNHB4OwogIC8vb3ZlcmZsb3c6IGhpZGRlbjsKICAvL2N1cnNvcjogcG9pbnRlcjs=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxpbWcgc3R5bGU9e3toZWlnaHQ6ICczN3B4JywgbWFyZ2luVG9wOiAnLTVweCd9fSBzcmM9e1BhdGgucm9vdCtpbml0aWFsU3RhdGU/LnByb2plY3RJbmZvPy5tYXhMb2dvVXJsIH0gYWx0PSJsb2dvIiAvPgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHtjdXJyZW50PT11bmRlZmluZWQmJiA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICBvblN1Ym1pdD8uKHsuLi5jdXJyZW50LCBmbGlua1NxbDogc3FsPz9jdXJyZW50Py5mbGlua1NxbH0gYXMgU3FsSm9iKTsKICAgICAgfX0+5L+d5a2YPC9CdXR0b24+fQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -204,19 +199,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>if(HttpUtil.isContainChinese(connectorDefinition.getName())){
-            return Return.build(false,&quot;名称不能包含中文字符&quot;);
-        }
-        connectorDefinition.getConfig().remove(&quot;name&quot;);
-        Boolean aBoolean = kafkaConnectClient.deleteConnector(connectorDefinition.getName());
-kafkaConnectClient.
-        if(aBoolean){
-
-            NewConnectorDefinition build = NewConnectorDefinition.newBuilder().withName(connectorDefinition.getName()).withConfig(connectorDefinition.getConfig()).build();
-            ConnectorDefinition connector = kafkaConnectClient.addConnector(build);</text>
+        <text encoding="base64">IDxpbWcgc3R5bGU9e3toZWlnaHQ6ICczN3B4JywgbWFyZ2luVG9wOiAnLTVweCd9fSBzcmM9e1BhdGgucm9vdCtpbml0aWFsU3RhdGU/LnByb2plY3RJbmZvPy5tYXhMb2dvVXJsIH0gYWx0PSJsb2dvIiAvPgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZmxpbmtIb21lPS91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHtjdXJyZW50PT11bmRlZmluZWQmJiA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICBvblN1Ym1pdD8uKHsuLi5jdXJyZW50LCBmbGlua1NxbDogc3FsPz9jdXJyZW50Py5mbGlua1NxbH0gYXMgU3FsSm9iKTsKICAgICAgfX0+5L+d5a2YPC9CdXR0b24+fQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
