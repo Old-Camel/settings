@@ -30,6 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.less" timestamp="1612515788898" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/access.ts" timestamp="1612512396657" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/AvatarDropdown.tsx" timestamp="1612438266673">
         <mark key="[" line="90" column="175" />
@@ -42,12 +43,25 @@
         <mark key="." line="165" column="11" />
         <mark key="^" line="172" column="106" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/plugin-layout/layout/layout/style.less" timestamp="1612514857499" />
       <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.js" timestamp="1612509045622" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1612438286384" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612508914793">
         <mark key="[" line="36" column="3" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612515858502">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.less" timestamp="1612515901155" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Footer/index.tsx" timestamp="1612508127297" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1612434002168" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612514839164">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/plugin-layout/layout/layout/style.less" timestamp="1612515919060" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/index.d.ts" timestamp="1612434175122" />
       <file name="/Dummy.txt" timestamp="1612491748647">
         <mark key="[" line="0" column="5" />
@@ -62,35 +76,12 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1612491196517">
         <mark key="[" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612515171640">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Footer/index.tsx" timestamp="1612508127297" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612515145884">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="56" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1612430320770" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1612434002168" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612429368256">
-        <mark key="[" line="70" column="47" />
-        <mark key="]" line="209" column="6" />
-        <mark key="^" line="113" column="16" />
-        <mark key="." line="209" column="6" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/KafkaConnectorsController.java" timestamp="1612429502419">
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612514839164">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="67" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
