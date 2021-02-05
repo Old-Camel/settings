@@ -36,12 +36,13 @@
         <mark key="]" line="91" column="64" />
         <mark key="." line="91" column="64" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1612435241344">
-        <mark key="[" line="148" column="88" />
-        <mark key="]" line="153" column="24" />
-        <mark key="." line="153" column="24" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1612514955764">
+        <mark key="[" line="175" column="16" />
+        <mark key="]" line="165" column="11" />
+        <mark key="." line="165" column="11" />
         <mark key="^" line="172" column="106" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/.umi/plugin-layout/layout/layout/style.less" timestamp="1612514857499" />
       <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.js" timestamp="1612509045622" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1612438286384" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612508914793">
@@ -61,19 +62,16 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1612491196517">
         <mark key="[" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612509057523">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612515171640">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Footer/index.tsx" timestamp="1612508127297" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612437953600">
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="51" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1612429052947">
-        <mark key="[" line="53" column="25" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612515145884">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="56" column="1" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1612430320770" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1612434002168" />
@@ -88,8 +86,8 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612512171573">
-        <mark key="[" line="5" column="67" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612514839164">
+        <mark key="[" line="0" column="21" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
@@ -153,10 +151,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>div</text>
+        <text>background</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>background</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
