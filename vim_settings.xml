@@ -30,11 +30,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/config.ts" timestamp="1612425164155">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612428795689">
         <mark key="[" line="228" column="61" />
       </file>
@@ -49,15 +44,12 @@
         <mark key="." line="153" column="24" />
         <mark key="^" line="172" column="106" />
       </file>
-      <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.js" timestamp="1612508660074" />
+      <file name="$USER_HOME$/data/code/datafill-web/src/components/GlobalHeader/index.js" timestamp="1612509045622" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/path.ts" timestamp="1612438286384" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612428192932">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/index.tsx" timestamp="1612508914793">
         <mark key="[" line="36" column="3" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/index.d.ts" timestamp="1612434175122" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1612425811885">
-        <mark key="[" line="14" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1612491748647">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -70,6 +62,9 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1612491196517">
         <mark key="[" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612509057523">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Footer/index.tsx" timestamp="1612508127297" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612437953600">
@@ -99,6 +94,9 @@
         <mark key="[" line="32" column="9" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612509156618">
+        <mark key="[" line="30" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -160,10 +158,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>cdc+flinksql初步完成</text>
+        <text encoding="base64">IDxTZXJ2aWNlTWVudSBkYXRhPXttZW51U2VydmljZX0vPg==</text>
       </register>
       <register name="-" type="4">
-        <text>cdc+flinksql初步完成</text>
+        <text encoding="base64">IDxTZXJ2aWNlTWVudSBkYXRhPXttZW51U2VydmljZX0vPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
