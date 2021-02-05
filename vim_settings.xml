@@ -57,8 +57,10 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/config/defaultSettings.ts" timestamp="1612425811885">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612435387303">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1612491748647">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/document.ejs" timestamp="1612437823968">
         <mark key="[" line="23" column="11" />
@@ -66,6 +68,9 @@
         <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-layout/lib/BasicLayout.d.ts" timestamp="1612424974123" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1612491196517">
+        <mark key="[" line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/global.less" timestamp="1612437953600">
         <mark key="[" line="62" column="18" />
         <mark key="]" line="53" column="0" />
@@ -81,9 +86,6 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/utils/utils.tsx" timestamp="1612430320770" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1612434002168" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/bootstrap.properties" timestamp="1612424589778">
-        <mark key="[" line="1" column="50" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612429368256">
         <mark key="[" line="70" column="47" />
         <mark key="]" line="209" column="6" />
@@ -160,10 +162,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>style={{color:'#ffffff8c'}}</text>
+        <text>cdc+flinksql初步完成</text>
       </register>
       <register name="-" type="4">
-        <text>style={{color:'#ffffff8c'}}</text>
+        <text>cdc+flinksql初步完成</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
@@ -228,7 +230,7 @@ kafkaConnectClient.
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
