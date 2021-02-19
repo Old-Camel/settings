@@ -30,31 +30,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-mine/menu-mine.component.ts" timestamp="1612687132711" />
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-item/menu-item.component.ts" timestamp="1612688685538" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1612684155740" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/MenuGroup/index.less" timestamp="1612676507606">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/enums/CatalogType.java" timestamp="1613705086858" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/CatalogType.java" timestamp="1613704910704">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-mine/menu-mine.component.less" timestamp="1612678519514">
-        <mark key="[" line="111" column="7" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1613715123623">
+        <mark key="[" line="191" column="48" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/RightContent/AvatarDropdown.tsx" timestamp="1612681019684">
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="91" column="64" />
-        <mark key="." line="91" column="64" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/pom.xml" timestamp="1613715045272" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/JobRunParam.java" timestamp="1613714214812">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-all/menu-all.component.less" timestamp="1612687292853" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/MenuGroup/index.tsx" timestamp="1612676562753">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-      </file>
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-group/menu-group.component.less" timestamp="1612670194322" />
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-item/menu-item.component.html" timestamp="1612688610364" />
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-item/menu-item.component.less" timestamp="1612688507632" />
       <file name="/Dummy.txt" timestamp="1612690967863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -65,20 +55,25 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/NoticeIcon/NoticeIcon.tsx" timestamp="1612670087005" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.less" timestamp="1612688344603">
         <mark key="[" line="232" column="1" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="231" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-group/menu-group.component.html" timestamp="1612676525123" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1612670941642" />
-      <file name="$USER_HOME$/data/code/angular8-platform-package/projects/yunzai8/header/yz-header/application/menu-mine/menu-mine.component.html" timestamp="1612680468362" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1612670851123" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1613715015146">
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/JobApplication.java" timestamp="1613704861660" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/model/JobRunParam.java" timestamp="1613705034612" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612688919163">
         <mark key="[" line="72" column="62" />
         <mark key="]" line="80" column="8" />
         <mark key="." line="80" column="8" />
+      </file>
+      <file name="/fragment.java" timestamp="1613704865017">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -139,35 +134,39 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text>istio配置</text>
+      <register name="*" type="4">
+        <text encoding="base64">ICBKZGJjQ2F0YWxvZ1V0aWxzLmNyZWF0ZUNhdGFsb2co</text>
       </register>
       <register name="-" type="4">
-        <text>onClick</text>
+        <text encoding="base64">ICBKZGJjQ2F0YWxvZ1V0aWxzLmNyZWF0ZUNhdGFsb2co</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="2">
-        <text>istio配置</text>
+        <text>/**
+ * @author Jim Chen
+ * @date 2021-01-21
+ * @time 01:18
+ */</text>
       </register>
       <register name="2" type="2">
-        <text>feat:菜单头部组件</text>
+        <text>istio配置</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC5hbnQtdG9vbHRpcC1wbGFjZW1lbnQtYm90dG9tIC5hbnQtdG9vbHRpcC1hcnJvdywgIC5hbnQtdG9vbHRpcC1wbGFjZW1lbnQtYm90dG9tTGVmdCAuYW50LXRvb2x0aXAtYXJyb3csICAuYW50LXRvb2x0aXAtcGxhY2VtZW50LWJvdHRvbVJpZ2h0IC5hbnQtdG9vbHRpcC1hcnJvdyB7CiAgYm9yZGVyLWJvdHRvbS1jb2xvcjogQHl6LW1lbnUtaXRlbS1saW5rX2JnY29sb3I7Cn0K</text>
+        <text>feat:菜单头部组件</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC5hbnQtdG9vbHRpcC1pbm5lciB7CiAgYmFja2dyb3VuZC1jb2xvcjogQHl6LW1lbnUtaXRlbS1saW5rX2JnY29sb3I7Cn0=</text>
+        <text encoding="base64">IC5hbnQtdG9vbHRpcC1wbGFjZW1lbnQtYm90dG9tIC5hbnQtdG9vbHRpcC1hcnJvdywgIC5hbnQtdG9vbHRpcC1wbGFjZW1lbnQtYm90dG9tTGVmdCAuYW50LXRvb2x0aXAtYXJyb3csICAuYW50LXRvb2x0aXAtcGxhY2VtZW50LWJvdHRvbVJpZ2h0IC5hbnQtdG9vbHRpcC1hcnJvdyB7CiAgYm9yZGVyLWJvdHRvbS1jb2xvcjogQHl6LW1lbnUtaXRlbS1saW5rX2JnY29sb3I7Cn0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IC5hbnQtdG9vbHRpcC1pbm5lciB7CiAgYmFja2dyb3VuZC1jb2xvcjogQHl6LW1lbnUtaXRlbS1saW5rX2JnY29sb3I7Cn0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgey8qICAgPGRpdiAqbmdGb3I9ImxldCB0YWcgb2YgbWVudXMiPgogICAgICAgIDxhIChjbGljayk9Im9wZW4odGFnKSIgKm5nSWY9InRhZy5pbnRybyIgY2xhc3M9Im1lbnUtaXRlbS1saW5rIiBbdGl0bGVdPSJ0YWcuaW50cm8gfCB0cmFuc2xhdGUiPgogICAgICAgIDxoND57e3RhZy5uYW1lIHwgdHJhbnNsYXRlfX08L2g0PgogICAgICAgIDxwPnt7dGFnLmludHJvIHwgdHJhbnNsYXRlfX08L3A+CiAgICAgIDwvYT4KICAgICAgPGEgKGNsaWNrKT0ib3Blbih0YWcpIiAqbmdJZj0iIXRhZy5pbnRybyIgY2xhc3M9Im1lbnUtaXRlbS1saW5rIj4KICAgICAgICA8aDQ+e3t0YWcubmFtZSB8IHRyYW5zbGF0ZX19PC9oND4KICAgICAgICA8cD57e3RhZy5pbnRybyB8IHRyYW5zbGF0ZX19PC9wPgogICAgICA8L2E+Ki99CiAgICAgIHsvKjwvZGl2PiohLyovfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgbmV3QXJyYXkgPSBfLm1hcChkYXRhLCAodmFsKSA9PiB7CiAgICAgICAgcmV0dXJuIHZhbAogICAgICB9KQ==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">Y29uc3QgbmV3QXJyYXkgPSBfLm1hcChpbml0RGF0YSwgKHZhbCkgPT4gewogICAgICAgIHJldHVybiB2YWwKICAgICAgfSk=</text>
+        <text encoding="base64">Y29uc3QgbmV3QXJyYXkgPSBfLm1hcChkYXRhLCAodmFsKSA9PiB7CiAgICAgICAgcmV0dXJuIHZhbAogICAgICB9KQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -177,11 +176,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgbmV3QXJyYXkgPSBfLm1hcChpbml0RGF0YSwgKHZhbCkgPT4gewogICAgICAgIHJldHVybiB2YWwKICAgICAgfSk=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LmZpbHRlcigobWVudSkgPT4gewogICAgICAgICAgaWYgKHNlYXJjaCA9PSAiIikgewogICAgICAgICAgICByZXR1cm4gbWVudTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGlmIChtZW51Lm5hbWUuaW5jbHVkZXMoc2VhcmNoKSkgewogICAgICAgICAgICAgIHJldHVybiBtZW51OwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIG1lbnUuY2hpbGRyZW4gPSBtZW51LmNoaWxkcmVuLmZpbHRlcigobWVudSkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIG1lbnUubmFtZS5pbmNsdWRlcyhzZWFyY2gpOwogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIHJldHVybiBtZW51OwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
