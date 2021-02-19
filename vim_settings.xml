@@ -36,6 +36,7 @@
         <mark key="]" line="61" column="21" />
         <mark key="." line="61" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1613720927020" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/enums/CatalogType.java" timestamp="1613704910704">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="5" column="0" />
@@ -83,8 +84,10 @@
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1613717323352">
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1613720491586">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/components/ServiceMenu/index.tsx" timestamp="1612688919163">
         <mark key="[" line="72" column="62" />
@@ -154,10 +157,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>getPassword</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>getPassword</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
