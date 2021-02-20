@@ -30,12 +30,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enumsAndConst/CatalogType.java" timestamp="1613808209793" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/param/JobRunParam.java" timestamp="1613807910673">
         <mark key="[" line="52" column="204" />
         <mark key="]" line="62" column="21" />
         <mark key="." line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1613809958349" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1613807454127">
+        <mark key="[" line="206" column="28" />
+        <mark key="]" line="206" column="28" />
+        <mark key="." line="206" column="28" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/pom.xml" timestamp="1613787698636" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/JobRunParam.java" timestamp="1613807873071">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enumsAndConst/CatalogType.java" timestamp="1613808209793" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1613810436765" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/JobApplication.java" timestamp="1613807391556">
         <mark key="[" line="55" column="0" />
@@ -43,7 +55,6 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/README.md" timestamp="1613801462669" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1613809958349" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/service/impl/SqlJobStandaloneImpl.java" timestamp="1613808069105">
         <mark key="[" line="91" column="174" />
         <mark key="]" line="88" column="15" />
@@ -56,27 +67,19 @@
         <mark key="." line="65" column="64" />
       </file>
       <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/src/main/java/com/flink/streaming/core/JobApplication.java" timestamp="1613793212776" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1613728819030" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1613807454127">
-        <mark key="[" line="206" column="28" />
-        <mark key="]" line="206" column="28" />
-        <mark key="." line="206" column="28" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/Dockerfile" timestamp="1613813123595">
+        <mark key="[" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1613728819030" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/config/ServerConfig.java" timestamp="1613807996995">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-core/pom.xml" timestamp="1613787698636" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1613810558641">
         <mark key="[" line="32" column="9" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/model/JobRunParam.java" timestamp="1613807873071">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1613808188349">
         <mark key="[" line="0" column="0" />
