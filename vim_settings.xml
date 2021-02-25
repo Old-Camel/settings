@@ -30,30 +30,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614156859357" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/resources/test-sql-client-defaults.yaml" timestamp="1614153683938" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/README.md" timestamp="1614219353322" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614224946730" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptions.java" timestamp="1614152083812" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/config/Environment.java" timestamp="1614158375258" />
-      <file name="$USER_HOME$/data/code/flink/flink-core/src/main/java/org/apache/flink/api/common/ExecutionConfig.java" timestamp="1614159291532" />
-      <file name="$USER_HOME$/data/code/flink/flink-core/src/main/java/org/apache/flink/configuration/DeploymentOptions.java" timestamp="1614156826926" />
-      <file name="$USER_HOME$/data/code/flink/flink-core/src/main/java/org/apache/flink/core/execution/PipelineExecutorFactory.java" timestamp="1614155017363" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliClient.java" timestamp="1614219629221" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614232054612" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/pom.xml" timestamp="1614222485652">
         <mark key="[" line="526" column="12" />
         <mark key="]" line="526" column="12" />
         <mark key="." line="526" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/SqlMultiLineParser.java" timestamp="1614218965916" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptionsParser.java" timestamp="1614153471141" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1614222335232" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614159963265" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614162239561" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ProgramDeployer.java" timestamp="1614158317009" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614158993517" />
-      <file name="$USER_HOME$/data/code/flink/flink-clients/src/main/java/org/apache/flink/client/program/ClusterClientProvider.java" timestamp="1614155547619" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/SqlCommandParser.java" timestamp="1614220081049" />
     </filemarks>
     <jumps>
       <jump line="347" column="8" filename="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/web/ProcessController.java" />
@@ -165,7 +147,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
