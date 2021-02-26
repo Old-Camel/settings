@@ -30,20 +30,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614239726371">
-        <mark key="[" line="13" column="28" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptionsParser.java" timestamp="1614247800453">
+        <mark key="[" line="329" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/config/sql" timestamp="1614237892141">
-        <mark key="[" line="631" column="22" />
-        <mark key="]" line="643" column="27" />
-        <mark key="." line="643" column="27" />
+      <file name="/Dummy.txt" timestamp="1614243339814">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614239260493" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/Application.java" timestamp="1614239280671" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/pom.xml" timestamp="1614222485652">
-        <mark key="[" line="526" column="12" />
-        <mark key="]" line="526" column="12" />
-        <mark key="." line="526" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614304753510">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614244976472">
+        <mark key="[" line="224" column="33" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614305119675">
+        <mark key="[" line="97" column="92" />
+        <mark key="]" line="74" column="26" />
+        <mark key="." line="74" column="26" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/cli/SqlCommandParserTest.java" timestamp="1614239845070" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/cli/CliClientTest.java" timestamp="1614239887340" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptions.java" timestamp="1614246394464" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliClient.java" timestamp="1614248171326" />
+      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614304491048" />
+      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614305061534">
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="70" column="4" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614244932975">
+        <mark key="[" line="650" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -105,10 +123,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>t_voucher</text>
+        <text>isEmbedded</text>
       </register>
       <register name="-" type="4">
-        <text>t_voucher</text>
+        <text>isEmbedded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
