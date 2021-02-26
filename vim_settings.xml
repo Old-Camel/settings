@@ -30,16 +30,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614304753510">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="19" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/CommandAdapter.java" timestamp="1614320476435" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614324113022">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliClient.java" timestamp="1614311919036">
-        <mark key="[" line="787" column="12" />
-        <mark key="]" line="787" column="12" />
-        <mark key="." line="787" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/flink/adapter/impl/CommandAdapterImpl.java" timestamp="1614324094684" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliClient.java" timestamp="1614320919543">
+        <mark key="[" line="499" column="16" />
+        <mark key="]" line="499" column="16" />
+        <mark key="." line="499" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614244932975">
         <mark key="[" line="650" column="73" />
@@ -47,9 +49,6 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/src/main/java/com/yunzainfo/cloud/datapipe/core/sql/SqlParser.java" timestamp="1614310926704" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptionsParser.java" timestamp="1614247800453">
         <mark key="[" line="329" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1614243339814">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614307158328">
         <mark key="[" line="224" column="33" />
@@ -67,10 +66,10 @@
         <mark key="]" line="70" column="4" />
         <mark key="." line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliStrings.java" timestamp="1614311882567">
-        <mark key="[" line="328" column="18" />
-        <mark key="]" line="328" column="18" />
-        <mark key="." line="328" column="18" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliStrings.java" timestamp="1614312085986">
+        <mark key="[" line="324" column="17" />
+        <mark key="]" line="324" column="17" />
+        <mark key="." line="324" column="17" />
       </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/SqlCommandParser.java" timestamp="1614311205143">
         <mark key="[" line="239" column="0" />
@@ -135,39 +134,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>AttributedString</text>
+        <text encoding="base64">Zm9yRWFjaCgodikgLT4gdGVybWluYWwud3JpdGVyKCkucHJpbnRsbih2KSk7</text>
       </register>
       <register name="-" type="4">
-        <text>AttributedString</text>
+        <text encoding="base64">Zm9yRWFjaCgodikgLT4gdGVybWluYWwud3JpdGVyKCkucHJpbnRsbih2KSk7</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="4">
-        <text>terminal.writer().println(CliStrings.messageInfo(message).toAnsi());
+        <text>terminal.writer().println(currentCatalog);
         terminal.flush();</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHRlcm1pbmFsLndyaXRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5wcmludGxuKA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHRlcm1pbmFsLndyaXRlcigpLnByaW50bG4obmV3IEF0dHJpYnV0ZWRTdHJpbmcoc3RtdCkudG9TdHJpbmcoKSk7CiAgICAgICAgdGVybWluYWwuZmx1c2goKTs=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICB0ZXJtaW5hbC53cml0ZXIoKQogICAgICAgICAgICAgICAgLnByaW50bG4o</text>
+      </register>
+      <register name="5" type="4">
+        <text>terminal.writer().println(CliStrings.messageInfo(message).toAnsi());
+        terminal.flush();</text>
+      </register>
+      <register name="6" type="4">
         <text>catch (Exception e){
                 throw e;
             }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>public void close(){
         
     }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBGRGF0ZSBUSU1FU1RBTVAoMyksCiAgICAgICAgIEZZZWFyIElOVEVHRVIsCiAgICAgICAgIEZQZXJpb2QgSU5URUdFUiwKICAgICAgICAgRkdyb3VwSUQgSU5URUdFUiwKICAgICAgICAgRk51bWJlciBJTlRFR0VSLAogICAgICAgICBGUmVmZXJlbmNlIFNUUklORywKICAgICAgICAgRkV4cGxhbmF0aW9uIFNUUklORywKICAgICAgICAgRkF0dGFjaG1lbnRzIElOVEVHRVIsCiAgICAgICAgIEZFbnRyeUNvdW50IElOVEVHRVIsCiAgICAgICAgIEZEZWJpdFRvdGFsIFNUUklORywKICAgICAgICAgRkNyZWRpdFRvdGFsIFNUUklORywKICAgICAgICAgRmludGVybmFsSW5kIFNUUklORywKICAgICAgICAgRkNoZWNrZWQgU1RSSU5HLAogICAgICAgICBGUG9zdGVkIFNUUklORywKICAgICAgICAgRlByZXBhcmVySUQgSU5URUdFUiwKICAgICAgICAgRkNoZWNrZXJJRCBJTlRFR0VSLAogICAgICAgICBGUG9zdGVySUQgSU5URUdFUiwKICAgICAgICAgRkNhc2hpZXJJRCBJTlRFR0VSLAogICAgICAgICBGSGFuZGxlciBTVFJJTkcsCiAgICAgICAgIEZPd25lckdyb3VwSUQgSU5URUdFUiwKICAgICAgICAgRk9iamVjdE5hbWUgU1RSSU5HLAogICAgICAgICBGUGFyYW1ldGVyIFNUUklORywKICAgICAgICAgRlNlcmlhbE51bSBJTlRFR0VSLAogICAgICAgICBGVHJhblR5cGUgSU5URUdFUiwKICAgICAgICAgRlRyYW5zRGF0ZSBUSU1FU1RBTVAoMyksCiAgICAgICAgIEZGcmFtZVdvcmtJRCBJTlRFR0VSLAogICAgICAgICBGQXBwcm92ZUlEIElOVEVHRVIsCiAgICAgICAgIEZGb290Tm90ZSBTVFJJTkcsCiAgICAgICAgIFVVSUQgU1RSSU5HLAogICAgICAgICBGTW9kaWZ5VGltZSBUSU1FU1RBTVAgIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxza2lwPnRydWU8L3NraXA+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2lu</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CgkJCQkJPAoJCQkJPC9jb25maWd1cmF0aW9uPg==</text>
-      </register>
-      <register name="7" type="2">
-        <text>import org.apache.iceberg.TableProperties</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -177,11 +177,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBGRGF0ZSBUSU1FU1RBTVAoMyksCiAgICAgICAgIEZZZWFyIElOVEVHRVIsCiAgICAgICAgIEZQZXJpb2QgSU5URUdFUiwKICAgICAgICAgRkdyb3VwSUQgSU5URUdFUiwKICAgICAgICAgRk51bWJlciBJTlRFR0VSLAogICAgICAgICBGUmVmZXJlbmNlIFNUUklORywKICAgICAgICAgRkV4cGxhbmF0aW9uIFNUUklORywKICAgICAgICAgRkF0dGFjaG1lbnRzIElOVEVHRVIsCiAgICAgICAgIEZFbnRyeUNvdW50IElOVEVHRVIsCiAgICAgICAgIEZEZWJpdFRvdGFsIFNUUklORywKICAgICAgICAgRkNyZWRpdFRvdGFsIFNUUklORywKICAgICAgICAgRmludGVybmFsSW5kIFNUUklORywKICAgICAgICAgRkNoZWNrZWQgU1RSSU5HLAogICAgICAgICBGUG9zdGVkIFNUUklORywKICAgICAgICAgRlByZXBhcmVySUQgSU5URUdFUiwKICAgICAgICAgRkNoZWNrZXJJRCBJTlRFR0VSLAogICAgICAgICBGUG9zdGVySUQgSU5URUdFUiwKICAgICAgICAgRkNhc2hpZXJJRCBJTlRFR0VSLAogICAgICAgICBGSGFuZGxlciBTVFJJTkcsCiAgICAgICAgIEZPd25lckdyb3VwSUQgSU5URUdFUiwKICAgICAgICAgRk9iamVjdE5hbWUgU1RSSU5HLAogICAgICAgICBGUGFyYW1ldGVyIFNUUklORywKICAgICAgICAgRlNlcmlhbE51bSBJTlRFR0VSLAogICAgICAgICBGVHJhblR5cGUgSU5URUdFUiwKICAgICAgICAgRlRyYW5zRGF0ZSBUSU1FU1RBTVAoMyksCiAgICAgICAgIEZGcmFtZVdvcmtJRCBJTlRFR0VSLAogICAgICAgICBGQXBwcm92ZUlEIElOVEVHRVIsCiAgICAgICAgIEZGb290Tm90ZSBTVFJJTkcsCiAgICAgICAgIFVVSUQgU1RSSU5HLAogICAgICAgICBGTW9kaWZ5VGltZSBUSU1FU1RBTVAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWF2ZW57IHVybCAnaHR0cHM6Ly9tYXZlbi5hbGl5dW4uY29tL3JlcG9zaXRvcnkvZ29vZ2xlJ30K</text>
+      <register name="9" type="4">
+        <text encoding="base64">PHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxza2lwPnRydWU8L3NraXA+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2lu</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
