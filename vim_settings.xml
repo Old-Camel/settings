@@ -30,11 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614672160451">
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="52" column="8" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614674059060">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="16" />
         <mark key="^" line="39" column="0" />
-        <mark key="." line="52" column="8" />
+        <mark key="." line="85" column="16" />
       </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614586788082">
         <mark key="[" line="253" column="4" />
@@ -50,9 +50,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-sql-client-yz_2.11/1.13-SNAPSHOT/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1614592944422">
         <mark key="[" line="92" column="40" />
         <mark key="]" line="92" column="38" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614586531499">
-        <mark key="[" line="180" column="25" />
       </file>
       <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614590837886">
         <mark key="[" line="118" column="8" />
@@ -120,10 +117,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1jc3Y8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuZmxpbms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLWRpc3RfMi4xMTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>createJobManagerRunner</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
