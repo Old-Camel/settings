@@ -36,7 +36,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="86" column="16" />
       </file>
-      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614675900990" />
+      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614675942677" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-parser/src/main/java/org/apache/flink/sql/parser/utils/ParserResource.java" timestamp="1614676870765">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="40" />
+        <mark key="." line="20" column="40" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1614655523667" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210301.211001-96.jar!/org/apache/flink/client/deployment/executors/AbstractSessionClusterExecutor.class" timestamp="1614674989490" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210301.211001-96.jar!/org/apache/flink/client/program/rest/RestClusterClient.class" timestamp="1614675755147" />
@@ -50,6 +55,7 @@
         <mark key="]" line="92" column="38" />
       </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614675507143" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-sql-parser/1.9-SNAPSHOT/flink-sql-parser-1.9-20200820.062938-417.jar!/org/apache/flink/sql/parser/impl/ParseException.class" timestamp="1614676868045" />
       <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614590837886">
         <mark key="[" line="118" column="8" />
         <mark key="]" line="118" column="8" />
@@ -116,10 +122,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>null</text>
+        <text>ParseException</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>ParseException</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
