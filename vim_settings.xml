@@ -30,8 +30,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614674792410">
-        <mark key="[" line="68" column="13" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614679075113">
+        <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="16" />
         <mark key="^" line="39" column="0" />
         <mark key="." line="86" column="16" />
@@ -55,7 +55,7 @@
         <mark key="[" line="92" column="40" />
         <mark key="]" line="92" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614677583946" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614678091723" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-sql-parser/1.9-SNAPSHOT/flink-sql-parser-1.9-20200820.062938-417.jar!/org/apache/flink/sql/parser/impl/ParseException.class" timestamp="1614676868045" />
       <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614590837886">
         <mark key="[" line="118" column="8" />
@@ -123,10 +123,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>ParseException</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>ParseException</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
