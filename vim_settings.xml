@@ -30,14 +30,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614735222809">
-        <mark key="[" line="75" column="36" />
-        <mark key="]" line="87" column="16" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614740686473">
+        <mark key="[" line="99" column="7" />
+        <mark key="]" line="84" column="76" />
         <mark key="^" line="39" column="0" />
-        <mark key="." line="87" column="16" />
+        <mark key="." line="84" column="76" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210302.211215-97.jar!/org/apache/flink/client/deployment/executors/AbstractSessionClusterExecutor.class" timestamp="1614736991373" />
-      <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614675942677" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-parser/src/main/java/org/apache/flink/sql/parser/utils/ParserResource.java" timestamp="1614677320886">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="40" />
@@ -45,15 +44,17 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.13-SNAPSHOT/flink-runtime_2.11-1.13-20210301.210704-96.jar!/org/apache/flink/runtime/scheduler/adapter/DefaultExecutionVertex.class" timestamp="1614734488673" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-core/pom.xml" timestamp="1614737791439" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614740223170" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptionsParser.java" timestamp="1614740307332" />
       <file name="/Dummy.txt" timestamp="1614737950488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210301.211001-96.jar!/org/apache/flink/client/program/rest/RestClusterClient.class" timestamp="1614675755147" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614684060622">
         <mark key="[" line="253" column="4" />
         <mark key="]" line="253" column="4" />
         <mark key="." line="253" column="4" />
       </file>
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614740552863" />
       <file name="$USER_HOME$/data/code/flink/flink-clients/src/main/java/org/apache/flink/client/FlinkPipelineTranslationUtil.java" timestamp="1614677828863" />
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210301.211001-96.jar!/org/apache/flink/client/program/MiniClusterClient.class" timestamp="1614683678564" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614737805973">
@@ -127,10 +128,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>java</text>
+        <text>modeArgs</text>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>modeArgs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
