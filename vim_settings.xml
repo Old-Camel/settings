@@ -30,41 +30,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614823972606">
-        <mark key="[" line="80" column="13" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614828331040">
+        <mark key="[" line="95" column="82" />
         <mark key="]" line="40" column="203" />
-        <mark key="^" line="47" column="0" />
+        <mark key="^" line="46" column="0" />
         <mark key="." line="40" column="203" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-dist_2.11-1.12.0.jar!/org/apache/flink/client/cli/CliFrontend.class" timestamp="1614827048834" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-clients_2.11/1.13-SNAPSHOT/flink-clients_2.11-1.13-20210302.211215-97.jar!/org/apache/flink/client/ClientUtils.class" timestamp="1614755043338" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614755357036">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/CliOptions.class" timestamp="1614828415106" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-dist_2.11-1.12.0.jar!/org/apache/flink/client/cli/CliFrontend.class" timestamp="1614829093662" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614829261632">
         <mark key="[" line="143" column="18" />
         <mark key="]" line="143" column="18" />
         <mark key="." line="143" column="18" />
       </file>
+      <file name="/usr/local/Cellar/apache-flink/1.12.0/lib/flink-dist_2.11-1.12.0.jar!/org/apache/flink/client/cli/CliFrontend.class" timestamp="1614829166130" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614760743198">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="141" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-sql-client-yz_2.11/1.13-SNAPSHOT/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/SqlClient.class" timestamp="1614754778829" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-dist_2.11-1.12.0.jar!/org/apache/flink/configuration/GlobalConfiguration.class" timestamp="1614826253059" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/SqlClient.class" timestamp="1614825425258" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/Test.java" timestamp="1614758276662">
         <mark key="[" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1614827416007" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1614829010782" />
       <file name="/Dummy.txt" timestamp="1614827863631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614752743131">
-        <mark key="[" line="253" column="4" />
-        <mark key="]" line="253" column="4" />
-        <mark key="." line="253" column="4" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614829333202">
+        <mark key="[" line="134" column="50" />
+        <mark key="]" line="126" column="31" />
+        <mark key="." line="126" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.13-SNAPSHOT/flink-runtime_2.11-1.13-20210302.210834-97.jar!/org/apache/flink/runtime/execution/librarycache/FlinkUserCodeClassLoaders.class" timestamp="1614755011090" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java" timestamp="1614755362097" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614829313600" />
       <file name="/fragment.java" timestamp="1614827863790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,11 +127,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgZmxpbmstLT4KCiAgICAgICA8IS0tIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1qYXZhPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEzLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmxpbmstcHl0aG9uXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTMtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1zaGFkZWQtaGFkb29wLTItdWJlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi43LjUtMTAuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuZmxpbms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLWNvbm5lY3Rvci1oaXZlXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuZmxpbms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLWNvbm5lY3Rvci1qZGJjXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuYmFoaXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLWNvbm5lY3Rvci1rdWR1XzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmhpdmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmhpdmUtZXhlYzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My4xLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1jb25uZWN0b3Ita2Fma2FfJHtzY2FsYS5iaW5hcnkudmVyc2lvbn08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7ZmxpbmsudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uc3R1bWJsZXVwb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFzeW5jPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS52ZXJ2ZXJpY2E8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLWZvcm1hdC1jaGFuZ2Vsb2ctanNvbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1qc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEyLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1zaGFkZWQtem9va2VlcGVyLTM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuNC4xNC0xMi4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Zmxpbmstc3FsLWF2cm8tY29uZmx1ZW50LXJlZ2lzdHJ5PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEyLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay1zcWwtY29ubmVjdG9yLWthZmthXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuZmxpbms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZsaW5rLXNxbC1jb25uZWN0b3ItaGl2ZS0zLjEuMl8yLjExPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEyLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5mbGluay10aWRiLWNvbm5lY3Rvci0xLjEyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4wLjAuMy1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuaGFkb29wPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oYWRvb3AtY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjYuNTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUua2Fma2E8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmthZmthLWNsaWVudHM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMTAuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rdWR1PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5rdWR1LWNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+bXlzcWw8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj44LjAuMjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pi0tPgogICAgICAgIDwhLS0gRmxpbmsgbW9kdWxlcyAgZW5kIC0tPgogICAgICAgIDwhLS0tLT4=</text>
+      <register name="*" type="4">
+        <text>GlobalConfiguration.loadConfiguration(flinkConfigDir)</text>
       </register>
       <register name="-" type="4">
-        <text>createDefaultTerminal()</text>
+        <text>GlobalConfiguration.loadConfiguration(flinkConfigDir)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
