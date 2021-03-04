@@ -58,13 +58,13 @@
       <file name="/Dummy.txt" timestamp="1614827863631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614829333202">
-        <mark key="[" line="134" column="50" />
-        <mark key="]" line="126" column="31" />
-        <mark key="." line="126" column="31" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614830195053">
+        <mark key="[" line="121" column="35" />
+        <mark key="]" line="134" column="59" />
+        <mark key="." line="134" column="59" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java" timestamp="1614755362097" />
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614829313600" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/test/java/org/apache/flink/table/client/gateway/local/LocalExecutorITCase.java" timestamp="1614829794805" />
       <file name="/fragment.java" timestamp="1614827863790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,10 +128,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>GlobalConfiguration.loadConfiguration(flinkConfigDir)</text>
+        <text>commandLine</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalConfiguration.loadConfiguration(flinkConfigDir)</text>
+        <text>commandLine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
