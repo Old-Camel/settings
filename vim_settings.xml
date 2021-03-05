@@ -30,28 +30,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614909453720">
+        <mark key="[" line="132" column="54" />
+        <mark key="^" line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1614850302097" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/controller/web/SystemConfigController.java" timestamp="1614909266803" />
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/controller/api/ConfigApiController.java" timestamp="1614909302506" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/YamlTest.java" timestamp="1614906877212">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+      </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/resources/static/js/customer/config.js" timestamp="1614909293242" />
+      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614845629112">
+        <mark key="[" line="143" column="18" />
+        <mark key="]" line="143" column="18" />
+        <mark key="." line="143" column="18" />
+      </file>
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptionsParser.java" timestamp="1614845724424">
         <mark key="[" line="303" column="20" />
         <mark key="]" line="303" column="20" />
         <mark key="." line="303" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1614842866691">
+      <file name="/Dummy.txt" timestamp="1614908083435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614852483083">
-        <mark key="[" line="132" column="54" />
-        <mark key="^" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614845185132">
-        <mark key="[" line="143" column="8" />
-        <mark key="]" line="143" column="8" />
-        <mark key="." line="143" column="8" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/SqlClient.java" timestamp="1614845322138">
-        <mark key="[" line="186" column="7" />
-        <mark key="]" line="186" column="7" />
-        <mark key="." line="186" column="7" />
-      </file>
+      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/resources/templates/screen/sysconfig.ftl" timestamp="1614909280267" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/CliOptions.java" timestamp="1614848758015">
         <mark key="[" line="83" column="23" />
         <mark key="]" line="83" column="23" />
@@ -60,22 +65,8 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614852052580">
         <mark key="[" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1614850302097" />
       <file name="$USER_HOME$/data/code/flink的副本/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/LocalExecutor.java" timestamp="1614847440405">
         <mark key="[" line="180" column="25" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/YamlTest.java" timestamp="1614906877212">
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/gateway/local/ExecutionContext.java" timestamp="1614845629112">
-        <mark key="[" line="143" column="18" />
-        <mark key="]" line="143" column="18" />
-        <mark key="." line="143" column="18" />
-      </file>
-      <file name="/fragment.java" timestamp="1614842866753">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
