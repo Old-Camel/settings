@@ -39,6 +39,11 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/hivesite.tsx" timestamp="1614938752472">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1614916570230">
         <mark key="[" line="55" column="11" />
       </file>
@@ -53,10 +58,10 @@
         <mark key="]" line="67" column="12" />
         <mark key="." line="67" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/environment.tsx" timestamp="1614937580717">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="57" column="10" />
-        <mark key="." line="57" column="10" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/environment.tsx" timestamp="1614938631969">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/HttpUtil.java" timestamp="1614912260815">
         <mark key="[" line="26" column="1" />
@@ -73,10 +78,10 @@
         <mark key="]" line="90" column="37" />
         <mark key="." line="90" column="37" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/index.tsx" timestamp="1614931364832">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/index.tsx" timestamp="1614938318597">
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1614911402598">
         <mark key="[" line="0" column="0" />
@@ -141,11 +146,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>try {
-            // getYAMLJS.parse(value);</text>
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>请使用 yaml 文件</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
