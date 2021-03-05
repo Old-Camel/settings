@@ -30,14 +30,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1614916441170">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1614911614619">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="68" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Enviroment/components/base.tsx" timestamp="1614916549885" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1614932399259" />
       <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1614916570230">
         <mark key="[" line="55" column="11" />
       </file>
@@ -51,34 +52,26 @@
         <mark key="]" line="67" column="12" />
         <mark key="." line="67" column="12" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/environment.tsx" timestamp="1614933353291">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/HttpUtil.java" timestamp="1614912260815">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="1" />
         <mark key="." line="26" column="1" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/base.tsx" timestamp="1614931071512">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="90" column="37" />
-        <mark key="." line="90" column="37" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/java/com/flink/streaming/web/controller/api/ConfigApiController.java" timestamp="1614909302506" />
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/resources/static/js/customer/config.js" timestamp="1614909293242" />
-      <file name="/Dummy.txt" timestamp="1614916441170">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/flink-streaming-platform-web/flink-streaming-web/src/main/resources/templates/screen/sysconfig.ftl" timestamp="1614909280267" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1614930810406" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/environment.tsx" timestamp="1614932502293">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/pom.xml" timestamp="1614912515056">
         <mark key="[" line="216" column="52" />
         <mark key="]" line="216" column="52" />
         <mark key="." line="216" column="52" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/pom.xml" timestamp="1614911393301" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/base.tsx" timestamp="1614931071512">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="37" />
+        <mark key="." line="90" column="37" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/index.tsx" timestamp="1614931364832">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -147,10 +140,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>value</text>
+        <text>请使用 yaml 文件</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>请使用 yaml 文件</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
@@ -201,7 +194,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
