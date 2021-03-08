@@ -47,11 +47,21 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/config/routes.ts" timestamp="1614916570230">
         <mark key="[" line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/package.json" timestamp="1614937213122" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/components/base.tsx" timestamp="1614915079338">
         <mark key="[" line="142" column="14" />
         <mark key="]" line="142" column="14" />
         <mark key="." line="142" column="14" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/SystemConfig.java" timestamp="1615168899406">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/repository/FlinConfigRepository.java" timestamp="1615168882303">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/index.tsx" timestamp="1614915045154">
         <mark key="[" line="67" column="12" />
@@ -73,17 +83,25 @@
         <mark key="]" line="216" column="52" />
         <mark key="." line="216" column="52" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enumsAndConst/FlinkConfigType.java" timestamp="1615167786876">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/base.tsx" timestamp="1614931071512">
         <mark key="[" line="90" column="37" />
         <mark key="]" line="90" column="37" />
         <mark key="." line="90" column="37" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/Application.java" timestamp="1615167828170">
+        <mark key="[" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/index.tsx" timestamp="1614938318597">
         <mark key="[" line="72" column="16" />
         <mark key="]" line="72" column="16" />
         <mark key="." line="72" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1614911402598">
+      <file name="/fragment.java" timestamp="1615168753322">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -146,39 +164,40 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>json</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>String</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
       </register>
       <register name="1" type="4">
-        <text>try {
-            // getYAMLJS.parse(value);</text>
+        <text>,
+
+    STARTING(2, &quot;启动中&quot;),</text>
       </register>
       <register name="2" type="4">
-        <text>} catch (e) {
-            console.log(e);
-            message.error(&quot;yaml格式错误!&quot;)
+        <text>,
 
-          }</text>
+    STARTING(2, &quot;启动中&quot;),
+
+    UNKNOWN(-2, &quot;未知&quot;),</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHlwZSBVbnBhY2tlZDxUPiA9IFQgZXh0ZW5kcyAoaW5mZXIgVSlbXSA/IFUgOiBUOwoKY29uc3QgcGFzc3dvcmRTdHJlbmd0aCA9IHsKICBzdHJvbmc6IDxzcGFuIGNsYXNzTmFtZT0ic3Ryb25nIj7lvLo8L3NwYW4+LAogIG1lZGl1bTogPHNwYW4gY2xhc3NOYW1lPSJtZWRpdW0iPuS4rTwvc3Bhbj4sCiAgd2VhazogPHNwYW4gY2xhc3NOYW1lPSJ3ZWFrIj7lvLEgV2Vhazwvc3Bhbj4sCn07</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9kYXRlIiwKICAgICAgICAgICAgbnVsbGFibGUgPSB0cnVlCiAgICApCiAgICBwcml2YXRlIERhdGUgbGFzdE1vZGlmaWVkRGF0ZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDw+CiAgICAgIDxMaXN0PFVucGFja2VkPHR5cGVvZiBkYXRhPj4KICAgICAgICBpdGVtTGF5b3V0PSJob3Jpem9udGFsIgogICAgICAgIGRhdGFTb3VyY2U9e2RhdGF9CiAgICAgICAgcmVuZGVySXRlbT17KGl0ZW0pID0+ICgKICAgICAgICAgIDxMaXN0Lkl0ZW0gYWN0aW9ucz17aXRlbS5hY3Rpb25zfT4KICAgICAgICAgICAgPExpc3QuSXRlbS5NZXRhIHRpdGxlPXtpdGVtLnRpdGxlfSBkZXNjcmlwdGlvbj17aXRlbS5kZXNjcmlwdGlvbn0gLz4KICAgICAgICAgIDwvTGlzdC5JdGVtPgogICAgICAgICl9CiAgICAgIC8+CiAgICA8Lz4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGNvbnN0IGdldERhdGEgPSAoKSA9PiBbCiAgICB7CiAgICAgIHRpdGxlOiAn6LSm5oi35a+G56CBJywKICAgICAgZGVzY3JpcHRpb246ICgKICAgICAgICA8PgogICAgICAgICAg5b2T5YmN5a+G56CB5by65bqm77yaCiAgICAgICAgICB7cGFzc3dvcmRTdHJlbmd0aC5zdHJvbmd9CiAgICAgICAgPC8+CiAgICAgICksCiAgICAgIGFjdGlvbnM6IFs8YSBrZXk9Ik1vZGlmeSI+5L+u5pS5PC9hPl0sCiAgICB9LAogICAgewogICAgICB0aXRsZTogJ+WvhuS/neaJi+acuicsCiAgICAgIGRlc2NyaXB0aW9uOiBg5bey57uR5a6a5omL5py677yaMTM4KioqKjgyOTNgLAogICAgICBhY3Rpb25zOiBbPGEga2V5PSJNb2RpZnkiPuS/ruaUuTwvYT5dLAogICAgfSwKICAgIHsKICAgICAgdGl0bGU6ICflr4bkv53pl67popgnLAogICAgICBkZXNjcmlwdGlvbjogJ+acquiuvue9ruWvhuS/nemXrumimO+8jOWvhuS/nemXrumimOWPr+acieaViOS/neaKpOi0puaIt+WuieWFqCcsCiAgICAgIGFjdGlvbnM6IFs8YSBrZXk9IlNldCI+6K6+572uPC9hPl0sCiAgICB9LAogICAgewogICAgICB0aXRsZTogJ+Wkh+eUqOmCrueusScsCiAgICAgIGRlc2NyaXB0aW9uOiBg5bey57uR5a6a6YKu566x77yaYW50Kioqc2lnbi5jb21gLAogICAgICBhY3Rpb25zOiBbPGEga2V5PSJNb2RpZnkiPuS/ruaUuTwvYT5dLAogICAgfSwKICAgIHsKICAgICAgdGl0bGU6ICdNRkEg6K6+5aSHJywKICAgICAgZGVzY3JpcHRpb246ICfmnKrnu5HlrpogTUZBIOiuvuWkh++8jOe7keWumuWQju+8jOWPr+S7pei/m+ihjOS6jOasoeehruiupCcsCiAgICAgIGFjdGlvbnM6IFs8YSBrZXk9ImJpbmQiPue7keWumjwvYT5dLAogICAgfSwKICBdOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxGb3JtLkl0ZW0KICAgICAgICAgICAgICAgIG5hbWU9ImpvYm1hbmFnZXIucnBjLmFkZHJlc3MiCiAgICAgICAgICAgICAgICBsYWJlbD0iZmxpbmvov57mjqXlnLDlnYAiCiAgICAgICAgICAgICAgICBydWxlcz17WwogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogJ+ivt+i+k+WFpWZsaW5r6L+e5o6l5Zyw5Z2AJywKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIF19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPElucHV0IC8+CiAgICAgICAgICAgICAgPC9Gb3JtLkl0ZW0+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvbmZpZ1R5cGU7CiAgICBAQ3JlYXRlZEJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9yUGhvbmUgPSAocnVsZTogYW55LCB2YWx1ZTogc3RyaW5nLCBjYWxsYmFjazogKG1lc3NhZ2U/OiBzdHJpbmcpID0+IHZvaWQpID0+IHsKICBjb25zdCB2YWx1ZXMgPSB2YWx1ZS5zcGxpdCgnLScpOwogIGlmICghdmFsdWVzWzBdKSB7CiAgICBjYWxsYmFjaygnUGxlYXNlIGlucHV0IHlvdXIgYXJlYSBjb2RlIScpOwogIH0KICBpZiAoIXZhbHVlc1sxXSkgewogICAgY2FsbGJhY2soJ1BsZWFzZSBpbnB1dCB5b3VyIHBob25lIG51bWJlciEnKTsKICB9CiAgY2FsbGJhY2soKTsKfTsK</text>
+        <text encoding="base64">ICAgIC8qdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gMUw7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -188,14 +207,39 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8g5aS05YOP57uE5Lu2IOaWueS+v+S7peWQjueLrOeri++8jOWinuWKoOijgeWJquS5i+exu+eahOWKn+iDvQpjb25zdCBBdmF0YXJWaWV3ID0gKHsgYXZhdGFyIH06IHsgYXZhdGFyOiBzdHJpbmcgfSkgPT4gKAogIDw+CiAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmF2YXRhcl90aXRsZX0+5aS05YOPPC9kaXY+CiAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmF2YXRhcn0+CiAgICAgIDxpbWcgc3JjPXthdmF0YXJ9IGFsdD0iYXZhdGFyIiAvPgogICAgPC9kaXY+CiAgICA8VXBsb2FkIHNob3dVcGxvYWRMaXN0PXtmYWxzZX0+CiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuYnV0dG9uX3ZpZXd9PgogICAgICAgIDxCdXR0b24+CiAgICAgICAgICA8VXBsb2FkT3V0bGluZWQgLz4KICAgICAgICAgIOabtOaNouWktOWDjwogICAgICAgIDwvQnV0dG9uPgogICAgICA8L2Rpdj4KICAgIDwvVXBsb2FkPgogIDwvPgopOw==</text>
+      <register name="8" type="4">
+        <text>*
+     * 1:开启 0: 关闭
+     */
+    private Integer isOpen = 0;
+
+    /**
+     * @see com.yunzainfo.cloud.datapipe.enumsAndConst.JobConfigStatus
+     * 1:运行中 0: 停止中 -1:运行失败
+     */
+    private Integer status=0;
+    /**
+     * 三方jar udf、 连接器等jar
+     */
+    private String extJarPath;
+    /**
+     * 最后一次启动时间
+     */
+    private Date lastStartTime;
+    private String lastRunLogId;
+    /**
+     * 更新版本号 用于乐观锁
+     */
+    //private Integer version;
+    private Integer isDeleted=0;
+    @Lob
+    private String flinkSql;
+
+    pri</text>
       </register>
-      <register name="9" type="2">
-        <text>interface SelectItem {
-  label: string;
-  key: string;
-}</text>
+      <register name="9" type="4">
+        <text>try {
+            // getYAMLJS.parse(value);</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
