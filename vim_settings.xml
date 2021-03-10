@@ -56,10 +56,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/rc-tree/lib/Tree.d.ts" timestamp="1615284426891" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/TreeWithContextMenu/index.tsx" timestamp="1615339951610">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/react-contexify/dist/core/contextMenu.d.ts" timestamp="1615342087645" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/TreeWithContextMenu/index.tsx" timestamp="1615342642732">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
         <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/data.d.ts" timestamp="1615284069125">
@@ -141,10 +142,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>undefined</text>
+        <text>={item.handler}</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>={item.handler}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmbGlua1dlYlVybH0iKSAK</text>
