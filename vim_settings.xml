@@ -44,6 +44,11 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/base.tsx" timestamp="1615429710660">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/enumsAndConst/SystemConfigType.java" timestamp="1615426821689">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="40" column="32" />
@@ -55,14 +60,14 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveCatalog.class" timestamp="1615369376445" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615429342918">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/FlinkService.java" timestamp="1615428809119">
         <mark key="[" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/FlinkConfigService.java" timestamp="1615364586978">
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="19" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615369395054" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/TreeNode.java" timestamp="1615427952414">
@@ -71,14 +76,7 @@
         <mark key="." line="22" column="19" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1615428878793" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/CliClient.class" timestamp="1615366559548" />
       <file name="$MAVEN_REPOSITORY$/org/apache/bahir/flink-connector-kudu_2.11/1.1-SNAPSHOT/flink-connector-kudu_2.11-1.1-SNAPSHOT-sources.jar!/org/apache/flink/connectors/kudu/table/KuduCatalog.java" timestamp="1615369436793" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkConfigServiceImpl.java" timestamp="1615364584473">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="50" column="8" />
-        <mark key="^" line="63" column="20" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1615366575271">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
@@ -97,6 +95,11 @@
         <mark key="]" line="151" column="33" />
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="3" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615429803009">
+        <mark key="[" line="93" column="69" />
+        <mark key="]" line="93" column="69" />
+        <mark key="." line="93" column="69" />
       </file>
       <file name="/fragment.java" timestamp="1615428963397">
         <mark key="[" line="0" column="0" />
@@ -161,24 +164,30 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>getValue</text>
+        <text>treeData</text>
       </register>
       <register name="-" type="4">
-        <text>getValue</text>
+        <text>treeData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PFRyZWVOb2RlPiBkYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS55Lu75Yqh6YWN572uIikKICAgIEBQdXRNYXBwaW5nCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8UmV0dXJuRW50aXR5PE9iamVjdD4+IHVwZGF0ZShAUmVxdWVzdEJvZHkgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+PiB2YWx1ZSkgewogICAgICAgIHNlcnZpY2Uuc2V0VmFsdWUodmFsdWUpOwogICAgICAgIHJldHVybiBSZXR1cm4uYnVpbGQodHJ1ZSwgIuS/ruaUueaIkOWKnyIpOwogICAgfQ==</text>
+        <text encoding="base64">KCkgPT4gewogICAgcmV0dXJuIHF1ZXJ5Q29uZmlnKCJmbGlua2NvbmZpZyIpOwogIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBpby5zd2FnZ2VyLmFubm90YXRpb25zLkFwaTsKaW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1hcHBpbmc7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVzdENvbnRyb2xsZXI7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHNldENvbmZpZyhwYXJhbXM6YW55KSB7CiAgcmV0dXJuIHJlcXVlc3QoUGF0aC5kYXRhcGlwZSArIGAvc3lzdGVtY29uZmlnYCwgewogICAgbWV0aG9kOiAnUFVUJywKICAgIGRhdGE6IHsKICAgICAgLi4ucGFyYW1zLAogICAgfSwKICB9KTsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5L+u5pS55Lu75Yqh6YWN572uIikKICAgIEBQdXRNYXBwaW5nCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8UmV0dXJuRW50aXR5PE9iamVjdD4+IHVwZGF0ZShAUmVxdWVzdEJvZHkgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+PiB2YWx1ZSkgewogICAgICAgIHNlcnZpY2Uuc2V0VmFsdWUodmFsdWUpOwogICAgICAgIHJldHVybiBSZXR1cm4uYnVpbGQodHJ1ZSwgIuS/ruaUueaIkOWKnyIpOwogICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmltcG9ydCBpby5zd2FnZ2VyLmFubm90YXRpb25zLkFwaTsKaW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVxdWVzdE1hcHBpbmc7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVzdENvbnRyb2xsZXI7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>CatalogDatabase database;
                 try {
                      database = cl.getDatabase(databasename);
@@ -186,17 +195,11 @@
                     continue;
                 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBjYXRhbG9nIDogY2F0YWxvZ3MpIHsKICAgICAgICAgICAgLy90YWJsZUVudmlyb25tZW50LmdldAogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFVOS05PV04oInVua25vd24iKTsKICAgIHByaXZhdGUgU3RyaW5nIGtleTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlc2MgPSBkZXNjOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwo=</text>
+        <text encoding="base64">ICAgIFVOS05PV04oInVua25vd24iKTsKICAgIHByaXZhdGUgU3RyaW5nIGtleTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -207,10 +210,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRlc2M7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlc2MgPSBkZXNjOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlcmNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
