@@ -69,6 +69,11 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/FlinkService.java" timestamp="1615428809119">
         <mark key="[" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1615430648925">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615369395054" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/TreeNode.java" timestamp="1615427952414">
         <mark key="[" line="22" column="24" />
@@ -77,12 +82,6 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/JobConfigController.java" timestamp="1615428878793" />
       <file name="$MAVEN_REPOSITORY$/org/apache/bahir/flink-connector-kudu_2.11/1.1-SNAPSHOT/flink-connector-kudu_2.11-1.1-SNAPSHOT-sources.jar!/org/apache/flink/connectors/kudu/table/KuduCatalog.java" timestamp="1615369436793" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/gateway/local/LocalExecutor.class" timestamp="1615366575271">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="^" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/FlinkDevpController.java" timestamp="1615429104910">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="34" column="7" />
@@ -90,14 +89,14 @@
         <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-tidb-connector-1.12-0.0.3-SNAPSHOT.jar!/io/tidb/bigdata/flink/tidb/TiDBBaseCatalog.class" timestamp="1615369634626" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615428803230">
-        <mark key="[" line="151" column="33" />
-        <mark key="]" line="151" column="33" />
-        <mark key="." line="151" column="33" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615431333340">
+        <mark key="[" line="151" column="78" />
+        <mark key="]" line="151" column="78" />
+        <mark key="." line="151" column="78" />
         <mark key="^" line="151" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615429803009">
-        <mark key="[" line="93" column="69" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615431202342">
+        <mark key="[" line="78" column="20" />
         <mark key="]" line="93" column="69" />
         <mark key="." line="93" column="69" />
       </file>
@@ -164,10 +163,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>treeData</text>
+        <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>treeData</text>
+        <text>table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PFRyZWVOb2RlPiBkYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
