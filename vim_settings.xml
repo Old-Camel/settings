@@ -36,11 +36,8 @@
         <mark key="^" line="93" column="31" />
         <mark key="." line="93" column="30" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Config/Environment/components/base.tsx" timestamp="1615429710660">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/index.js" timestamp="1615457244278" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/app.tsx" timestamp="1615456897089" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/style.css" timestamp="1615453035498">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="27" column="0" />
@@ -52,12 +49,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615429342918">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="38" />
-      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/index.css" timestamp="1615452601242">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="0" column="0" />
@@ -65,12 +56,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/SystemConfig.java" timestamp="1615432531795" />
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/resources/application-local.properties" timestamp="1615432286011">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/TreeNode.java" timestamp="1615445314274">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/Ellipsis/demo/line.md" timestamp="1615456887214" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/TreeNode.java" timestamp="1615457740999">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
@@ -81,10 +68,8 @@
         <mark key="." line="52" column="8" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/TreeWithContextMenu/index.tsx" timestamp="1615447628736">
-        <mark key="[" line="144" column="30" />
-        <mark key="]" line="159" column="90" />
-        <mark key="." line="159" column="90" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/components/TreeWithContextMenu/index.tsx" timestamp="1615457282810">
+        <mark key="[" line="151" column="40" />
         <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/data.d.ts" timestamp="1615449339543">
@@ -105,10 +90,10 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/base/BaseEntity.java" timestamp="1615432529526" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/SqlMirror/index.tsx" timestamp="1615449584104" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615451685313">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615455914090">
+        <mark key="[" line="155" column="7" />
+        <mark key="]" line="149" column="40" />
+        <mark key="." line="149" column="40" />
         <mark key="^" line="58" column="6" />
       </file>
       <file name="$USER_HOME$/data/code/flowable-engine/flowable/src/main/java/com/yunzainfo/cloud/flowable/pojo/TreeNode.java" timestamp="1615443239985" />
@@ -176,11 +161,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Lm1haW4+LmFudC10YWJzLWxlZnQgPiAuYW50LXRhYnMtbmF2LCAuYW50LXRhYnMtcmlnaHQgPiAuYW50LXRhYnMtbmF2LCAuYW50LXRhYnMtbGVmdCA+IGRpdiA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1yaWdodCA+IGRpdiA+IC5hbnQtdGFicy1uYXYgewogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgbWluLXdpZHRoOiAzMHB4Owp9Ci5tYWluPi5hbnQtdGFicy1sZWZ0ID4gLmFudC10YWJzLW5hdiAuYW50LXRhYnMtdGFiLCAuYW50LXRhYnMtcmlnaHQgPiAuYW50LXRhYnMtbmF2IC5hbnQtdGFicy10YWIsIC5hbnQtdGFicy1sZWZ0ID4gZGl2ID4gLmFudC10YWJzLW5hdiAuYW50LXRhYnMtdGFiLCAuYW50LXRhYnMtcmlnaHQgPiBkaXYgPiAuYW50LXRhYnMtbmF2IC5hbnQtdGFicy10YWIgewogIHBhZGRpbmc6IDI1cHggMTBweCAyNXB4IDVweDsKICB3aWR0aDoyMHB4OwogIG1hcmdpbjogMCAwIDE2cHggMDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0=</text>
+      <register name="*" type="4">
+        <text encoding="base64">IHtpdGVtLnRpdGxlfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFuZXMuc2l6ZSA+IDAgPyBwYW5lc1swXS5rZXkgOiAnJw==</text>
+        <text encoding="base64">IHtpdGVtLnRpdGxlfQ==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
