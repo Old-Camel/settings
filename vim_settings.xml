@@ -30,11 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1615532364786">
-        <mark key="[" line="86" column="91" />
-        <mark key="]" line="94" column="50" />
-        <mark key="^" line="126" column="31" />
-        <mark key="." line="94" column="50" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/SqlClientTest.java" timestamp="1615541655520">
+        <mark key="[" line="90" column="70" />
+        <mark key="]" line="89" column="33" />
+        <mark key="^" line="131" column="31" />
+        <mark key="." line="89" column="33" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/index.tsx" timestamp="1615534927605">
         <mark key="[" line="27" column="0" />
@@ -90,24 +90,24 @@
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/Database.java" timestamp="1615531806777" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/DbModal.tsx" timestamp="1615538775625">
         <mark key="[" line="20" column="33" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="27" column="38" />
+        <mark key="]" line="65" column="33" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615536862952">
-        <mark key="[" line="170" column="41" />
-        <mark key="]" line="170" column="41" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615541691004">
+        <mark key="[" line="198" column="27" />
+        <mark key="]" line="199" column="20" />
         <mark key="^" line="157" column="59" />
-        <mark key="." line="170" column="41" />
+        <mark key="." line="199" column="20" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-table-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/hive/ddl/SqlAlterHiveDatabase.class" timestamp="1615541239004" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615538958553">
         <mark key="[" line="67" column="28" />
         <mark key="]" line="80" column="10" />
         <mark key="." line="80" column="10" />
         <mark key="^" line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1615518511171" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1615518797128" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-connector-hive-3.1.2_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615541507109" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/service.ts" timestamp="1615531307545" />
     </filemarks>
     <jumps>
@@ -169,10 +169,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>key</text>
+        <text>hive.alter.database.op</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>hive.alter.database.op</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
