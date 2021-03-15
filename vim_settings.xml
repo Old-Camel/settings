@@ -54,10 +54,10 @@
         <mark key="]" line="40" column="20" />
         <mark key="." line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table.tsx" timestamp="1615788031738">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table.tsx" timestamp="1615789998289">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
         <mark key="^" line="5" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615776836017" />
@@ -167,10 +167,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>'add'+key</text>
+        <text>catalog</text>
       </register>
       <register name="-" type="4">
-        <text>'add'+key</text>
+        <text>catalog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
