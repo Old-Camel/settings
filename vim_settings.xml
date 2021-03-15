@@ -41,9 +41,6 @@
         <mark key="]" line="199" column="28" />
         <mark key="." line="199" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1615531909478">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveCatalog.class" timestamp="1615777295142" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-connector-hive-3.1.2_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveCatalog.class" timestamp="1615777949806" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-table-blink_2.11-1.12.0.jar!/org/apache/flink/table/catalog/Catalog.class" timestamp="1615775479281" />
@@ -56,6 +53,12 @@
         <mark key="[" line="40" column="20" />
         <mark key="]" line="40" column="20" />
         <mark key="." line="40" column="20" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table.tsx" timestamp="1615788031738">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-hive_2.11/1.12.0/flink-connector-hive_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615776836017" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/TreeNode.java" timestamp="1615536839055">
@@ -76,7 +79,7 @@
         <mark key="^" line="67" column="32" />
         <mark key="." line="127" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1615774739642">
+      <file name="/Dummy.txt" timestamp="1615786988648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/data.d.ts" timestamp="1615536346787">
@@ -84,24 +87,24 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/DbModal.tsx" timestamp="1615774725888">
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/DbModal.tsx" timestamp="1615787768182">
         <mark key="[" line="71" column="21" />
         <mark key="]" line="30" column="16" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615778600789">
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615788968287">
         <mark key="[" line="206" column="63" />
         <mark key="]" line="205" column="43" />
         <mark key="^" line="159" column="59" />
         <mark key="." line="205" column="43" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-table-blink_2.11-1.12.0.jar!/org/apache/flink/sql/parser/hive/ddl/SqlAlterHiveDatabase.class" timestamp="1615541239004" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615779991310">
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="80" column="10" />
-        <mark key="." line="80" column="10" />
-        <mark key="^" line="32" column="12" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615789119213">
+        <mark key="[" line="161" column="37" />
+        <mark key="]" line="161" column="37" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="161" column="37" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-connector-hive-3.1.2_2.11-1.12.0.jar!/org/apache/flink/table/catalog/hive/HiveDatabaseUtil.class" timestamp="1615777138735" />
     </filemarks>
@@ -164,43 +167,37 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>client1</text>
+        <text>'add'+key</text>
       </register>
       <register name="-" type="4">
-        <text>client1</text>
+        <text>'add'+key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7cnVuOiBnZXREYkRhdGF9ID0gdXNlUmVxdWVzdChzZXREYiwgewogICAgbWFudWFsOiB0cnVlLAogICAgZm9ybWF0UmVzdWx0OiByZXMgPT4gcmVzLAogICAgb25TdWNjZXNzOiAocmVzdWx0KSA9PiB7CiAgICAgIG1lc3NhZ2Uuc3VjY2VzcyhyZXN1bHQubWVzc2FnZSk7CiAgICAgIHRvZ2dsZURiTW9kYWxWaXNpYmxlKCk7CiAgICAgIHJlZnJlc2goKTsKICAgIH0KICB9KQ==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHNldCwKICAgIHJlc2V0</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvZGIve2NhdGFsb2d9L3tuYW1lfSIpCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8UmV0dXJuRW50aXR5PE9iamVjdD4+IGdldENvbmZpZyhAUGF0aFZhcmlhYmxlIFN0cmluZyBjYXRhbG9nLEBQYXRoVmFyaWFibGUgU3RyaW5nIG5hbWUpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBtc2cgPSBzZXJ2aWNlLnNldERiKGRhdGFiYXNlKTsKICAgICAgICByZXR1cm4gUmV0dXJuLmJ1aWxkKHRydWUsIG1zZyk7CiAgICB9</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHNldERiRGF0YSh7CiAgICAgIGNhdGFsb2c6ICcnLAogICAgICBuYW1lOiAnJywKICAgICAgZGVzYzogJycKICAgIH0pOw==</text>
       </register>
       <register name="3" type="4">
-        <text>[
-          {
-            value: &quot;chapter&quot;,
-            label: &quot;盖章后生效&quot;,
-          },
-        ]</text>
+        <text encoding="base64">bW9kYWxQcm9wcz17ewogICAgICAgIGRlc3Ryb3lPbkNsb3NlOnRydWUsCiAgICAgICAgb25DYW5jZWw6KCk9PnsKICAgICAgICAgIHNldFZpc2libGUoKTsKICAgICAgICB9LAogICAgICB9fQ==</text>
       </register>
       <register name="4" type="4">
-        <text>hello: '',
-    count: 0,</text>
+        <text encoding="base64">PFByb0Zvcm1UZXh0CiAgICAgICAgcmVxdWlyZWQKICAgICAgICBkaXNhYmxlZD17ISFjdXJyZW50Lm5hbWV9CiAgICAgICAgd2lkdGg9Im1kIgogICAgICAgIG5hbWU9Im5hbWUiCiAgICAgICAgbGFiZWw9IuaVsOaNruW6k+WQjeensCIKICAgICAgICB0b29sdGlwPSLmnIDlpKfplb/luqYgMjAgIgogICAgICAgIHBsYWNlaG9sZGVyPSLor7fovpPlhaXmlbDmja7lupPlkI3np7AiCiAgICAgICAgcnVsZXM9e1t7cmVxdWlyZWQ6dHJ1ZSxtZXNzYWdlOiflkI3np7DkuLrlv4XloavpobknfSx7bWF4OjIwLG1lc3NhZ2U6J+i2heWHuuacgOWkp+mVv+W6pid9LCB7dmFsaWRhdG9yOnZhbGlkYXRlTm9DaGluZXNlfSBdfQogICAgICAvPgogICAgICA8UHJvRm9ybVRleHRBcmVhCiAgICAgICAgbmFtZT0iZGVzYyIKICAgICAgICBsYWJlbD0i6K+05piOIgogICAgICAgIHBsYWNlaG9sZGVyPSLor7fovpPlhaXor7TmmI4iCiAgICAgIC8+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Lm1haW4+LmFudC10YWJzLWxlZnQgPiAuYW50LXRhYnMtbmF2LCAuYW50LXRhYnMtcmlnaHQgPiAuYW50LXRhYnMtbmF2LCAuYW50LXRhYnMtbGVmdCA+IGRpdiA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1yaWdodCA+IGRpdiA+IC5hbnQtdGFicy1uYXYgewogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgbWluLXdpZHRoOiAzMHB4Owp9Ci5tYWluPi5hbnQtdGFicy1sZWZ0ID4gLmFudC10YWJzLW5hdiAuYW50LXRhYnMtdGFiLCAuYW50LXRhYnMtcmlnaHQgPiAuYW50LXRhYnMtbmF2IC5hbnQtdGFicy10YWIsIC5hbnQtdGFicy1sZWZ0ID4gZGl2ID4gLmFudC10YWJzLW5hdiAuYW50LXRhYnMtdGFiLCAuYW50LXRhYnMtcmlnaHQgPiBkaXYgPiAuYW50LXRhYnMtbmF2IC5hbnQtdGFicy10YWIgewogIHBhZGRpbmc6IDI1cHggMTBweCAyNXB4IDVweDsKICB3aWR0aDoyMHB4OwogIG1hcmdpbjogMCAwIDE2cHggMDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvbnN0IHZhbGlkYXRlTm9DaGluZXNlID0gKHJ1bGU6YW55LCB2YWx1ZTphbnksIGNhbGxiYWNrOmFueSkgPT4gewogICAgbGV0IHJlZyA9IC8oXl8oW2EtekEtWjAtOV1fPykqJCl8KF5bYS16QS1aXShfP1thLXpBLVowLTldKSpfPyQpLzsKICAgIGxldCByZWdFbXB0eSA9IC9eXHMqJC9nOwogICAgaWYgKHZhbHVlICYmICFyZWcudGVzdCh2YWx1ZSkpIHsKICAgICAgY2FsbGJhY2soJ+aPkOekuu+8muOAkOmmluS9jeWPr+S7peaYr+Wtl+avjeS7peWPiuS4i+WIkue6v+OAgummluS9jeS5i+WQjuWPr+S7peaYr+Wtl+avje+8jOaVsOWtl+S7peWPiuS4i+WIkue6v+OAguS4i+WIkue6v+WQjuS4jeiDveaOpeS4i+WIkue6v+OAkScpOwogICAgfSBlbHNlIGlmKHZhbHVlICYmIHJlZ0VtcHR5LnRlc3QodmFsdWUpKSB7CiAgICAgIGNhbGxiYWNrKCfkuI3og73kuLrnqbonKTsKICAgIH0gZWxzZSB7CiAgICAgIGNhbGxiYWNrKCk7CiAgICB9CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmFudC10YWJzLXRhYiAgICB7CiAgCn0K</text>
+        <text encoding="base64">ICBjdXJyZW50OiBQYXJ0aWFsPERiPjsKICBvblN1Ym1pdDogKHZhbHVlczogRGIpID0+IHZvaWQ7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IC5hbnQtdGFicz4uZGl2Pi5hbnQtdGFicy1uYXY+LmFudC10YWJzLW5hdi13cmFwPi5hbnQtdGFicy1uYXYtbGlzdD4uYW50LXRhYnMtdGFiewogICB3aWR0aDoyMHB4OwogICBtYXJnaW46IDAgMCAxNnB4IDA7CiAgIHRleHQtYWxpZ246IGNlbnRlcjsKIH0=</text>
+      <register name="7" type="4">
+        <text encoding="base64">dmlzaWJsZTogYm9vbGVhbjsKICBzZXRWaXNpYmxlOiAodmlzaWJsZT86IGJvb2xlYW4pID0+IHZvaWQ7</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -211,10 +208,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC5hbnQtdGFicz4uZGl2Pi5hbnQtdGFicy1uYXY+LmFudC10YWJzLW5hdi13cmFwPi5hbnQtdGFicy1uYXYtbGlzdD4uYW50LXRhYnMtdGFiewogICB3aWR0aDoyMHB4OwogICBtYXJnaW46IDAgMCAxNnB4IDA7CiAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiB9CiAgYW50LXRhYnM+LmRpdiA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1yaWdodCA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1sZWZ0ID4gZGl2ID4gLmFudC10YWJzLW5hdiwgLmFudC10YWJzLXJpZ2h0ID4gZGl2ID4gLmFudC10YWJzLW5hdiB7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgbWluLXdpZHRoOiAzMHB4OwogIH0=</text>
+        <text encoding="base64">aW1wb3J0IFByb0Zvcm0sIHsKICBNb2RhbEZvcm0sIFByb0Zvcm1TZWxlY3QsCiAgUHJvRm9ybVRleHQsIFByb0Zvcm1UZXh0QXJlYQp9IGZyb20gJ0BhbnQtZGVzaWduL3Byby1mb3JtJzsKaW1wb3J0IHtGb3JtSW5zdGFuY2V9IGZyb20gImFudGQvbGliL2Zvcm0vRm9ybSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IC5hbnQtdGFicz4uZGl2Pi5hbnQtdGFicy1uYXY+LmFudC10YWJzLW5hdi13cmFwPi5hbnQtdGFicy1uYXYtbGlzdD4uYW50LXRhYnMtdGFiewogICB3aWR0aDoyMHB4OwogICBtYXJnaW46IDAgMCAxNnB4IDA7CiAgIHRleHQtYWxpZ246IGNlbnRlcjsKCiB9CiAgYW50LXRhYnM+LmRpdiA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1yaWdodCA+IC5hbnQtdGFicy1uYXYsIC5hbnQtdGFicy1sZWZ0ID4gZGl2ID4gLmFudC10YWJzLW5hdiwgLmFudC10YWJzLXJpZ2h0ID4gZGl2ID4gLmFudC10YWJzLW5hdiB7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgbWluLXdpZHRoOiAzMHB4OwogIH0=</text>
+        <text encoding="base64">ICBjb25zdCB7cnVuOiBnZXREYkRhdGF9ID0gdXNlUmVxdWVzdChzZXREYiwgewogICAgbWFudWFsOiB0cnVlLAogICAgZm9ybWF0UmVzdWx0OiByZXMgPT4gcmVzLAogICAgb25TdWNjZXNzOiAocmVzdWx0KSA9PiB7CiAgICAgIG1lc3NhZ2Uuc3VjY2VzcyhyZXN1bHQubWVzc2FnZSk7CiAgICAgIHRvZ2dsZURiTW9kYWxWaXNpYmxlKCk7CiAgICAgIHJlZnJlc2goKTsKICAgIH0KICB9KQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
