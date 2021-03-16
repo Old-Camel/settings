@@ -37,9 +37,9 @@
         <mark key="." line="154" column="66" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/table.tsx" timestamp="1615858982116">
-        <mark key="[" line="71" column="50" />
-        <mark key="]" line="71" column="50" />
-        <mark key="." line="71" column="50" />
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="72" column="50" />
+        <mark key="." line="72" column="50" />
         <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/SqlUtil.java" timestamp="1615860253138">
@@ -64,26 +64,14 @@
         <mark key="." line="43" column="5" />
         <mark key="^" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/data.d.ts" timestamp="1615801315747">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/DbModal.tsx" timestamp="1615798299537">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="26" column="38" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1615798101565" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/react-codemirror2/index.d.ts" timestamp="1615804249003" />
       <file name="$USER_HOME$/data/code/flink/flink-table/flink-sql-client/src/main/java/org/apache/flink/table/client/cli/SqlCommandParser.java" timestamp="1615865290087">
         <mark key="[" line="238" column="4" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sql/sqledit.tsx" timestamp="1615859182405">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="54" column="18" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sql/sqledit.tsx" timestamp="1615878697444">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
         <mark key="^" line="77" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/sql-formatter/README.md" timestamp="1615858963140" />
@@ -93,7 +81,12 @@
         <mark key="." line="52" column="9" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/SqlCommandParser.class" timestamp="1615865207015" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Select/index.d.ts" timestamp="1615799345018" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615878606999">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="5" column="38" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/CheckSqlResult.java" timestamp="1615873756287">
         <mark key="[" line="13" column="3" />
       </file>
@@ -102,6 +95,9 @@
         <mark key="]" line="260" column="16" />
         <mark key="^" line="171" column="59" />
         <mark key="." line="260" column="16" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615878684569">
+        <mark key="[" line="204" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -163,11 +159,10 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>} else {
-                }</text>
+        <text>setDb</text>
       </register>
       <register name="-" type="4">
-        <text>this.executor.getSqlParser(this.sessionId)</text>
+        <text>setDb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
