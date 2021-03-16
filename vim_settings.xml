@@ -42,6 +42,11 @@
         <mark key="." line="71" column="50" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/util/SqlUtil.java" timestamp="1615860253138">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/TableSql.java" timestamp="1615794486657">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="33" column="0" />
@@ -52,11 +57,6 @@
         <mark key="]" line="189" column="0" />
         <mark key="^" line="189" column="0" />
         <mark key="." line="189" column="0" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sqledit.tsx" timestamp="1615791146398">
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="7" />
-        <mark key="." line="77" column="7" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/data.d.ts" timestamp="1615801315747">
         <mark key="[" line="14" column="9" />
@@ -81,6 +81,11 @@
         <mark key="[" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/sql-formatter/README.md" timestamp="1615858963140" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/test/java/map/YamlTest.java" timestamp="1615860344225">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+      </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Select/index.d.ts" timestamp="1615799345018" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615797931320">
         <mark key="[" line="9" column="38" />
@@ -101,7 +106,6 @@
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615796251812">
         <mark key="[" line="204" column="20" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/index.tsx" timestamp="1615790896694" />
       <file name="/fragment.java" timestamp="1615794316246">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,37 +169,37 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>3024-day</text>
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>3024-day</text>
+        <text>this.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PEFmZml4IHRhcmdldD17KCkgPT4gY29udGFpbmVyfT4KICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPkZpeGVkIGF0IHRoZSB0b3Agb2YgY29udGFpbmVyPC9CdXR0b24+CiAgICAgIDwvQWZmaXg+PC9Db2RlTWlycm9yPg==</text>
+        <text encoding="base64">YW1sIHlhbWwgPSBuZXcgWWFtbCgpOwoKICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoIi91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvY29uZi9zcWwtY2xpZW50LWRlZmF1bHRzLnlhbWwiKSk7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBvYmogPSB5YW1sLmxvYWQoaW5wdXRTdHJlYW0pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigxKTsKICAgICAgICBZYW1sIHlhbWwxID0gbmV3IFlhbWwoKTsKICAgICAgICBTdHJpbmdXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgIHlhbWwxLmR1bXAob2JqLCB3cml0ZXIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih3cml0ZXIudG9TdHJpbmcoKSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">PEFmZml4IHRhcmdldD17KCkgPT4gY29udGFpbmVyfT4KICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPkZpeGVkIGF0IHRoZSB0b3Agb2YgY29udGFpbmVyPC9CdXR0b24+CiAgICAgIDwvQWZmaXg+PC9Db2RlTWlycm9yPg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGI9ICBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKCk7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coYik7CmxldCBhPSAgICAgICAgICAgICAgICBmb3JtLmN1cnJlbnQ/LmdldEZpZWxkc0Vycm9yKCk7CmNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgLy8gZm9ybS5jdXJyZW50LgogICAgICAgICAgICAgICAvLyBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKChlcnIsdmFsdWUpPT57CiAgICAgICAgICAgICAgIC8vICAgaWYoZXJyKXJldHVybjsKICAgICAgICAgICAgICAgLy8gICBjb25zb2xlLmxvZyh2YWx1ZSk7CiAgICAgICAgICAgICAgIC8vIH0pOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">b25GaW5pc2g9e2FzeW5jIChmb3JtKSA9PiB7CiAgICAgICAgICAvLyBvblN1Ym1pdChmb3JtIGFzIERiKQogICAgICAgIH19</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bGV0IGMgPSB0eXBlcy5maWx0ZXIoeCA9PiB4LnRpdGxlPT1jYXRhbG9nKT9bMF0uY2ggLm1hcCh5ID0+IHsKICAgICAgcmV0dXJuIHt2YWx1ZTogeS50aXRsZSwgbGFiZWw6IHkudGl0bGV9CiAgICB9KTsKICAgIHJldHVybiBjOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
