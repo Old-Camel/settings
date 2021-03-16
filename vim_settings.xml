@@ -36,10 +36,11 @@
         <mark key="^" line="87" column="77" />
         <mark key="." line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/table.tsx" timestamp="1615802817668">
-        <mark key="[" line="90" column="31" />
-        <mark key="]" line="90" column="31" />
-        <mark key="." line="90" column="31" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/table.tsx" timestamp="1615858982116">
+        <mark key="[" line="71" column="50" />
+        <mark key="]" line="71" column="50" />
+        <mark key="." line="71" column="50" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/TableSql.java" timestamp="1615794486657">
         <mark key="[" line="27" column="21" />
@@ -70,16 +71,16 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Sql/components/OperationModal/index.tsx" timestamp="1615798101565" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/react-codemirror2/index.d.ts" timestamp="1615804249003" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Kafka/Connectors/components/JsonMirror/JsonMirror.tsx" timestamp="1615790482392" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sql/sqledit.tsx" timestamp="1615803896011">
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
+      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sql/sqledit.tsx" timestamp="1615859182405">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
         <mark key="^" line="77" column="8" />
       </file>
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/table/sql/sql.css" timestamp="1615792651754">
         <mark key="[" line="28" column="11" />
       </file>
+      <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/sql-formatter/README.md" timestamp="1615858963140" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Select/index.d.ts" timestamp="1615799345018" />
       <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615797931320">
         <mark key="[" line="9" column="38" />
@@ -164,34 +165,34 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>rules={[{required: true, message: 'sql不能为空'}</text>
+        <text>3024-day</text>
       </register>
       <register name="-" type="4">
-        <text>rules={[{required: true, message: 'sql不能为空'}</text>
+        <text>3024-day</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGI9ICBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKCk7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coYik7CmxldCBhPSAgICAgICAgICAgICAgICBmb3JtLmN1cnJlbnQ/LmdldEZpZWxkc0Vycm9yKCk7CmNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgLy8gZm9ybS5jdXJyZW50LgogICAgICAgICAgICAgICAvLyBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKChlcnIsdmFsdWUpPT57CiAgICAgICAgICAgICAgIC8vICAgaWYoZXJyKXJldHVybjsKICAgICAgICAgICAgICAgLy8gICBjb25zb2xlLmxvZyh2YWx1ZSk7CiAgICAgICAgICAgICAgIC8vIH0pOw==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PEFmZml4IHRhcmdldD17KCkgPT4gY29udGFpbmVyfT4KICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPkZpeGVkIGF0IHRoZSB0b3Agb2YgY29udGFpbmVyPC9CdXR0b24+CiAgICAgIDwvQWZmaXg+PC9Db2RlTWlycm9yPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">b25GaW5pc2g9e2FzeW5jIChmb3JtKSA9PiB7CiAgICAgICAgICAvLyBvblN1Ym1pdChmb3JtIGFzIERiKQogICAgICAgIH19</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGI9ICBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKCk7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coYik7CmxldCBhPSAgICAgICAgICAgICAgICBmb3JtLmN1cnJlbnQ/LmdldEZpZWxkc0Vycm9yKCk7CmNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgLy8gZm9ybS5jdXJyZW50LgogICAgICAgICAgICAgICAvLyBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKChlcnIsdmFsdWUpPT57CiAgICAgICAgICAgICAgIC8vICAgaWYoZXJyKXJldHVybjsKICAgICAgICAgICAgICAgLy8gICBjb25zb2xlLmxvZyh2YWx1ZSk7CiAgICAgICAgICAgICAgIC8vIH0pOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bGV0IGMgPSB0eXBlcy5maWx0ZXIoeCA9PiB4LnRpdGxlPT1jYXRhbG9nKT9bMF0uY2ggLm1hcCh5ID0+IHsKICAgICAgcmV0dXJuIHt2YWx1ZTogeS50aXRsZSwgbGFiZWw6IHkudGl0bGV9CiAgICB9KTsKICAgIHJldHVybiBjOw==</text>
+        <text encoding="base64">b25GaW5pc2g9e2FzeW5jIChmb3JtKSA9PiB7CiAgICAgICAgICAvLyBvblN1Ym1pdChmb3JtIGFzIERiKQogICAgICAgIH19</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">bGV0IGMgPSB0eXBlcy5maWx0ZXIoeCA9PiB4LnRpdGxlPT1jYXRhbG9nKT9bMF0uY2ggLm1hcCh5ID0+IHsKICAgICAgcmV0dXJuIHt2YWx1ZTogeS50aXRsZSwgbGFiZWw6IHkudGl0bGV9CiAgICB9KTsKICAgIHJldHVybiBjOw==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -208,7 +209,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogMTrlvIDlkK8gMDog5YWz6ZetCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBpc09wZW4gPSAwOwoKICAgIC8qKgogICAgICogQHNlZSBjb20ueXVuemFpbmZvLmNsb3VkLmRhdGFwaXBlLmVudW1zQW5kQ29uc3QuSm9iQ29uZmlnU3RhdHVzCiAgICAgKiAxOui/kOihjOS4rSAwOiDlgZzmraLkuK0gLTE66L+Q6KGM5aSx6LSlCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBzdGF0dXM9MDsKICAgIC8qKgogICAgICog5LiJ5pa5amFyIHVkZuOAgSDov57mjqXlmajnrYlqYXIKICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmcgZXh0SmFyUGF0aDsKICAgIC8qKgogICAgICog5pyA5ZCO5LiA5qyh5ZCv5Yqo5pe26Ze0CiAgICAgKi8KICAgIHByaXZhdGUgRGF0ZSBsYXN0U3RhcnRUaW1lOwogICAgcHJpdmF0ZSBTdHJpbmcgbGFzdFJ1bkxvZ0lkOwogICAgLyoqCiAgICAgKiDmm7TmlrDniYjmnKzlj7cg55So5LqO5LmQ6KeC6ZSBCiAgICAgKi8KICAgIC8vcHJpdmF0ZSBJbnRlZ2VyIHZlcnNpb247CiAgICBwcml2YXRlIEludGVnZXIgaXNEZWxldGVkPTA7CiAgICBATG9iCiAgICBwcml2YXRlIFN0cmluZyBmbGlua1NxbDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
