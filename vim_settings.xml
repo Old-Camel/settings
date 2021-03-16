@@ -47,14 +47,19 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/CliClient.class" timestamp="1615865088950" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/FlinkService.java" timestamp="1615873728191">
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/CliClient.class" timestamp="1615876222768" />
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/entity/TableSql.java" timestamp="1615863991215">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/FlinkDevpController.java" timestamp="1615863916779">
-        <mark key="[" line="51" column="5" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/web/FlinkDevpController.java" timestamp="1615876412083">
+        <mark key="[" line="55" column="10" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="43" column="5" />
         <mark key="^" line="36" column="7" />
@@ -89,20 +94,14 @@
       </file>
       <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/jar/flink-sql-client-yz_2.11-1.13-SNAPSHOT.jar!/org/apache/flink/table/client/cli/SqlCommandParser.class" timestamp="1615865207015" />
       <file name="$USER_HOME$/data/code/data-pipe-web/node_modules/@ant-design/pro-form/lib/components/Select/index.d.ts" timestamp="1615799345018" />
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/service.ts" timestamp="1615797931320">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="^" line="5" column="38" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/pojo/CheckSqlResult.java" timestamp="1615873756287">
+        <mark key="[" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615796089264">
-        <mark key="[" line="162" column="23" />
-        <mark key="]" line="162" column="19" />
-        <mark key="^" line="159" column="59" />
-        <mark key="." line="162" column="19" />
-      </file>
-      <file name="$USER_HOME$/data/code/data-pipe-web/src/pages/Task/Devp/components/schema/schema.tsx" timestamp="1615796251812">
-        <mark key="[" line="204" column="20" />
+      <file name="$USER_HOME$/data/code/data-pipe/data-pipe-app/src/main/java/com/yunzainfo/cloud/datapipe/service/impl/FlinkServiceImpl.java" timestamp="1615876484042">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="260" column="16" />
+        <mark key="^" line="171" column="59" />
+        <mark key="." line="260" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -164,37 +163,39 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>flink-sql-client-yz_2.11-1.13-SNAPSHOT</text>
+        <text>} else {
+                }</text>
       </register>
       <register name="-" type="4">
-        <text>flink-sql-client-yz_2.11-1.13-SNAPSHOT</text>
+        <text>this.executor.getSqlParser(this.sessionId)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlY29uZE1lbnU6IFsKICAgICAgewogICAgICBuYW1lOiAndGVzdCcsIGhhbmRsZXI6ICgpID0+IHsKICAgICAgfQogICAgfSwKICAgICAgewogICAgICBuYW1lOiAndGVzdDInLCBoYW5kbGVyOiAoKSA9PiB7CiAgICAgIH0KICAgIH0sCiAgICAgIHsKICAgICAgbmFtZTogJ3Rlc3QzJywgaGFuZGxlcjogKCkgPT4gewogICAgICB9CiAgICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">YW1sIHlhbWwgPSBuZXcgWWFtbCgpOwoKICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoIi91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvY29uZi9zcWwtY2xpZW50LWRlZmF1bHRzLnlhbWwiKSk7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBvYmogPSB5YW1sLmxvYWQoaW5wdXRTdHJlYW0pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigxKTsKICAgICAgICBZYW1sIHlhbWwxID0gbmV3IFlhbWwoKTsKICAgICAgICBTdHJpbmdXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgIHlhbWwxLmR1bXAob2JqLCB3cml0ZXIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih3cml0ZXIudG9TdHJpbmcoKSk7</text>
+        <text>} else {
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PEFmZml4IHRhcmdldD17KCkgPT4gY29udGFpbmVyfT4KICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPkZpeGVkIGF0IHRoZSB0b3Agb2YgY29udGFpbmVyPC9CdXR0b24+CiAgICAgIDwvQWZmaXg+PC9Db2RlTWlycm9yPg==</text>
+        <text encoding="base64">IH1lbHNlewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBDaGVja1NxbFJlc3VsdChmYWxzZSxzKyIg5qOA5p+l6ZSZ6K+v77yM5LiN6K+G5Yir55qEc3FsIik7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGI9ICBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKCk7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coYik7CmxldCBhPSAgICAgICAgICAgICAgICBmb3JtLmN1cnJlbnQ/LmdldEZpZWxkc0Vycm9yKCk7CmNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgLy8gZm9ybS5jdXJyZW50LgogICAgICAgICAgICAgICAvLyBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKChlcnIsdmFsdWUpPT57CiAgICAgICAgICAgICAgIC8vICAgaWYoZXJyKXJldHVybjsKICAgICAgICAgICAgICAgLy8gICBjb25zb2xlLmxvZyh2YWx1ZSk7CiAgICAgICAgICAgICAgIC8vIH0pOw==</text>
+      <register name="3" type="4">
+        <text encoding="base64">YW1sIHlhbWwgPSBuZXcgWWFtbCgpOwoKICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoIi91c3IvbG9jYWwvQ2VsbGFyL2FwYWNoZS1mbGluay8xLjEyLjAvY29uZi9zcWwtY2xpZW50LWRlZmF1bHRzLnlhbWwiKSk7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBvYmogPSB5YW1sLmxvYWQoaW5wdXRTdHJlYW0pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigxKTsKICAgICAgICBZYW1sIHlhbWwxID0gbmV3IFlhbWwoKTsKICAgICAgICBTdHJpbmdXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgIHlhbWwxLmR1bXAob2JqLCB3cml0ZXIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih3cml0ZXIudG9TdHJpbmcoKSk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">b25GaW5pc2g9e2FzeW5jIChmb3JtKSA9PiB7CiAgICAgICAgICAvLyBvblN1Ym1pdChmb3JtIGFzIERiKQogICAgICAgIH19</text>
+        <text encoding="base64">PEFmZml4IHRhcmdldD17KCkgPT4gY29udGFpbmVyfT4KICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPkZpeGVkIGF0IHRoZSB0b3Agb2YgY29udGFpbmVyPC9CdXR0b24+CiAgICAgIDwvQWZmaXg+PC9Db2RlTWlycm9yPg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bGV0IGMgPSB0eXBlcy5maWx0ZXIoeCA9PiB4LnRpdGxlPT1jYXRhbG9nKT9bMF0uY2ggLm1hcCh5ID0+IHsKICAgICAgcmV0dXJuIHt2YWx1ZTogeS50aXRsZSwgbGFiZWw6IHkudGl0bGV9CiAgICB9KTsKICAgIHJldHVybiBjOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgbGV0IGI9ICBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKCk7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coYik7CmxldCBhPSAgICAgICAgICAgICAgICBmb3JtLmN1cnJlbnQ/LmdldEZpZWxkc0Vycm9yKCk7CmNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgLy8gZm9ybS5jdXJyZW50LgogICAgICAgICAgICAgICAvLyBmb3JtLmN1cnJlbnQ/LnZhbGlkYXRlRmllbGRzKChlcnIsdmFsdWUpPT57CiAgICAgICAgICAgICAgIC8vICAgaWYoZXJyKXJldHVybjsKICAgICAgICAgICAgICAgLy8gICBjb25zb2xlLmxvZyh2YWx1ZSk7CiAgICAgICAgICAgICAgIC8vIH0pOw==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7</text>
+        <text encoding="base64">b25GaW5pc2g9e2FzeW5jIChmb3JtKSA9PiB7CiAgICAgICAgICAvLyBvblN1Ym1pdChmb3JtIGFzIERiKQogICAgICAgIH19</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bGV0IGMgPSB0eXBlcy5maWx0ZXIoeCA9PiB4LnRpdGxlPT1jYXRhbG9nKT9bMF0uY2ggLm1hcCh5ID0+IHsKICAgICAgcmV0dXJuIHt2YWx1ZTogeS50aXRsZSwgbGFiZWw6IHkudGl0bGV9CiAgICB9KTsKICAgIHJldHVybiBjOw==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -204,11 +205,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDcmVhdGVkQnkKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAiY3JlYXRlZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAsCiAgICAgICAgICAgIHVwZGF0YWJsZSA9IGZhbHNlCiAgICApCiAgICBwcml2YXRlIFN0cmluZyBjcmVhdGVkQnk7CiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImNyZWF0ZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgdXBkYXRhYmxlID0gZmFsc2UKICAgICkKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgIEBDb2x1bW4oCiAgICAgICAgICAgIG5hbWUgPSAibGFzdF9tb2RpZmllZF9ieSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZSwKICAgICAgICAgICAgbGVuZ3RoID0gNTAKICAgICkKCiAgICBwcml2YXRlIFN0cmluZyBsYXN0TW9kaWZpZWRCeTsKCiAgICBAQ29sdW1uKAogICAgICAgICAgICBuYW1lID0gImxhc3RfbW9kaWZpZWRfZGF0ZSIsCiAgICAgICAgICAgIG51bGxhYmxlID0gdHJ1ZQogICAgKQoKICAgIHByaXZhdGUgRGF0ZSBsYXN0TW9kaWZpZWREYXRlOwoK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
